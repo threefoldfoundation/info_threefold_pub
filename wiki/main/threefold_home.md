@@ -1,5 +1,5 @@
 <!-- ![](img/decentralization.jpg) -->
-![](img/home_threefold_new.jpg ':size=600')
+![](img/home_threefold_new_.png ':size=700')
 
 # Hey there 👋
 

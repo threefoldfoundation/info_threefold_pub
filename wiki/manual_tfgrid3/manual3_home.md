@@ -1,4 +1,4 @@
-![](img/freedom.jpg)
+![](img/freedom.png)
 
 # ThreeFold Chain
 

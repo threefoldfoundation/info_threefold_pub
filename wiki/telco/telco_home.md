@@ -1,4 +1,4 @@
-![](img/freedom.jpg)
+![](img/freedom.png)
 
 # Internet 4.0 = carbon double win, internet system.
 

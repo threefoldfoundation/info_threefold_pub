@@ -11,7 +11,7 @@
   - [Architecture](cloud_architecture)
   - [Web2 vs Web3 vs P2P](cloud_compare)
   - carbon_double_win
-- [Grid 2.0 Manual](tfgrid2)
+- [Grid 2.0 Manual](manual2_home)
 - [Grid 3.0 Manual](manual3_home)
 - [Grid Pricing](pricing)
 - [Cloud Compare](cloud_compare)

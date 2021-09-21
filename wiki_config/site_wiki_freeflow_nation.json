@@ -1,0 +1,10 @@
+{
+	"name": "freeflownation",
+	"git_url": "https://github.com/freeflowuniverse/info_freeflow_nation/tree/development/wiki",
+	"pull": true,
+	"reset": false,
+	"cat": "wiki",
+	"domains": [
+		"freeflownation.threefold.io"
+	]
+}

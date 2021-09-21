@@ -6,6 +6,3 @@ in this section we describe the dependencies needed while working with [Threefol
 - [Redis](grid3_redis)
 - [TFChain Init](grid3_tfchain_init)
 - [Terraform](grid3_terraform)
-
-
-  

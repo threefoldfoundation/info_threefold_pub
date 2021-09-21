@@ -1,0 +1,17 @@
+sequenceDiagram
+participant user
+participant db
+participant node
+
+user->db: Create a reservation contract
+db->user: Gets contract ID
+user-->node: contract id + deployment
+Note right of node: Dotted lines are messages sent over RMB
+node->db: Get and validate contract and read deployment data
+node-->user: Response with Accepted or Error
+opt if accepted
+    node->node: Apply Deployment
+    user-->node: Poll on Deployment status and information
+    node->db: consumption reports ever X amount of minutes
+end
+db->user: Billing based on node reports

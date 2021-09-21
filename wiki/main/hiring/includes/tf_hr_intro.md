@@ -1,0 +1,1 @@
+The ThreeFold is a global community with an aim to create an upgraded Internet based on strong values and sustainability.

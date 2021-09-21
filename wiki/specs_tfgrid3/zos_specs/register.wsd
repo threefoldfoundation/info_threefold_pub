@@ -1,0 +1,28 @@
+@startuml
+participant Node as node
+participant Substrate as sub
+participant "Activation Service" as act
+
+node -> sub: check account
+alt account does not exist
+node -> act: activate account
+end
+
+alt twin does not exist
+node -> sub: create twin with ygg ip
+else twin ip mismatch
+node -> sub: update twin
+end
+
+alt node does not exist
+node -> sub: create node with correct \ncapacity and twin id
+else node info different
+node -> sub: update node
+end
+
+node -> node: start msgbus with correct\ntwin id
+...
+loop [every 8 hours]
+node -> sub: send uptime updated
+end
+@enduml

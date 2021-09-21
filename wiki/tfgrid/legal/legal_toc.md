@@ -1,0 +1,7 @@
+- [Definitions](legal:definitions_legal)
+- [Disclaimer](legal:disclaimer)
+- [Privacy Policy](legal:privacypolicy)
+- [T&C Websites](legal:terms_conditions_websites)
+- [T&C Farmers](legal:terms_conditions_farmer)
+- [T&C Grid User](legal:terms_conditions_griduser)
+- [ThreeFold Companies](threefold:threefold_companies)

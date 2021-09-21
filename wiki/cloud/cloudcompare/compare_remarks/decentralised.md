@@ -1,4 +1,4 @@
 ![](img/earth.png)
 # Decentralised
 
-see [Decentralization Topic](threefold:decentralization)
+see [Decentralization Topic](decentralization)

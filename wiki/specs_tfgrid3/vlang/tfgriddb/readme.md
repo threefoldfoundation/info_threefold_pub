@@ -1,1 +1,0 @@
-see info_tfchain/tfgrid_explorer/explorer_api.md

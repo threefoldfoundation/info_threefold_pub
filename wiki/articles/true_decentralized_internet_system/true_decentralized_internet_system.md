@@ -49,4 +49,4 @@ We are not a rebellious group. We are a growing group of people who don’t want
 - [ThreeFold_Grid Whitepaper](tfgrid:whitepaper_update) 
 - [ThreeFold Technology Whitepaper](autonomous_layer_whitepaper)
   - [Capacity Layer Whitepaper](capacity_layer)
-  - [Autonomous Layer Whitepaper](threefold:autonomous_layer)
+  - [Autonomous Layer Whitepaper](autonomous_layer)

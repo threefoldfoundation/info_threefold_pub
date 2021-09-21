@@ -56,7 +56,7 @@ see [Kutana](twin:kutana)
 
 ![](img/publishing_system.png)
 
-see [Publishing System](threefold:publisher)
+see [Publishing System](publisher)
 
 ### Sovereign Chat System
 

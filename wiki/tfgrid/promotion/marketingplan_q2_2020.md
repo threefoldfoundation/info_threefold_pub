@@ -12,7 +12,7 @@ The communication that we branded the current threefold.io website is backed by 
 
 - Our https://www.consciousinternet.org/ is also a major tool into this effort, we together with our partners create a force for good.
 - Beautiful projects are coming life and they can help us to get to awareness (reach)
-- Through our TGP = [Token Grant Program](threefold:grantoverview) we look for funding for the projects which will organically grow the grid.
+- Through our TGP = [Token Grant Program](grantoverview) we look for funding for the projects which will organically grow the grid.
 
 ### channels
 

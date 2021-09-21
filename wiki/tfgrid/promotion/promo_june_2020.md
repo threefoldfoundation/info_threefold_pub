@@ -2,7 +2,7 @@
 
 ## Purpose
 
-- TFT sales for funding [Token Grant Program = TGP](threefold:grantoverview)
+- TFT sales for funding [Token Grant Program = TGP](grantoverview)
 - Farming: 10.000 new nodes on the ThreeFold_Grid.
 
 > It's time to find funding for the ThreeFold project <BR>

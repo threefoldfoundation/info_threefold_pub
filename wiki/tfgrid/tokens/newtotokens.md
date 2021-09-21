@@ -24,7 +24,7 @@ A [quick exchange](tft_liquid_quick_exchange) provides an easy and safe way to b
 
 #### Through Farmers
 
-You can also buy TFT from Farmers, for example from [Mazraa](threefold:mazraa), the ones that produce TFT by connecting capacity to the ThreeFold Grid. All you have to do is to get in touch with them and issue a request to buy TFT.
+You can also buy TFT from Farmers, for example from [Mazraa](mazraa), the ones that produce TFT by connecting capacity to the ThreeFold Grid. All you have to do is to get in touch with them and issue a request to buy TFT.
 
 #### Public Exchanges
 

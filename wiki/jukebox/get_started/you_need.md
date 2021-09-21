@@ -11,7 +11,7 @@
 
 ![tf_connect](img/tf_connect.png)
 
-> Here you can find more info and how to sign up for the [**TF Connect app**](threefold:threefold_connect)
+> Here you can find more info and how to sign up for the [**TF Connect app**](threefold_connect)
 
 
 ### Blockchain Jukebox platform

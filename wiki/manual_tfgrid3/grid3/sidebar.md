@@ -1,4 +1,4 @@
-- [**ThreeFold Home**](threefold:threefold_home)
+- [**ThreeFold Home**](threefold_home)
 - [**Manual 3 Home**](manual3_home)
 -----------
 - [What's New](grid3_new)

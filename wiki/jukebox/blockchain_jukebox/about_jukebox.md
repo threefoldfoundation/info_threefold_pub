@@ -35,7 +35,7 @@ Blockhain Jukebox is a blockchain node deployment platform therefore on the plat
 
 With an interface that permits absolutely seemless node deployment all you really need is:
 
-- [Threefold Connect App](threefold:threefold_connect)
+- [Threefold Connect App](threefold_connect)
 - [Blockchain Jukebox platform](https://staging.blockchainjukebox.com/jukebox)
 - On the Jukebox platform you pick a Blockchain Solution
 - Make a payment & Deploy node/-s. Feel free to follow [Get Started](get_started) guide.
@@ -47,5 +47,5 @@ With an interface that permits absolutely seemless node deployment all you reall
 - All parties can cancel/stop/extend their node deployments
     - Extra parameters can be added if needed
 - Jukebox interface is as simple as it gets
-- Secure authentication and payments process via [TF Connect app](threefold:threefold_connect)
+- Secure authentication and payments process via [TF Connect app](threefold_connect)
 - Regular update/upgrade notifications via Jukebox -->

@@ -55,7 +55,7 @@ Calculated May 5 2021
 ## Remarks
 
 !!!include:stats_toc
-- [ThreeFold Token & Grid History](threefold:threefold_history)
+- [ThreeFold Token & Grid History](threefold_history)
 
 !!!include:token_toc
 

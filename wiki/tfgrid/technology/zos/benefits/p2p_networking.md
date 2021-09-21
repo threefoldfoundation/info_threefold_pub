@@ -8,7 +8,7 @@ True peer-to-peer is a principle that exists everywhere within Threefold's techn
 
 ## Peer-to-peer networking
 
-The TF Grid is built by 3Nodes (hardware + Zero-OS) that are connected to the internet by using the IPv6 protocol. To future-proof this grid, IPv6 has been chosen as ThreeFold Grid's native networking technology. The TF Grid operates on IPv6 (where available) and creates peer-to-peer network connections between all the containers (and other primitives). Please find more about Zero-OS primitives in our [SDK manual](threefold:manuals)
+The TF Grid is built by 3Nodes (hardware + Zero-OS) that are connected to the internet by using the IPv6 protocol. To future-proof this grid, IPv6 has been chosen as ThreeFold Grid's native networking technology. The TF Grid operates on IPv6 (where available) and creates peer-to-peer network connections between all the containers (and other primitives). Please find more about Zero-OS primitives in our [SDK manual](manuals)
 
 This creates a many-to-many web of (encrypted) point-to-point network connections which together make a (private) secure **overlay network**. This network is completely private and connects only the primitives that have been deployed in your network.
 

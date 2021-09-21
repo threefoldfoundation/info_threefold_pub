@@ -24,7 +24,7 @@ This process is called **Farming**. [You can learn more about farming here](farm
 
 ## A circular token economy
 
-![](img/circular_tft.jpg)
+![](img/circular_tft_.png)
 
 A circular economy enables anyone to take part and to get rewarded for it: 
 1. When Farmers connect 3Nodes and add capacity to the ThreeFold_Grid, they will create new TFT through the process of farming.  

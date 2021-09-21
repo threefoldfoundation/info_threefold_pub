@@ -9,7 +9,7 @@ The ThreeFold Token is used to buy cloud_capacity on the TF_grid. This Cloud_Cap
 
 ## Participants of the grid
 
-![](img/circular_tft.jpg)
+![](img/circular_tft_.png)
 
 <!-- 
 

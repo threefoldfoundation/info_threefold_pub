@@ -56,7 +56,7 @@ Each 3Node is an IT Power generator. The TFGrid is the network of these 3Nodes.
 - IT Capacity is storage, compute and network capacity for this upgraded internet.
 - The Twins or IT services providers need TFT to pay for the IT capacity they need on this new internet.
 
-![](img/circular_tft.jpg)
+![](img/circular_tft_.png)
 
 Lets together invest in required hardware in form of 3nodes to build this upgraded version of the internet.
 

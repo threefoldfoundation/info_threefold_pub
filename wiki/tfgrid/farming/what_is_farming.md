@@ -1,7 +1,7 @@
 
 Farming is the concept of expanding the internet with more network, compute & storage capacity.
 
-![](img/circular_tft.jpg)
+![](img/circular_tft_.png)
 
 - Farmers need to invest in the computer hardware and receive ThreeFold Tokens for doing so.
 - Such a computer is called a 3Node and can be installed at home, in an office or any locaton  where existing internet connectivity is available.

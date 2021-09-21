@@ -1,6 +1,7 @@
 # Deployment contract
 
 <!--- >> TODO: kristof to improve ---> 
+<!--- what is the difference compared to smartContract/contract.md ???--->
 
 The deployment contract is a contract between:
 - User (owner of deployment, reserving the capacity)

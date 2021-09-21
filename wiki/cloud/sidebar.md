@@ -1,5 +1,5 @@
 !!!include:home_include
-- [P2P Cloud Concepts](cloud_home)
+- [P2P Cloud Concepts](peer_cloud_home)
   - [P2P Cloud Intro](cloud_intro)
   - [P2P Cloud Products](cloud_products)
   - [P2P Cloud Benefits](usp)
@@ -18,6 +18,7 @@
 - [Roadmap](roadmap)
 - [Support](support)
 - [Videos](generic_video)
+- [Grid3 Specs](/specs_tfgrid3/specs_tfgrid3_home)
 
 
 

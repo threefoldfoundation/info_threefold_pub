@@ -13,4 +13,4 @@
 - [Manual](qsfs_setup)
 - [Use Cases](qss_use_cases)
 - [Test plan](testplan)
-- [Team](team)
+- [Team](qss_team)

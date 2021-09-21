@@ -2,6 +2,7 @@
 - [**Manual 3 Home**](manual3_home)
 -----------
 - [Getting Started](grid3_get_started)
+- [Billing](grid3_billing)
 - [Terraform](grid3_terraform)
 -----------
 - [Grid Overview](grid_readme)

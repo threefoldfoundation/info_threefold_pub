@@ -1,5 +1,5 @@
 
-![](img/security_manager.png)
+![](img/security_manager.jpg)
 
 
 # ThreeFold Security Manager & Coordinator
@@ -47,6 +47,6 @@ Your main responsibility is to make sure the TFGrid is Secure & Private.
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

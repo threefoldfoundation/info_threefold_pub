@@ -1,6 +1,6 @@
 ## Ewald Weizenbauer
 
-![ewald_weizenbauer](img/ewald_weizenbauer.png)
+![ewald_weizenbauer](img/ewald_weizenbauer.jpg)
 
 - CCO (50% of time)
 - [LinkedIn](https://www.linkedin.com/in/ewald-weizenbauer-034132/)

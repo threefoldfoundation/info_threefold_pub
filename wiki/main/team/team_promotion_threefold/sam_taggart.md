@@ -1,6 +1,6 @@
 ## Sam Taggart
 
-![sam_taggart](img/sam_taggart.png)
+![sam_taggart](img/sam_taggart.jpg)
 
 - Communication & Internal Community
 - [LinkedIn](https://www.linkedin.com/in/samtaggart/)

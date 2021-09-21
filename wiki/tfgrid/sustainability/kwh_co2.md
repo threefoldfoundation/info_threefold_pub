@@ -1,8 +1,8 @@
 # kwh to CO2 in KG
 
-![](img/kwh_co2.png)
+![](img/kwh_co2.jpg)
 
-![](img/kwh_co2b.png)
+![](img/kwh_co2b.jpg)
 
 
 

@@ -1,4 +1,4 @@
-![roadmap](img/roadmap.png)
+![roadmap](img/roadmap.jpg)
 
 # Roadmap
 

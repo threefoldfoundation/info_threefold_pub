@@ -14,4 +14,4 @@ As a protocol.me engineer we need you to define/implement the protocol used by a
 - Work in our international development team
 - We are not just looking for an engineer we are looking for people who believe that the world needs a new internet, so we make it happen.
 
-See how we are [thinking beyond blockchain](tfgrid:internet4).
+See how we are [thinking beyond blockchain](internet4).

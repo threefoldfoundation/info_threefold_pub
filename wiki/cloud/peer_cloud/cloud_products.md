@@ -1,5 +1,5 @@
 
-![](img/cloud_node.png)
+![](img/cloud_node.jpg)
 
 # ThreeFold P2P Cloud Components
 
@@ -31,7 +31,7 @@ zstor offers the following storage benefits:
 
 More information on zstor [here](qsss:quantumsafe_filesystem)
 
-![](img/evdc.png)
+![](img/evdc.jpg)
 
 ## Edge Virtual Data Center (eVDC) = P2P Compute 
 
@@ -78,7 +78,7 @@ You can find:
 - Open-source applications such as Commento, Mattermost or Discourse. 
 - Easy blockchain node deployment for DigiByte, Dash, Polygon, Casper and more.
 
-![](img/iac_intro.png)
+![](img/iac_intro.jpg)
 
 ## Infrastructure as Code (IaC) = For experts
 

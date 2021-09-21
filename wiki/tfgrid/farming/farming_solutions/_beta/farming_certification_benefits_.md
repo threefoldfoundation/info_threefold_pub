@@ -1,4 +1,4 @@
-![](img/farming_solutions.png)
+![](img/farming_solutions.jpg)
 
 !!!include:certified_farming
 

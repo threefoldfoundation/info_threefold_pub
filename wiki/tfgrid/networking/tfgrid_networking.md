@@ -1,4 +1,4 @@
-![](img/network_intro.png)
+![](img/network_intro.jpg)
 
 # TFGrid Networking
 

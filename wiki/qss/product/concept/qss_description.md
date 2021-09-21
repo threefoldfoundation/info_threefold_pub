@@ -1,6 +1,6 @@
 # Quantum Safe Storage System
 
-![](img/qsstorage_architecture.png)
+![](img/qsstorage_architecture.jpg)
 
 ## Quantum Safe Storage Benefits
 

@@ -12,7 +12,7 @@ The TF Grid 2.2 upgrade on mainnet will happen on Monday September 21.
 
 ### Introducing 3Bot: Your Virtual System Administrator
 
-![](img/3botadmin.png)
+![](img/3botadmin.jpg)
 
 Your 3Bot has been born. 3Bot is your virtual system administrator, it is your only way to manage your workloads on top of the TF Grid.
 
@@ -64,7 +64,7 @@ If you would like to deploy a 3bot on 2.2 mainnet, then the only accepted token 
 
 ### Introducing: ThreeFold NOW
 
-![](img/marketplace.png)
+![](img/marketplace.jpg)
 
 To fully realize the vision of an Internet built for everyone, by everyone, we need easy-to-use and easy-to-deploy alternatives to the online tools and applications we use most.
 

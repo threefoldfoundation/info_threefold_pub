@@ -1,6 +1,6 @@
 # June 11: Pre-orders for the Titan v2.1 Are Now Open for the General Public!
 
-![](img/preordertitan.png)
+![](img/preordertitan.jpg)
 
 In the last 24 hours, we've had Titan v2.1 3Node pre-orders from all corners of the globe – six of the seven continents. (Anybody know anyone in Antarctica?)
 

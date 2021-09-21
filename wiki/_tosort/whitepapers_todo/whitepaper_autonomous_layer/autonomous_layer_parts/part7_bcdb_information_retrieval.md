@@ -1,6 +1,6 @@
 ## BCDB is the most efficient information retrieval system possible
 
-![alt_text](img/library.png)
+![alt_text](img/library.jpg)
 
 
 In the current Internet, retrieving information happens in two ways:
@@ -28,7 +28,7 @@ P2P circular decentralized system there is only need for two numbers, to retriev
 
 
 
-![alt_text](img/efficient_flexible_fast.png)
+![alt_text](img/efficient_flexible_fast.jpg)
 
 
 Information can be a movie, for example, or a single piece of information like your email address. Each digital avatar is responsible for retrieving & reconstructing the information from the underlying IT capacity network (the nodes on a decentralized internet). This happens in a very secure way and the digital avatar is the only digital entity capable of re-assembling the information in such a way it makes sense again. This leads to very strong security.

@@ -1,6 +1,6 @@
 # Decentralized Office
 
-![](img/evdc_mktplace_office.png)
+![](img/evdc_mktplace_office.jpg)
 
 The world is increasingly relying on remote tools that allow us to collaborate and co-create from distance. The most used solutions for collaboration are office and project management tools. 
 

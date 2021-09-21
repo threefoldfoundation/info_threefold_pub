@@ -4,11 +4,11 @@ To upgrade your eVDC compute capacity, you can extend your kubernetes cluster by
 
 On your `Compute Nodes` page, click on the `Add Node` button on the top right corner of the page.
 
-![](img/addnode.png)
+![](img/addnode.jpg)
 
 Select the preferred node size you would like to add onto your Kubernetes Cluster and and click `Next`.
 
-![](img/nodesize.png ':size=600')
+![](img/nodesize.jpg ':size=600')
 
 On the next page you will be asked whether you would like to use your existing TFT balance within your eVDC Wallet, or transfer TFT exclusively to pay for the new nodes. 
 
@@ -18,7 +18,7 @@ You can either scan the QR code or transfer the requested amount of TFTs to the 
 
 On this tutorial we assume that you use the QR scan option.
 
-![](img/paymethod.png ':size=600') 
+![](img/paymethod.jpg ':size=600') 
 
 On the payment page, you will be instructed to transfer TFT in order to pay for your new node. This can be done by sending your TFT from the ThreeFold Connect App or an external Stellar wallet to your eVDC Wallet. 
 
@@ -26,7 +26,7 @@ On the payment page, you will be instructed to transfer TFT in order to pay for 
 
 In this tutorial we use the ThreeFold Connect Mobile App as our medium of transfer.
 
-![](img/paynode.png ':size=600')
+![](img/paynode.jpg ':size=600')
 
 Scan the QR Code by using ThreeFold Connect app on your phone and confirm the payment. 
 
@@ -36,13 +36,13 @@ The payment screen will automatically reload itself when the payment is successf
 
 > Note: The new node deployment will take a few minutes, please do not close this deployment window while it loads.
 
-![](img/extendnodeprocess.png ':size=600')
+![](img/extendnodeprocess.jpg ':size=600')
 
 Once the new node deployment is finished, you will be directed to the final screen that will show that your VDC has been extended / upgraded successfully. 
 
 You can then go back to your `Compute Nodes` section and it will display the new nodes added to your VDC.
 
-![](img/newnode.png)
+![](img/newnode.jpg)
 
 ## More info:
 

@@ -1,6 +1,6 @@
 ## Price comparison Cloudorado
 
-![](img/cloudorado.png)
+![](img/cloudorado.jpg)
 
 ### Compute
 
@@ -11,11 +11,11 @@ A ThreeFold Compute Unit is (CU)
 
 A good site to compare is Cloudorado: https://www.cloudorado.com/
 
-![](img/cloudorado_compute_choices.png ':size=600x240')
+![](img/cloudorado_compute_choices.jpg ':size=600x240')
 
 | Compute                           | Compute                           |
 | --------------------------------- | --------------------------------- |
-| ![](img/cloudorado_compute_1.png) | ![](img/cloudorado_compute_2.png) |
+| ![](img/cloudorado_compute_1.jpg) | ![](img/cloudorado_compute_2.jpg) |
 
 
 #### Compute Conclusion
@@ -31,9 +31,9 @@ A ThreeFold Storage Unit is (SU)
 
 Again, a good site to compare is Cloudorado: https://www.cloudorado.com/
 
-![](img/cloudorado_storage_choices.png ':size=600x270')
+![](img/cloudorado_storage_choices.jpg ':size=600x270')
 
-![](img/cloudorado_storage_1.png ':size=500x610')
+![](img/cloudorado_storage_1.jpg ':size=500x610')
 
 #### Storage Conclusion
 

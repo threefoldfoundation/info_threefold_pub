@@ -1,6 +1,6 @@
 # June 30: ThreeFold Coverage in Smartereum
 
-![](img/tfsmartereum.png)
+![](img/tfsmartereum.jpg)
 
 🗞 **ThreeFold is Audaciously Building a New Decentralized Internet** (via Smartereum)
 

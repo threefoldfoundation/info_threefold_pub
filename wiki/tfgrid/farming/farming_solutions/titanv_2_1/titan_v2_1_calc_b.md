@@ -3,9 +3,9 @@
 
 !!!include:titan_v2_1_calc_b_include
 
-![](img/titanv21_calc_paramb.png)
+![](img/titanv21_calc_paramb.jpg)
 
-![](img/titanv21_calc_b.png)
+![](img/titanv21_calc_b.jpg)
 
 !!!include:farming_calc_remarks
 

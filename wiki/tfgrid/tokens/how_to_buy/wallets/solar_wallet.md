@@ -6,7 +6,7 @@ For this manual we are going for the desktop wallet for MacOS.
 
 Choose yours at [https://solarwallet.io/](https://solarwallet.io/).
 
-![image alt text](img/xlm_solar_tft_manual_image_18.png)
+![image alt text](img/xlm_solar_tft_manual_image_18.jpg)
 
 ### Step 2: Install the application. 
 
@@ -18,9 +18,9 @@ Open your Solar wallet and click "Add account."
 
 This will take you through the process of creating a new account or importing an already-existing account.
 
-![image alt text](img/xlm_solar_tft_manual_image_19.png)
+![image alt text](img/xlm_solar_tft_manual_image_19.jpg)
 
-![image alt text](img/xlm_solar_tft_manual_image_20.png)
+![image alt text](img/xlm_solar_tft_manual_image_20.jpg)
 
 You now have an empty Solar wallet.
 
@@ -30,11 +30,11 @@ Example done with Coinbase. In case you did not buy XLM yet go to this [example 
 
 1. Copy your wallet address from Solar by clicking Receive and clicking on the address or QR Code. (This will copy the address onto your clipboard.)
 
-![image alt text](img/xlm_solar_tft_manual_image_21.png)
+![image alt text](img/xlm_solar_tft_manual_image_21.jpg)
 
 1. Go back to Coinbase and click Stellar Lumens (XLM) in your wallet section
 
-![image alt text](img/xlm_solar_tft_manual_image_22.png)
+![image alt text](img/xlm_solar_tft_manual_image_22.jpg)
 
 1. On the right-hand side of your screen, you can now fill in:
 
@@ -42,13 +42,13 @@ Example done with Coinbase. In case you did not buy XLM yet go to this [example 
 - Paste the address of your Solar wallet (from step 1)
 - Write a memo (can be anything, but is needed to process)
 
-![image alt text](img/xlm_solar_tft_manual_image_23.png)
+![image alt text](img/xlm_solar_tft_manual_image_23.jpg)
 
 1. Click Send and fill in the two-factor authentication code. When all is processed, you will get a confirmation of the transaction.
 
 2. Funds are now sent and showing up in your Solar wallet
 
-![image alt text](img/xlm_solar_tft_manual_image_24.png)
+![image alt text](img/xlm_solar_tft_manual_image_24.jpg)
 
 ### Step 5: Add TFT Asset to Wallet
 

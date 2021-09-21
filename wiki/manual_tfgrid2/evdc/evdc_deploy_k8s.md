@@ -4,7 +4,7 @@ The Kubernetes cluster comes with the creation of your VDC.
 
 - This deployment creates the K3S Lightweight Kubernetes implementation in Zero-OS
 
-![k3s](img/evdck3slogo.png)
+![k3s](img/evdck3slogo.jpg)
 
 - K3S is full conformant production-ready Kubernetes distribution with the following changes:
   - It is packaged as a single binary
@@ -14,7 +14,7 @@ The Kubernetes cluster comes with the creation of your VDC.
   - It eliminates the need to expose a port on Kubernetes worker nodes fopr the kubelet API by exposing this API to the Kubernetes control plain nodes over a websocket tunnel.
   More info can be found [here](https://github.com/rancher/k3s)
   - You'll need to log in through Threefold Connect, an authenticator for the ThreeFold Companies.
-    You can find more on ThreeFold Connect [here](tfgrid:threefold_connect).
+    You can find more on ThreeFold Connect [here](threefold_connect).
 
 ## Next, use the guided setup to create and configure your private VDC
 

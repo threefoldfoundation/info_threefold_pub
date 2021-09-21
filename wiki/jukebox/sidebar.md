@@ -13,11 +13,11 @@
 - [For Developers](for_developers)
     - [Technical Support](tech_support)
 - [Roadmap](roadmap)
-- [Technology Behind](internet4:technology)
-    - [TFGrid](internet4:zos_3node_tfgrid_intro)
-    - [Smart Contract for IT](tfgrid:smartcontract_it)
-    - [CU/SU/NU primitives](tfgrid:tfgrid_primitives)
+- [Technology Behind](technology)
+    - [TFGrid](zos_3node_tfgrid_intro)
+    - [Smart Contract for IT](smartcontract_it)
+    - [CU/SU/NU primitives](tfgrid_primitives)
     - [Compare = Competitive](funding:tf_compare)
-!!!include:tfgrid:carbonwin_sidebar
+!!!include:carbonwin_sidebar
 
 <!-- - [Get started](get_started) -->

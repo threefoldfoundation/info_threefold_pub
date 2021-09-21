@@ -1,4 +1,4 @@
-![](img/commodities.png)
+![](img/commodities.jpg)
 
 # Commodity Tokens
 
@@ -14,7 +14,7 @@ The technology works as an encrypted and immutable database that does not need t
 
 ## Example for agriculture products
 
-![](img/commodities_cycle.png)
+![](img/commodities_cycle.jpg)
 
 This full cycle can be managed by Peer2Peer and blockchain technology.
 

@@ -1,6 +1,6 @@
 # April 8: ThreeFold Partners With CasperLabs
 
-![](img/threefoldcasperlabs.png)
+![](img/threefoldcasperlabs.jpg)
 
 **Today, we are THRILLED to announce our collaboration with [CasperLabs](http://casperlabs.io/), the team behind the Casper Network.** 🤝
 

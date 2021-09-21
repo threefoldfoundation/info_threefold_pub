@@ -28,7 +28,7 @@ As far along as we are, we still have work to do. One of our biggest goals in th
 
 For the everyday person looking to benefit from a new, neutral Internet, some of [the first experiences are coming alive](https://mydigitaltwin.io/info/twin#/) Q1 2021. This includes communication tools, file storage, a wallet, & more – all with the advantages of being more sustainable for our planet and with full control of your own data. And over time, more and more experiences will come to this Internet. We'll be updating here and on our communication platforms as they come. But don't worry, as a user it doesn't change much – no coding required. :)
 
-That said, if you're an IT professional or a developer, you can take advantage of [the ThreeFold Peer-to-Peer Cloud](cloud:cloud_home)!
+That said, if you're an IT professional or a developer, you can take advantage of [the ThreeFold Peer-to-Peer Cloud](cloud_home)!
 
 ## Will [enter website or app here] be available on your Internet?
 

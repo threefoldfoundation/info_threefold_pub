@@ -2,7 +2,7 @@
 
 ## Purpose
 
-![](img/bhag.png)
+![](img/bhag.jpg)
 
 ### Based on following new operating principles
 
@@ -18,7 +18,7 @@
 
 Our vision for a better internet:
 
-![](img/internet_evolution.png)
+![](img/internet_evolution.jpg)
 
 We believe in a internet where
 - you are in the center of your digital life
@@ -41,30 +41,30 @@ This is not ok for many reasons, [see also why ThreeFold](threefold:why_intro)
 
 > HELP THREEFOLD TO GROW THE GRID TO 100.000 NODES < 1 YEAR
 
-![](img/power_generation.png)
+![](img/power_generation.jpg)
 
 Needs to be super simple, just like a solar panel generates electricity.
 
-![](img/power_generator_comparison.png)
+![](img/power_generator_comparison.jpg)
 
 Each 3Node is an IT Power generator. The TFGrid is the network of these 3Nodes.
 
 - The 3nodes do for internet what solar panels do for large scale electricity power plants.
 - They allow everyone to contribute to a new internet.
-- Company or People investing in the 3nodes are called [farmers](tfgrid:farming_home).
+- Company or People investing in the 3nodes are called [farmers](farming_home).
 - Each farmer receives tokens called TFT for providing this IT capacity.
 - IT Capacity is storage, compute and network capacity for this upgraded internet.
 - The Twins or IT services providers need TFT to pay for the IT capacity they need on this new internet.
 
-![](img/circular_tft.png)
+![](img/circular_tft.jpg)
 
 Lets together invest in required hardware in form of 3nodes to build this upgraded version of the internet.
 
 **More Info**
 
-- [Farming Intro](tfgrid:farming_intro)
-- [Farming Rewards](tfgrid:farming_reward)
-- [ThreeFold is carbon negative](tfgrid:energy_savings)
+- [Farming Intro](farming_intro)
+- [Farming Rewards](farming_reward)
+- [ThreeFold is carbon negative](energy_savings)
 - [Farming Business Model](farming_biz_model)
 
 ## Step 2: build a local accelerator
@@ -74,7 +74,7 @@ This allows local developers and communities to create value on top of this new 
 
 Together we can create the alternative to centralized services which are not aligned with our values.
 
-![](img/twin_capabilities.png)
+![](img/twin_capabilities.jpg)
 
 We don't need hundred apps, we need experiences build on top of our own owned digital twin. Experiences re-use the same capabilities. Each capability is unique and doesn't have multiple versions, each capability needs to be good enough.
 
@@ -123,4 +123,4 @@ Together with partners roll out the technical capabilities of the ThreeFold Grid
 
 > Because of the web4 concept there are endless opportunities.
 
-!!!include:tfgrid:grid_use_
+!!!include:grid_use_

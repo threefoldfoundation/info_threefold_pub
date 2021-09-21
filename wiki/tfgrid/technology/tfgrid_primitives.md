@@ -2,9 +2,9 @@
 
 <!-- !!!include:zos_intro_text
 
-![](img/zos_overview_compute_storage.png)
+![](img/zos_overview_compute_storage.jpg)
 
-![](img/zos_network_overview.png)
+![](img/zos_network_overview.jpg)
 
 ## Primitive Functions -->
 

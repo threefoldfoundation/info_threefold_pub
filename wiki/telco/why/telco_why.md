@@ -1,4 +1,4 @@
-![](img/why.png)
+![](img/why.jpg)
 
 # Why
 

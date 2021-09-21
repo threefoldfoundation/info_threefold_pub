@@ -1,6 +1,6 @@
 # Combine Cloud Agility and Sovereignty of On-Premise Data Center
 
-![](img/vdc_node.png)
+![](img/vdc_node.jpg)
 
 ## Benefit from Agility of Cloud
 

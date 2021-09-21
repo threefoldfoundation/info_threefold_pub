@@ -1,6 +1,6 @@
 ## Nickolay Babenko
 
-![nickolay_babenko](img/nickolay_babenko.png)
+![nickolay_babenko](img/nickolay_babenko.jpg)
 
 - Business Development & Tokenomics
 - [LinkedIn](https://www.linkedin.com/in/babenkonickolay/)

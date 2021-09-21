@@ -1,6 +1,6 @@
 # Blockchain Node Deployment
 
-![](img/evdc_mktplace_blockchain.png)
+![](img/evdc_mktplace_blockchain.jpg)
 
 Blockchains can deploy their nodes on top of the ThreeFold Grid wihtin a few clicks and benefit from a truly decentralized cloud infrastructure.
 

@@ -1,6 +1,6 @@
 # May 11: Introducing SEEDS!
 
-![](img/seedsintro.png)
+![](img/seedsintro.jpg)
 
 Today we’re proud to introduce you to SEEDS - Regenerate Money, a member of the Alliance for a Conscious Internet. SEEDS is a financial system that serves, rewards and finances people and organizations committed to creating a healthier and more equitable planet.
 

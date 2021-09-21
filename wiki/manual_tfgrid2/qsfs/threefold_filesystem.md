@@ -1,4 +1,4 @@
-![](img/planet_fs.png)
+![](img/planet_fs.jpg)
 
 # ThreeFold zstor filesystem (zstor)
 
@@ -21,7 +21,7 @@ to multiple 0-DBs. The number of generated chunks is configurable to make it mor
 
 Together they form a storage layer that is quantum secure: even the most powerful computer can't hack the system because no single node contains all of the information needed to reconstruct the data.
 
-![](img/quantum_safe_storage.png)
+![](img/quantum_safe_storage.jpg)
 
 This concept scales forever, and you can bring any file system on top of it: 
 - S3 storage 
@@ -30,5 +30,5 @@ This concept scales forever, and you can bring any file system on top of it:
 - IPFS and Hypercore distributed file sharing protocols 
 - ...
 
-![](img/quantum_safe_storage_scale.png)
+![](img/quantum_safe_storage_scale.jpg)
 

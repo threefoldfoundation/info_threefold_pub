@@ -12,11 +12,11 @@ Because TFT is on the Stellar network
 
 ## Lobstr
 
-![alt](img/lobstr_wallet_logo.png)
+![alt](img/lobstr_wallet_logo.jpg)
 
 ## Interstellar
 
-![alt](img/interstellar_logo.png)
+![alt](img/interstellar_logo.jpg)
 
 
 - #TODO: this page is prob not used

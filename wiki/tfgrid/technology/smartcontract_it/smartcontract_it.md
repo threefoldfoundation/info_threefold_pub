@@ -2,13 +2,13 @@
 
 Ability for every developer to launch IT workloads on the TFGrid using our tfgrid_primitives .
 
-![](img/smartcontract_highlevel.png)
+![](img/smartcontract_highlevel.jpg)
 
 >TODO: write more
 
 ## Smart Contract Together with 3bot
 
-![](img/smartcontract_it.png)
+![](img/smartcontract_it.jpg)
 
 3Bot is your virtual system administrator and can execute IT tasks on your behalf.
 

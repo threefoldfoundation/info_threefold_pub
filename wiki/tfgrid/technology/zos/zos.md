@@ -1,6 +1,6 @@
 # Zero-OS
 
-![](img/zero_os_overview.png)
+![](img/zero_os_overview.jpg)
 
 !!!include:zos_intro_text
 

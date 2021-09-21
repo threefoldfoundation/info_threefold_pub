@@ -1,8 +1,8 @@
 # Tokenomics Overview
 
-<!-- ![](img/inclusive.png) -->
+<!-- ![](img/inclusive.jpg) -->
 
-![](img/tf3_tokenomics.png)
+![](img/tf3_tokenomics.jpg)
 
 ## Creation of TFTs
 
@@ -15,21 +15,21 @@ The amount of TFTs that are created by farmers depends on three variables:
 2. Memory Capacity (RAM)
 3. Storage Capacity (SSD/HDD)
 
-Learn more about the variables [here](tfgrid:farming_reward).
+Learn more about the variables [here](farming_reward).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
 
 ## Limited Supply & Liquidity Drivers
 
-See [Limited Supply & Liquidity Drivers](tfgrid:tft_limited_supply)
+See [Limited Supply & Liquidity Drivers](tft_limited_supply)
 
 ## Vesting
 
-Many tokens are in vesting wallets see [Vesting](tfgrid:vesting_overview).
+Many tokens are in vesting wallets see [Vesting](vesting_overview).
 
 ## TF Grid is valuable
 
-See [Valuable TF Grid](tfgrid:grid_valuation)
+See [Valuable TF Grid](grid_valuation)
 
 ## Disclaimer
 

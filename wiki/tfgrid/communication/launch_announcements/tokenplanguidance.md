@@ -1,6 +1,6 @@
 # February 3: Seeking Participation in the TFT Plan
 
-![](img/tokenplanguidance.png)
+![](img/tokenplanguidance.jpg)
 
 We have a good plan in place to stimulate token growth but we have some key decisions to make & we are creating a group to help us finalize. We have already invited / included a number of farmers, token holders, ambassadors, and outside industry experts – and now we want to open it up to the wider community.
 

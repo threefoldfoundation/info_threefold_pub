@@ -1,6 +1,6 @@
 # July 6: Panel on Building a European Data Infrastructure
 
-![](img/eudata.png)
+![](img/eudata.jpg)
 
 ThreeFold co-founder Kristof de Spiegeleer had the opportunity and pleasure to join a panel hosted by HPE and Forum Europe on Building a European Data Infrastructure.
 

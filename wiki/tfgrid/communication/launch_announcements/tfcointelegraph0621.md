@@ -1,4 +1,4 @@
-![](img/tfcointelegraph0621.png)
+![](img/tfcointelegraph0621.jpg)
 
 "The ThreeFold Grid ... can add tangible value to Dfinity or Solid and other similar projects if they want to benefit from a truly decentralized and sovereign infrastructure instead of relying on current data center models."
 

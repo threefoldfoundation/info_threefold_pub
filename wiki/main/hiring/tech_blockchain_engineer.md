@@ -1,13 +1,13 @@
 
 
-![](img/development_manager.png)
+![](img/development_manager.jpg)
 
 
 # Senior Developer, TF Grid Blockchain
 
 !!!include:tf_hr_intro
 
-We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](tfgrid:internet4).
+We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](internet4).
 The digital_twin can set us free, create our digital future without boundaries where we 100% own our data and digital processes.
 
 There is a blockchain layer created to make this possible.
@@ -26,9 +26,9 @@ The blockchain layer is used in digital_twin as well as for zero_os.
   - Smart Contract for IT
 - Work together with [Digital Twin engineering team](tech_protocolme_engineer).
 
-> Read more about how we are [thinking beyond blockchain](tfgrid:internet4).
+> Read more about how we are [thinking beyond blockchain](internet4).
 
-> Read more about [consenus layer we are building](tfgrid:consensus3).
+> Read more about [consenus layer we are building](consensus3).
 
 ## Requirements
 
@@ -58,6 +58,6 @@ The blockchain layer is used in digital_twin as well as for zero_os.
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

@@ -8,18 +8,18 @@ The easiest method to configure the wallet addresses of your farm is to do it fr
 
 Click on the little gear in the `Actions` colum of the farm tables.
 
-![farm table](img/farm_table_configure.png)
+![farm table](img/farm_table_configure.jpg)
 
 This will open up the configuration page of the farm.
 
-![](img/farm_configuration.png)
+![](img/farm_configuration.jpg)
 
 Click the big green button `Add wallet address` at the bottom of the form. This will create a field to enter a wallet address.
 A wallet address is composed of 2 elements : the address itself and the asset code. The [asset code](https://github.com/threefoldfoundation/tft-stellar/#tft) is used to identify the currency on the Stellar blockchain.
 
 Fill in the wallet address with your address and the correct asset (for now, only 'TFT'). You could add as many addresses as you want, but only one address per supported asset is required.
 
-![](img/save_farm.png)
+![](img/save_farm.jpg)
 
 Once you are done, click the `SAVE` button at the bottom right.
 

@@ -1,8 +1,8 @@
-![](img/tech_header.png)
+![](img/tech_header.jpg)
 
 # Technology
 
-![](img/tech_architecture1.png)
+![](img/tech_architecture1.jpg)
 
 - IT Capacity : 3Nodes running our operating system ZOS provide Storage,Compute, Network to the world.
 - Digital Twin: every person get's a digital_twin_server, as the center of their digital life

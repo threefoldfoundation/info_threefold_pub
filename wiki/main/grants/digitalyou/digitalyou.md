@@ -1,6 +1,6 @@
 # DigitalTwin
 
-![](img/digitalyou.png)
+![](img/digitalyou.jpg)
 
 _The DigitalTwin_ is the basic tool layer of your personal digital twin (see [Crystal Twin](crystaltwin) project) allowing you to run your workloads, communication, applications, well.. any basic digital functions self hosted on a private network per your choosing in a true decentralized manner.
 
@@ -15,25 +15,25 @@ DigitalTwin as per today has following tools and features in demo version:
 
 - [DigitalTwin Files](digitalyoufiles)
 
-![](img/digitalyoufiles.png)
+![](img/digitalyoufiles.jpg)
 
 - [DigitalTwin Browser](digitalyoubrowser)
 
 - [DigitalTwin Meet (video conferencing)](digitalyoumeet)
 
-![](img/digitalyoumeet.png)
+![](img/digitalyoumeet.jpg)
 
 - [DigitalTwin Office](digitalyouoffice)
 
-![](img/digitalyouoffice.png)
+![](img/digitalyouoffice.jpg)
 
 - DigitalTwin Calendar
 
-![](img/digitalyoucalendar.png)
+![](img/digitalyoucalendar.jpg)
 
 - DigitalTwin Email
 
-![](img/digitalyouemail.png)
+![](img/digitalyouemail.jpg)
 
 Please see: [DigitalTwin test/demo space](https://threebotdemo.jimber.org/)
 

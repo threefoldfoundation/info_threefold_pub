@@ -1,5 +1,5 @@
 
-![](img/ops_manager.png)
+![](img/ops_manager.jpg)
 
 
 # TFGrid Operations Manager
@@ -52,6 +52,6 @@ Your main responsibility is to make sure the TFGrid is:
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

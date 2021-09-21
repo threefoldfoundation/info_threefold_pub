@@ -3,7 +3,7 @@
 Before you do your calculations & simulations it's helpful to know this sheet was created with [onlyoffice](https://www.onlyoffice.com/) .
 We recommend to install that to avoid breaking of formulas. 
 
-![](img/farming_calc_export.png)
+![](img/farming_calc_export.jpg)
 
 - Step 1:Click File: Export
 - Step 2: Open the File in [onlyoffice](https://www.onlyoffice.com)

@@ -1,4 +1,4 @@
 ## More Info
 
-- [Consensus Engine](tfgrid:consensus3)
-- [Roadmap TFChain 3.x](tfgrid:roadmap_tfchain3)
+- [Consensus Engine](consensus3)
+- [Roadmap TFChain 3.x](roadmap_tfchain3)

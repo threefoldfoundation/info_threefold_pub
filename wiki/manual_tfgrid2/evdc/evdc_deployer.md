@@ -1,6 +1,6 @@
 # eVDC Deployer
 
-![](img/deployer.png)
+![](img/deployer.jpg)
 
 [eVDC Deployer](https://vdc.testnet.grid.tf) is a platform where users can deploy a new eVDC, see the list and manage their deployed private data centers on top of the TF Grid.
 

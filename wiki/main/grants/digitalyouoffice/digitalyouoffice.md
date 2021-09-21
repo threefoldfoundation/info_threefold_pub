@@ -1,6 +1,6 @@
 # DigitalTwin Office
 
-![](img/digitalyouoffice.png)
+![](img/digitalyouoffice.jpg)
 
 To enable DigitalTwin Office, we integrated with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution that gets close the above cited criteria. Only Office is open-source (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale. 
 
@@ -21,11 +21,11 @@ The purpose of DigitalTwin Office is to deliver an online office environment tha
 
 Screenshots
 
-![](img/docs.png)
+![](img/docs.jpg)
 
-![](img/spreadsheet.png)
+![](img/spreadsheet.jpg)
 
-![](img/slides.png)
+![](img/slides.jpg)
 
 ### Team
 

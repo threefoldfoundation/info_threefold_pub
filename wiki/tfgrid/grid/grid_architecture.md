@@ -12,7 +12,7 @@ This permits users to see the available capacity on the TF Grid Explorer and res
 
 All the architecture from the operating system level to the user level is fully automated which enables a ultra-secure peer-to-peer infrastructure and economy. 
 
-![](img/tf_principle_banner.png)
+![](img/tf_principle_banner.jpg)
 
 The ThreeFold_Grid lays the foundation on top of which any Internet application (or service) can be run in a fully decentralized way. Any application which can run on Linux (which is +- all) can run on top of the TF Grid with better performance and security.
 
@@ -77,7 +77,7 @@ All 3Bot IDs are registered on a modern type of phone book that uses blockchain 
 
 3Bot is equipped with a cryptographic 2-factor authentication mechanism. You can log in to your 3Bot via the ThreeFold Connect app on your device which contains your private key. The 3Bot has a number of built in capabilities which allows you to create and operate large scale architectures on the TF Grid all owned and managed by the digital system administrator. 
 
-Learn more about 3Bot [here](internet4:part4_3bot_digital_avatar_digital_self).
+Learn more about 3Bot [here](part4_3bot_digital_avatar_digital_self).
 
 Learn more about Threefold Grid Blockchain [here](consensus3).
 

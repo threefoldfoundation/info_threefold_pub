@@ -1,4 +1,4 @@
-![](img/tf_tde_intro.png)
+![](img/tf_tde_intro.jpg)
 
 # Token Ecosystem Rewards, H2 2021.
 

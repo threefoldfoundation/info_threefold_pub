@@ -13,7 +13,7 @@
   - used in https://github.com/threefoldtech/tfgrid-substrate/tree/development/substrate-node
   - are the main pallets of our TFCHAIN and TFGrid_DB
 
-![](img/substratedev.png)
+![](img/substratedev.jpg)
 
 see how the gitpod is working to build the substrate node
 

@@ -1,6 +1,6 @@
 # Use Cases
 
-![alt_text](img/use_cases.png)
+![alt_text](img/use_cases.jpg)
 
 ## Cloud Workloads
 

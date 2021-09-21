@@ -1,4 +1,4 @@
-- [Home](tfgrid:qsss)
+- [Home](qsss)
 - [Product description](qss_description)
     - [Specifications](qss_specs)
     - [How it works](qss_description)

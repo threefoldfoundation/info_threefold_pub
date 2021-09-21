@@ -3,7 +3,7 @@
 
 We believe in a 
 
-![](img/internet_evolution.png)
+![](img/internet_evolution.jpg)
 
 - you in the center of your digital life
 - blockchain only needed for specific functions (money, identity, smart contracts, ...)
@@ -15,7 +15,7 @@ We believe in a
 
 Peer2peer is the most decentralized way to experience our digital life.
 
-![](img/peer2peer_new.png)
+![](img/peer2peer_new.jpg)
 
 - each user has 1 digital twin
 - this twin serves your complete digital life
@@ -25,7 +25,7 @@ Peer2peer is the most decentralized way to experience our digital life.
 - each digital twin needs compute, network and storage resources to survive, the twin will use TFT to reserve and pay for these resources as used on the ThreeFold Grid.
 - The twin is the only entity who has control over the resource it requires, its all 100% private and no blockchain involved to reserve and use that capacity.
 
-![](img/threefold_grid_0.png)
+![](img/threefold_grid_0.jpg)
 
 - There can be unlimited amounts of 3Nodes as well as Digital Twins.
 - There are no bottlenecks nor centralization points.
@@ -33,13 +33,13 @@ Peer2peer is the most decentralized way to experience our digital life.
 
 ### The Digital Twin Provides your digital life.
 
-![](img/your_digital_twin.png)
+![](img/your_digital_twin.jpg)
 
 - full control over your own digital life.
 - experiences to be created using standard web technologies (html, javascript).
 - the digital twin delivers the web interface to your (secure) browser.
 
-![](img/digital_twin_to_browser_easy.png)
+![](img/digital_twin_to_browser_easy.jpg)
 
 - no need for information to travel to central datacenters, all communication is fast and private between digital twins. No more client-server.
 - all logic of your digital life is 100% private to you running in your twin.
@@ -50,7 +50,7 @@ Peer2peer is the most decentralized way to experience our digital life.
 
 ### Any developer can easily develop experiences 
 
-![](img/digital_twin_experiences.png)
+![](img/digital_twin_experiences.jpg)
 
 - super easy for any web developer to create experiences.
 - the most efficient way how to provide for your future digital life.
@@ -60,11 +60,11 @@ Peer2peer is the most decentralized way to experience our digital life.
 
 Each 3Node is an IT Power generator. The TFGrid is the network of these 3Nodes.
 
-![](img/power_generation.png)
+![](img/power_generation.jpg)
 
 Needs to be super simple, just like a solar panel generates electricity.
 
-![](img/power_generator_comparison.png)
+![](img/power_generator_comparison.jpg)
 
 - The 3nodes do for internet what solar panels do for large scale electricity power plants.
 - They allow everyone to contribute to a new internet.

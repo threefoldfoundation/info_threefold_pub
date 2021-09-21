@@ -1,3 +1,3 @@
-<!-- ![projects](img/projects.png) -->
+<!-- ![projects](img/projects.jpg) -->
 
 !!!include:projects_overview

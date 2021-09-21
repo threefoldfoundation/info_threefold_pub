@@ -1,6 +1,6 @@
 # June 4: Q2 3Node Batch is Sold Out! Q3 Pre-registration is Live!
 
-![](img/q2_sold_out.png)
+![](img/q2_sold_out.jpg)
 
 😮 Wow! 😮
 

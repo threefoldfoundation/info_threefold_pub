@@ -1,6 +1,6 @@
 # ThreeFold Grid v2.8.0
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
  New Features, improvements and component releases related to The ThreeFold's peer2peer internet Grid
 
@@ -48,10 +48,10 @@ Improvements on this release would revolve user's public IP management on TF Exp
 - Created a TF Explorer UI feature to display of whether a node or farm is on Grid V.3.0 farming 
 
 ### Farming and Minting Operational Improvements
-Since the launch of Farming v3.0: [Farming Reward Logic](tfgrid:farming_reward) 3.0 and the new v3.0 [Pricing Policy](pricing) for Grid 2.x releases, a certain set of features need to be implemented on Grid components to support the farming and minting operations to make sure that every operation aligns on farming v3.0 requirements.
+Since the launch of Farming v3.0: [Farming Reward Logic](farming_reward) 3.0 and the new v3.0 [Pricing Policy](pricing) for Grid 2.x releases, a certain set of features need to be implemented on Grid components to support the farming and minting operations to make sure that every operation aligns on farming v3.0 requirements.
 
 #### Specification
-- Farming v3.0: [Farming Reward Logic](tfgrid:farming_reward)
+- Farming v3.0: [Farming Reward Logic](farming_reward)
 - New v3.0 [Pricing Policy](pricing)
 
 #### Changelogs

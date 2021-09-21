@@ -1,6 +1,6 @@
 ## Sabrina Sadik
 
-![sabrina_sadik](img/sabrina_sadik.png)
+![sabrina_sadik](img/sabrina_sadik.jpg)
 
 - Customer Support
 - [LinkedIn](https://www.linkedin.com/in/sabrina-sadik-449758132/)

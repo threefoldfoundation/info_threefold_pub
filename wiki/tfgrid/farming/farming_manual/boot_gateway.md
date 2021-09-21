@@ -8,7 +8,7 @@
 
 ## Deployment
 
-![architecture_overview](img/gateway_architecture.png)
+![architecture_overview](img/gateway_architecture.jpg)
 
 The TFGateway works by reading the reservation detail from the TFExplorer. It then converts the reservation into configuration readable by the TCP Router server or CoreDNS and writes them into a Redis server.
 

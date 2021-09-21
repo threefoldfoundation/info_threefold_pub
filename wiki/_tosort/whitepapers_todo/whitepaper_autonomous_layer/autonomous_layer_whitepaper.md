@@ -1,4 +1,4 @@
-![alt_text](img/header.png)
+![alt_text](img/header.jpg)
 
 # ThreeFold Technology Whitepaper: 
 # Autonomous Layer
@@ -21,7 +21,7 @@ Version: 1.0
 
 # ThreeFold Blockchains
 
-![alt_text](img/net.png)
+![alt_text](img/net.jpg)
 
 
 In our solution, we use our blockchain technology to run multiple blockchain instances. For our digital currency it will be the Stellar blockchain and for storing and getting consensus around data it is the BCDB.

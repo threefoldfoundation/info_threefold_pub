@@ -1,6 +1,6 @@
 # June 4: Coverage on Cointelegraph
 
-![](img/cointelegraph.png)
+![](img/cointelegraph.jpg)
 
 We received some coverage in Cointelegraph yesterday pertaining to our project and our partnership with DigiByte and others.
 

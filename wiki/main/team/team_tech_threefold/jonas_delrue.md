@@ -1,6 +1,6 @@
 ## Jonas Delrue
 
-![jonas_delrue](img/jonas_delrue.png)
+![jonas_delrue](img/jonas_delrue.jpg)
 
 - Jimber Team Lead
 - [LinkedIn](https://www.linkedin.com/in/jonas-delrue/)

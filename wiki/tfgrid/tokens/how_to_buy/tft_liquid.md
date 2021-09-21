@@ -1,10 +1,10 @@
-![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
+![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.jpg)
 
 # Buy from Liquid Exchange
 
 Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our listing partners.
 
-![](img/liquidheader.png)
+![](img/liquidheader.jpg)
 
 ### How to Register
 *Please note that Liquid does not support all countries. Find the list [here](https://help.liquid.com/en/articles/2272984-can-i-use-liquid-in-my-country).*

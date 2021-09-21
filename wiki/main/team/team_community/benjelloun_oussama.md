@@ -1,6 +1,6 @@
 ## Benjelloun Oussama
 
-![benjelloun_oussama](img/benjelloun_oussama.png)
+![benjelloun_oussama](img/benjelloun_oussama.jpg)
 
 - Blockchain Community (30% time)
 - [LinkedIn](https://www.linkedin.com/in/oussama-benjelloun-110b51128/)

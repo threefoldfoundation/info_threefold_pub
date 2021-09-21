@@ -4,7 +4,7 @@ Stellar ecosystem provides some nice blockchain explorers, one of the best one i
 
 All important ThreeFold Token stats can be checked at [ThreeFold Token contract page](https://stellar.expert/explorer/public/asset/TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47)
 
-![](img/stellar_expret_tft_contract.png)
+![](img/stellar_expret_tft_contract.jpg)
 
 *Screenshot as of April 1st, 2021
 

@@ -1,6 +1,6 @@
 # Digibyte Foundation
 
-![](img/digibyte.png)
+![](img/digibyte.jpg)
 
 _The Digibyte Foundation_ is here to empower a sustainable decentralized world. We aim to stimulate global adoption of our blockchain and similar technologies that fulfil the core principles of decentralization in general. Decentralization needs to happen to see a better redistribution of opportunities, growth and value within our global society.
 

@@ -1,6 +1,6 @@
 # eVDC Admin Panel
 
-![](img/evdcadmin.png)
+![](img/evdcadmin.jpg)
 
 After successfuly deploying an eVDC from the eVDC Deployer, you can access your eVDC Admin panel via the given link on your [Deployed eVDCs List](evdc_manage).
 

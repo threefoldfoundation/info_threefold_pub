@@ -1,6 +1,6 @@
 # June 16: ThreeFold Coverage in BanklessTimes
 
-![](img/tfbanklesstimes.png)
+![](img/tfbanklesstimes.jpg)
 
 🗞 **ThreeFold’s Green Technology Strategy to a Fairer, More Sustainable World**
 

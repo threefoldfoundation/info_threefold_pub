@@ -1,4 +1,4 @@
-![](img/note_team.png)
+![](img/note_team.jpg)
 
 # Telegram Chat
 

@@ -1,7 +1,7 @@
 
 ## Andrea Castiglione
 
-![andrea_castiglione](img/andrea_castiglione.png)
+![andrea_castiglione](img/andrea_castiglione.jpg)
 
 - Driver & Consultant tokenlaunch & network/partners (part-time)
 - [LinkedIn](https://www.linkedin.com/in/castiglioneand/)

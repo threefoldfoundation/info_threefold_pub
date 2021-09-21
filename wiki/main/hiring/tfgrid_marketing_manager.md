@@ -1,5 +1,5 @@
 
-![](img/development_manager.png)
+![](img/development_manager.jpg)
 
 # TFGrid Engineering / Development Manager
 
@@ -69,6 +69,6 @@ Components you manage:
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

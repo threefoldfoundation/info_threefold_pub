@@ -1,5 +1,5 @@
 - [Home](readme)
-- [TFGrid Primitives](tfgrid:tfgrid_primitives)
+- [TFGrid Primitives](tfgrid_primitives)
 - [Concepts](cloud_concepts)
-  - [Smart Contract for IT](tfgrid:smartcontract_it)
-  - [CU/SU/NU](tfgrid:tfgrid_primitives)
+  - [Smart Contract for IT](smartcontract_it)
+  - [CU/SU/NU](tfgrid_primitives)

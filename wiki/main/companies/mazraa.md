@@ -1,4 +1,4 @@
-![](img/mazraa_web1.png)
+![](img/mazraa_web1.jpg)
 
 # Mazraa
 

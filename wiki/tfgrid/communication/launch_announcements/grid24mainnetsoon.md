@@ -1,6 +1,6 @@
 # February 2: Grid 2.4 is Coming to Mainnet!
 
-![](img/grid24mainnetsoon.png)
+![](img/grid24mainnetsoon.jpg)
 
 Hi all – we are pleased to share that we are in the final stages of testing Grid 2.4. We have found eVDC, 3Bot SDK, and Marketplace solution deployment & payment to be quite stable.
 

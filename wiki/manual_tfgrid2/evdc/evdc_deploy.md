@@ -10,21 +10,21 @@ To provision any workload using TF eVDC, there are some pre-requisites that need
 
 ## How to Deploy eVDC
 
-Go to [**eVDC Deployer website**](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](tfgrid:threefold_connect). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
+Go to [**eVDC Deployer website**](https://vdc.testnet.grid.tf/vdc/#/) and login the eVDC platform by using your [TF Connect account](threefold_connect). Follow the instructions on your desktop screen and on your TF Connect mobile app to log into the eVDC Deployer.
 
-![](img/evdc_login.png)
+![](img/evdc_login.jpg)
 
 Once logged in, click on **Deploy a VDC** button.
 
-![](img/evdc_deploy.png)
+![](img/evdc_deploy.jpg)
 
 Define the name and password of your new eVDC, as well as the size / plan of the new eVDC you would like to deploy. You can see more information by clicking on this [eVDC Pricings page on eVDC Wiki](https://vdc.threefold.io/docs/start-pay/) on a new tab. Click 'Next' when you have finished completing the new eVDC information page.
 
-![](img/evdc_signup.png)
+![](img/evdc_signup.jpg)
 
 Depending on your selected eVDC size / plan, you will be redirected to the payment page consisting of a QR Code. The QR code contains the payment address and the amount of TFT needed to activate your new eVDC.
 
-![](img/evdc_payment.png)
+![](img/evdc_payment.jpg)
 
 Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm the payment.
 
@@ -32,15 +32,15 @@ Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the T
 
 The payment screen will automatically reload itself once the payment is processed and will start the deployment of the new eVDC. The new eVDC deployment will take a few minutes, please do not close this deployment window while it loads.
 
-![](img/deploy_vdc.png)
+![](img/deploy_vdc.jpg)
 
 You will be notified once the new eVDC deployment is finished. Click on `Finish` to access your deployed eVDCs list.
 
-![](img/newvdc.png)
+![](img/newvdc.jpg)
 
 You can also access and manage your newly deployed eVDC on your 'List VDCs' page accessible via the evDC Deployer Homepage.
 
-![](img/deployer.png)
+![](img/deployer.jpg)
 
 > Read more on [**How to Access and Managed Your Deployed eVDCs**](evdc_manage)
 

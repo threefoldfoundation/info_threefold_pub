@@ -13,7 +13,7 @@ allows
 - stats about TFT
 - ...
 
-!!!include:tfgrid:consensus3_overview_graph
+!!!include:consensus3_overview_graph
 
 !!!include:tfchain_moreinfo
 

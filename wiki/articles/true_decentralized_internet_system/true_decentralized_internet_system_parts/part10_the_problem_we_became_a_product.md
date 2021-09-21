@@ -3,18 +3,18 @@
 DATA = IS THE NEW OIL …
 
 
-![alt_text](img/factory_brands.png)
+![alt_text](img/factory_brands.jpg)
 
 
 Our data is the most important asset we have. Companies like Facebook and Google needs lots of our data to function. 
 
-![alt_text](img/free_product_is_you.png)
+![alt_text](img/free_product_is_you.jpg)
 
 
 In our world, profit is the main driving force of our society, reducing us to a product in a big services machine. We no longer exist as an independent person, we exist as targets in a big Artificially Driven machine programed to maximize profit. Our data is the most valuable asset in this world.
 
 
-![alt_text](img/digital_personalities.png)
+![alt_text](img/digital_personalities.jpg)
 
 
 Next to the unethical behaviour of above paradigm there are also huge side effects in the way how these systems have been built.

@@ -19,22 +19,22 @@ To configure the K8S into Lens, you need to download the VDC `Kubeconfig` file:
 - First, go to `My VDC`.
 - Then click on the `KUBECONFIG` button in the upper right corner.
 
-![](img/evdc_k8s_monitoring_12_kubeconfig.png)
+![](img/evdc_k8s_monitoring_12_kubeconfig.jpg)
 
 Import this file into the IDE and proceed.
 
-![](img/evdc_k8s_monitoring_13_lens_kubeconfig.png)
+![](img/evdc_k8s_monitoring_13_lens_kubeconfig.jpg)
 
 And that's it! You now have Lens running the monitoring of your Kubernetes clusters.
 
-![](img/evdc_k8s_monitoring_14_lens.png)
+![](img/evdc_k8s_monitoring_14_lens.jpg)
 
 Lens gives insight in what is running in the Kubernetes cluster, with their state. 
 
 Through the built-in terminal, there is also a way to access the nodes, pods, deployments, and more in a command-based way using `kubectl`.
 
-![](img/31_vdc_terminal_k8s_nodes.png)
-![](img/32_vdc_terminal_k8s_pods.png)
+![](img/31_vdc_terminal_k8s_nodes.jpg)
+![](img/32_vdc_terminal_k8s_pods.jpg)
 
 More info:
 

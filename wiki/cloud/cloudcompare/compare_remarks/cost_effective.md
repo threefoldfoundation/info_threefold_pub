@@ -1,3 +1,3 @@
 # cost effective
 
-!!!include:tfgrid:cloud_pricing_compare
+!!!include:cloud_pricing_compare

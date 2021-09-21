@@ -1,6 +1,6 @@
 ## Hamdy Farag
 
-![hamdy_farag](img/hamdy_farag.png)
+![hamdy_farag](img/hamdy_farag.jpg)
 
 - Lead Engineer
 - [LinkedIn](https://www.linkedin.com/in/hamdy/)

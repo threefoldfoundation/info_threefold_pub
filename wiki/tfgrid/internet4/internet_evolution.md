@@ -2,11 +2,11 @@
 
 ### Classic Internet
 
-![](img/bad_internet_growth2.png)
+![](img/bad_internet_growth2.jpg)
 
 Everything is structured as client-server model
 
-![](img/everything_client_server.png)
+![](img/everything_client_server.jpg)
 
 - The servers run as applications inside huge datacenters using a lot of energy.
 - Most of the processes in those servers are being repeated = highly inefficient.
@@ -18,14 +18,14 @@ Everything is structured as client-server model
 
 Blockchain decentralized the server, but in principle it remains a client - server model.
 
-![](img/blockchain_is_clientserver.png)
+![](img/blockchain_is_clientserver.jpg)
 
 - It is definitely a step in the right direction but the paradigm is the same.
 - We as users still exist in different systems and have to deal with different applications (protocols).
 - These blockchains can be integrated and through web 2.0 concepts the web application can interact with multiple blockchains at the same time.
 - This has been also called web 3.0
 
-![](img/blockchain_based_distr_computer.png)
+![](img/blockchain_based_distr_computer.jpg)
 
 The browser has now become our operating system running on javascript. All applications run in our browser and interact with multiple blockchains.
 

@@ -1,4 +1,4 @@
-![](img/aci.png)
+![](img/aci.jpg)
 
 ## Experience Layer
 

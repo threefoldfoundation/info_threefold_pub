@@ -1,4 +1,4 @@
-![](img/freedom.png)
+![](img/freedom.jpg)
 
 # Internet 4.0 = carbon double win, internet system.
 
@@ -25,7 +25,7 @@ ThreeFold can deliver
 ## Benefits
 
 - [X] upto 100x less bandwidth required (in/out of country)
-- [X] [double carbon win](tfgrid:energy_savings) = first better than carbon neutral system in the world
+- [X] [double carbon win](energy_savings) = first better than carbon neutral system in the world
 - [X] sovereign internet (in country), zero dependencies to any foreign company
 - [X] antidote for cyber pandemic (absolute best security)
 - [X] unbreakable, not even a serious act of war can bring this system down

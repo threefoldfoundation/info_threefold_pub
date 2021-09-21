@@ -1,6 +1,6 @@
 # ThreeFold Technology Council
 
-![](img/technology_council.png)
+![](img/technology_council.jpg)
 
 Technology Guardians are the members of the ThreeFold Technology Council.
 

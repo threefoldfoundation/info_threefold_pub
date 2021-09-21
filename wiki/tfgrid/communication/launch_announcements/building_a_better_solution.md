@@ -1,6 +1,6 @@
 # April 23: Building a Better Solution for Our Planet
 
-![](img/building_a_better_solution.png)
+![](img/building_a_better_solution.jpg)
 
 Today’s Internet consumes approximately 10% of the world’s energy. This is not acceptable.
 

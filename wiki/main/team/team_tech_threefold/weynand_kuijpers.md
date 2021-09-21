@@ -1,6 +1,6 @@
 ## Weynand Kuijpers
 
-![weynand_kuijpers](img/weynand_kuijpers.png )
+![weynand_kuijpers](img/weynand_kuijpers.jpg )
 
 - QA Manager / Pre-Sales / Consultant for projects
 - [LinkedIn](https://www.linkedin.com/in/weynandkuijpers/)

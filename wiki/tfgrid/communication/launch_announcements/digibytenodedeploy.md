@@ -1,6 +1,6 @@
 # June 24: How to Decentralize the DigiByte Network
 
-![](img/digibytenodedeploy.png)
+![](img/digibytenodedeploy.jpg)
 
 Today we are happy to share with you some news from our partnership with the DigiByte Foundation 🤝 **how to decentralize the DigiByte Network by deploying a DigiByte Node on ThreeFold Grid!**
 

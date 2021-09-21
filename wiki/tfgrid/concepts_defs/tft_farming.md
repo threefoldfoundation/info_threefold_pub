@@ -1,6 +1,6 @@
 ## ThreeFold Token Farming (our alternative to minting)
 
-![](img/whatisafarmer.png)
+![](img/whatisafarmer.jpg)
 
 TF Farmers farm ThreeFold_Tokens by connecting hardware to the ThreeFold_Grid.
 As a result of farming, Internet capacity is generated and made available on the ThreeFold_Grid.

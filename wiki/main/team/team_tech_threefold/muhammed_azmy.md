@@ -1,6 +1,6 @@
 ## Muhammed Azmy
 
-![muhammed_azmy](img/muhamed_amzy.png)
+![muhammed_azmy](img/muhamed_amzy.jpg)
 
 - BE Team Lead
 - [LinkedIn](https://www.linkedin.com/in/muhamadazmy/)

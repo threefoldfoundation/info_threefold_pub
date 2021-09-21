@@ -1,4 +1,4 @@
-![](img/wallettitlescreen.png)
+![](img/wallettitlescreen.jpg)
 
 # Using the ThreeFold App
 
@@ -39,15 +39,15 @@ After having set your PIN code, a private key will be created for you. This key 
 
 To access your private key, click **Settings** in the app menu:
 
-![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.png)
+![Settings](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-settings.jpg)
 
 Then click **Security**:
 
-![Security](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-security.png)
+![Security](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-security.jpg)
 
 And finally, click the ThreeFold private key:
 
-![Seed](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-seed.png)
+![Seed](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/wallet-seed.jpg)
 
 We recommend making a screenshot of this screen, print it on paper and store it safely offline.
 

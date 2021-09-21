@@ -32,11 +32,11 @@ _If you don't have the ThreeFold Connect App, you can find out how to sign up [h
 
 **Step 2: Enter your contact details and click 'Send Verification Code'**
 
-![alt text](img/transcoin_contactdetails.png)
+![alt text](img/transcoin_contactdetails.jpg)
 
 **Step 3: Input the verification code sent to your email**
 
-![alt text](img/transcoin_mail.png)
+![alt text](img/transcoin_mail.jpg)
 
 **Step 4: KYC Procedure**
 Send all documents required by Transcoin in order to get verified.
@@ -48,11 +48,11 @@ Define the amount (€) you would like to buy and provide the wallet address you
 
 Your wallet address is in your ThreeFold Connect App. Find out how [here](threefold_connect).
 
-![alt text](img/transcoin_amounts.png)
+![alt text](img/transcoin_amounts.jpg)
 
 **Step 6: Choose Preferred Way Of Payment**
 
-![alt text](img/transcoin_psp.png)
+![alt text](img/transcoin_psp.jpg)
 
 #### **Your order is now processed.**
 As soon as Mazraa has received the transaction details from Transcoin, they will transfer the tokens to the provided wallet address.

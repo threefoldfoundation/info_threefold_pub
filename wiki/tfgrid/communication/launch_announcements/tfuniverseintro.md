@@ -1,6 +1,6 @@
 # April 10: Dive Into the ThreeFold Universe
 
-![](img/tfuniverseintro.png)
+![](img/tfuniverseintro.jpg)
 
 **Dive into [threefold.io](https://threefold.io) and explore the expanding ThreeFold universe!**
 

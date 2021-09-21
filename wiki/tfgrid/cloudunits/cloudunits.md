@@ -1,6 +1,6 @@
 # Cloud Units
 
-![](img/cloudunits_abstract.png)
+![](img/cloudunits_abstract.jpg)
 
 Cloud units are the basis for price calculation for anyone intending to use/deploy on the Threefold_Grid. 
 

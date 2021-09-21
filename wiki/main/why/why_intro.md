@@ -1,6 +1,6 @@
 # Why we do what we do
 
-![](img/humanityplanet.png)
+![](img/humanityplanet.jpg)
 
 ## Internet Access is a Human Right
 

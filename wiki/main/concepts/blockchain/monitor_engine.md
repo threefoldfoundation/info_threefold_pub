@@ -5,7 +5,7 @@ This is needed to build the reputation of a farmer.
 
 In next phase it will also measure other SLA requirements like bandwidth and quality of network (e.g. latency).
 
-!!!include:tfgrid:consensus3_overview_graph
+!!!include:consensus3_overview_graph
 
 !!!include:tfchain_moreinfo
 

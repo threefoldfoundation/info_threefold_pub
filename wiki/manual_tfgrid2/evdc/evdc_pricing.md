@@ -32,11 +32,11 @@ After the creation of your eVDC, you should always make sure that there is suffi
 
 Two weeks before the expiration of your VDC (due to insufficient funds), you will receive a request to top-up your wallet to ensure sufficient funding is available to to keep your VDC alive.
 
-![](img/evdc_expiration_warning.png ':size=400')
+![](img/evdc_expiration_warning.jpg ':size=400')
 
 You can top-up your VDC wallet by transferring TFTs to the indicated address or by scanning the QR code in the `Wallet Information`.
 
 ## More Info
 
-- Learn how to buy TFT [here](tfgrid:how_to_buy)
+- Learn how to buy TFT [here](how_to_buy)
 - See how to manage your [Wallet](evdc_wallet)

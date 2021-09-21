@@ -1,6 +1,6 @@
 ## Status of the decentralized internet today?
 
-![alt_text](img/space_colony.png)
+![alt_text](img/space_colony.jpg)
 
 Does this system exist today? Also at ThreeFold, we are not there yet **but we are very close.**
 
@@ -8,9 +8,9 @@ Probably further advanced compared to any other startup or technology vendor.
 
 We had to re-invent a blockchain, an operating system, and a self-healing autonomous IT system.
 
-![alt_text](img/blocks.png)
+![alt_text](img/blocks.jpg)
 
-![alt_text](img/fist.png)
+![alt_text](img/fist.jpg)
 
 **But we are very close.**
 

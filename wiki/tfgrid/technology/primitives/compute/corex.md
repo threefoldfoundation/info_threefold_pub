@@ -1,7 +1,7 @@
 
 # CoreX
 
-![](img/corex.png)
+![](img/corex.jpg)
 
 This tool allows you to manage your ZMachine over web remotely.
 

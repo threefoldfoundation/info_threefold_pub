@@ -1,6 +1,6 @@
 # Generation Blue
 
-![](generation_blue.png)
+![](generation_blue.jpg)
 
 *The Generation Blue* enables the shift to an Earth Positive economy based on reciprocity, where every act of consumption is met with an opposite act of regeneration and protection of nature. We do this by building a marketplace of products and services powered by positive impact assets – tokens that when purchased, go directly and verifiably (via blockchain) to regenerative impact like the protection of rainforest or restoration of mangroves.
 

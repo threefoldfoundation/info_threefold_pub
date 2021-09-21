@@ -1,6 +1,6 @@
 ## Fernando del Sol
 
-![fernando_del_sol](img/fernando_del_sol.png)
+![fernando_del_sol](img/fernando_del_sol.jpg)
 
 - Community builder (30% time)
 

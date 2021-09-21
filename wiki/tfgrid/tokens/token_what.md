@@ -1,4 +1,4 @@
-![](img/tokenwiki.png)
+![](img/tokenwiki.jpg)
 
 # What are ThreeFold_Tokens (TFT)?
 
@@ -10,7 +10,7 @@ Users, developers, and enterprises use TFT to reserve the capacity they need to 
 
 With TFT, you can use the following products and services that live on the ThreeFold_Grid:
 
-- [ThreeFold P2P Cloud: Reserve and use cloud capacity.](https://cloud.threefold.io/)
+- [ThreeFold P2P  Reserve and use cloud capacity.](https://cloud.threefold.io/)
 - [Digital Twin: A unique digital ID that assures that only you own your data, and no one else. Access numerous applications in full security and privacy. See Digital Twin wiki.](https://info.mydigitaltwin.io)
 - [ThreeFold P2P Marketplace: Find ready-to-deploy peer-to-peer applications](https://marketplace.threefold.io/)
 
@@ -24,7 +24,7 @@ This process is called **Farming**. [You can learn more about farming here](farm
 
 ## A circular token economy
 
-![](img/circular_tft.png)
+![](img/circular_tft.jpg)
 
 A circular economy enables anyone to take part and to get rewarded for it: 
 1. When Farmers connect 3Nodes and add capacity to the ThreeFold_Grid, they will create new TFT through the process of farming.  

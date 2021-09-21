@@ -1,6 +1,6 @@
 # Why is the ThreeFold Capacity Layer more Efficient?
 
-![alt_text](img/efficient.png)
+![alt_text](img/efficient.jpg)
 
 Hardware improved 10,000 times during the last 30 years.However, user features and performance improved by only 10 times. Why is that?
 
@@ -10,7 +10,7 @@ Hardware improved 10,000 times during the last 30 years.However, user features a
 *   It is easier to build layers on top of other layers instead of rewriting them.
 
 
-![alt_text](img/why_efficient.png)
+![alt_text](img/why_efficient.jpg)
 
 ## Layers
 

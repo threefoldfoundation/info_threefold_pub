@@ -14,7 +14,7 @@
 
 <br/>
 
-![add_liquidity](img/add_liquidity.png)
+![add_liquidity](img/add_liquidity.jpg)
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 <br/>
 
-![approve_tft](img/approve_tft.png)
+![approve_tft](img/approve_tft.jpg)
 
 <br/>
 
-![comfirm](img/confirmation.png)
+![comfirm](img/confirmation.jpg)
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-![supply](img/supply.png)
+![supply](img/supply.jpg)
 
 <br/>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-![lp_tokens](img/lp_tokens.png)
+![lp_tokens](img/lp_tokens.jpg)
 
 <br/>
 

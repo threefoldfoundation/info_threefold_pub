@@ -1,6 +1,6 @@
 # Decentralized Developer
 
-![](img/evdc_mktplace_developer.png)
+![](img/evdc_mktplace_developer.jpg)
 
 Software development evolved to become distributed and scattered over the world, trying to work together. 
 

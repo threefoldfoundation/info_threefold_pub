@@ -1,5 +1,5 @@
 
-![](img/peer2peercloud.png)
+![](img/peer2peercloud.jpg)
 
 # ThreeFold Peer-to-Peer Cloud
 
@@ -12,9 +12,9 @@ It comes with several game-changing products:
 
 See [Peer-2-Peer Cloud Website](https://threefold.io/cloud)
 
-See [Peer-2-Peer Cloud Knowledge Base](cloud:cloud_home)
+See [Peer-2-Peer Cloud Knowledge Base](cloud_home)
 
 <!-- ## Incredible Features -->
-<!-- ![](img/peer2peer_private.png) -->
+<!-- ![](img/peer2peer_private.jpg) -->
 
 !!!def alias:P2P_cloud,Peer2Peer_cloud,TF_Cloud,ThreeFold_Cloud

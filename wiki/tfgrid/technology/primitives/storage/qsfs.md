@@ -1,6 +1,6 @@
 # Quantum Safe Filesystem
 
-![](img/zos_zstor.png)
+![](img/zos_zstor.jpg)
 
 presents itself as a filesystem to the ZMachine.
 

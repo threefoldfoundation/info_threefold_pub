@@ -1,8 +1,8 @@
 # Tokenomics Overview
 
-<!-- ![](img/inclusive.png) -->
+<!-- ![](img/inclusive.jpg) -->
 
-![](img/tf3_tokenomics.png)
+![](img/tf3_tokenomics.jpg)
 
 ## Creation of TFTs
 

@@ -2,7 +2,7 @@
 
 ThreeFold's Kubernetes Technology.
 
-![](img/zmachine_overview.png)
+![](img/zmachine_overview.jpg)
 
 >TODO: add more content, there are better pictures
 

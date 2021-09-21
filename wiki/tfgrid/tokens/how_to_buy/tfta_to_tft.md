@@ -1,4 +1,4 @@
-![](img/tokenwiki.png)
+![](img/tokenwiki.jpg)
 
 ## Convert TFTA to TFT
 

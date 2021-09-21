@@ -1,13 +1,13 @@
 # Example Packaging
 
-![alt_text](img/example1.png)
+![alt_text](img/example1.jpg)
 
 <table>
   <tr>
    <td>
     
 
-![alt_text](img/example2.png)
+![alt_text](img/example2.jpg)
 
    </td>
    <td>
@@ -37,12 +37,12 @@ Min configuration for 2U = 10cm height
   <tr>
    <td>
     
-![alt_text](img/example3.png)
+![alt_text](img/example3.jpg)
 
    </td>
    <td>
     
-![alt_text](img/example4.png)
+![alt_text](img/example4.jpg)
 
    </td>
   </tr>

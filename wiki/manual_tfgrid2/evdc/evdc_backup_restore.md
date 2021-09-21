@@ -4,7 +4,7 @@ Each eVDC is backed-up at regular intervals (for now, daily). Next to these regu
 
 Back-ups remain available for a month and are then deleted automatically. 
 
-![](img/evdc_backup_restore.png)
+![](img/evdc_backup_restore.jpg)
 
 Two types of back-ups are available: 
 - entries starting with `config` represent the backups of the cluster configurations and secrets

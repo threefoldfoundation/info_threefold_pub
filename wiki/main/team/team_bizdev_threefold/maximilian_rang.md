@@ -1,6 +1,6 @@
 ## Maximilian Rang
 
-![maximilian_rang](img/maximilian_rang.png)
+![maximilian_rang](img/maximilian_rang.jpg)
 
 - Business development for Crypto Community
     - Also helps in marketing

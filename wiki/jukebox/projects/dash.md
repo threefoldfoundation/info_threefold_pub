@@ -1,4 +1,4 @@
-![dash](img/dash.png)
+![dash](img/dash.jpg)
 
 [**Dash**](https://www.dash.org) is an open source peer-to-peer cryptocurrency with a strong focus on the payments industry.
 

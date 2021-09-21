@@ -1,4 +1,4 @@
-![alt](img/tftexplo.png)
+![alt](img/tftexplo.jpg)
 
 # Guide: Going From Fiat to TFT
 

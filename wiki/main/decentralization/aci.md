@@ -1,4 +1,4 @@
-![alt](img/earth.png)
+![alt](img/earth.jpg)
 
 # Alliance Conscious Internet
 

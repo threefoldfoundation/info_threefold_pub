@@ -1,4 +1,4 @@
 
-![](img/power_stats_datacenters.png)
+![](img/power_stats_datacenters.jpg)
 
 > dont use

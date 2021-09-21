@@ -1,8 +1,8 @@
 !!!include:home_include
-- [Grid](tfgrid:grid_home)
-- [Farming](tfgrid:farming_home)
-- [Tokens](tfgrid:tokens_home)
-- [Cloud](cloud:cloud_home)
+- [Grid](grid_home)
+- [Farming](farming_home)
+- [Tokens](tokens_home)
+- [Cloud](cloud_home)
 - [About](about)
 
 ------

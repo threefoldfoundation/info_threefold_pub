@@ -1,6 +1,6 @@
 ## Adnan Fatayerji
 
-![adnan_fatayerji](img/adnan_fatayerji.png)
+![adnan_fatayerji](img/adnan_fatayerji.jpg)
 
 - CEO at ThreeFold Foundation
   - Manages our ThreeFold Foundation from Dubai

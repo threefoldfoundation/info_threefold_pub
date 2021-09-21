@@ -30,11 +30,11 @@ Quantum safe storage has been completely overhauled and is available as a filesy
 
 Deployment of IT workload using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure or services. This represents a breakthrough in IT. 3Bot records all transactions within the blockchain database (BCDB), ensuring an immutable record of any workload and enables the self-healing functionality as any workload can easily be restored if/when needed.
 
-![](img/smartcontractit_intro.png)
+![](img/smartcontractit_intro.jpg)
 
 
 ## Secure Decentralized access
 
 Access your virtual data center through Threefold Connect App. This app is a fully decentralized multi-factor authentication mechanism based on PKI technology.
 
-![](img/vdc_secure.png)
+![](img/vdc_secure.jpg)

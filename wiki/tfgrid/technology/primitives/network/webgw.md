@@ -4,7 +4,7 @@
 
 The Web Gateway is a mechanism to connect the private networks to the open Internet, in such a way that there is no direct connection between internet and the secure workloads running in the ZMachines.
 
-![](img/webgateway.png)
+![](img/webgateway.jpg)
 
 
 - Separation between where compute workloads are and where services are exposed.
@@ -32,12 +32,12 @@ Buy not providing an open and direct path in to the private network a lot of mal
 
 ### Redundant Network Connection
 
-![](img/redundant_net.png)
+![](img/redundant_net.jpg)
 
 
 ### Unlimited Scale
 
-![](img/webgw_scaling.png)
+![](img/webgw_scaling.jpg)
 
 
 The network architecture is a pure scale-out network system, it can scale to unlimited size, there is simply no bottleneck. Network "supply" is created by network farmers, and network "demand" is done by TF Grid users.  Supply and demand scale independently, for supply there can be unlimited network farmers providing the web gateways on their own 3nodes and unlimited compute farmers providing 3nodes for compute and storage. The demand side is driven by developers creating software that runs on the grid, system integrators creating solutions for enterprise and this demand side is exponentially growing for data processing and storage use cases.

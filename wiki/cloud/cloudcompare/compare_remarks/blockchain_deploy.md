@@ -1,5 +1,5 @@
 # Deploy Using Blockchain Constructs
 
-![alt_text](img/smartcontract_it_highlevel.png)
+![alt_text](img/smartcontract_it_highlevel.jpg)
 
-> see [Smart Contract For IT](tfgrid:smartcontract_it)
+> see [Smart Contract For IT](smartcontract_it)

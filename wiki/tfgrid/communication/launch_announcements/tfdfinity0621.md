@@ -1,6 +1,6 @@
 # June 11: Dfinity, ThreeFold are Leading an Internet Decentralization Revolution – via TGDaily
 
-![](img/tfdfinity0621.png)
+![](img/tfdfinity0621.jpg)
 
 🗞 **ThreeFold in the News** 🗞
 

@@ -1,6 +1,6 @@
 ### Unique storage architecture for the digital Twin.
 
-![](img/storage_twin.png)
+![](img/storage_twin.jpg)
 
 
 > based on QSSS

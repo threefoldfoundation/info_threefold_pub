@@ -1,6 +1,6 @@
 # June 8: We Just Received More Than 3,000 Pre-Registrations! Thank You!
 
-![](img/3k3nodes.png)
+![](img/3k3nodes.jpg)
 
 Over the past days we have received **more than 3,000 pre-registrations** for the Titan V2 3Node!
 

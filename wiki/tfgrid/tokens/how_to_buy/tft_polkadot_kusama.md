@@ -1,7 +1,7 @@
 # Buy/Sell TFT on Polkadot Kusama
 
 
-![](img/parity_dex.png)
+![](img/parity_dex.jpg)
 
 It will be possible to buy/sell TFT directly from the Polkadot (Kusama) ecosystem.
 

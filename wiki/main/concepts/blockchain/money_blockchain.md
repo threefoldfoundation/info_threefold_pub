@@ -1,4 +1,4 @@
-![](img/money_bc.png)
+![](img/money_bc.jpg)
 
 # money blockchain
 

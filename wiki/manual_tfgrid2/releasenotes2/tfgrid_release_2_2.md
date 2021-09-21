@@ -1,6 +1,6 @@
 # ThreeFold Grid 2.2.0
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 Release notes TF Grid 2.2.0 
 

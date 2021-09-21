@@ -1,4 +1,4 @@
-![](img/tf30.png)
+![](img/tf30.jpg)
 
 # The path to ThreeFold 3.0
 

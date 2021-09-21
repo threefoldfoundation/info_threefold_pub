@@ -2,7 +2,7 @@
 
 Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our listing partners. See more about the Liquid Exchange [here](tft_liquid).
 
-![](img/liquidquickexchange.png)
+![](img/liquidquickexchange.jpg)
 
 Liquid has a [Quick Exchange](https://app.liquid.com/quick-exchange/), which will allow you to buy TFT with a Visa card after a low-friction KYC process.
 

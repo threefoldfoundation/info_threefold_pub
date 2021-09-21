@@ -1,6 +1,6 @@
 # TF Grid 2.3.O
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 ## New Features
 

@@ -16,11 +16,11 @@ When logged in to eVDC, find the `DigiByte` widget in Marketplace, on your admin
 
 You will be directed to a chat flow for the deployment process.
 
-![](img/evdc_digibyte_widget.png ':size=300')
+![](img/evdc_digibyte_widget.jpg ':size=300')
 
 Create a name for your DigiByte node. This name will be used to identify your deployment on your `Deployed Solutions` list.
 
-![](img/digibyte_create.png ':size=600')
+![](img/digibyte_create.jpg ':size=600')
 
 You can choose to create a URL which is part of your domain, or have one auto-generated.
 
@@ -30,34 +30,34 @@ Select the domain type for your Cryptpad:
 - To host a blog using **your own domain**, select `choose a custom domain`.
 
 
-![](img/digibyte_domain.png ':size=600')
+![](img/digibyte_domain.jpg ':size=600')
 
 Create a username and password to access your DigiByte Node.
 
-![](img/digibyte_username.png ':size=600')
+![](img/digibyte_username.jpg ':size=600')
 
 
 Choose the size of the capacity that you want to reserve for your Digibyte Node workload usage, both in terms of compute power and memory capacity. 
 A Gold flavor configuration (CPU 4000m / 12000Mi) is sufficient at this moment. 
 
-![](img/evdc_digibyte_flavor.png ':size=600')
+![](img/evdc_digibyte_flavor.jpg ':size=600')
 
 Congratulations! You just successfully deployed a DigiByte node. 
 
-![](img/evdc_digibyte_success.png ':size=600')
+![](img/evdc_digibyte_success.jpg ':size=600')
 
 The url that gives access to your DigiByte node can be found on the next screen, or in the deployed solutions overview.
 
 When you click on the url, it will re-direct you to the stats page of your new DigiByte Node. There, you can find all the information you can follow the synchronisation status of your Digibyte Node.
 
-![](img/evdc_digibyte_synchro1.png ':size=600')
-![](img/evdc_digibyte_synchro2.png ':size=600')
-![](img/evdc_digibyte_synchro3.png ':size=600')
+![](img/evdc_digibyte_synchro1.jpg ':size=600')
+![](img/evdc_digibyte_synchro2.jpg ':size=600')
+![](img/evdc_digibyte_synchro3.jpg ':size=600')
 
 To find and access the DigiByte node you just deployed, simply go to the DigiByte widget on your Admin Panel. Click on `My Workloads` to go to the list of your successfully deployed DigiByte nodes.
 
-![](img/evdc_digibyte_myworkload.png ':size=300')
+![](img/evdc_digibyte_myworkload.jpg ':size=300')
 
 The link will lead you to your deployed DigiByte node stats page.
 
-![](img/evdc_digibyte_access.png ':size=600')
+![](img/evdc_digibyte_access.jpg ':size=600')

@@ -1,8 +1,8 @@
-![](img/savings_energy_2.png)
+![](img/savings_energy_2.jpg)
 
 # Energy Savings Digital Twin Calculation
 
-![](img/power_calc_digitaltwin.png)
+![](img/power_calc_digitaltwin.jpg)
 
 This shows that a digital twin uses about 2.44 watt to operate.
 

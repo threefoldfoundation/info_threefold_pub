@@ -1,6 +1,6 @@
 # Network wall
 
-![](img/webgateway.png)
+![](img/webgateway.jpg)
 
 
 > the best security = no network = no incoming tcp/ip from internet to containers 

@@ -1,6 +1,6 @@
 # May 5: Update on the Binance Smart Chain Integration
 
-![](img/bsc_update.png)
+![](img/bsc_update.jpg)
 
 Last week we announced our plan to make the ThreeFold Token more accessible through multichain integrations – with Binance Smart Chain up first!
 

@@ -1,7 +1,7 @@
 ## Indexing & Search Problem
 
 
-![alt_text](img/new_library.png)
+![alt_text](img/new_library.jpg)
 
 
 A difficult problem in a fully decentralized system is how to index and search for information.

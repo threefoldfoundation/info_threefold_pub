@@ -1,11 +1,11 @@
 # Data Safety & Privacy
 
-![](img/qsss_intro.png)
+![](img/qsss_intro.jpg)
 
 
 Thanks to the ThreeFold qsss data is always private & secure.
 
-![](img/qsfs_arch.png)
+![](img/qsfs_arch.jpg)
 
 Data is stored over multiple locations (not as copies).
 

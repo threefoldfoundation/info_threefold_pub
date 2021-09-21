@@ -5,34 +5,34 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 
 #### Add the solution name. Note that this will also be the subdomain.
 Choosing the name of the solution to be deployed. This allows the user to view the solution's reservation info in the dashboard deployed solutions.
-![](img/cryptpad_1.png)
+![](img/cryptpad_1.jpg)
 
 #### Enter your website title, repo url and branch
-![](img/cryptpad_2.png)
+![](img/cryptpad_2.jpg)
 
 ### Choose the expiration time
-![](img/cryptpad_3.png)
+![](img/cryptpad_3.jpg)
 
 ### Select the payment currency
-![](img/cryptpad_4.png)
+![](img/cryptpad_4.jpg)
 
 ### Payment step for the container using 3Bot staging app.
-![](img/cryptpad_5.png)
+![](img/cryptpad_5.jpg)
 
 ### Wait until your payment transaction is finished
-![](img/cryptpad_6.png)
+![](img/cryptpad_6.jpg)
 
 ### Now your solution resources are being prepared
-![](img/cryptpad_7.png)
+![](img/cryptpad_7.jpg)
 
 ### Summary of your deployment information
-![](img/cryptpad_8.png)
+![](img/cryptpad_8.jpg)
 
 ### Deploying your solution.
-![](img/cryptpad_9.png)
+![](img/cryptpad_9.jpg)
 
 ### Deployment successful, you could access your solution now using the domain name.
-![](img/cryptpad_10.png)
+![](img/cryptpad_10.jpg)
 
 ### Accessing the solution
-![](img/cryptpad_11.png)
+![](img/cryptpad_11.jpg)

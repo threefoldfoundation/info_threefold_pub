@@ -1,6 +1,6 @@
 # How to buy TFT on Binance Smart Chain
 
-![](img/binance_smart_chain.png)
+![](img/binance_smart_chain.jpg)
 
 Binance Smart Chain (BSC) is a blockchain network built for running smart contract-based applications. BSC runs in parallel with Binance's native Binance Chain (BC), which allows users to get the best of both worlds: the high transaction capacity of BC and the smart contract functionality of BSC.
 
@@ -23,7 +23,7 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 
 <br/>
 
-![security](img/security_warning.png)
+![security](img/security_warning.jpg)
 
 <br/>
 
@@ -31,7 +31,7 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 
 <br/>
 
-![exchange](img/exchange.png)
+![exchange](img/exchange.jpg)
 
 <br/>
 
@@ -39,7 +39,7 @@ If you are looking for ways to provide liquidity for TFT on Binance Smart Chain,
 
 <br/>
 
-![](img/pancakeswap.png)
+![](img/pancakeswap.jpg)
 
 <br/>
 

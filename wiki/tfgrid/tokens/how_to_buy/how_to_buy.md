@@ -1,5 +1,5 @@
 
-![](img/tftexplo.png)
+![](img/tftexplo.jpg)
 
 # How to Buy TFT
 

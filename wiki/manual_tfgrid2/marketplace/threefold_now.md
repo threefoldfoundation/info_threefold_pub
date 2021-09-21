@@ -1,6 +1,6 @@
 # Introducing: ThreeFold NOW Marketplace
 
-![](img/tfnow_home.png)
+![](img/tfnow_home.jpg)
 
 - **ThreeFold NOW Marketplace** is a marketplace of open source peer-to-peer solutions built on top of ThreeFold_Grid, deployable via [eVDC Admin Panel](evdc).
 - Its main goal is to enable simplified deployment of safe, secure, and private solutions that will decentralize our lives without the necessity of technical system administration knowledge.
@@ -24,12 +24,12 @@
 
 ### ThreeFold Now Information & Tutorials
 
-![](img/now_wiki.png)
+![](img/now_wiki.jpg)
 
 - Please visit [the wiki](https://now.threefold.io) where you can find much more information.
 - All _live_ solutions have brief deployment tutorials on their specific pages.
 
-![](img/tfnow_home.png)
+![](img/tfnow_home.jpg)
 
 > By using The ThreeFold Now Demo or the 3Bot you agree with our [Terms and Conditions](legal:terms_conditions_cloud). See our [Legals](legal:legal) for more.
 

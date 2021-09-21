@@ -1,6 +1,6 @@
 # Ansible
 
-![](img/ansible1.png)
+![](img/ansible1.jpg)
 
 With the exponential growth of IT industries around the globe, it’s becoming increasingly difficult to manually keep track of all development tasks. Automation adds efficiency to your company allowing your developers to concentrate their efforts where it matters the most.
 

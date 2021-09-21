@@ -1,4 +1,4 @@
-![](img/telco_intro.png)
+![](img/telco_intro.jpg)
 
 # Products
 

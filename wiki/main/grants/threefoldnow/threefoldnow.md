@@ -1,6 +1,6 @@
 # ThreeFoldNow
 
-![](img/cap2layer.png)
+![](img/cap2layer.jpg)
 
 ### Purpose
 
@@ -50,45 +50,45 @@ Feature requests are welcome.
 
 #### wordpress
 
-![](img/wordpress.png)
+![](img/wordpress.jpg)
 
 #### odoo
 
 Powerfull crm/erp/project management system.
 
-![](img/odoo.png)
+![](img/odoo.jpg)
 
 #### taiga
 
-![](img/taiga.png)
+![](img/taiga.jpg)
 
 ### discord
 
-![](img/discord.png)
+![](img/discord.jpg)
 
 #### gitea
 
-![](img/gitea.png)
+![](img/gitea.jpg)
 
 #### gitlab
 
-![](img/gitlab.png)
+![](img/gitlab.jpg)
 
 #### Syncthing
 
-![](img/synchting.png)
+![](img/synchting.jpg)
 
 #### ghost
 
-![](img/ghost.png)
+![](img/ghost.jpg)
 
 #### postgresql
 
-![](img/postgresql.png)
+![](img/postgresql.jpg)
 
 #### mariadb
 
-![](img/mariadb.png)
+![](img/mariadb.jpg)
 
 #### mongodb
 
@@ -96,4 +96,4 @@ Powerfull crm/erp/project management system.
 
 #### Grafana & Prometheus
 
-![](https://miro.medium.com/max/3694/1*KimwgjULRZzONpjGFH1sTA.png)
+![](https://miro.medium.com/max/3694/1*KimwgjULRZzONpjGFH1sTA.jpg)

@@ -1,6 +1,6 @@
 # BetterToken NV
 
-![](img/bettertoken_web.png)
+![](img/bettertoken_web.jpg)
 
 European Farming Cooperative for the foundation:
 

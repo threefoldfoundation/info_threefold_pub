@@ -1,7 +1,7 @@
 # 3Node Pre-Register Q2 Batch Closing Soon
 ## Pre-register before the 30th of June if you want to be included in the batch.
 
-![](img/q2_closing_soon.png)
+![](img/q2_closing_soon.jpg)
 
 Our next batch of Titan V2 3Nodes will ship in a matter of weeks. 
 

@@ -1,5 +1,5 @@
 
-![](img/sustainable.png)
+![](img/sustainable.jpg)
 
 # Vesting Overview
 
@@ -19,6 +19,6 @@ The tokens will gradually unlock over 48 months and there is an acceleration for
 
 The following table shows how vesting would work out on month 0 and month 9 in relation to the token price.
 
-![](img/vesting_scheme.png)
+![](img/vesting_scheme.jpg)
 
 > Note our [disclaimers](legal:disclaimer)

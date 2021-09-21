@@ -1,6 +1,6 @@
 # ThreeFold Councils / Guardian Structure
 
-![](img/owl.png)
+![](img/owl.jpg)
 
 ThreeFold Councils / Guardians are groups of trusted and knowledgeable people who together make decisions and/or hold important responsibilities related to the ThreeFold project.
 

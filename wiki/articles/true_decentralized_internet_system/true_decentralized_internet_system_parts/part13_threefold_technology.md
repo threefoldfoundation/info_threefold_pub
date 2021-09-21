@@ -4,7 +4,7 @@
 ### Architecture 
 
 
-![alt_text](img/tf_architecture.png)
+![alt_text](img/tf_architecture.jpg)
 
 
 _Architecture: The 3Bots live on top of the grid of capacity  \
@@ -13,7 +13,7 @@ and as such there is unlimited scalability._
 
 ### The 3 layers 
 
-![alt_text](img/layers.png)
+![alt_text](img/layers.jpg)
 
 
 The system consists out of multiple layers, a technical user can create their solutions on any of those layers without needing to know about the other layer e.g. an application developer does not have to know about the capacity layer, but a low level IT expert can deploy his applications directly on the capacity layer.
@@ -22,7 +22,7 @@ The system consists out of multiple layers, a technical user can create their so
 ### Communication Flows 
 
 
-![alt_text](img/smart_contract_for_it_steps.png)
+![alt_text](img/smart_contract_for_it_steps.jpg)
 
 
 _Information flow documented where a user retrieves a video from his/her phone._

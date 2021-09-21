@@ -14,7 +14,7 @@ This enables users to see the available capacity on the TF Grid Explorer and res
 
 TFT is the official currency of ThreeFold P2P Cloud. It is a decentralized digital currency that represents a unit of reservation of capacity (compute, storage, network).
 
-Learn more about TFT [here](tfgrid:tokens_home).
+Learn more about TFT [here](tokens_home).
 
 ## The operating system: Zero-OS
 
@@ -30,7 +30,7 @@ There is no shell, local nor remote attached to Zero-OS. It does not allow for i
 
 The compute, storage and network primitives can only be accessed via a 'Smart Contract for IT'.
 
-Learn more about Zero-OS [here](tfgrid:zos).
+Learn more about Zero-OS [here](zos).
 
 ## The servers: 3Nodes
 
@@ -42,7 +42,7 @@ You can have your own dedicated node, while others use load balancers to distrib
 
 It's important to note that 3Nodes do not store private information such as private keys. All these remains available only to your virtual system administrator - 3bot.
 
-Learn more about 3Nodes [here](internet4:part1_the_3node).
+Learn more about 3Nodes [here](part1_the_3node).
 
 ## Smart Contract for IT
 
@@ -55,7 +55,7 @@ While sticking to these principles, it provides the basis to consider and descri
 
 Everything from the reservation of storage and compute to the management of your development environment is handled by the Smart Contract for IT. The smart contract creates and registers the IT requirements in the blockchain database. Zero-OS nodes then cooperate with the smart contract execution code. 
 
-Learn more about smart contract for IT [here](tfgrid:smartcontract_it).
+Learn more about smart contract for IT [here](smartcontract_it).
 
 ## The virtual system administrator: 3Bot
 3Bot is a virtual system administrator that manages the user’s IT workloads. It can manage millions of objects and remains fully private to its owner as every 3Bot is equipped of a private key. This ensures an immutable record of any workload as well as a self-healing functionality to restore these workloads if/when needed.
@@ -68,7 +68,7 @@ While using ThreeFold P2P Cloud, you deploy your own private environment. This m
 
 3Bot is equipped with a cryptographic 2-factor authentication mechanism. You can log in to your 3Bot via the ThreeFold Connect app on your device which contains your private key. 
 
-Learn more about 3Bot [here](internet4:part4_3bot_digital_avatar_digital_self).
+Learn more about 3Bot [here](part4_3bot_digital_avatar_digital_self).
 
 ## How Mature is the TF Grid today?
 
@@ -92,6 +92,6 @@ Learn more about 3Bot [here](internet4:part4_3bot_digital_avatar_digital_self).
 - [eVDC Get Started](evdc_getting_started) - Start your peer-to-peer cloud journey with eVDC
 - [zstor Get Started](threefold_filesystem) - Learn how to store peer-to-peer with zstor
 - [Marketplace Get Started](evdc_marketplace) - Deploy peer-to-peer apps on top of your eVDC.
-- [P2P Cloud Benefits](tfgrid:usp) - A walk through the benefits of using ThreeFold P2P Cloud.
+- [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
 - [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
 - [Web 2.0 vs Web 3.0 vs P2P](cloud_compare) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.

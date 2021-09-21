@@ -11,7 +11,7 @@ The vesting account is a multi-signature account, requiring a 'weight' of 10 for
 
 ### Detailed view on the stellar explorer
 
-![](img/vesting_signers.png ':size=600')
+![](img/vesting_signers.jpg ':size=600')
 
 Unlocked amounts can be simply transferred by the user from the vesting account to any Stellar wallet. 
 
@@ -35,7 +35,7 @@ It's a necessary part of how we structure the vesting process in the back-end.
 The address is in the red box in the example. If you input that into 
 [Stellar Expert](https://stellar.expert/explorer/public) you will find all details regarding your vesting wallet.
 
-![](img/wallet_vest_address_lookup.png ':size=300')
+![](img/wallet_vest_address_lookup.jpg ':size=300')
 
 
 !!!include:vesting_toc

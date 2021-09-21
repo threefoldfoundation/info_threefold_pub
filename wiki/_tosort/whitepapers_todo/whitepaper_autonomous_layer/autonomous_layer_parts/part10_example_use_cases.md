@@ -1,6 +1,6 @@
 # Example Use Cases
 
-![alt_text](img/phases.png)
+![alt_text](img/phases.jpg)
 
 ## Blockchain as a service Workloads
 

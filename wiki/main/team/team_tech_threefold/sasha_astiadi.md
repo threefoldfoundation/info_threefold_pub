@@ -1,6 +1,6 @@
 ## Sasha Astiadi
 
-![sasha_astiadi](img/sasha_astiadi.png)
+![sasha_astiadi](img/sasha_astiadi.jpg)
 
 - Product Management
 - [LinkedIn](https://www.linkedin.com/in/sastiadi)

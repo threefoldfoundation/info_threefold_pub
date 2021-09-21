@@ -1,6 +1,6 @@
 ## Kristof de Spiegeleer
 
-![kristof_de_spiegeleer](img/kristof_de_spiegeleer.png)
+![kristof_de_spiegeleer](img/kristof_de_spiegeleer.jpg)
 
 - CEO
 - [LinkedIn](https://www.linkedin.com/in/despiegk/) | http://kristof.threefold.me

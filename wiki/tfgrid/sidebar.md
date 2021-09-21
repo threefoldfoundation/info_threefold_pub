@@ -12,7 +12,7 @@
 - [Manuals](wiki_overview)
 - [News/Blogs/...](communication)
 - [Get Involved](getinvolved)
-- [Roadmap](cloud:roadmap)
+- [Roadmap](roadmap)
 ------------
 - [Glossary](defs)
 - [Definitions & Concepts](definitions_concepts)

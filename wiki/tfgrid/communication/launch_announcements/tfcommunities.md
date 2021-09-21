@@ -1,6 +1,6 @@
 # February 12: ThreeFold x Conscious Communities
 
-![](img/tfcommunities.png)
+![](img/tfcommunities.jpg)
 
 **We’re in talks with an already-live, large-scale "conscious community" project to create their own independent grid of capacity!**
 

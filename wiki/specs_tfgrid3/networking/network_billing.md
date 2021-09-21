@@ -9,4 +9,4 @@
 ## User
 
 - user pays per hour for utilities ar used on TFGrid
-- pricing as defined in [pricing](tfgrid:pricing)
+- pricing as defined in [pricing](pricing)

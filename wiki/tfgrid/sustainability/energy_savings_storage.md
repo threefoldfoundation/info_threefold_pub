@@ -1,4 +1,4 @@
-![](img/energy_savings1.png)
+![](img/energy_savings1.jpg)
 
 # Energy Savings Storage System
 
@@ -120,7 +120,7 @@ Solar powered archive.
 
 23 PB in container, 100% solar powered.
 
-![](img/solar_storage_container.png)
+![](img/solar_storage_container.jpg)
 
 This shows how we can be 100% on green energy thanks to all above described energy saving tricks.
 

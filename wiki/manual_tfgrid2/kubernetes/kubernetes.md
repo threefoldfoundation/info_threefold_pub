@@ -1,4 +1,4 @@
-![](img/kubernetes.png)
+![](img/kubernetes.jpg)
 
 # Overview
 

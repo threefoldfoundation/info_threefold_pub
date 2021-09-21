@@ -12,7 +12,7 @@ Follow this detailed guide to [create a farm](farm_init).
 
 If you want to change any of the detail about your farm, you can click on the gear icon at the right side of the farm table under the actions column. This will open a popup containing a form that let you edit any of the farm's information.
 
-![gear](img/3bot_farmmgmt_gear.png) 
+![gear](img/3bot_farmmgmt_gear.jpg) 
 
 
 ### Changing the owner of a farm
@@ -23,11 +23,11 @@ If you want to change the owner of a farm, you can do so by opening the edit pop
 
 The top table shows all the farms that you own:
 
-![overview](img/farm_management_overview.png)
+![overview](img/farm_management_overview.jpg)
 
 You can click the eye icon in the action column to open the listing of the nodes belonging to the farm in the bottom table. This will list all the nodes linked to the selected farm.
 
-![nodes listing](img/farm_management_nodes.png)
+![nodes listing](img/farm_management_nodes.jpg)
 
 ### Deleting a dead node
 

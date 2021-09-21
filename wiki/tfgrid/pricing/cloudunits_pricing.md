@@ -1,5 +1,5 @@
 
-![](img/tfgrid_pricing.png)
+![](img/tfgrid_pricing.jpg)
 
 ## Cloud Unit Pricing
 

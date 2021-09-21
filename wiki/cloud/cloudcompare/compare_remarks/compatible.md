@@ -1,11 +1,11 @@
 # compatible
 
 
-![](img/compatible.png)
+![](img/compatible.jpg)
 
 Any workload which can run on linux can be hosted on the TFGrid.
 
-![](img/compatible2.png)
+![](img/compatible2.jpg)
 
 > There is no need to redevelop your applications.
 

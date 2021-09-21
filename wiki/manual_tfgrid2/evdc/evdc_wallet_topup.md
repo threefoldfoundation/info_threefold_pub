@@ -4,7 +4,7 @@ You can top-up the amount of TFT on your eVDC Wallet by sending some TFTs from y
 
 On your eVDC Wallet page, copy your wallet address and send it to your mobile phone.
 
-![](img/evdc_topup.png)
+![](img/evdc_topup.jpg)
 
 Access your TFT Wallet via ThreeFold Connect App on your mobile phone and click on the transfer icon.
 
@@ -22,7 +22,7 @@ Click the `Confirm` button to issue the transfer. Your mobile screen will show a
 
 Reload your eVDC Wallet Information page on your desktop after the successful transfer and you should see an updated TFT balance.
 
-![](img/transfer_success.png)
+![](img/transfer_success.jpg)
 
 ## More info:
 - Go back to [My eVDC Wallet page](evdc_wallet)

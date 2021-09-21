@@ -1,4 +1,4 @@
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 # ThreeFold Release Notes TFGrid 2.x
 

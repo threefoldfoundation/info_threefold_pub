@@ -1,6 +1,6 @@
 # Kristof de Spiegeleer
 
-![](img/kristof.png)
+![](img/kristof.jpg)
 
 <iframe src="https://player.vimeo.com/video/419955708" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@
 please bare with me, I am completely overloaded and telegram nor email I can properly follow up.
 
 
-![](img/kristof_hearts.png)
+![](img/kristof_hearts.jpg)
 
 !!!def alias:despiegk
 

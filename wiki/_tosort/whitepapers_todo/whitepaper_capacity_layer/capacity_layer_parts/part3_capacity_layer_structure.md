@@ -1,6 +1,6 @@
 ## Structure
 
-![alt_text](img/structure.png)
+![alt_text](img/structure.jpg)
 
 Kosmos is ThreeFold's scripting environment (see [jumpscale](part5_jsx_empowered)) which allows you to deploy any workload in a very efficient, easy way. The Kosmos shell is very easy-to-use and can be installed on any platform.
 

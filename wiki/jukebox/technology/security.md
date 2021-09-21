@@ -9,7 +9,7 @@ the security happens on multiple level
     The Grid overlay network is private by default, you need to explicitly give access to the others to reach your workload
 - The communication over the gateway is TLS encrypted, we don't terminate TLS, you workloads do.
   
-Please make sure to visit [grid concepts](tfgrid:grid_concepts) for more information.
+Please make sure to visit [grid concepts](grid_concepts) for more information.
 
 
 ## jukebox application

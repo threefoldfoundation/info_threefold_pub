@@ -1,6 +1,6 @@
 ## Owen Kemp
 
-![owen_kemp](img/owen_kemp.png)
+![owen_kemp](img/owen_kemp.jpg)
 
 - TFTech Funding, Ambassador working & Business Development
 - [LinkedIn](https://www.linkedin.com/in/owen-kemp-b6b5a113/)

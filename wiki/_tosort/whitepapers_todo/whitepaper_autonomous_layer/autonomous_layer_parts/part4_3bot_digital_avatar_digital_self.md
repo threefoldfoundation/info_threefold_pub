@@ -4,4 +4,4 @@
 
 To create 3Bot, there was no other way than to start from scratch and re-invent a lot of principles because existing IT components are too centralized and often too inefficient (e.g. memory hungry).
 
-![alt_text](img/3bot_ecosystem.png)
+![alt_text](img/3bot_ecosystem.jpg)

@@ -48,7 +48,7 @@ The Compute part of the VDC is in essence a Kubernetes environment with a master
 
 In the screenshot below, the VDC contains 1 master node and 2 worker nodes. 
 
-![](img/evdc_compute_nodes.png)
+![](img/evdc_compute_nodes.jpg)
 
 ### A complete Kubernetes suite
 

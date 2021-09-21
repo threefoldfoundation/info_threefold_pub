@@ -4,7 +4,7 @@
 
 However, the trend is shifting: it is expected that by 2025, most of the world's data will move closer to where it is used. Local storage of data and computation at the edge will be required for smart cities, self-driving cars, 5G, IoT, Virtual Reality and many more use cases where quick response times are critical.
 
-![](img/decentralized_usp.png)
+![](img/decentralized_usp.jpg)
 
 The Threefold technology brings privacy by design, whereby all data and applications remain under the user's control. Only the user can decide to share the data with others.
 

@@ -1,6 +1,6 @@
 ## Ahmed Thabet
 
-![ahmed_thabet](img/ahmed_thabet.png)
+![ahmed_thabet](img/ahmed_thabet.jpg)
 
 - Dev Team Lead
 - [LinkedIn](https://www.linkedin.com/in/ahmed-te-youssef/)

@@ -18,7 +18,7 @@ In brief, the ThreeFold_Grid is composed of three different types of network env
 
 The latest version of Zero OS (TF Grid’s operating system) and the associated new features are first deployed for testing to ‘Devnet’ and ‘Testnet’, before being released on ‘Mainnet’. Any farmer and partner will be able to choose to run their node on any of the 3 networks, by configuring their Zero OS boot process accordingly.
 
-Currently TF Grid 2.3.0 is released on Mainnet, introducing a lot of exciting new features and upgrades [**TF Grid 2.3.0 Release Note**](cloud:release_notes_2_3_0).
+Currently TF Grid 2.3.0 is released on Mainnet, introducing a lot of exciting new features and upgrades [**TF Grid 2.3.0 Release Note**](release_notes_2_3_0).
 
 Please see the [**TF Grid 2.3 Manual**](sdk:intro) for more details.
 

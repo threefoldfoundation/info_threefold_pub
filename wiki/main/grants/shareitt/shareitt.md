@@ -1,6 +1,6 @@
 # Shareitt
 
-![](img/shareitt.png)
+![](img/shareitt.jpg)
 
 *The Shareitt* is an impact technology startup to empower communities socially, financially, and environmentally. Our unique technology redefines collaborative economies and mutual support and provides the tools to “Community Assets Based UBI” by nurturing long term capacities. All of Shareitt employees, management, and shareholders support the social impact, purpose, and objectives of the company.
 

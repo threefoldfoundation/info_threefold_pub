@@ -1,5 +1,5 @@
 # Farming Business Model
 
-see [farming_calculator](tfgrid:farming_calculator)
+see [farming_calculator](farming_calculator)
 
 > TODO: ..

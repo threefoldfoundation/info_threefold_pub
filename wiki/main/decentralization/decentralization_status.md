@@ -6,7 +6,7 @@ We believe we are well under way to being a decentralized movement. ThreeFold ha
 
 - The ThreeFold Token (TFT) is on a public blockchain – in this case, Stellar.
 - This provides very good security and decentralization for everyone.
-- The TFT can be exchanged on Stellar decentralized exchange and other decentralized exchanges. See [here](tfgrid:how_to_buy).
+- The TFT can be exchanged on Stellar decentralized exchange and other decentralized exchanges. See [here](how_to_buy).
 - Independent farmers add capacity to the ThreeFold Grid.
 - All capacity is registered on TFDirectory (our [TFExplorer](https://explorer.threefold.io)) and signed by the Farmer 3Node.
 - All technology is open source and everyone can see progress, ask for feature requests, check/audit the code, etc – via Github.
@@ -28,7 +28,7 @@ We believe we are well under way to being a decentralized movement. ThreeFold ha
 - As part of our TF Grid 3.0, we have new exciting blockchain capabilities
   - Multiple blockchain: Stellar, Parity Substrate.
   - Money & consensus separated blockchain
-  - See [TFGrid 3.0 Consensus Mechanism Specifications](tfgrid:consensus3) (technical).
+  - See [TFGrid 3.0 Consensus Mechanism Specifications](consensus3) (technical).
   - TF Grid data objects are stored on Parity/Substrate-based decentralized blockchain database (phonebook, tfdirectory)
 - Again, ThreeFold has been designed to be decentralized – many farmers together provide the infrastructure for the new Internet built by everyone for everyone. We are now preparing for the next phase:
   - We want to create 2-3 legal global structures in which we can accept funding and get approval from the government for the structure and token

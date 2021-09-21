@@ -1,4 +1,4 @@
-![](img/grid_header.png)
+![](img/grid_header.jpg)
 
 ### consensus engine in relation to TFT Farming Rewards in TFGrid 3.0
 

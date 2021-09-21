@@ -1,6 +1,6 @@
 # January 12: A 2020 Rewind & Grid 2.4 News
 
-![](img/2020rewindgrid24.png)
+![](img/2020rewindgrid24.jpg)
 
 **2020 was a big year for ThreeFold**, filled with technological milestones and emerging partnerships. We are now in the beginning of another crucial year. No other project out there has what we have from a technology standpoint. Capacity is available in 23 countries and growing. And our partnership funnel is running like crazy.
 

@@ -1,4 +1,4 @@
-![](img/vlang.png)
+![](img/vlang.jpg)
 
 # Vlang
 

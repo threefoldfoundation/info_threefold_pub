@@ -1,6 +1,6 @@
 # ThreeFold Grid 2.4.0
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 Introducing: 0-Stor Gen 2 (0-Stor-v2) v0.1.0
 

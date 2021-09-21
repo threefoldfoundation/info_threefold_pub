@@ -2,7 +2,7 @@
 
 ThreeFold Marketplace allows you to deploy workloads onto your VDC.
 
-![](img/evdcadmin.png)
+![](img/evdcadmin.jpg)
 
 Through this panel, you can easily deploy and manage pre-configured applications in your VDC. The deployment of these solutions were made simple for anyone to get started in a few clicks. The list contains both peer-to-peer applications and off-the-shelf tooling to manage your Kubernetes cluster on your eVDC.
 
@@ -19,7 +19,7 @@ Through this panel, you can easily deploy and manage pre-configured applications
 
 Once you deploy your eVDC, the Marketplace will be your default view on the admin panel.
 
-![](img/evdc_myvdc.png)
+![](img/evdc_myvdc.jpg)
 
 The applications on ThreeFold Marketplace can be deployed (launched) in a matter of minutes. Just choose your solutions and define the parameters of your network.
 

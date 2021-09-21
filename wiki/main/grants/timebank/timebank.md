@@ -1,6 +1,6 @@
 # Beliive (TimeBank)
 
-![](beliive.png)
+![](beliive.jpg)
 
 *The Beliive* is a community where people can exchange experiences and services using time as the only currency. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complimentary economy based on an abundant resource available to everyone equally – time.
 

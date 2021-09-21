@@ -1,6 +1,6 @@
 
 
-![](img/development_manager.png)
+![](img/development_manager.jpg)
 
 
 # Senior Developer Zero-OS
@@ -18,7 +18,7 @@ We have developed a new operating system called zos, and we are looking for more
 - Work in our internation development team.
 - We are not just looking for an engineer we are looking for people who believe that the world needs a new internet and we make it happen.
 
-See how we are [thinking beyond blockchain](tfgrid:internet4).
+See how we are [thinking beyond blockchain](internet4).
 
 ## Requirements
 
@@ -50,6 +50,6 @@ See how we are [thinking beyond blockchain](tfgrid:internet4).
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

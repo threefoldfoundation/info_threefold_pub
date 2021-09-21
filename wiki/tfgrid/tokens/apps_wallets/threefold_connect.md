@@ -1,6 +1,6 @@
 # ThreeFold Connect App
 
-![alt](img/threefold_connect_4screens.png)
+![alt](img/threefold_connect_4screens.jpg)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ To use the ThreeFold Connect App you simply need to download the ThreeFold Conne
 
 Seed phrases are required to restore your wallet in the unlikely case you loose your devices or access to your ThreeFold Connect App.
 
-![](img/3bot_seed_phrase.png)
+![](img/3bot_seed_phrase.jpg)
 
 _Note: this screenshot is slightly outdated (will be updated soon) but shows you what to be looking for._
 
@@ -64,18 +64,18 @@ In this tab you can check your ThreeFold_Tokens wallets and balances. You can co
 
 Click Wallet in the main nav bar at the bottom of the screen.
 
-![](img/homescreen_wallet.png)
+![](img/homescreen_wallet.jpg)
 
 #### Step 2
 
 If you have only one wallet, you will immediately be taken to the wallet details. If you have multiple wallets, click the wallet you would like to see the address of, and you will be taken to the wallet details view.
 
-![](img/wallet_overview.png)
+![](img/wallet_overview.jpg)
 
 #### Step 3
 
 From the details page, click on the right tab which has an "i" icon. Your wallet address will appear, and you can copy it from there.
-![](img/wallet_address.png)
+![](img/wallet_address.jpg)
 
 ### Receive & Send ThreeFold_Tokens
 

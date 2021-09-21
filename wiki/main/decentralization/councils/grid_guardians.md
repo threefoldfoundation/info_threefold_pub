@@ -1,10 +1,10 @@
 # ThreeFold Grid Guardians
 
-![](img/grid_guardians.png)
+![](img/grid_guardians.jpg)
 
 A group of 9 people who have the important job of keeping the TF Chain blockchain validator nodes running.
 
-Learn more at [TFGrid 3.0 Consensus mechanism specifications](tfgrid:consensus3). Note this technical information.
+Learn more at [TFGrid 3.0 Consensus mechanism specifications](consensus3). Note this technical information.
 
 ## Guardians
 

@@ -2,13 +2,13 @@
 
 1. You will need [TF Connect app](threefold:threefold_connect) and **Blockchain Jukebox** platform
 
-![what_you_need](img/what_you_need.png)
+![what_you_need](img/what_you_need.jpg)
 
 2. Top up your [Fund Wallet](fund_wallet)
 
 <br/>
 
-![](img/fund_wallet.png)
+![](img/fund_wallet.jpg)
 
 3. Follow [Deployment steps](deployment_steps)
 

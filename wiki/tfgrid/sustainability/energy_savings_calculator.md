@@ -1,6 +1,6 @@
 ## Calculator
 
-![](img/carbon_compensation.png)
+![](img/carbon_compensation.jpg)
 
 - [CALCULATOR](https://secure.threefold.tech/sheet/#/2/sheet/view/mz3OfqJr1afDf-3bqOKpnGhmDL3zX1ctFXL8YMZpxqw/)
 

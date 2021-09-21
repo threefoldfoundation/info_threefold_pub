@@ -1,6 +1,6 @@
 # May 29: Collaborative Partnership with Harmony!
 
-![](img/harmonythreefold.png)
+![](img/harmonythreefold.jpg)
 
 We are super happy to announce our partnership with [Harmony](https://www.harmony.one/)! 🙌
 

@@ -1,7 +1,7 @@
 
 ### DFINITY The Internet Computer
 
-![](img/dfinity_internet_computer.png)
+![](img/dfinity_internet_computer.jpg)
 
 A massive distributed server with more capabilities. Is still blockchain based and has same issues as above, but is definitely a very advanced iteration.
 

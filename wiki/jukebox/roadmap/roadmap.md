@@ -1,6 +1,6 @@
 ## Roadmap
 
-<!-- ![roadmap](img/roadmap.png) -->
+<!-- ![roadmap](img/roadmap.jpg) -->
 
 ### 2021
 

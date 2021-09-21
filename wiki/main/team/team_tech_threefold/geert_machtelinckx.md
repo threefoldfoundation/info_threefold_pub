@@ -1,6 +1,6 @@
 ## Geert Machtelinckx
 
-![geert_machtelinckx](img/geert_machtelinckx.png)
+![geert_machtelinckx](img/geert_machtelinckx.jpg)
 
 - Tech Documentation
 - [LinkedIn](https://www.linkedin.com/in/geert-machtelinckx-a72453b/)

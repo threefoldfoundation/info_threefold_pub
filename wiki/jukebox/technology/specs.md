@@ -73,4 +73,4 @@ System that is easy to provision blockchain nodes (public, private)
 - Users will only need to login with the ThreeFold Connect app to the portal and will only have to pay to intermediate wallet by scanning QR code from the browser.
 - The advantage of this solution is that user experience will be consistent across our grid services (VDC deployer, 3bot deployers, Marketplace, ..). 
 
-![](img/sequence_diagran_deployer_website.png)
+![](img/sequence_diagran_deployer_website.jpg)

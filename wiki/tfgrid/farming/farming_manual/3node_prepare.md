@@ -1,7 +1,7 @@
 
 # Prepare a 3Node.
 
-![](img/threenode_wide.png)
+![](img/threenode_wide.jpg)
 
 ## Minimal Hardware Requirements
 

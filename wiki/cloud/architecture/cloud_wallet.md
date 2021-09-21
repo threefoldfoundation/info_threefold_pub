@@ -1,6 +1,6 @@
 # VDC Wallet on Stellar Network
 
-![](img/3bot_wallet_detail.png)
+![](img/3bot_wallet_detail.jpg)
 
 ### Prepaid Wallets
 
@@ -29,7 +29,7 @@ Please read the [Top-up](evdc_wallet_topup) page for instructions.
 
 Simply click on one of your existing wallet see the details of the wallet.
 
-![](img/3bot_wallet_detail.png)
+![](img/3bot_wallet_detail.jpg)
 
 ## Withdraw TFTs from the wallet
 

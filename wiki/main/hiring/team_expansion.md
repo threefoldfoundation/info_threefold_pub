@@ -1,4 +1,4 @@
-![](img/team_expansion.png)
+![](img/team_expansion.jpg)
 
 !!!include:hiring_overview
 

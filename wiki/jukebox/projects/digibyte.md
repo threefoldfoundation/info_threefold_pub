@@ -1,4 +1,4 @@
-![digibyte](img/digibyte_header.png)
+![digibyte](img/digibyte_header.jpg)
 
 <br/>
 

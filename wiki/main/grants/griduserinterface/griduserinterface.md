@@ -1,6 +1,6 @@
 # Project: TF Grid User Interface
 
-![](img/simplicity.png)
+![](img/simplicity.jpg)
 
 ### Purpose
 
@@ -33,15 +33,15 @@ The current user interface is part of our 3SDK tool, its still too complicated, 
 
 ### Existing interfaces are for developers or farmers
 
-![](img/3sdk_user_interface.png)
+![](img/3sdk_user_interface.jpg)
 
 The interface to the TF Grid is called Explorer. The explorer provides information to groups of people. The first group is a generic group.  These are people that want to see some of the aspects of the TF Grid and explore.  The interface can be found [here](https://explorer.grid.tf/).  The interface look like this:
 
-![](img/explorer.png)
+![](img/explorer.jpg)
 
 The other group of users using the interface are the farmers. The farmers need an interface so they can manage aspects of their farm.  This interface is farmer (individual or company) specific and can only be accessed through the 3SDK interface.  Please find here a description of how to install the [3SDK](https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/3sdk/3sdk_install.md).
 
 The interface in the 3SDK environment looks like this:
-![](img/3sdk_farm_management.png)
+![](img/3sdk_farm_management.jpg)
 
 Both interfaces can be optimised and provide more interaction and more extensive API's.

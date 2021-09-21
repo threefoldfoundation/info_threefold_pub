@@ -2,7 +2,7 @@
 
 The scale out node v1 is optimized for ThreeFold Farming in a rack coming in at a 0.5 unit, making it very dense and efficient node.
 
-![](img/scale_node_1.png)
+![](img/scale_node_1.jpg)
 
 |         |              |      |               |
 | ------- | ------------ | ---- | ------------- |
@@ -51,6 +51,6 @@ There is a generic simulator you can find on https://info.threefold.tech/#/simul
 
 what can be done with 1 node.
 
-![](img/scale_node_overview.png)
+![](img/scale_node_overview.jpg)
 
 As you can see this is a super efficient solution from cost & capacity perspective.

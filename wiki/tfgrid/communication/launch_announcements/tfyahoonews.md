@@ -1,6 +1,6 @@
 # June 26: ThreeFold Coverage in Yahoo! News
 
-![](img/tfyahoonews.png)
+![](img/tfyahoonews.jpg)
 
 🗞 **ThreeFold Set To Disrupt Status Quo With a P2P Internet Powered by the People** (via Yahoo! News)
 

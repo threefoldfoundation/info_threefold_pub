@@ -6,34 +6,34 @@ If you are new to buying digital currencies, this step is for you as you are abo
 
 For this example, we will use a well-known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
 
-- Create an account on the sign up page: [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](img/xlm_solar_tft_manual_image_0.png)
+- Create an account on the sign up page: [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](img/xlm_solar_tft_manual_image_0.jpg)
 - After signing up, a few steps will be presented (e.g. GDPR compliance notice, privacy policy acknowledgment, and newsletter preferences).
 - After this step, it is required that you verify your email address.
 - After verifying, you will have to add a mobile phone number where you can receive SMS messages (e.g. for confirmation).
 - After clicking 'Send Code,' you will have to fill in the code received in the text sent by Coinbase.
 - Coinbase by law has to ask and verify your identity. These are the last steps to take. Make sure all information provided is correct as stated on your ID.
 
-![image alt text](img/xlm_solar_tft_manual_image_5.png)
+![image alt text](img/xlm_solar_tft_manual_image_5.jpg)
 
 
 - To verify your input, Coinbase will need you to upload a valid ID. (These options can differ per user.)
 
-![image alt text](img/xlm_solar_tft_manual_image_6.png)
+![image alt text](img/xlm_solar_tft_manual_image_6.jpg)
 
 - For uploading purposes there are 3 options: webcam, phone camera, & file upload. For this example, we have used the webcam option to send both the front and back of the ID.
 
-![image alt text](img/xlm_solar_tft_manual_image_7.png)
+![image alt text](img/xlm_solar_tft_manual_image_7.jpg)
 
 - Coinbase will now verify your documents; this might take up to a few minutes.
 
-![image alt text](img/xlm_solar_tft_manual_image_8.png)
+![image alt text](img/xlm_solar_tft_manual_image_8.jpg)
 
 You are now onboarded!
 
 ## Coinbase funding exchange
 
 1. Visit [https://www.coinbase.com/dashboard](https://www.coinbase.com/dashboard) and click trade
-   ![image alt text](img/xlm_solar_tft_manual_image_9.png)
+   ![image alt text](img/xlm_solar_tft_manual_image_9.jpg)
 
 2. Add your preferred payment method (in the example below we show a bank transfer)
 
@@ -43,13 +43,13 @@ Specify:
 - Account Holder Full Name
 - Amount
 
-![image alt text](img/xlm_solar_tft_manual_image_10.png)
+![image alt text](img/xlm_solar_tft_manual_image_10.jpg)
 
 3. Write down the reference number displayed (make sure you save this number)
-   ![image alt text](img/xlm_solar_tft_manual_image_11.png)
+   ![image alt text](img/xlm_solar_tft_manual_image_11.jpg)
 
 4. Wire the amount from your account to the location shown on the screen (note: this may differ from what is shown in the screenshot)
-   ![image alt text](img/xlm_solar_tft_manual_image_12.png)
+   ![image alt text](img/xlm_solar_tft_manual_image_12.jpg)
 
 5. Wait for the funds to appear in your account. This may take a while, and normally Coinbase sends the account holder an email.
 
@@ -61,19 +61,19 @@ We'll be buying XLM (Stellar Lumens) in this scenario, which is Stellar's token.
 
 1. Click Trade
 
-![Trade](img/xlm_solar_tft_manual_image_13.png)
+![Trade](img/xlm_solar_tft_manual_image_13.jpg)
 
 2. Choose XLM and the wallet that holds your funds
-   ![Choose](img/xlm_solar_tft_manual_image_14.png)
+   ![Choose](img/xlm_solar_tft_manual_image_14.jpg)
 
 3. Click Preview
-   ![Preview](img/xlm_solar_tft_manual_image_15.png)
+   ![Preview](img/xlm_solar_tft_manual_image_15.jpg)
 
 4. Click Buy Now if you agree with the preview of sale
-   ![Buy](img/xlm_solar_tft_manual_image_16.png)
+   ![Buy](img/xlm_solar_tft_manual_image_16.jpg)
 
 5. The XLMs bought will now show up in your wallet
-   ![Done](img/xlm_solar_tft_manual_image_17.png)
+   ![Done](img/xlm_solar_tft_manual_image_17.jpg)
 
 Congratulations! You now have XLMs in your wallet and you are ready to buy ThreeFold_Tokens!
 

@@ -1,6 +1,6 @@
 # July 7: Introducing New Farming Rewards
 
-<!-- ![](img/new_farming_rewards.png) -->
+<!-- ![](img/new_farming_rewards.jpg) -->
 
 **Last month, we went live with Titan V2.1, and we're thrilled to count +1,000 orders already from all over the world.**
 

@@ -9,7 +9,7 @@
 
 <br/>
 
-![tf_connect](img/tf_connect.png)
+![tf_connect](img/tf_connect.jpg)
 
 > Here you can find more info and how to sign up for the [**TF Connect app**](threefold_connect)
 
@@ -20,7 +20,7 @@ A platform allowing you to select and deploy various blockchain nodes on top of 
 
 <br/>
 
-![jukebox_platform](img/jukebox_platform.png)
+![jukebox_platform](img/jukebox_platform.jpg)
 
 > Go to [**Blockchain Jukebox platform**](https://staging.blockchainjukebox.com/auth/login?next_url=/jukebox)
 

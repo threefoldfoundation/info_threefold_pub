@@ -1,7 +1,7 @@
 
 ## Kristine Vilnite
 
-![kristine_vilnite](img/kristine_vilnite.png)
+![kristine_vilnite](img/kristine_vilnite.jpg)
 
 - Partnerships / Product Management (Jubebox for Blockchain)
 - [LinkedIn](https://www.linkedin.com/in/kristinevilnite/)

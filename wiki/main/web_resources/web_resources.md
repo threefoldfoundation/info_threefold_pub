@@ -3,7 +3,7 @@
 ## ThreeFold Wiki pages and websites
 Here you find an overview of our most important web resources besides our wikis.
 
-![lgo](img/large_tfn_3.png)
+![lgo](img/large_tfn_3.jpg)
 
 ## ThreeFold Foundation Website
 
@@ -23,7 +23,7 @@ Feel free to post issues on our github repository about the Foundation website i
 
 ## ThreeFold Foundation Github Repositories
 
-![foundation repo image](img/foundation_repo.png)
+![foundation repo image](img/foundation_repo.jpg)
 
 [ThreeFold Foundation Repositories](https://github.com/threefoldfoundation)
 
@@ -53,7 +53,7 @@ https://github.com/threefoldtech/www_threefold.tech
 
 
 ## ThreeFold Tech Github Repositories
-![tech repo image](img/threefoldtech_repo.png)
+![tech repo image](img/threefoldtech_repo.jpg)
 
 [ThreeFold Tech Repositories](https://github.com/threefoldtech)
 

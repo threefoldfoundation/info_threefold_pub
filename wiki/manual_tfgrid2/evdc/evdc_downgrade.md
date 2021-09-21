@@ -4,13 +4,13 @@ To downgrade your VDC compute capacity, you can simply remove a worker node from
 
 On your `Compute Nodes` page, click on the `Red Trash` button in the actions column.
 
-![](img/trashbutton.png)
+![](img/trashbutton.jpg)
 
 You should see a pop-up that will confirm the node deletion. Type the numerical value shown on the pop-up window and click `Confirm` to finalize your node removal, or click `Close` to cancel. 
 
 > Note: Please keep in mind that there is no way to recover a node once it's removed from your eVDC.
 
-![](img/confirmdelete.png)
+![](img/confirmdelete.jpg)
 
 More Info:
 - Go back to the [Compute Nodes Management](evdc_compute) section.

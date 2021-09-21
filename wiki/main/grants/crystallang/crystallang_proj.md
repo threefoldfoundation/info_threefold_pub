@@ -1,6 +1,6 @@
 # Project: Crystal Language
 
-![](crystal_language.png)
+![](crystal_language.jpg)
 
 *The Crystal Language* is a programming language with the following goals:
 

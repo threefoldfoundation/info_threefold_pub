@@ -1,4 +1,4 @@
-![](img/cloud_node.png)
+![](img/cloud_node.jpg)
 
 # ThreeFold Peer-to-Peer (P2P) Cloud Knowledge Base
 

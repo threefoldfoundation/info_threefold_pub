@@ -12,7 +12,7 @@
   - [Grid Valuation](grid_valuation)
 - [What can I do with it?](grid_use)
   - [Use the Threefold Grid](grid_use)
-  - [Compare Clouds](cloud:cloud_compare)
+  - [Compare Clouds](cloud_compare)
   - [Pricing](pricing)
 - [More Info](grid_toc)
   - [How is capacity measured](cloudunits)

@@ -1,6 +1,6 @@
 # April 18: Be the Internet – Become a Farmer!
 
-![](img/becomeafarmer1.png)
+![](img/becomeafarmer1.jpg)
 
 Now, you can **BE THE INTERNET** by becoming a ThreeFold Farmer.
 

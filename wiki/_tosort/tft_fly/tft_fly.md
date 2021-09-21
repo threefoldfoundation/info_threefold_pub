@@ -2,9 +2,9 @@
 
 Based on utilization rather than hype.
 
-![](img/tf3_tokenomics.png)
+![](img/tf3_tokenomics.jpg)
 
-See [farming_reward](tfgrid:farming_reward)
+See [farming_reward](farming_reward)
 
 ## Key drivers for valuation increase & liquidity
 
@@ -51,7 +51,7 @@ We will grow organically and show the world how we create value.
 
 ### Staking Need for Internet Capacity
 
-!!!include:tfgrid:staking_discount_levels0
+!!!include:staking_discount_levels0
 
 This means if average person stakes for 12 months, and the grid does 1 Billion USD in revenue per year (which is low compared to world) and there are 1000m TFT liquid from which 50% are staked then the TFT price needs to be at least 2 USD.
 

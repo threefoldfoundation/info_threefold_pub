@@ -8,7 +8,7 @@ Thanks to our quantum safe storage layer, you could build fast, robust and relia
 
 A typical setup would look like:
 
-![](img/storage_architecture_1.png)
+![](img/storage_architecture_1.jpg)
 
 > TODO: link to manual on cloud how to deploy minio, using helm (3.0 release)
 

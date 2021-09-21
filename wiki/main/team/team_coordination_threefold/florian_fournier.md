@@ -1,6 +1,6 @@
 ## Florian Fournier
 
-![florian_fournier](img/florian_fournier.png)
+![florian_fournier](img/florian_fournier.jpg)
 
 - CEO ThreeFold Brasil
     - Community / Farming / Development

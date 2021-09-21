@@ -1,6 +1,6 @@
 ## Rob Van Mieghem
 
-![rob_van_mieghem](img/rob_van_mieghem.png)
+![rob_van_mieghem](img/rob_van_mieghem.jpg)
 
 - VP R&D
 - [LinkedIn](https://www.linkedin.com/in/robvanmieghem/)

@@ -1,6 +1,6 @@
 # May 15: SelfKey & ThreeFold Partnership
 
-![](img/selfkeyintro.png)
+![](img/selfkeyintro.jpg)
 
 SelfKey has officially announced our partnership, and we are proud to share it (here)[https://selfkey.org/threefold-partners-with-selfkey/] with you as well!
 

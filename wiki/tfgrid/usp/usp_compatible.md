@@ -4,7 +4,7 @@ To meet IT industry standards, we integrated the most used tools for IT workload
 
 ## Docker
 
-![](img/docker.png)
+![](img/docker.jpg)
 
 Docker is the standard and most widely used container system.
 
@@ -12,7 +12,7 @@ It is supported on the ThreeFold_Grid through the Kubernetes orchestrator layer 
 
 ## Kubernetes
 
-![](img/ips_kubernetes.png)
+![](img/ips_kubernetes.jpg)
 
 Kubernetes is the standard for container orchestration.
 
@@ -27,4 +27,4 @@ A [nice guide](https://helm.sh/docs/chart_template_guide/) describes all ins and
 
 # Filesystem
 
-For storage, any file system will be supported; see our [planetary_filesystem](cloud:threefold_filesystem) for more detail.
+For storage, any file system will be supported; see our [planetary_filesystem](threefold_filesystem) for more detail.

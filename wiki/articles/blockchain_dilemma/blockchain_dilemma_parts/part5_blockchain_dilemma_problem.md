@@ -17,7 +17,7 @@ A way to get around the trusted people problem is to select a platform on which 
 
 
 
-![alt_text](img/tf_tech_approach.png)
+![alt_text](img/tf_tech_approach.jpg)
 
 
 To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:

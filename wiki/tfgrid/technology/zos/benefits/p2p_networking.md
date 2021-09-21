@@ -1,4 +1,4 @@
-![](img/network_architecture2.png)
+![](img/network_architecture2.jpg)
 
 # Peer2Peer Network Concept
 
@@ -25,6 +25,6 @@ TF Network Characteristics:
 
 At Threefold, we are aware of the existence of private networks, IPsec, VPN, WAN's and more. We have the facility to create bridges to make those networks part of the deployed private overlay networks. This is in an early stage development, but with the right level(s) of interest this could be built out and carried out in the near future.
 
-![](img/network_architecture.png)
+![](img/network_architecture.jpg)
 
 !!!def alias:quantumsafe_network_concept,qsn_concept

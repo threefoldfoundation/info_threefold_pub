@@ -2,7 +2,7 @@
 
 ## Pre-requirement
 
-- Log in through Threefold Connect, with a 2 Step Verification to secure your account with both your password and your phone. You can find more on ThreeFold Connect [here](tfgrid:threefold_connect).
+- Log in through Threefold Connect, with a 2 Step Verification to secure your account with both your password and your phone. You can find more on ThreeFold Connect [here](threefold_connect).
 
 ## Getting Started 
 

@@ -1,6 +1,6 @@
 # March 16: ThreeFold on Corporate Unplugged Podcast
 
-![](img/tfcorporateunplugged.png)
+![](img/tfcorporateunplugged.jpg)
 
 Listen to ThreeFold co-founder Kristof de Spiegeleer [on the Corporate Unplugged podcast](https://corporateunplugged.com/kristof-de-spiegeleer/).
 

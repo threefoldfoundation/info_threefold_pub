@@ -1,4 +1,4 @@
-![](img/titanv21soon.png)
+![](img/titanv21soon.jpg)
 
 📣 **For those who pre-registered, here's a 24 hour heads up: the Titan v2.1 3Node is just about ready to pre-order!**
 

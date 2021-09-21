@@ -1,6 +1,6 @@
 # TFGrid Capacity explorer
 
-![capacity explorer](img/capacity_explorer.png)
+![capacity explorer](img/capacity_explorer.jpg)
 
 > see https://explorer.threefold.io/
 
@@ -10,6 +10,6 @@ Using the `Capacity finder` panel, you can filter out the nodes based on their f
 
 By clicking on a node or a gateway, you deploy the information view:
 
-![capacity explorer](img/capacity_explorer_node_detail.png)
+![capacity explorer](img/capacity_explorer_node_detail.jpg)
 
 The information view lets you inspect a specific node or gateway in more details. Next to basic information (like farm, location, uptime), you can also find the primitives currently provisioned on the node and how much resource is available on the node or gateway.

@@ -3,7 +3,7 @@
 The Quantum Safe Storage Algorithm is the heart of the Storage engine.  The storage engine takes the original data objects and creates data part descriptions that it stores over many virtual storage devices (ZDB/s)
 
 
-![](../img/.png)
+![](../img/.jpg)
 
 Data gets stored over multiple ZDB's in such a way that data can never be lost.
 
@@ -57,7 +57,7 @@ redundancy comes in at a much lower overhead.
 
 ### Example of 16/4
 
-![](img/quantumsafe_storage_algo.png)
+![](img/quantumsafe_storage_algo.jpg)
 
 
 Each object is fragmented into 16 parts. So we have 16 original fragments for which we need 16 equations to mathematically describe them. Now let's make 20 equations and store them dispersedly on 20 devices. To recreate the original object we only need 16 equations, the first 16 that we find and collect which allows us to recover the fragment and in the end the original object. We could lose any 4 of those original 20 equations.

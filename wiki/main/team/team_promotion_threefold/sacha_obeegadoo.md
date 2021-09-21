@@ -1,6 +1,6 @@
 ## Sacha Obeegadoo
 
-![sacha_obeegadoo](img/sacha_obeegadoo.png)
+![sacha_obeegadoo](img/sacha_obeegadoo.jpg)
 
 - Teamlead Marketing & Promotion (owns circle)
 - [LinkedIn](https://www.linkedin.com/in/sachaobeegadoo/)

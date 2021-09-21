@@ -2,7 +2,7 @@
 # Decentralization is a new revolution
 
 
-![alt_text](img/balloon.png)
+![alt_text](img/balloon.jpg)
 
 
 The world right now has known a long period of relative peace (+60 years). [Liberalism](https://www.britannica.com/topic/liberalism) was the engine behind this prosperous period. Some claim that [liberalism as we know it, could come to an end](https://www.tttdebates.org/is-liberalism-dead/). 

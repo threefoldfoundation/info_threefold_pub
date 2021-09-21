@@ -1,6 +1,6 @@
 # Web 4.0 architecture
 
-![](img/digital_twin_to_browser.png)
+![](img/digital_twin_to_browser.jpg)
 
 Every user uses any browser to access their digital_twin. The TFCONNECT makes sure that the connection is secure.
 
@@ -8,13 +8,13 @@ The secure browser engine runs on the TFGrid close to where your Twin is.
 
 This takes care of a very secure approach and unlimited scalability.
 
-![](img/i4_arch1.png)
+![](img/i4_arch1.jpg)
 
 Developers can program anything on top of the digital twin. Any javascript framework can be used.
 
 This allows ANYONE to create ANY experience.
 
-![](img/twin_capabilities.png)
+![](img/twin_capabilities.jpg)
 
 The twin has basic capabilities which are strongly version controlled but contributions from the global community are more than welcome.
 
@@ -42,11 +42,11 @@ While the twin is a better alternative than the blockchain for many protocols, c
 - proof of authority, authentication, ...
 - reputation system
 
-![](img/i4_arch2.png)
+![](img/i4_arch2.jpg)
 
 Each twin can talk to any required blockchain in a way how its 100% transparent for the user.
 
-![](img/i4_arch3.png)
+![](img/i4_arch3.jpg)
 
 The Twin can also talk to the classic internet.
 

@@ -1,4 +1,4 @@
-![](img/farming_reward.png ':size=350x')
+![](img/farming_reward.jpg ':size=350x')
 
 
 # Cultivation Flow

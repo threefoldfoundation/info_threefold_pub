@@ -1,4 +1,4 @@
-![](trulydecentralized.png)
+![](trulydecentralized.jpg)
 
 # ThreeFold_Token
 
@@ -26,9 +26,9 @@ Given the nature of the issuance model, the number of tokens issued by the grid 
 
 # Token Issuance Model
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_cycle.png)
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_cycle.jpg)
 
-![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_issuance_economy.png)
+![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/development/docs/img/token_issuance_economy.jpg)
 
 1. Hardware connected to the ThreeFold_Grid by installing Zero-OS.
 2. Decentralized blockchain issues specific amount of ThreeFold_Tokens (TFT) every month to the hardware owner into the specified wallet

@@ -12,7 +12,7 @@
   - The genesis pool resulted in the first batch initial TFT
   - The blockchain nodes were hosted by +30 different parties completely unrelated to each other
 - In Q2 2019, ThreeFold_Dubai launched our generation 1 of our TF Grid
-- April 2020 ThreeFold_Dubai [launched the TFGrid v2.0](tfgrid:threefold_grid_2_0) which is now public and usable by the world
+- April 2020 ThreeFold_Dubai [launched the TFGrid v2.0](threefold_grid_2_0) which is now public and usable by the world
   - ThreeFold has a new website and a new wiki
   - A manual on how to use the TF Grid 2.0 (see [our manual](sdk:intro))
   - The farmers & TFT holders have at their own will upgraded their wallets, zero-nodes, ...
@@ -31,9 +31,9 @@ We have sold initial IT capacity in the form of TFT from ThreeFold_Dubai and fro
 
 ## Farming Model Improvements
 
-In Q2 2020 we were launching TF Grid 2.0 and the mining rules (tf_farming) have been changed. As part of these farming rules the max number of tokens became 4 billion, which changes the optics of the original size of the genesis token pool. See [farming logic 2](tfgrid:farming_reward2).
+In Q2 2020 we were launching TF Grid 2.0 and the mining rules (tf_farming) have been changed. As part of these farming rules the max number of tokens became 4 billion, which changes the optics of the original size of the genesis token pool. See [farming logic 2](farming_reward2).
 
-In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the farming model. Its up to the farmers to choose if they want to change to the new farming model or not. See [farming logic 3](tfgrid:farming_reward).
+In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the farming model. Its up to the farmers to choose if they want to change to the new farming model or not. See [farming logic 3](farming_reward).
 
 ### TFT Versions
 
@@ -64,7 +64,7 @@ In Q3 2021 we will/were launching TF Grid 3.0 which has again improvement to the
 
 ### Migration from TFTv1 Stellar (Staking Pool=TFTA) to TFTv2 Stellar (Trading or Production Pool=TFT)
 
-- see [tfta_to_tft](tfgrid:tfta_to_tft)
+- see [tfta_to_tft](tfta_to_tft)
 
 ### Technical Information
 

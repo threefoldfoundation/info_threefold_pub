@@ -1,6 +1,6 @@
 ## Chris Hutton
 
-![christhoper_hutton](img/christhoper_hutton.png)
+![christhoper_hutton](img/christhoper_hutton.jpg)
 
 - Funding, Business Development, Financial Management (P&L)
 - [LinkedIn](https://www.linkedin.com/in/chris-hutton-a3034777/)

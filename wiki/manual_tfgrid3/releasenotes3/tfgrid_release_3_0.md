@@ -1,6 +1,6 @@
 # TFGrid release 3.0
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 TFGrid 3.0 will be released gradually during Q3/Q4 2021. 
 

@@ -5,7 +5,7 @@ At this point you should have created your farm and noted its ID. The next step 
 The bootstrap service: https://bootstrap.grid.tf is there for you to generate your Zero-OS images.
 In the bootstrap wizard, enter your farm ID:
 
-![boostrap farmer ID](img/bootstap_farmid.png)
+![boostrap farmer ID](img/bootstap_farmid.jpg)
 
 Choose you network:
 
@@ -15,12 +15,12 @@ Choose you network:
 
 If you are not sure what to use, select Production.
 
-![boostrap network selection](img/bootstap_network.png)
+![boostrap network selection](img/bootstap_network.jpg)
 
 Lastly, download the generated image. There are multiple formats of images available. Pick the one most appropriate for your setup (if you know what you are doing).
 
 We going to explain here the EFI USB method. So please click the `USB Image` button on the `EFI USB` section
-![efi usb](img/efi_usb_option.png)
+![efi usb](img/efi_usb_option.jpg)
 
 Once the image has been downloaded, get a free USB flash disk and prepare it as follows:
 

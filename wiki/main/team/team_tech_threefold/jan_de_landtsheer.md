@@ -1,6 +1,6 @@
 ## Jan De Landtsheer
 
-![jan_de_landtsheer](img/jan_de_landtsheer.png)
+![jan_de_landtsheer](img/jan_de_landtsheer.jpg)
 
 - Master Architect
 - [LinkedIn](https://www.linkedin.com/in/jand2/)

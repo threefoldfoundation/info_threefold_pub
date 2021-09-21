@@ -42,7 +42,7 @@ Make sure to add your public ssh key.
 Click on 'Farm Management' on the ThreeBot sidebar
 Then click on '+" to create a farm
 
-![](img/create_farm1.png)
+![](img/create_farm1.jpg)
 
 Fill in your credentials. 'Organization ID' is not needed. Make sure to add for all three asset types a wallet address.
 
@@ -50,19 +50,19 @@ Note: the wallet address can always be the same.
 
 Once all is filled in click **'SAVE'**
 
-![](img/create_farm2.png)
+![](img/create_farm2.jpg)
 
 Now your farm including your Farm 'Id' has been created.
 
-![](img/create_farm3.png)
+![](img/create_farm3.jpg)
 
 ## Step 5: Create a Bootable Image for your Node(s)
 
 The bootstrap service: https://bootstrap.grid.tf is there for you to generate your 0-OS images. In the bootstrap wizard, enter your farm ID, choose `Production` (or `Testing`if you want to create an image for testnet) and download the generated image.
 
-![](img/boot1.png)
+![](img/boot1.jpg)
 
-![](img/boot2.png)
+![](img/boot2.jpg)
 
 If you want to boot your node via USB, use a program like [Balena Etcher](https://www.balena.io/etcher/) to burn the image to the USB stick.
 

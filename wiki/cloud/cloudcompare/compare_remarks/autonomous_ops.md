@@ -1,6 +1,6 @@
 # Autonomous Operations Possible
 
-![](img/automomous.png)
+![](img/automomous.jpg)
 
 - The 3Nodes use our operating system Zero-OS which runs autonomous and does not require any intervention from the Farmer.
 - The rewards for farming is done automatically.

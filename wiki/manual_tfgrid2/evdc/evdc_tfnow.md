@@ -1,6 +1,6 @@
 # ThreeFold Marketplace
 
-![](img/tfnow_home.png)
+![](img/tfnow_home.jpg)
 
 ThreeFold Marketplace is a market of peer-to-peer applications and tools ready-to-be deployed on top of your eVDC. It brings an easy way to deploy secure and private solutions without the need of any technical knowledge. 
 

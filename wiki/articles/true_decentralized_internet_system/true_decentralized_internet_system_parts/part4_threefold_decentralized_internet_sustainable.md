@@ -3,7 +3,7 @@
 Everything is a balance between efficiency and resilience (see above). In our current society, the focus is too much on efficiency which has lead to too centralized systems. Centralized systems are too fragile (boom-bust cycles) and can lead to abuse as well (we became a product in centralized data management systems e.g. Facebook, ...). 
 
 
-![alt_text](img/window_of_viability.png)
+![alt_text](img/window_of_viability.jpg)
 
 
 The current centralized systems or the current Current Blockchain systems are at the outer sides of this curve. 
@@ -12,8 +12,8 @@ A new system is needed with the right balance between centralization and distrib
 
 This solution would sit in the sustainable part of the curve of life.
 
-![alt_text](img/circular_approach.png)
+![alt_text](img/circular_approach.jpg)
 
 
-![alt_text](img/universal_layer.png)
-![alt_text](img/universal_layer2.png)
+![alt_text](img/universal_layer.jpg)
+![alt_text](img/universal_layer2.jpg)

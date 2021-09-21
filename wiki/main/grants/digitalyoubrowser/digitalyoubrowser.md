@@ -1,6 +1,6 @@
 # DigitalTwin Browser
 
-![](img/jimber_browser.png)
+![](img/jimber_browser.jpg)
 
 _The DigitalTwin Browser_ is a browser that runs close to your digital twin - Crystal_Twin. It presents you with the ability to have a browser on the ThreeFold_Grid running anywhere you want and to securely stream the content back to your local browser.
 
@@ -28,7 +28,7 @@ Demo
 
 Architecture
 
-![](img/3botbrowser.png)
+![](img/3botbrowser.jpg)
 
 ### Team
 

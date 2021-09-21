@@ -1,6 +1,6 @@
 # Farm Setup and Management (version 2.0)
 
-![alt](img/sdk_intro.png)
+![alt](img/sdk_intro.jpg)
 
 All farm setup & management can be found on the 3SDK wiki.
 

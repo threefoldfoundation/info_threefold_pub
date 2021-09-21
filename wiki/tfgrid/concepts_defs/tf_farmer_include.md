@@ -1,4 +1,4 @@
-![](img/whatisafarmer.png)
+![](img/whatisafarmer.jpg)
 
 TF Farmers farm ThreeFold_Tokens by connecting hardware to the ThreeFold_Grid.
 

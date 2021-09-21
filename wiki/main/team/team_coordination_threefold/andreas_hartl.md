@@ -1,6 +1,6 @@
 ## Andreas Hartl
 
-![andreas_hartl](img/andreas_hartl.png)
+![andreas_hartl](img/andreas_hartl.jpg)
 
 - TFGrid Operations (let the grid run & grow)
 - [LinkedIn](https://www.linkedin.com/in/andreas-hartl-4330b8b/)

@@ -1,6 +1,6 @@
 # ThreeFold Grid v2.7.1
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 Release notes TF Grid 2.7.1
 TF Grid 2.7.1 describes the current setup on the grid.

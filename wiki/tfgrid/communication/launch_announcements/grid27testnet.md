@@ -1,12 +1,12 @@
 # April 12: Grid 2.7 is Live on Testnet
 
-![](img/grid27testnet.png)
+![](img/grid27testnet.jpg)
 
 Well, that was fast! 👀
 
 Last week we announced Grid 2.6 live on testnet, and a week later here **we are announcing Grid 2.7!**
 
-You can find the full release notes [here](cloud:release_notes_2_7_0).
+You can find the full release notes [here](release_notes_2_7_0).
 
 We’re also working on a major mainnet upgrade. Stay tuned for more news on that!
 

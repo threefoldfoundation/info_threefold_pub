@@ -1,6 +1,6 @@
 # graphql
 
-![](img/graphql.png)
+![](img/graphql.jpg)
 
 **A query language for your API**
 

@@ -2,12 +2,12 @@
 
 You can create your own edge Virtual Data Center in just a few clicks.
 
-Go to the [eVDC deployer website](https://vdc.testnet.grid.tf) and log in using your [Threefold Connect App](tfgrid:threefold_connect).
+Go to the [eVDC deployer website](https://vdc.testnet.grid.tf) and log in using your [Threefold Connect App](threefold_connect).
 
 
 You'll see the option to deploy your own Virtual Data Center.
 
-![](img/00_vdc_homepage.png ':size=600') 
+![](img/00_vdc_homepage.jpg ':size=600') 
 
 ## Steps
 
@@ -15,7 +15,7 @@ To create your eVDC, click `Deploy a VDC`.
 
 You'll have to provide a few pieces of information: a name, a secret password, and the size of your eVDC (can be edited over time). 
 
-![](img/01_vdc_selection.png ':size=600')
+![](img/01_vdc_selection.jpg ':size=600')
 
 Then the eVDC will set-up autonomously, and you should be able to deploy workloads on top of it after you issue the payment.
 
@@ -25,7 +25,7 @@ You can pay by scanning the QR code on the Threefold Connect app.
 
 The amount to be paid is calculated according to your eVDC [monthly package](evdc_pricing)
 
-![](img/02_vdc_payment2.png ':size=600')
+![](img/02_vdc_payment2.jpg ':size=600')
 
 > This may fail to get the payment through, [Detailed description of the payment issue](https://forum.threefold.io/t/3bot-and-evdc-provisioning-unreliable/1131/2)
 
@@ -43,7 +43,7 @@ Once the above steps are copleted, your eVDC will be ready for exploitation. A k
 
 > Note: keep this file secure and safe, as it contains all the information required to share access to your Kubernetes cluster.
 
-![](img/08_vdc_deploy_success2.png ':size=600')
+![](img/08_vdc_deploy_success2.jpg ':size=600')
 
 ## More Info:
 

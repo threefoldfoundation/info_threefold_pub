@@ -4,11 +4,11 @@ Compute Nodes represent the compute capacity inside your Kubernetes cluster. Thi
 
 You can easily upgrade or downgrade capacity inside your eVDC by adding or removing worker nodes via the Compute Nodes page on your admin panel.
 
-![](img/myvdc.png)
+![](img/myvdc.jpg)
 
 You will be redirected to the 'Compute Nodes' page within your eVDC management page. There, you can add or remove nodes based on your necessity.
 
-![](img/computenodes.png)
+![](img/computenodes.jpg)
 
 ## More Info:
 

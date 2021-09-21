@@ -1,6 +1,6 @@
 # Decentralized We
 
-![](img/evdc_mktplace_we.png)
+![](img/evdc_mktplace_we.jpg)
 
 `Decentralized We` provides peer-to-peer alternatives to the applications and tools we use every day to share and connect with the people around us. You'll find private and secure communication and publishing tools that ensure that all data remains private to the user, and that what is shared publicly remains owned by the data owner/author. 
 

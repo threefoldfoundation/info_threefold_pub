@@ -1,6 +1,6 @@
 # Quantum Safe Storage System for NFT
 
-![](img/nft_architecture.png)
+![](img/nft_architecture.jpg)
 
 The owner of the NFT can upload the data using one of our supported interfaces
 
@@ -16,7 +16,7 @@ The NFT system uses a super reliable storage system underneith which is sustaina
 
 #### Persistence = owned by the data user (as represented by digital twin)
 
-![](img/nft_storage.png)
+![](img/nft_storage.jpg)
 
 Is not based on a shared-all architecture.
 
@@ -74,11 +74,11 @@ The stored data is available over multiple interfaces at once.
 
 | interface                  |                         |
 | -------------------------- | ----------------------- |
-| IPFS                       | ![](img/ipfs.png)       |
-| HyperDrive / HyperCore     | ![](img/hyperdrive.png) |
-| http(s) on top of FreeFlow | ![](img/http.png)       |
-| syncthing                  | ![](img/syncthing.png)  |
-| filesystem                 | ![](img/filesystem.png) |
+| IPFS                       | ![](img/ipfs.jpg)       |
+| HyperDrive / HyperCore     | ![](img/hyperdrive.jpg) |
+| http(s) on top of FreeFlow | ![](img/http.jpg)       |
+| syncthing                  | ![](img/syncthing.jpg)  |
+| filesystem                 | ![](img/filesystem.jpg) |
 
 This allows ultimate flexibility from enduser perspective.
 

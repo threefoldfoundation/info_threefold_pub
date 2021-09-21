@@ -4,7 +4,7 @@
 
 Based in DMCC commodities freezone in Dubai:
 
-![](img/threefold_commodities_1.png)
+![](img/threefold_commodities_1.jpg)
 
 ## Planned Purpose
 
@@ -16,7 +16,7 @@ Based in DMCC commodities freezone in Dubai:
 
 Please see below the ThreeFold DMCC license:
 
-![](img/threefold_dmcc_license_certificate.png)
+![](img/threefold_dmcc_license_certificate.jpg)
 
 <!-- ### License Primary Address
 

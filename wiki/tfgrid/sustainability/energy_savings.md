@@ -1,4 +1,4 @@
-![](img/savings_energy_2.png)
+![](img/savings_energy_2.jpg)
 
 The aim of threefold is to lower the energy usage of our digital life.
 

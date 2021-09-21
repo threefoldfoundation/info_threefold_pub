@@ -1,6 +1,6 @@
 # Social
 
-![](img/social.png)
+![](img/social.jpg)
 
 *Social* is a collaboration network built for the new internet. It leverages blockchain technology to provide an economic alternative to surveillance capitalism, and decentralized cloud providers to empower users with self sovereign data and digital asset ownership.
 

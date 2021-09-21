@@ -1,5 +1,5 @@
 
-![](img/community_manager.png)
+![](img/community_manager.jpg)
 
 
 # Technical Community Manager, TFGrid 3.0 SDK
@@ -41,6 +41,6 @@ We are looking for a **Technical Community Manager & Team Lead** to help our com
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

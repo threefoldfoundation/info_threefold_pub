@@ -1,6 +1,6 @@
 # Project: Crystal Twin
 
-![](crystal_twin.png)
+![](crystal_twin.jpg)
 
 *The Crystal Twin's* vision is to shape a conscious digital world where all individuals, across regions, have equal chances to learn, partake, and succeed, in the best environment possible. A digital world where freedom and liberalism are at the center, and where we live sustainably and think circularly. The priority is to ensure the best environment possible for humanity to interact. The circular economies will be created to use resources consciously and to have true values at the core. Future economies will be digital and promote sustainability.
 

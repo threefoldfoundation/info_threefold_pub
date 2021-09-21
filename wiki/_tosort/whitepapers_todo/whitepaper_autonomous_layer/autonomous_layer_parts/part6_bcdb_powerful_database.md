@@ -17,7 +17,7 @@ BCDB is a powerful Blockchain database thst comes with the following features:.
 
 Supported interfaces: WebDav, Redis, REST 
 
-![alt_text](img/bcdb_flow.png)
+![alt_text](img/bcdb_flow.jpg)
 
 
 Depending on the type of required indexing, different supporting backend data storage or indexing systems are used. The main supported backend storage device is Zero-DB. 

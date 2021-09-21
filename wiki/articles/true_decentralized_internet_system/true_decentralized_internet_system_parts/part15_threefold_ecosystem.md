@@ -1,7 +1,7 @@
 # ThreeFold Companies 
 
 
-![alt_text](img/running.png)
+![alt_text](img/running.jpg)
 
 
 *   ThreeFold Tech

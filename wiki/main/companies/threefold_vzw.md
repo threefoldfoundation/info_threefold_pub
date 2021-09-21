@@ -24,7 +24,7 @@ The **VZW** is home to the [Wisdom Council](wisdom_council)
 
 ## Belgium Official Doc
 
-![](img/threefold_vzw_official_doc.png)
+![](img/threefold_vzw_official_doc.jpg)
 
 <!-- see [threefold_vzw_be_book_20067539.pdf]() -->
 

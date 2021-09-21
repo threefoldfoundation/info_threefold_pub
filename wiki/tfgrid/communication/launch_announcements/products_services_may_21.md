@@ -1,6 +1,6 @@
 # May 21: Products & Services Update
 
-![](img/product_services_may_21.png)
+![](img/product_services_may_21.jpg)
 
 **ThreeFold Products & Services Updates 2.7.1**
 Today we present you a round of recent updates to ThreeFold Cloud & Grid Services (live on Testnet), ThreeFold Connect, & ThreeFold Token (live on Production)!
@@ -12,7 +12,7 @@ Today we present you a round of recent updates to ThreeFold Cloud & Grid Service
 🥞 Binance Smart Chain integration (Pancakeswap)
 
 What Now?
-- [Read the full release notes](cloud:release_notes_2_7_1)
+- [Read the full release notes](release_notes_2_7_1)
 - [Join the Grid testing community](https://bit.ly/threefoldtesting)
 - [Info: Get TFT with BTC directly on ThreeFold Connect](threefold_connect_btc)
 - [Info: Get TFT via Binance Smart Chain](*tft_binance_defi?id=how-to-get-tft-on-pancakeswap)

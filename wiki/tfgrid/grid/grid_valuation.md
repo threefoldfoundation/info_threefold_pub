@@ -1,6 +1,6 @@
 # TF Grid / Token (TFT) Valuation
 
-![](img/tft.png)
+![](img/tft.jpg)
 
 
 The TF Grid's capacity is meeting the demand of one the fastest-growing markets globally. 
@@ -51,7 +51,7 @@ The TF Grid can be expanded indefinitely and independent farmers are incentivize
 
 The amount of TFT in circulation in the market is, however, limited to a maximum of 4 billion TFT.
 
-![](img/token_issuance_economy1.png)
+![](img/token_issuance_economy1.jpg)
 
 In alignment with the above assumptions, 50 billion USD (10% market share) would meet a limited supply of TFT that can never exceed 4 billion.
 

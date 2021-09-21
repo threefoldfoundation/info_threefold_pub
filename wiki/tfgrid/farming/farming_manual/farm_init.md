@@ -6,7 +6,7 @@ This page explains how to register a farm on the TF Grid.
 Install the farm management application. To do so, click `Packages` tab on the left side menu in your 3bot instance. Then go to `Farm Management` package 
 Then click on  the `Install` button.
 
-![install_package](img/install_packages.png)
+![install_package](img/install_packages.jpg)
 
 Once the package is installed, the page will reload and the `Farm Management` UI will appear on the left side menu click on it and you will see your farm configuration page.
 
@@ -16,7 +16,7 @@ Once the package is installed, the page will reload and the `Farm Management` UI
 
 To create a new farm, click the plus (+) button on the top left corner. It will open a form to create a new Farm.
 
-![](img/add_farm.png)
+![](img/add_farm.jpg)
 
 Here's an explanation of each field:
 
@@ -32,7 +32,7 @@ Once the farm is created you should see a new entry in the top table.
 
 Notice the first column of the table: ID. This is your farm ID. Write it down and store it securely as you will need it when generating the Zero-OS image for the 3nodes of your farm.
 
-![farm table](img/farm_table.png)
+![farm table](img/farm_table.jpg)
 
 ## Use API to check result of creation of farm
 

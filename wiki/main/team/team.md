@@ -2,7 +2,7 @@
 
 <br/>
 
-![roadmap](img/exits.png)
+![roadmap](img/exits.jpg)
 
 <br/>
 
@@ -12,7 +12,7 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 
 <br/>
 
-![team](img/team.png)
+![team](img/team.jpg)
 
 <br/>
 

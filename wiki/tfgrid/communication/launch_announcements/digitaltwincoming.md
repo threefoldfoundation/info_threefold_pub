@@ -1,6 +1,6 @@
 # February 19: Digital Twin v1 is Coming!
 
-![](img/digitaltwincoming.png)
+![](img/digitaltwincoming.jpg)
 
 **Recreate your digital life with Digital Twin.** Where only you own your data, and no one else.
 

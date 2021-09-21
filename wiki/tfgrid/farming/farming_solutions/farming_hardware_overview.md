@@ -12,7 +12,7 @@ You'll find below different options to start farming according to how technical 
 
 To help our community, ThreeFold is organizing a sale of 3Nodes. Please note we are not a hardware vendor, we do this to help our community to get started.
 
-![](img/three3nodes.png)
+![](img/three3nodes.jpg)
 
 **Titan V2.1:** The Titan v2 3Node is a medium sized 3Node that already comes with great hardware specifications.
 

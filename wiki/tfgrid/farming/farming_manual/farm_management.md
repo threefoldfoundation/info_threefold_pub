@@ -1,6 +1,6 @@
 <!--- to delete: replace by farming_diy_guide.md --->
 
-![alt](img/cap2layer.png)
+![alt](img/cap2layer.jpg)
 
 # ThreeFold Farm Management & Setup
 

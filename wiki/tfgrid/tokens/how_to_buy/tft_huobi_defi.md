@@ -1,4 +1,4 @@
-![](img/huobi.png)
+![](img/huobi.jpg)
 
 # Huobi DEFI
 

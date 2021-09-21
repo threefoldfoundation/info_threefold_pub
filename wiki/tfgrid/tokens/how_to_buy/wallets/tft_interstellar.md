@@ -1,4 +1,4 @@
-![image](img/interstellar_logo.png)
+![image](img/interstellar_logo.jpg)
 
 # Buying Tokens on Interstellar
 

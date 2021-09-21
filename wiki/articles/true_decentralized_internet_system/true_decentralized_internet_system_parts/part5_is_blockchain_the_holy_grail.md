@@ -1,6 +1,6 @@
 ## Is Blockchain the holy grail for decentralization?
 
-![alt_text](img/chain.png)
+![alt_text](img/chain.jpg)
 
 
 Blockchain has been painted as the holy grail of decentralization, it's a fantastic tool for certain use cases like smart contracts, digital ledger and money but we believe it's not the right tool for creating a platform where people can become owners of their digital destiny:

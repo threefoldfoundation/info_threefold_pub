@@ -1,6 +1,6 @@
 # Zetako
 
-![](img/zetako.png)
+![](img/zetako.jpg)
 
 *The Zetako* has built the technology that provides 30% more compression and speed, and uses 70% less energy in the process. In addition to this, the technology is capable of doing bit-by-bit compression allowing for real time bandwidth reduction - the technology does NOT need a prior knowledge of the dataset to start compression. In layman terms, this means that our technology does not require the data stream to be chopped up into chunks - we apply compression the moment the first bit (1 or 0) comes in.
 

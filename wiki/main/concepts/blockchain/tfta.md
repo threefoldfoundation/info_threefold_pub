@@ -2,7 +2,7 @@
 
 TFTA is a voluntary staking pool.
 
-There are no locks on this pool, people can get in & out of this pool in a very easy way see [tfta_to_tft](tfgrid:tfta_to_tft).
+There are no locks on this pool, people can get in & out of this pool in a very easy way see [tfta_to_tft](tfta_to_tft).
 
 Its a mechanism for people to show their support for ThreeFold and hold their tokens on a non liquid trustline.
 

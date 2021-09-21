@@ -32,7 +32,7 @@ Et voila, the conversion process starts. As stated before, depending on your tok
 
 Once the conversion process has ended, you will arrive in the accounts overview page. Done!
 
-![image](img/accounts_overview_stellar_mainnet.png)
+![image](img/accounts_overview_stellar_mainnet.jpg)
 
 *Note that if you get an error message, please try again later before contacting support.*
 

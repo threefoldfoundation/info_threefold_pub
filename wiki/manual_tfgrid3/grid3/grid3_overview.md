@@ -1,6 +1,6 @@
 ## Overview
 
-![Overlay](img/grid3_overlay.png)
+![Overlay](img/grid3_overlay.jpg)
 
 The architecture can be described as follows:
 - Everything that needs to talk to other components should live on the network of components that talk to each other through Yggdrasil (the 'Yggdrasil network').
@@ -20,4 +20,4 @@ The architecture can be described as follows:
   - The node then can read the contract data, validate and apply them. Deployment status can then be queried over RMB directly from the node.
   - Node will also send consumption reports to the contract, the contract then can start billing the user.
 
-![Sequence Diagram](img/sequence.png)
+![Sequence Diagram](img/sequence.jpg)

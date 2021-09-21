@@ -1,4 +1,4 @@
-![](img/tokenintrohome.png)
+![](img/tokenintrohome.jpg)
 
 # Overview
 

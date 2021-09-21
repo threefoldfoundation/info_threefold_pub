@@ -8,6 +8,6 @@ https://t.me/threefoldnews
 
 Looking forward to growing our community further together!
 
-![](img/gc1.png)
-![](img/gc2.png)
-![](img/gc3.png)
+![](img/gc1.jpg)
+![](img/gc2.jpg)
+![](img/gc3.jpg)

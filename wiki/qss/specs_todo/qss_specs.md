@@ -1,4 +1,4 @@
-![specs](img/specs_header.png)
+![specs](img/specs_header.jpg)
 
 # System requirements
 

@@ -10,7 +10,7 @@
 - doing http(s) proxy towards planetary network or other ipv6 enabled backend
 - if pnet then traffic is end2end encrypted, at back its http or https
 - when https on full domain only, then https forwarding is possible (so no SSL offload) = user needs to arrange certificate
-- user can select name (domain or just name), which is unique globally, see [pricing table](tfgrid:pricing)
+- user can select name (domain or just name), which is unique globally, see [pricing table](pricing)
 - http(s) goes to any specified ipv6 address on back (can be planetary network or even public ipv6 addr)
 - measurementis done per name and GB are being billed for user.
 - each wgw has unique domain name $location$nr.grid.tf e.g. dubai1.grid.tf
@@ -23,8 +23,8 @@
 
 ## billing remarks
 
-- farmer receives for traffic going to/from webgateway see [reward](tfgrid:pricing)
-- the user gets billed in line with [pricing](tfgrid:pricing) (per GB)
+- farmer receives for traffic going to/from webgateway see [reward](pricing)
+- the user gets billed in line with [pricing](pricing) (per GB)
 
 ## blockchain rewards
 

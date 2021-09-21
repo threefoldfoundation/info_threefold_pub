@@ -1,6 +1,6 @@
 # ThreeFold Token Overview
 
-![](img/token_overview_april11.png)
+![](img/token_overview_april11.jpg)
 
 > Max: amount of tokens = 4 billion.
 

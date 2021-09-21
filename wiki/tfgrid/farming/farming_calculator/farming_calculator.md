@@ -1,4 +1,4 @@
-![](img/becomefarmer.png )
+![](img/becomefarmer.jpg )
 
 # Farming Reward Calculator
 

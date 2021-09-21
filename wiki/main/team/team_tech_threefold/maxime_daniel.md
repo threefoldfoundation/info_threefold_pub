@@ -1,6 +1,6 @@
 ## Maxime Daniel
 
-![maxime_daniel](img/maxime_daniel.png)
+![maxime_daniel](img/maxime_daniel.jpg)
 
 - Lead Engineer
 - [LinkedIn](https://www.linkedin.com/in/maxime-daniel-29bb8055/)

@@ -30,7 +30,7 @@ Registration to the [BTC-Alpha](http://btc-alpha.com) exchange is simple, you on
 
 To register, go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
 
-![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.png)
+![Registration](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-registration.jpg)
 
 After registration, you will receive an email with an email verification link.
 
@@ -40,7 +40,7 @@ After registration, you will receive an email with an email verification link.
 
 Once you finished registration, log in to your account using your email address and password:
 
-![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-login.png)
+![LogIn](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-login.jpg)
 
 <a id='two-factor'></a>
 
@@ -54,7 +54,7 @@ To do that, first install **Authy** or **Google Authenticator** on your mobile p
 
 Then configure 2FA by going through the process on **TWO FACTOR AUTH** page:
 
-![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.png)
+![Two Factor Auth](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-two-factor.jpg)
 
 <a id='deposit-btc'></a>
 
@@ -66,15 +66,15 @@ Here are the steps to transfer Bitcoins into your BTC wallet at BTC-Alpha:
 
 1. From the navigation menu under your profile name, go to the **Finance** section:
 
-![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.png)
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.jpg)
 
 2. Find BTC and click **Deposit**:
 
-![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit.png)
+![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit.jpg)
 
 3. Copy your Bitcoin address and send your deposit there:
 
-![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit2.png)
+![BTC](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-btc-deposit2.jpg)
 
 You can use this address from any other online cryptocurrency exchange such as [Kraken](https://www.kraken.com) to transfer Bitcoins to your Bitcoin wallet at BTC-Alpha. If you don't own yet any Bitcoins, you should first register at one of the online cryptocurrency exchanges such as [Kraken](https://www.kraken.com), deposit fiat money and buy Bitcoins.
 
@@ -132,13 +132,13 @@ To withdraw your ThreeFold_Tokens from your online TFT wallet on BTC-Alpha go th
 
 2. From the navigation menu under your profile name, go to the **Finance** section:
 
-![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.png)
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.jpg)
 
 3. Locate TFT in the list and click **Withdraw**, and select TFT in the popup list (not BTC-Alpha Codes)
 
 4. In a withdrawal dialog specify the amount of TFT to withdraw and the destination address you got from your TFT wallet in the ThreeFold app:
 
-![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.png)
+![Withdraw](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-withdraw.jpg)
 
 <a id='deposit-tft'></a>
 
@@ -150,17 +150,17 @@ Here are the steps:
 
 1. From the navigation menu under your profile name, again go to the **Finance** section:
 
-![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.png)
+![Finance](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-finance-section-300.jpg)
 
 2. Find TFT and click **Deposit**:
 
-![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit.png)
+![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit.jpg)
 
 3. Copy your TFT address and send your deposit there. You can scan the QR code of the address from your mobile phone. Or you can copy the full-text address from a chat message for instance.
 
 4. Send your TFT to BTC-Alpha from your ThreeFold app wallet using the following address:
 
-![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit2.png)
+![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit2.jpg)
 
 5. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 

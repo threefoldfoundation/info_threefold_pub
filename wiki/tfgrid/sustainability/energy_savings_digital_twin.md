@@ -1,5 +1,5 @@
 
-![](img/savings_energy_2.png)
+![](img/savings_energy_2.jpg)
 
 # Energy Savings Digital Twin
 
@@ -28,7 +28,7 @@ To power 4 Billion people with a system like ours we need less that 10 giga-watt
 
 In today’s digital world, on average our digital selves exist on more than 100 separate platforms. This is super inefficient!
 
-![](img/we_exist_multiple_times.png)
+![](img/we_exist_multiple_times.jpg)
 
 For each use case (e.g. facebook, amazon, gmail, …) we exist within a huge system of databases and compute front ends. Google, for their mail and office alone, has millions of servers.
 
@@ -36,7 +36,7 @@ For each use case (e.g. facebook, amazon, gmail, …) we exist within a huge sys
 
 To run your digital life you only need one digital twin to be alive instead of existing on 100 different client-server systems.
 
-![](img/one_time_twin.png)
+![](img/one_time_twin.jpg)
 
 Each digital twin is highly efficient for maintaining your digital life.
 
@@ -85,7 +85,7 @@ Networking uses a lot of power in the world (see graph below), thanks to our app
 In client server systems, there are many software layers.
 In the world today everything is a client server system.
 
-![](img/context_switches.png)
+![](img/context_switches.jpg)
 
 Database layers, software defined networking, storage and network virtualization, hypervisors, process managers, ...
 

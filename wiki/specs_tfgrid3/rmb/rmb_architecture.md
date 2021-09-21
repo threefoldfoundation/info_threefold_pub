@@ -1,7 +1,7 @@
 # Reliable Message Bus Protocol
 
 
-![Schema](img/zbus.png)
+![Schema](img/zbus.jpg)
 
 
 Object Schema:

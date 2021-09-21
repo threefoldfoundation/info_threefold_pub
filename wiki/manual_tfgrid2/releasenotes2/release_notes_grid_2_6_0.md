@@ -1,6 +1,6 @@
 # ThreeFold Grid 2.6
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 - [ThreeFold Grid 2.6 Product Project](https://github.com/orgs/threefoldtech/projects/138)
 

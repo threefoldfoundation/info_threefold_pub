@@ -1,6 +1,6 @@
 # ThreeFold Cloud Unique Benefits
 
-![](img/benefits.png)
+![](img/benefits.jpg)
 
 | Benefit                            | Description                                                           |
 | ---------------------------------- | --------------------------------------------------------------------- |

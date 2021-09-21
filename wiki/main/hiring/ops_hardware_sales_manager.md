@@ -1,4 +1,4 @@
-![](img/development_manager.png)
+![](img/development_manager.jpg)
 
 # Operations & Hardware Sales Manager
 

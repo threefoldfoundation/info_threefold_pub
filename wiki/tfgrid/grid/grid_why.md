@@ -8,7 +8,7 @@ The Internet is growing at an accelerated rate. To service this demand, a few la
 
 This Internet infrastructure is very badly distributed, generally located only in the most developed regions of this world. Despite being a human right, only half of the global population has Internet access today. The Internet became the biggest source of information and value, it is therefore important to have an architecture that is scalable and affordable to all - something that is not the case today.
 
-![](img/bad_internet.png)
+![](img/bad_internet.jpg)
 
 The Internet is expanding at such a rapid pace, that even the cloud giants can't cope with it. The creation of hyper-scale data centers takes time and costs billions. And that doesn't even take into consideration all the externalities, as the Internet consumes about 10% of global energy resources. Therefore, in an age of climate change and where user data is not safe anymore, we need to find a more sustainable and sovereign solution.
 

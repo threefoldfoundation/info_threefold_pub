@@ -10,7 +10,7 @@ More info see https://en.wikipedia.org/wiki/Peer-to-peer
 
 |                            |                       |
 | -------------------------- | --------------------- |
-| ![](img/peer2peer_def.png) | ![](img/star_def.png) |
+| ![](img/peer2peer_def.jpg) | ![](img/star_def.jpg) |
 | Peer To Peer or P2P        | Client - Server       |
 
 
@@ -20,6 +20,6 @@ Its the purest form of decentralization.
 
 Its a very overlooked concept in the IT industry.
 
-![](img/peer2peer.png)
+![](img/peer2peer.jpg)
 
 !!!def alias:peer2peer

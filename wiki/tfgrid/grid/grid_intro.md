@@ -1,7 +1,7 @@
 
 # ThreeFold Grid
 
-![](img/tf_principle_banner.png)
+![](img/tf_principle_banner.jpg)
 
 The ThreeFold_Grid is the most advanced peer-to-peer Internet Grid in the world. It is built by independent people, called farmers, that together create a pool of inter-connected compute, network and storage capacity.
 
@@ -9,7 +9,7 @@ The ThreeFold Token is used to buy cloud_capacity on the TF_grid. This Cloud_Cap
 
 ## Participants of the grid
 
-![](img/circular_tft.png)
+![](img/circular_tft.jpg)
 
 <!-- 
 
@@ -26,7 +26,7 @@ Note: This image is stored as a slide in case the text needs to be edited. You c
 
 ## Grid Users
 
-![](img/different_users_tfgrid.png)
+![](img/different_users_tfgrid.jpg)
 
 ### Developers use the cloud capacity
 

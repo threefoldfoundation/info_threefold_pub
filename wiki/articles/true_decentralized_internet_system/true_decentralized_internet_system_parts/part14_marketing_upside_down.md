@@ -5,7 +5,7 @@
   <tr>
    <td>
 
-![image](img/even_food_is_free.png)
+![image](img/even_food_is_free.jpg)
 
    </td>
    <td>In the current systems you think to get a product for free, but actually you are a product which generates more than 1000 USD per year for the current internet company's.

@@ -1,6 +1,6 @@
 ## Reem Khamis
 
-![reem_khamis](img/reem_khamis.png)
+![reem_khamis](img/reem_khamis.jpg)
 
 - Dev Team Lead
 - [LinkedIn](https://www.linkedin.com/in/rkhamis/)

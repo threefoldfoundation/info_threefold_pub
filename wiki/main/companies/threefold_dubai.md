@@ -16,13 +16,13 @@ At one point in time we had an office on the 74th floor of a building close to t
 
 <!-- [photos ThreeFold_Dubai](structure/images_threefold_fzc.html ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"') -->
 
-![](img/view_dubai.png)
-![](img/dubai_office1.png)
+![](img/view_dubai.jpg)
+![](img/dubai_office1.jpg)
 
 Our main office was and still is in Al Jadaf which is, interestingly enough, a boat shipyard. This is where a lot of the ideas and work has been done to make ThreeFold possible.
 
-![](img/al_jadaf.png)
-![](img/aljadaf2.png)
+![](img/al_jadaf.jpg)
+![](img/aljadaf2.jpg)
 
 The tower on the left in the photo above is where our office was. The place behind (to the right) is called Al Jadaf. We decided to do something different compared to most. No office in a fancy office building. Instead we have our office next to the water in a very old shipyard. Very unique, and it much more cost effective as well. (-:
 

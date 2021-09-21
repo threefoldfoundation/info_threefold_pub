@@ -1,6 +1,6 @@
 ## Ashraf Fouda
 
-![ashraf_fouda](img/ashraf_fouda.png)
+![ashraf_fouda](img/ashraf_fouda.jpg)
 
 - Tech Product Lead for Blockchian Jukebox
 - [LinkedIn](https://www.linkedin.com/in/ashraffouda/)

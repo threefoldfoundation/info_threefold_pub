@@ -23,7 +23,7 @@ Please note that this solution is currently for testing only, and some important
 
 If you haven't already, go ahead and [deploy a VDC](evdc_deploy). Then download the Z-Stor config file, found in the upper right corner of the `VDC Storage Nodes` screen. Unless you know that IPv6 works on your machine and within Docker, choose the IPv4 version of the file.
 
-![](img/planetaryfs_zstor_config.png)
+![](img/planetaryfs_zstor_config.jpg)
 
 As described in [Manage Storage Nodes](evdc_storage), this file contains the necessary information to connect with the 0-DBs running on the storage nodes in your VDC. It also includes an encryption key used to encrypt data that's uploaded and a field to specify your etcd endpoints. Using the defaults here is fine.
 
@@ -50,7 +50,7 @@ Back in the container's terminal window, `cd /root` and confirm that the two fil
 
 This bootstrap's execution will start up all necessary components and show you that the back-end is ready for dispersing the data.
 
-![](img/planetaryfs_bootstrap_ready.png ':size=600')
+![](img/planetaryfs_bootstrap_ready.jpg ':size=600')
 
 After that, your Planetary Secure File System will be mounted at `/root/.threefold/mnt/zdbfs`. Files copied there will automatically be stored on the grid incrementally as fragments of a certain size are filled, by default 32Mb. In a future release, this will no longer be a limitation.
 
@@ -58,7 +58,7 @@ After that, your Planetary Secure File System will be mounted at `/root/.threefo
 
 Users that intend to have also the metadata out-of-the-box available, and have it used in the Kubernetes cluster, need to push the `ENABLE QUANTUM STORAGE` button. This will allow to use etcd key-value stores in the VDC, and can be used within a Kubernetes cluster.  
 
-![](img/planetaryfs_enable_qs.png)
+![](img/planetaryfs_enable_qs.jpg)
 
 Once Quantum Storage mode is enabled, you get an etcd for free. 
 
@@ -68,12 +68,12 @@ Once Quantum Storage mode is enabled, you get an etcd for free.
 
 Adding storage nodes manually is simple: press the `+ ADD NODE` button. 
 
-![](img/planetaryfs_add_node.png)
+![](img/planetaryfs_add_node.jpg)
 
 You'll be asked to deploy this storage node either on the same farm or on another one. The choice is a balance between security (have the data in multiple locations makes it more resilient against disaster). 
 
-![](img/planetaryfs_farm.png ':size=600')
+![](img/planetaryfs_farm.jpg ':size=600')
 
 If you choose `Yes`, select the farm of your choice, and then pay for the extra capacity. 
 
-![](img/planetaryfs_pay.png ':size=600')
+![](img/planetaryfs_pay.jpg ':size=600')

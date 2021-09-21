@@ -1,6 +1,6 @@
 ## Karoline Zizka
 
-![karoline_zizka](img/karoline_zizka.png)
+![karoline_zizka](img/karoline_zizka.jpg)
 
 - Operations / Administration / PA Kristof
 - [LinkedIn](https://www.linkedin.com/in/karoline-zizka-52a287b6/)

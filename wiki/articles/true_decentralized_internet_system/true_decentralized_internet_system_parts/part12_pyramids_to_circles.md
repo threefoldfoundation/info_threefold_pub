@@ -1,6 +1,6 @@
 ## From Pyramids To Circles
 
-![alt_text](img/you_at_center.png)
+![alt_text](img/you_at_center.jpg)
 
 Today every service on the internet is fully centralized. As discussed earlier we have become a product.
 
@@ -12,7 +12,7 @@ Our personal 3Bot acts as our digital self, it acts like our avatar. This 3Bot o
 
 All of the commonly used applications listed in the pyramid on the left of this graphic are neither in line with the FreeFlow Nation values nor are they good for our World. Our personal 3Bot has the capability to eventually become a credible alternative to all these functions.
 
-![alt_text](img/serverless_architecture.png)
+![alt_text](img/serverless_architecture.jpg)
 
 **Some examples of services which can run in a personal 3Bot (your digital self).
 **

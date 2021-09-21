@@ -1,6 +1,6 @@
 # June 15: Zetako and ThreeFold Join Forces
 
-![](img/zetakothreefold.png)
+![](img/zetakothreefold.jpg)
 
 **Zetako and ThreeFold join forces 🤝 to enable hyper-efficient data transport and storage for people and for our planet** 🌍
 

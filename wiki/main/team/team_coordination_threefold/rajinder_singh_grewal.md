@@ -1,6 +1,6 @@
 ## Rajinder Singh Grewal
 
-![rajinder_singh_grewal](img/rajinder_singh_grewal.png)
+![rajinder_singh_grewal](img/rajinder_singh_grewal.jpg)
 
 - CFO
 - [LinkedIn](https://www.linkedin.com/in/rajindergrewal/)

@@ -1,6 +1,6 @@
 # ThreeFold Release Notes
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 Find releasenotes organized per major release:
 

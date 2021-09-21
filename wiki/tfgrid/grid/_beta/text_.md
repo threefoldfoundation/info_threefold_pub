@@ -1,6 +1,6 @@
 # ThreeFold Cooperatives
 
-![](cooperatives.png)
+![](cooperatives.jpg)
 
 * [Bettertoken](https://bettertoken.com/)
 * [Mazraa](https://www.mazraa.io/)

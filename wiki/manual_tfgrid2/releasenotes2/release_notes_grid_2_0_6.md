@@ -1,6 +1,6 @@
 # ThreeFold Grid 2.0.6
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 TF Grid 2.2.0 describes the current setup on the grid.
 It introduces the threefold_now running on js-ng

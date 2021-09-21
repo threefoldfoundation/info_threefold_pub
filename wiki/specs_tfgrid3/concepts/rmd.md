@@ -4,7 +4,7 @@ The Reliable Message Bus is the communication mechanism between all components o
 
 ### Schema
 
-![Schema](img/zbus.png) 
+![Schema](img/zbus.jpg) 
 
 ### Benefits
 

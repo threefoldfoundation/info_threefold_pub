@@ -1,4 +1,4 @@
-...![](img/sustainable.png)
+...![](img/sustainable.jpg)
 
 # Vesting Pool
 
@@ -21,7 +21,7 @@ The Vesting mechanism was launched in April 2021 and the unlocking of tokens wil
 
 ## Accelerated Vesting Table
 
-![](img/vesting_scheme.png)
+![](img/vesting_scheme.jpg)
 
 The percentage is the amount of tokens which will be unlocked at that month and price level indicated. Column one is for month 0, column 2 for month 9.
 

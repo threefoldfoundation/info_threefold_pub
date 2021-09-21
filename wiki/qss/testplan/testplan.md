@@ -31,7 +31,7 @@ Failure modes which we have testplans and cases for:
   - [Interaction Storage Engine - Physical Storage Device](#storage-engine-to-physical-storage-device)
   - [Interaction Storage Engine - Metadata Store](#storage-engine-to-metadata-store)
 
-![](img/failure_points.png)
+![](img/failure_points.jpg)
 
 #### Enduser
 

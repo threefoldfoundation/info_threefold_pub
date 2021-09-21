@@ -3,7 +3,7 @@
 Due to the billions of IoT devices driven by various use cases like autonomous driving,  a huge demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0%  and  the market is expected to  reach  USD 33.75 billion by the end of 2023.
 
 
-![alt_text](img/chart.png)
+![alt_text](img/chart.jpg)
 
 Source: [http://www.digitaljournal.com/pr/3394129](http://www.digitaljournal.com/pr/3394129)
 

@@ -1,8 +1,8 @@
-![](img/planetary_lan.png)
+![](img/planetary_lan.jpg)
 
 # Planetary Network
 
-![](img/planetary_net.png)
+![](img/planetary_net.jpg)
 
 Overlay network which lives on top of the existing internet or other peer2peer networks created. In this network, everyone is connected to everyone. End-to-end encryption between users of an app and the app running behind the network wall.
 

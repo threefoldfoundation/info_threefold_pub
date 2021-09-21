@@ -12,11 +12,11 @@
 
 - [compute architecture](i4_architecture)
 - [storage architecture](i4_storage_architecture)
-- [blockchain dilemma problem resolved](internet4:blockchain_dilemma_whitepaper)
+- [blockchain dilemma problem resolved](blockchain_dilemma_whitepaper)
 
 ## Evolution
 
-![](img/compare_3_parts.png)
+![](img/compare_3_parts.jpg)
 
 ## More information
 

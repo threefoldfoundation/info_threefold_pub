@@ -1,6 +1,6 @@
 ## ThreeFold Token (TFT)
 
-![](img/token_internet.png)
+![](img/token_internet.jpg)
 
 ThreeFold Token is the token of the new internet. It is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold_Grid – generated only when active capacity is added to the ThreeFold_Grid.
 

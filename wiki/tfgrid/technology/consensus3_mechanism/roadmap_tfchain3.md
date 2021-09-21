@@ -1,7 +1,7 @@
 
 # Roadmap For TFChain 3.0
 
-![](img/limitedsupply.png)
+![](img/limitedsupply.jpg)
 
 ## Phase 1: proof of authority blockchain
 

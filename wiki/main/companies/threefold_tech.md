@@ -1,6 +1,6 @@
 # ThreeFold Tech
 
-![](img/threefold_tech.png)
+![](img/threefold_tech.jpg)
 
 Company developing & promoting software for self-healing, self-driving cloud & blockchain workloads. Has developed most of the software as used in the ThreeFold_Grid.
 
@@ -42,7 +42,7 @@ The company is 80% engineering centric today.
 
 ## location
 
-![](img/threefold_tech_location.png)
+![](img/threefold_tech_location.jpg)
 
 
 !!!def alias:threefold_tech,tf_tech

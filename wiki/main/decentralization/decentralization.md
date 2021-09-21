@@ -1,5 +1,5 @@
 
-![](img/welcomepage.png)
+![](img/welcomepage.jpg)
 
 # ThreeFold Decentralization
 

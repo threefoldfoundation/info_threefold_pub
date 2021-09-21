@@ -1,4 +1,4 @@
-![](img/filesystem_abstract.png)
+![](img/filesystem_abstract.jpg)
 
 # Quantum Safe Filesystem
 
@@ -32,7 +32,7 @@ Unique features.
 
 ## Architecture
 
-![](img/qsstorage_architecture.png)
+![](img/qsstorage_architecture.jpg)
 
 Any storage workload can be deployed on top of the zstor.
 

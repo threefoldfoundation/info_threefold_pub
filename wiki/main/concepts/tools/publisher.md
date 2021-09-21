@@ -1,4 +1,4 @@
-![](img/publishing_system.png)
+![](img/publishing_system.jpg)
 
 # Publishing System
 
@@ -22,6 +22,6 @@ Can be used for education, news channels, websites, ...
 - supports the hyperdrive system, expose the content to other digital twin in a P2P way.
 - supports gridsome or other website generation systems (we use this internally)
 
-![](img/website_example_threefold.png)
+![](img/website_example_threefold.jpg)
 
 !!!def alias:publisher,publishing_system,publishing_tool,publisher_tool

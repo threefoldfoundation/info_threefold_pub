@@ -8,7 +8,7 @@ Registration to the [BTC-Alpha](http://btc-alpha.com) exchange is simple, you on
 
 To register, go to their [Sign Up](https://btc-alpha.com/accounts/register) page:
 
-![Registration](img/btc_alpha_registration.png)
+![Registration](img/btc_alpha_registration.jpg)
 
 After registration, you will receive an email with an email verification link.
 
@@ -18,7 +18,7 @@ Once you've finished registration, log in to your account using your email addre
 
 Note that you may be asked to enter a 6-digit code sent to your email the first time you log in from a new device.
 
-![LogIn](img/btc_alpha_login.png)
+![LogIn](img/btc_alpha_login.jpg)
 
 ### Verify your identity
 

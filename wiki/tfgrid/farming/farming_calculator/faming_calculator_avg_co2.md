@@ -1,7 +1,7 @@
 # Carbon Offset Calculator For Avg Hardware
 
 
-![](img/carbon_offset_calculator.png)
+![](img/carbon_offset_calculator.jpg)
 
 To play at the safe site ThreeFold will ofset 1 TFT per CU and SU.
 

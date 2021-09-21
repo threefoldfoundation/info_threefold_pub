@@ -1,6 +1,6 @@
 # Vlinder
 
-![](img/vlinder.png)
+![](img/vlinder.jpg)
 
 *The Vlinder* is a private finance app providing a helicopter view of your payments, crypto wallets, and cash expenses while automatically estimating your carbon footprint allowing to contribute to community projects and make a profit from offsetting CO2 emissions by investing in green products with high return.
 

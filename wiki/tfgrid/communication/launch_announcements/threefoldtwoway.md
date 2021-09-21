@@ -1,6 +1,6 @@
 # April 14: Join the ThreeFold Two-Way Chat
 
-![](img/threefoldtwoway.png)
+![](img/threefoldtwoway.jpg)
 
 **We've opened up a two-way chat on Telegram** for the ThreeFold community! 🌍
 

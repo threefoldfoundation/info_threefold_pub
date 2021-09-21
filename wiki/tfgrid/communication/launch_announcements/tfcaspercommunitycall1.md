@@ -1,6 +1,6 @@
 # April 13: ThreeFold Joins CasperLabs Community Call
 
-![](img/tfcaspercommunitycall1.png)
+![](img/tfcaspercommunitycall1.jpg)
 
 **Today at 6pm CET / 12pm EST,** ThreeFold co-founder Kristof de Siegeleer will be joining the Casper community call to introduce ThreeFold to the Casper community and to discuss our collaboration.
 

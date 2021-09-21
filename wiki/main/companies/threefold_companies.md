@@ -14,7 +14,7 @@ The list below is just some of the organizations involved with the growth of Thr
 | Jimber                                 | Belgian software company building out Digital Twin, etc                            |
 
 
-> Please note, ThreeFold (ThreeFold Grid) operates as a DAO every party who wants to participate with the ThreeFold Grid uses the [ThreeFold blockchain infrastructure](tfgrid:consensus3).
+> Please note, ThreeFold (ThreeFold Grid) operates as a DAO every party who wants to participate with the ThreeFold Grid uses the [ThreeFold blockchain infrastructure](consensus3).
 
 
 | Farmers     |                                                                  |

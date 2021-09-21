@@ -1,4 +1,4 @@
-![alt](img/sdk_intro.png)
+![alt](img/sdk_intro.jpg)
 
 The 3SDK Wiki is here to help you with:
 

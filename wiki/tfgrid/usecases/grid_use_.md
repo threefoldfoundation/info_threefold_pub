@@ -1,11 +1,11 @@
 
-![](img/different_users_tfgrid.png)
+![](img/different_users_tfgrid.jpg)
 
 There are many use-cases being built on top of the ThreeFold Grid to use the capacity that is made available by farmers. See below the main products available today.
 
 ## Cloud
 
-![](img/cloud22.png)
+![](img/cloud22.jpg)
 
 Use the ThreeFold grid as your cloud platform. Any workload which is Linux compatible can run on our Peer2Peer grid.
 
@@ -21,7 +21,7 @@ Benefits
 A scalable private cloud that comes with a virtual data center solution, a zstor filesystem and a planetary network. TF P2P Cloud represents the next evolution of cloud and brings the most powerful architecture for IT workloads to scale. 
 
 - Visit TF P2P Cloud website [here](https://threefold.io/cloud/).
-- Visit TF P2P Cloud wiki [here](cloud:cloud_home).
+- Visit TF P2P Cloud wiki [here](cloud_home).
 
 > Note: TF P2P Cloud  is currently in Beta version. 
 
@@ -32,41 +32,41 @@ For TFGrid 2.0.
 A marketplace of peer-to-peer solutions for communities to scale privately in a truly decentralized way. From web publishing to communication platforms and deploying blockchain nodes, find all the peer-to-peer applications your community may need. 
 
 - Visit TF Marketplace website [here](https://threefold.io/marketplace/).
-- Visit TF Marketplace wiki [here](cloud:evdc_marketplace_overview).
+- Visit TF Marketplace wiki [here](evdc_marketplace_overview).
 
 > Note: TF P2P Marketplace is currently in Beta version. 
 
 ## Internet Apps
 
-![](img/internet_pain.png)
+![](img/internet_pain.jpg)
 
 ### Filemanager / Office Editor
 
-![](img/office2.png)
+![](img/office2.jpg)
 
 see [AYDO](twin:aydo)
 
 ### Zoom Alternative
 
-![](img/internet_flow_transp.png)
+![](img/internet_flow_transp.jpg)
 
 see [Kutana](twin:kutana)
 
 ### Web publishing system
 
-![](img/publishing_system.png)
+![](img/publishing_system.jpg)
 
 see [Publishing System](publisher)
 
 ### Sovereign Chat System
 
-![](img/chat.png)
+![](img/chat.jpg)
 
 See [Twin Chat](twin:twin_chat)
 
 ### Cloud Browser Engine
 
-![](img/browsers.png)
+![](img/browsers.jpg)
 
 See [Browser](accelerator:hercules_browser)
 

@@ -12,4 +12,4 @@ I believe the web needs to evolve into a more decentralized and fair network. I'
 - [tfexplorer](https://github.com/threefoldtech/tfexplorer)
 - [tfgateway](https://github.com/threefoldtech/tfgateway)
 - [0-stor](https://github.com/threefoldtech/0-stor/)
-- TFGrid: Design and architecture
+-  Design and architecture

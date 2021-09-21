@@ -1,4 +1,4 @@
-![](img/grid_header.png)
+![](img/grid_header.jpg)
 
 # Consensus Engine
 

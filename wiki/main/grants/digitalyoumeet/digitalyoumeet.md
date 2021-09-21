@@ -1,6 +1,6 @@
 # DigitalTwin Meet
 
-![](img/digitalyoumeet.png)
+![](img/digitalyoumeet.jpg)
 
 We believe that a video conferencing solution like FreeFlow connect has a lot of potential on top of the ThreeFold_Grid, mostly considering latest news about privacy issues on biggest solutions. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. FreeFlow Connect creates peer-to-peer connections.
 

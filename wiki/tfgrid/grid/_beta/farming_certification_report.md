@@ -1,6 +1,6 @@
 > DRAFT: CANNOT BE USED YET JUST IDEAS
 
-![](img/certification.png)
+![](img/certification.jpg)
 
 # Farming certification report
 

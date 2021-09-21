@@ -1,5 +1,5 @@
 
-<!-- ![about](img/about.png) -->
+<!-- ![about](img/about.jpg) -->
 
 ## What is Blockchain Jukebox?
 
@@ -29,7 +29,7 @@ Blockhain Jukebox is a blockchain node deployment platform therefore on the plat
 
 <br/>
 
-![jukebox_platform](img/jukebox_platform.png)
+![jukebox_platform](img/jukebox_platform.jpg)
 
 ## How does Blockchain Jukebox work?
 

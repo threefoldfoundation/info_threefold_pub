@@ -8,4 +8,4 @@ We need more funding though, we are self funded today (by means of our community
 
 One of our keys to success are our partnerships and we are very grateful that they want to support our mission.
 
-![alt_text](img/partners.png)
+![alt_text](img/partners.jpg)

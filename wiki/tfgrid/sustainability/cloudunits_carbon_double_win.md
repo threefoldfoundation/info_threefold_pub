@@ -1,4 +1,4 @@
-![](img/carbon_double_win.png)
+![](img/carbon_double_win.jpg)
 
 # ThreeFold Grid is 2x carbon negative.
 
@@ -30,7 +30,7 @@
 
 Next calculation shows how many TFT we have to compensate and give to students as part of TAG program to make our cloud remove 2x more carbon than it produces.
 
-![](img/carbon_compensation.png)
+![](img/carbon_compensation.jpg)
 
 > kg CO2 per kwh see [kwh to co2 table](kwh_co2)
 

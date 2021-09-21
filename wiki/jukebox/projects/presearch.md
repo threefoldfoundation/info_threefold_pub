@@ -1,4 +1,4 @@
-![presearch](img/presearch_header.png)
+![presearch](img/presearch_header.jpg)
 
 [**Presearch**](https://presearch.io) is an open, decentralized search engine that rewards community members with Presearch Tokens (PRE) for their usage, contribution to, and promotion of the platform.
 

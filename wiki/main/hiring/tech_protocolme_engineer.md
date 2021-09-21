@@ -1,13 +1,13 @@
 
 
-![](img/development_manager.png)
+![](img/development_manager.jpg)
 
 
 # Senior Developer protocol.me / Digital Twin
 
 !!!include:tf_hr_intro
 
-We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](tfgrid:internet4).
+We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](internet4).
 The digital_twin can set us free, create our digital future without boundaries where we 100% own our data and digital processes.
 
 
@@ -50,6 +50,6 @@ The digital_twin can set us free, create our digital future without boundaries w
 
 ## More Info
 
-- [Technology](cloud:technology)
+- [Technology](technology)
 
 !!!include:hiring_toc

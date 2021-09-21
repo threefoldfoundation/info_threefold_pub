@@ -1,6 +1,6 @@
 # April 1: Recapping January to March 2021
 
-![](img/q12021recap.png)
+![](img/q12021recap.jpg)
 
 The first three months of 2021 are officially in the books, so we wanted to take a minute to give you a quick update on what we have been up to and where we are today.
 
@@ -10,10 +10,10 @@ Much of the first part of this year has been focused on bringing new, unique, an
 
 The team has put in tremendous work to get the technology to where it is today. Some highlights of the progress since January:
 
-- [TF Grid version 2.4](cloud:release_notes_2_4_0) and [2.5](cloud:release_notes_2_5_0) were released, with 2.6 soon on its way.
+- [TF Grid version 2.4](release_notes_2_4_0) and [2.5](release_notes_2_5_0) were released, with 2.6 soon on its way.
 - The Edge Virtual DataCenter launched with a 100% Kubernetes-compatible container orchestration framework; soon, a back-up feature will allow users to migrate workloads between eVDCs.
-- The easy-to-deploy, unlimited-scale [zstor filesystem (zstor)](cloud:threefold_filesystem) was released as a standalone product – independent from eVDC and the 3Bot SDK. *We're incredibly excited about zstor, and you'll be hearing more from us soon!*
-- We added new [ThreeFold Marketplace](cloud:evdc_marketplace) solutions and improved the user experience there; also, all solutions now have ThreeFold Connect single sign on implemented.
+- The easy-to-deploy, unlimited-scale [zstor filesystem (zstor)](threefold_filesystem) was released as a standalone product – independent from eVDC and the 3Bot SDK. *We're incredibly excited about zstor, and you'll be hearing more from us soon!*
+- We added new [ThreeFold Marketplace](evdc_marketplace) solutions and improved the user experience there; also, all solutions now have ThreeFold Connect single sign on implemented.
 - You can now deploy DigiByte & Presearch nodes in just a few clicks on top of the peer-to-peer ThreeFold Grid via the Marketplace; soon we will be working with these partners to announce to their communities and bring adoption!
 
 *As always, if you'd like to join our testing community, you can do so [here](https://bit.ly/tftesting)!*

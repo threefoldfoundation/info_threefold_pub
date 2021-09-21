@@ -1,4 +1,4 @@
-![](img/autolayer.png)
+![](img/autolayer.jpg)
 
 # Limited Token Supply
 

@@ -1,5 +1,5 @@
-<!-- ![](img/decentralization.png) -->
-![](img/home_threefold_new.png ':size=600')
+<!-- ![](img/decentralization.jpg) -->
+![](img/home_threefold_new.jpg ':size=600')
 
 # Hey there 👋
 
@@ -8,10 +8,10 @@ Welcome to the ThreeFold Wiki. Here you will find all relevant information aroun
 **If you're new to our project, we'd recommend you to start with "About Threefold?".**
 
 
-- [Learn more about the ThreeFold Grid = largest Peer2Peer Cloud in the world](tfgrid:grid_home)
-- [Learn more about farming](tfgrid:farming_home)
-- [Learn more about tokens](tfgrid:tokens_home)
-- [Learn how to use te grid](cloud:cloud_home)
+- [Learn more about the ThreeFold Grid = largest Peer2Peer Cloud in the world](grid_home)
+- [Learn more about farming](farming_home)
+- [Learn more about tokens](tokens_home)
+- [Learn how to use te grid](cloud_home)
 
 <!-- 
 

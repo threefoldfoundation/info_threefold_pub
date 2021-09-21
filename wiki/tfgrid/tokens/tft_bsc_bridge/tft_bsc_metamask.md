@@ -14,6 +14,6 @@
   
 Once this configuration is done, your TFT wallet is ready. 
 
-![](img/tft_bsc_metamask.png ':size=300')
+![](img/tft_bsc_metamask.jpg ':size=300')
 
 More info on the configuration can be found in the [Official Binance guide](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)

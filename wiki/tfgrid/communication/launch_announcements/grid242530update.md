@@ -1,6 +1,6 @@
 # February 10: An Update on Grid 2.4, 2.5, & 3.0!
 
-![](img/grid242530update.png)
+![](img/grid242530update.jpg)
 
 Our TF Grid 2.4 has now been on testnet for over a month and we are getting good test results – but we need more! We need more [people who want to test](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w), and we need more farmers who are willing to upgrade to the 2.4 (soon 2.5) release and make additional capacity available towards the community.
 
@@ -12,7 +12,7 @@ Some of the 2.4 features ready to play with:
 - Full Kubernetes support – deploy anything you want using tools people love
 - First version of our Planetary Filesystem (mount a filesystem everywhere and write to the TF Grid in a way data can never be lost, with full - security/privacy and sovereignty)
 
-Find Grid 2.4 release notes [here](cloud:release_notes_2_4_0).
+Find Grid 2.4 release notes [here](release_notes_2_4_0).
 
 We are almost ready with for our 2.5 release with the following new features:
 

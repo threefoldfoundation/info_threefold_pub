@@ -1,6 +1,6 @@
 # CDN
 
-![cdn](img/cdn.png)
+![cdn](img/cdn.jpg)
 
 Content Delivery network.
 

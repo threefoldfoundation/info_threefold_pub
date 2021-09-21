@@ -3,7 +3,7 @@
 3Bot System Administrator is a unique facility on the TF Grid where the 3Bot represent you as a developer or system integrator digitally. 
 
 
-![](img/3bot_dashboard.png)
+![](img/3bot_dashboard.jpg)
 
 Above is the 3bot dashboard for TFGrid 2.0.
 

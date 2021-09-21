@@ -3,7 +3,7 @@
 
 # Planet Positive vs. Planet Friendly Farming
 
-![](img/becomefarmer.png)
+![](img/becomefarmer.jpg)
 
 There are two types of Farming:
 - Planet Friendly Farming (previously referred to as Do-it-Yourself).

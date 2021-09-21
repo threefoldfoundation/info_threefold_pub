@@ -1,6 +1,6 @@
 ## Lee Smet
 
-![lee_smet](img/lee_smet.png)
+![lee_smet](img/lee_smet.jpg)
 
 - Lead Engineer
 - [LinkedIn](https://www.linkedin.com/in/lee-smet-4a279a136/)

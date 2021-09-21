@@ -1,6 +1,6 @@
 ## Alexandre Hannelas
 
-![alexandre_hannelas](img/alexandre_hannelas.png)
+![alexandre_hannelas](img/alexandre_hannelas.jpg)
 
 - Partnerships for finance, exchange and Take Action Global Project (2.4m students)
 - [LinkedIn](https://www.linkedin.com/in/alexandre-hannelas-741681112/)

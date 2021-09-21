@@ -2,15 +2,15 @@
 
 Once you're logged in the eVDC, click on `My VDC` on the top right corner of the navigation bar of your eVDC admin panel.
 
-![](img/myvdc.png)
+![](img/myvdc.jpg)
 
 You will be directed to your eVDC Management page. Click on `Wallet Information` on the left sidebar
 
-![](img/walletpage.png)
+![](img/walletpage.jpg)
 
 You will then be redirected to your eVDC Wallet page.
 
-![](img/walletinfo.png)
+![](img/walletinfo.jpg)
 
 ## More Info:
 

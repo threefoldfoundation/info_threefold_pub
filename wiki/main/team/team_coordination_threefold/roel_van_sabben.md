@@ -1,6 +1,6 @@
 ## Roel van Sabben
 
-![roel_van_sabben](img/roel_van_sabben.png)
+![roel_van_sabben](img/roel_van_sabben.jpg)
 
 - Farming Coordination & Sales of Farming Boxes, Coordination with partners
 - [LinkedIn](https://www.linkedin.com/in/roelvansabben/)

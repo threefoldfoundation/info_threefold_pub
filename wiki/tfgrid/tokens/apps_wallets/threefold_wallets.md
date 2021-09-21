@@ -1,7 +1,7 @@
 
-![](img/threefold_wallet_large_header.png)
+![](img/threefold_wallet_large_header.jpg)
 
-<!-- ![](img/tftexplo.png) -->
+<!-- ![](img/tftexplo.jpg) -->
 
 # ThreeFold Wallets
 
@@ -14,7 +14,7 @@ Right now we support Stellar Blockchain (main one) and Binance Smart Chain, thro
 
 ## The ThreeFold Connect App
 
-![alt](img/threefold_connect_4screens.png)
+![alt](img/threefold_connect_4screens.jpg)
 
 The ThreeFold Connect app is the official Threefold app that comes with a wallet feature.
 
@@ -58,7 +58,7 @@ TFT can be moved to and out of Binance Smart Chain using the [bridge](tft_bsc_br
 
 ### Trust Wallet
 
-![alt](img/trustwallet_logo.png ':size=300')
+![alt](img/trustwallet_logo.jpg ':size=300')
 
 TRUST is a trusted and secure crypto wallet for cryptoassets on different blockchain networks. It is available on iOS and Android.
 
@@ -68,7 +68,7 @@ Here is the manual [how to add TFT into your Trust Wallet](tft_bsc_trustwallet).
 
 ### Metamask Wallet
 
-![alt](img/metamask_logo.png ':size=300')
+![alt](img/metamask_logo.jpg ':size=300')
 
 Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. It is also available for iOS and Android. 
 

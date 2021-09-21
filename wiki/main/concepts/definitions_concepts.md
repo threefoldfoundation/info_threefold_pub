@@ -1,6 +1,6 @@
 # ThreeFold Definitions & Concepts
 
-![](img/definitionsv2.png)
+![](img/definitionsv2.jpg)
 
 Before diving into our Wiki, we invite you to have a look at some key definitions related to ThreeFold and the ThreeFold Companies.
 
@@ -10,7 +10,7 @@ About the community:
 
 - [ThreeFold Values](threefold_values)
 - [ThreeFold Ambassador](threefold_ambassador)
-- [ThreeFold Farmer](tfgrid:threefold_farmer)
+- [ThreeFold Farmer](threefold_farmer)
 - [ThreeFold Tech](threefold_tech)
 
 About the products / services:
@@ -26,7 +26,7 @@ About the technology:
 - [Capacity Layer](capacity_layer)
 - [Autonomous Layer](autonomous_layer)
 - [Experience Layer](experience_layer)
-- [Zero-OS](tfgrid:zos)
+- [Zero-OS](zos)
 
 > These are not legal binding definitions, they are just concepts.
 

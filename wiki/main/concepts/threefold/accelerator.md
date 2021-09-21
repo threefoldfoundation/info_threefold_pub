@@ -1,4 +1,4 @@
-![](img/acci.png)
+![](img/acci.jpg)
 
 # Accelerator For Conscious Internet
 

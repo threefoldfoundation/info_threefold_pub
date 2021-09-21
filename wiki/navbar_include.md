@@ -1,5 +1,5 @@
 - ThreeFold
-  - [Get ThreeFold Tokens](tfgrid:how_to_buy)
+  - [Get ThreeFold Tokens](how_to_buy)
   - [ThreeFold Website](https://threefold.io/)
   - [ThreeFold Blog](https://threefold.io/farming/blog)
   - [Peer2Peer Cloud](https://threefold.io/cloud)

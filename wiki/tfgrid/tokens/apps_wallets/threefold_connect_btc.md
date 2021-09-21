@@ -19,7 +19,7 @@ Click the `ACTIVATE` button, agree with the Terms and Conditions, and confirm th
 Once activated, your wallet address is ready to hold BTC. 
 The address is the same as the one holding TFT and can be copied into memory by clicking in the upper right corner of the wallet bar in the Info Tab. 
 
-![](img/tfconnect_wallet_address.png ':size=300')
+![](img/tfconnect_wallet_address.jpg ':size=300')
 
 An alternative way to copy the content of the address to deposit BTC is by creating a QR code holding the address.
 

@@ -1,7 +1,7 @@
 
 ## Duncan Bridgeman
 
-![duncan_bridgeman](img/duncan_bridgeman.png)
+![duncan_bridgeman](img/duncan_bridgeman.jpg)
 
 - Video Grapher / Community / Producer / Musician (30% time)
 - [LinkedIn](https://www.linkedin.com/in/duncan-bridgeman-58948b9a/)

@@ -2,7 +2,7 @@
 
 ## How to use the Vesting Simulator Spreadsheet
 
-![](img/click_download_veting.png)
+![](img/click_download_veting.jpg)
 
 - Click on export, download this spreadsheet.
 - Optionally you can install onlyoffice (alternative to MSOffice), which is the one we used to create this simulator.

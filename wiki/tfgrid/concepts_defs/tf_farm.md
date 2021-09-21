@@ -1,6 +1,6 @@
 ## ThreeFold Farm
 
-![](img/whatisafarmer.png)
+![](img/whatisafarmer.jpg)
 
 A TF Farm is a location where a TF_Farmer installes and maintains a group of 3Nodes.
 

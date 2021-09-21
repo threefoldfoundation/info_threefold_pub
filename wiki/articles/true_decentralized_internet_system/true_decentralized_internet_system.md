@@ -1,6 +1,6 @@
 # The World Needs True Decentralization
 
-![alt_text](img/theworld.png)
+![alt_text](img/theworld.jpg)
 
 # Introduction
 
@@ -46,7 +46,7 @@ We are not a rebellious group. We are a growing group of people who don’t want
 - FreeFlow Nation Website: [https://www.freeflownation.org](https://www.freeflownation.org)
 - FreeFlow Nation Manifesto: [http://freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
 - ThreeFold Website: [https://threefold.io/](https://threefold.io/)
-- [ThreeFold_Grid Whitepaper](tfgrid:whitepaper_update) 
+- [ThreeFold_Grid Whitepaper](whitepaper_update) 
 - [ThreeFold Technology Whitepaper](autonomous_layer_whitepaper)
   - [Capacity Layer Whitepaper](capacity_layer)
   - [Autonomous Layer Whitepaper](autonomous_layer)

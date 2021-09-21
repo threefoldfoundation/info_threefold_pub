@@ -1,6 +1,6 @@
 # TFGrid release 2.1
 
-![](img/releasenotes.png)
+![](img/releasenotes.jpg)
 
 - [details on github of the project](https://github.com/orgs/threefoldtech/projects/93)
 

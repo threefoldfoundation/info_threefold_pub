@@ -1,8 +1,8 @@
 - [**ThreeFold Home**](threefold_home)
 - [**Manual 3 Home**](manual3_home)
 -----------
-- [Getting Started](get_started)
-- [Terraform](terraform)
+- [Getting Started](grid3_get_started)
+- [Terraform](grid3_terraform)
 -----------
 - [Grid Overview](grid_readme)
 - [Create a Farm](create_farm)

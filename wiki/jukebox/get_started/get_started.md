@@ -1,6 +1,6 @@
 ## How to get started?
 
-1. You will need [TF Connect app](threefold:threefold_connect) and **Blockchain Jukebox** platform
+1. You will need [TF Connect app](threefold_connect) and **Blockchain Jukebox** platform
 
 ![what_you_need](img/what_you_need.jpg)
 

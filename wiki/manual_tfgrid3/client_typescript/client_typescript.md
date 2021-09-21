@@ -8,11 +8,11 @@ Steps to deploy a test scenario using zos3, yggdrasil,polkadot.
 
 ### Setup yggdrasil (optional to obtain public Ipv6 address)
 
-!!!include planetary_network
+!!!include grid3_planetary_network
 
 ### 1. Create account on substrate using polkadot
 
-!!!include tfchain_init
+!!!include grid3_tfchain_init
 
 
 ## Start RMB (Reliable Message Bus)

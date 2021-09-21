@@ -1,5 +1,5 @@
 
-![](img/sustainable.jpg)
+![](img/sustainable_.png)
 
 # Vesting Overview
 

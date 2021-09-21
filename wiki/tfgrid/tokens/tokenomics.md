@@ -1,6 +1,6 @@
 # Tokenomics Overview
 
-<!-- ![](img/inclusive.jpg) -->
+<!-- ![](img/inclusive_.png) -->
 
 ![](img/tf3_tokenomics.jpg)
 

@@ -24,7 +24,7 @@ Thanks for sharing!
 ![Don't talk, act](img/donttalkact.jpg)
 ![The future is already here](img/futurealreadyhere.jpg)
 ![Grateful for the journey](img/gratefulforthejourney.jpg)
-![I declare my digital freedom](img/ideclaredigitalfreedom.png)
+![I declare my digital freedom](img/ideclaredigitalfreedom.jpg)
 ![I declare my digital freedom 2](img/ideclaredigitalfreedom2.jpg)
 ![We're building a better alternative](img/internetenergy.jpg)
 ![Internet for all](img/internetforall.jpg)

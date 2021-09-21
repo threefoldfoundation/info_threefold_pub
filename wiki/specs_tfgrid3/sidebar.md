@@ -1,6 +1,7 @@
+- [Billing](grid3_billing)
 - [ZOS](zos_specs)
-- [Networking](network_toc)
-- [Substrate]
+- [Networking](networking_toc)
+- [Substrate](substrate_readme)
+- [Grid API Proxy](grid_proxy_server_readme)
 - [RMB](rmb_architecture)
-- [Grid API Proxy]
 - [RMB Proxy](rmb_proxy)

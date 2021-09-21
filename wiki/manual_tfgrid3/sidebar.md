@@ -1,8 +1,13 @@
 - [**ThreeFold Home**](threefold_home)
 - [**Manual 3 Home**](manual3_home)
 -----------
-- [Getting Started](grid3_get_started)
+- [What's New](grid3_new)
+- [Overview](grid3_overview)
+- [Components Interaction](grid3_components)
+- [Definitions](grid3_definitions)
 - [Billing](grid3_billing)
+-----------
+- [Getting Started](grid3_get_started)
 - [Terraform](grid3_terraform)
 -----------
 - [Grid Overview](grid_readme)
@@ -10,6 +15,4 @@
 -----------
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)
-- [Developer Specs](specs)
-- [Whats New](grid3_new)
   

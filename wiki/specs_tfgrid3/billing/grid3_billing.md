@@ -39,7 +39,7 @@ and network address configuration :
 
 A personal staking mechanism has been put in place that provides token holders with discounts on the capacity they purchase.
 
-![](./img/grid3_staking_discount.png)
+![](img/grid3_staking_discount.png)
 
 The discount is expressed in relation to the number of months one commits to use the ThreeFold Grid. By staking TFT, users express their loyalty to the ecosystem, and by buying TFT upfront they become like co-investors in the growth of the ThreeFold Grid. The amount of TFT staked will define the discount level. It will be possible for anyone to leave the personal staking pool at any point of time, evidently the discount gets lost as well then.
 

@@ -27,7 +27,7 @@ provider "threefold" {
 
 ### Deployment example
 
-terraform requires the mapping to be 1-1 to the backend resources, in the grid 2 version, creating each of the workloads separately as resources would have worked, but in case of grid 3 where the deployment is the only manageble resource it will require to work only againts deployment resource or create an intermediate api server the mocks the behavior of splitted resources
+Terraform requires the mapping to be 1-1 to the backend resources. In the TFGrid v2, creating each of the workloads separately as resources would have worked, however for TFGrid v3, where the deployment is the only manageable resource, it will require to work only against deployment resource or create an intermediate API server that mocks the behavior of splitted resources.
 
 ```terraform
 resource "grid_deployment" "d1" {
@@ -66,9 +66,9 @@ resource "grid_deployment" "d1" {
 }
 ```
 
-## updating 
+## Updating
 
-is triggered by changing the deployments fields
+Updates are triggered by changing the deployments fields.
 ```
   disks {
     name = "mydisk2"
@@ -76,6 +76,7 @@ is triggered by changing the deployments fields
     description = "this is my disk2"
   }
 ```
+
 - updated from 2 to 50
 - the version of the workload needs to get updated internally
 - the version of the deployment needs to get updated internally

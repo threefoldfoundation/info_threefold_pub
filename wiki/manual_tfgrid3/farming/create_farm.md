@@ -8,7 +8,6 @@ Open https://raw.githubusercontent.com/threefoldtech/tfgrid-api-client/master/ty
 
 Open https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A9944#/settings/developer in your browser.
 
-
 Paste the types in in the box and hit `save`
 
 ![img](img/copy_types_1.jpg)

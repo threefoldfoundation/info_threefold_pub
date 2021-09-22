@@ -3,14 +3,13 @@
 
 Steps to deploy a test scenario using zos3, yggdrasil,polkadot.
 
-
 ## Create twin
 
 ### Setup yggdrasil (optional to obtain public Ipv6 address)
 
 !!!include grid3_planetary_network
 
-### 1. Create account on substrate using polkadot
+### Create account on Substrate using Polkadot
 
 !!!include grid3_tfchain_init
 
@@ -34,4 +33,3 @@ The javascript client can be found at [grid3_client_ts repo](https://github.com/
 - [example creating a zmachine](client_typescript_vm_example) 
 - [example creating a kubernetes cluster](client_typescript_kubernetes_example)
 - [Getting deployment result](deployment_get)
-

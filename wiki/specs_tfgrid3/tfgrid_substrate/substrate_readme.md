@@ -2,8 +2,7 @@
 
 Substrate is the main technology used for our Blockchain needs.
 
-## Three Components
-
+- [usage](substrate_usage)
 - [griddb](griddb)
-- [smartContract](contract)
-- Bridge (to be specced)
+- [grid substrate smart contract](grid_substrate_contract)
+- [Bridge](grid_substrate_bridge) 

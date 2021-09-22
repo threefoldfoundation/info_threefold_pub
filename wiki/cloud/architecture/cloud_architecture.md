@@ -11,8 +11,8 @@
   - [ThreeFold Network = Planetary Network](sdk:archi_psnw)
   - [Web Gateway](sdk:archi_webgateway)
 - TFGrid
-  - [3Node](threefold:3node)
-  - [ThreeFold Connect](threefold:tfconnect)
+  - [3Node](3node)
+  - [ThreeFold Connect](tfconnect)
 - Payments
   - [AutoPay](twin:autopay)
   - [TFGrid Wallet](cloud_wallet)

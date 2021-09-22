@@ -1,4 +1,3 @@
-- [Billing](grid3_billing)
 - [ZOS](zos_specs)
 - [Networking](networking_toc)
 - [Substrate](substrate_readme)

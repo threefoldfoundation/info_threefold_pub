@@ -1,6 +1,6 @@
 # January 28: The Cyber Pandemic is Here, But it's Not Too Late
 
-![](img/cyberpandemicconvo.jpeg)
+![](img/cyberpandemicconvo.jpg)
 
 The cyber pandemic is here, but it’s not too late!
 

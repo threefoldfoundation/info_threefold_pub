@@ -1,6 +1,6 @@
 # November 27: ThreeFold Partners With Presearch
 
-![](img/threefoldpresearch.jpeg)
+![](img/threefoldpresearch.jpg)
 
 ThreeFold_Grid 2.3 is LIVE on mainnet!
 

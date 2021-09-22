@@ -1,6 +1,6 @@
 # February 24: New Updates to the VDC!
 
-![](img/whatsnewvdc.jpeg)
+![](img/whatsnewvdc.jpg)
 
 We're bringing many improvements to VDC these days!
 

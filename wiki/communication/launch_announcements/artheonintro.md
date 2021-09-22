@@ -1,6 +1,6 @@
 
 
-![](img/artheonintro.jpeg)
+![](img/artheonintro.jpg)
 
 Today we’re proud to introduce you to Artheon, a member of the Conscious Internet Alliance. Artheon is a Virtual Reality museum offering immersive, next-level interaction with objects of cultural heritage.
 

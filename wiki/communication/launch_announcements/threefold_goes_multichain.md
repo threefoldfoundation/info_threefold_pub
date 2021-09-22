@@ -1,6 +1,6 @@
 # April 29: ThreeFold Announces Plans to go Multichain
 
-![](img/threefold_goes_multichain.jpeg)
+![](img/threefold_goes_multichain.jpg)
 
 **Peer-to-Peer Internet ThreeFold Goes Multichain to Accelerate Token Accessibility**
 

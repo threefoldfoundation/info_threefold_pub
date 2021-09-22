@@ -1,6 +1,6 @@
 # July 3: Announcing Dash + Dash NEXT!
 
-![](img/dashxthreefold.jpeg)
+![](img/dashxthreefold.jpg)
 
 ThreeFold is pleased to announce [our partnerships with Dash & Dash NEXT](https://blog.threefold.io/blog/tfblog/posts/dash--dash-next-partner-with-threefold), effective end of June 2020.
 

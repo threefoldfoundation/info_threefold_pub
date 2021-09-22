@@ -1,6 +1,6 @@
 # June 1: The TFT is Live on Liquid & BTC-Alpha!
 
-![](img/tokennewinternet.jpeg)
+![](img/tokennewinternet.jpg)
 
 Friends, now is the time to act!
 

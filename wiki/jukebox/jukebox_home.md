@@ -1,4 +1,4 @@
-![blockchain_jukebox](img/blockchain_jukebox.jpeg)
+![blockchain_jukebox](img/blockchain_jukebox.jpg)
 
 ## Welcome to the Blockchain Jukebox wiki
 ### Here you will find:

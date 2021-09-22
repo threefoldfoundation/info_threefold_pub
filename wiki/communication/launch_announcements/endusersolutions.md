@@ -1,6 +1,6 @@
 # September 13: End User Solutions Coming
 
-![](img/endusersolutions.jpeg)
+![](img/endusersolutions.jpg)
 
 Hello, hello!
 

@@ -1,6 +1,6 @@
 # September 8: #TechTuesday – Smart Contract for IT
 
-![](img/ttsmartcontract.jpeg)
+![](img/ttsmartcontract.jpg)
 
 Autonomous IT is the next step in the evolution of IT. It is self-driving & self-healing, taking human error and malicious intent out of the equation. This means higher security, lower cost, greater efficiencies, & more.
 

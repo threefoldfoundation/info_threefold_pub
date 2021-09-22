@@ -1,6 +1,6 @@
 # September 11: Become a TF Grid Early Adopter
 
-![](img/earlyadopter.jpeg)
+![](img/earlyadopter.jpg)
 
 All,
 

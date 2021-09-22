@@ -1,6 +1,6 @@
 # September 9: Weynand's Letters to Elon Musk
 
-![](img/dearelonmusk2.jpeg)
+![](img/dearelonmusk2.jpg)
 
 As one of its goals, the ThreeFold Foundation aims to provide fair and equal internet access / connectivity to everyone on earth. We are not alone in this vision, and as a foundation, we believe in collaboration rather than competition.
 

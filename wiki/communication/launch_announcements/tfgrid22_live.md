@@ -1,6 +1,6 @@
 # September 22: TF Grid 2.2 is Live!
 
-![](img/tfgrid22live.jpeg)
+![](img/tfgrid22live.jpg)
 
 Please dig into [our manual](freeflownation:intro) if you are interested in getting started on the ThreeFold_Grid.
 

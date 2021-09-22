@@ -1,6 +1,6 @@
 # November 20: ThreeFold_Grid 2.3.0 is Live!
 
-![](img/tfgrid23live.jpeg)
+![](img/tfgrid23live.jpg)
 
 ThreeFold_Grid 2.3 is LIVE on mainnet!
 

@@ -1,6 +1,6 @@
 # September 1: ThreeFold Webinar
 
-![](img/tfwebinar0920.jpeg)
+![](img/tfwebinar0920.jpg)
 
 Tomorrow at 5pm CEST!
 

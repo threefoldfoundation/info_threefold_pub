@@ -1,6 +1,6 @@
 # September 2: Searching for Visionary Developers
 
-![](img/visionarydevs.jpeg)
+![](img/visionarydevs.jpg)
 
 The ThreeFold Foundation team is looking for experienced, passionate developers who want to build a better world.
 

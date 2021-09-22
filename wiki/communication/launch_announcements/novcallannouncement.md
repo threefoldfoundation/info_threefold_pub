@@ -1,6 +1,6 @@
 # October 26: November 2nd Community Call Announcement!
 
-![](img/novcallannouncement.jpeg)
+![](img/novcallannouncement.jpg)
 
 Mark your calendars!
 

@@ -28,7 +28,7 @@ Depending on your selected eVDC size / plan, you will be redirected to the payme
 
 Scan the QR page using your TFT Wallet on your TF Connect Mobile App, send the TFT to the displayed wallet address and confirm the payment.
 
-![](img/scanqr.jpeg)
+![](img/scanqr.jpg)
 
 The payment screen will automatically reload itself once the payment is processed and will start the deployment of the new eVDC. The new eVDC deployment will take a few minutes, please do not close this deployment window while it loads.
 

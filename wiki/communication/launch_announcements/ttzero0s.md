@@ -1,6 +1,6 @@
 # September 15: #TechTuesday – Zero OS
 
-![](img/ttzero0s.jpeg)
+![](img/ttzero0s.jpg)
 
 Zero-OS is a lightweight and ultra-efficient open source operating system invented by ThreeFold Tech, which runs on all servers (3Nodes) connected to the ThreeFold_Grid.
 

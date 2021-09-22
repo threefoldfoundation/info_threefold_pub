@@ -1,4 +1,4 @@
-![](img/joinourforum.jpeg)
+![](img/joinourforum.jpg)
 
 # ThreeFold Forum
 

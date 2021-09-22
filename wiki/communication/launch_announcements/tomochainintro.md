@@ -1,6 +1,6 @@
 # May 20: Partnering with TomoChain!
 
-![](img/tomochainintro.jpeg)
+![](img/tomochainintro.jpg)
 
 We are happy to officially announce a partnership 🤝 with TomoChain, one of the most reputed blockchains of South East Asia! 🌏
 

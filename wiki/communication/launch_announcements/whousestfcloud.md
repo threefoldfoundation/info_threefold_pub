@@ -1,6 +1,6 @@
 # March 5: Use Cases for the ThreeFold Cloud
 
-![](img/whousestfcloud.jpeg)
+![](img/whousestfcloud.jpg)
 
 The peer-to-peer ThreeFold Cloud can already support:
 

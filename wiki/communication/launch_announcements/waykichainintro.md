@@ -1,6 +1,6 @@
 # May 25: Announcing Collaboration with WaykiChain
 
-![](img/waykichainintro.jpeg)
+![](img/waykichainintro.jpg)
 
 Following several fantastic announcements last week (see above) in the blockchain space, we are delighted to share another one today: WaykiChain! 🤝
 

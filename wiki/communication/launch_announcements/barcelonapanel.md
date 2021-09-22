@@ -7,5 +7,5 @@ More About the Event | [Link](https://www.d4a.io/)
 
 See you there. 👀
 
-![](img/barcelonapanel1.jpeg)
-![](img/barcelonapanel2.jpeg)
+![](img/barcelonapanel1.jpg)
+![](img/barcelonapanel2.jpg)

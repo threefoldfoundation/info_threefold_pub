@@ -1,6 +1,6 @@
 # March 9: Join Our Forum!
 
-![](img/joinourforum.jpeg)
+![](img/joinourforum.jpg)
 
 The [ThreeFold Forum](https://forum.threefold.io/) is the place for conversations all about ThreeFold.
 

@@ -1,6 +1,6 @@
 # May 22: Collaborating with DigiByte
 
-![](img/digibyteintro.jpeg)
+![](img/digibyteintro.jpg)
 
 We are thrilled to announce our collaboration with DigiByte, an organization and community we admire and respect!
 

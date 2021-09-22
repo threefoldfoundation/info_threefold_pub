@@ -1,6 +1,6 @@
 # November 4: Announcing November's Ask Me (Us) Anything!
 
-![](img/novamaannouncement.jpeg)
+![](img/novamaannouncement.jpg)
 
 A chance to ask the ThreeFold Foundation Team any questions you might have.
 

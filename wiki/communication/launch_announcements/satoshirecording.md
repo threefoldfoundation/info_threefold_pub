@@ -1,6 +1,6 @@
 # June 14: Listen to the Satoshi Street Bets AMA Recording
 
-![](img/satoshirecording.jpeg)
+![](img/satoshirecording.jpg)
 
 Last week, ThreeFold team members Weynand Kuijpers, Maximilian Rang, and Nickolay Babenko joined Satoshi Street Bets for an Ask Me Anything (AMA) to share ThreeFold with their community and expand awareness for the project.
 

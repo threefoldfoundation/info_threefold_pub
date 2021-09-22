@@ -1,6 +1,6 @@
 # October 2: Is Your Data Really Yours?
 
-![](img/isyourdata.jpeg)
+![](img/isyourdata.jpg)
 
 I think we all know the answer is: no. **But it can be, with ThreeFold.**
 

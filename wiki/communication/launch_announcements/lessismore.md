@@ -1,6 +1,6 @@
 # October 6: Less is More – ThreeFold Technology Approach
 
-![](img/lessismore.jpeg)
+![](img/lessismore.jpg)
 
 Classic IT infrastructure setup is complex and is not cost-effective. So we started over with a "blank sheet of paper" and did it a different way.
 

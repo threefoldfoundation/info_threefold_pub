@@ -1,6 +1,6 @@
 # December 17: Get to know ThreeFold Meet
 
-![](img/tfmeetintro.jpeg)
+![](img/tfmeetintro.jpg)
 
 **ThreeFold Meet is a P2P alternative to centralized video conferencing solutions.**
 

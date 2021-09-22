@@ -1,6 +1,6 @@
 # October 16: Thank You, Partners! (Partnership Update)
 
-![](img/typartners.jpeg)
+![](img/typartners.jpg)
 
 Feeling a lot of gratitude for [our partners](https://threefold.io/public/#/partners), now and always.
 

@@ -1,6 +1,6 @@
 # October 2: TF Tech is Looking for a Visionary Lead Engineer
 
-![](img/tftechengineer.jpeg)
+![](img/tftechengineer.jpg)
 
 Our friends at ThreeFold Tech are looking for a talented & experienced Engineering Lead to join their team.
 

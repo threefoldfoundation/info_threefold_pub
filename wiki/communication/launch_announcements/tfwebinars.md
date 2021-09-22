@@ -1,6 +1,6 @@
 # August 24: Upcoming Community Webinars
 
-![](img/tfwebinars.jpeg)
+![](img/tfwebinars.jpg)
 
 Hello all, the following two Wednesdays we will host community webinars to introduce new folks to ThreeFold.
 

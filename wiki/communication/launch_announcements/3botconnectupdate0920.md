@@ -1,6 +1,6 @@
 # September 23: Recent 3Bot Connect Update
 
-![](img/3bot0920.jpeg)
+![](img/3bot0920.jpg)
 
 3Bot is your digital twin; a representative of yourself on top of the ThreeFold_Grid that will execute your digital needs.
 

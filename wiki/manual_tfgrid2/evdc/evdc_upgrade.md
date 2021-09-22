@@ -30,7 +30,7 @@ In this tutorial we use the ThreeFold Connect Mobile App as our medium of transf
 
 Scan the QR Code by using ThreeFold Connect app on your phone and confirm the payment. 
 
-![](img/scanqr.jpeg ':size=400')
+![](img/scanqr.jpg ':size=400')
 
 The payment screen will automatically reload itself when the payment is successful and the new node will be deployed immediately. 
 

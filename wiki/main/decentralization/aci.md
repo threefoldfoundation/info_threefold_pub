@@ -8,7 +8,7 @@
 
 ThreeFold Tech has built the open source technology behind the Grid of decentralized storage and compute capacity. The Grid is enabled by independent Farmers that connect hardware from all around the world. Anyone can easily become a Farmer, owning a piece of the new peer-to-peer Internet. The Conscious Internet should be owned by everyone.
 
-![alt](img/acivalues.jpeg)
+![alt](img/acivalues.jpg)
 
 The ThreeFold Foundation was formed with its sole purpose to serve, support and grow the Conscious Internet - experiences and solutions built on top of the ThreeFold_Grid.
 
@@ -33,4 +33,3 @@ They collaborate with one another to improve their solutions, efficiency, reach,
 At this stage 20+ do-good for the planet projects have joined the Alliance for a Conscious Internet and pledged to migrate their solutions on the ThreeFold_Grid, supporting the movement of a new peer-to-peer Internet by allowing their solutions to become first use cases and experiences of Conscious Internet - the new decentralized digital world.
 
 Learn more about ACI projects and people on [Alliance for a Conscious Internet website](https://www.consciousinternet.org/).
-

@@ -1,6 +1,6 @@
 # May 24: ThreeFold is Attending the AIBC Summit in Dubai
 
-![](img/aibc_summit.jpeg)
+![](img/aibc_summit.jpg)
 
 **Tomorrow and Wednesday, ThreeFold is attending [the AIBC Summit](https://aibc.world/events/uae/general-info/) in Dubai.**
 

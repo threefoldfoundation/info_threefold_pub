@@ -1,6 +1,6 @@
 # May 4: ThreeFold Partners with Dragonchain
 
-![](img/threefold_dragonchain.jpeg)
+![](img/threefold_dragonchain.jpg)
 
 **Today, we are super pleased to welcome Dragonchain 🐉 into the ThreeFold universe!** 🤝
 

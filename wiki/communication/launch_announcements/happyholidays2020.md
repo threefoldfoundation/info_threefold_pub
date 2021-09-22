@@ -1,6 +1,6 @@
 # December 24: Happy Holidays!
 
-![](img/happyholidays2020.jpeg)
+![](img/happyholidays2020.jpg)
 
 Let’s take a moment to acknowledge what a year it’s been for all of us around the world.
 

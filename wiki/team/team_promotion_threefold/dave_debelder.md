@@ -1,4 +1,4 @@
-![Dave](img/dave.jpeg)
+![Dave](img/dave.jpg)
 
 # Dave De Belder
 

@@ -1,6 +1,6 @@
 # Recapping a Few Big Weeks!
 
-![](img/recap1.jpeg)
+![](img/recap1.jpg)
 
 Some highlights from the past few weeks, in case you missed any of them:
 

@@ -18,7 +18,7 @@ We all started in Belgium from Korenlei 22, a super old building in the middle o
 
 ![](img/korenlei_22.jpg)
 
-![](img/korenlei_old.jpeg)
+![](img/korenlei_old.jpg)
 
 The **VZW** is home to the [Wisdom Council](wisdom_council)
 

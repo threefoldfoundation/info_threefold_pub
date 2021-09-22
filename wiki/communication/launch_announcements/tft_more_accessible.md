@@ -1,6 +1,6 @@
 # May 12: TFT Becomes More Accessible Via BSC and BTC
 
-![](img/tft_more_accessible.jpeg)
+![](img/tft_more_accessible.jpg)
 
 🥁 The news many of you have been waiting for ...
 

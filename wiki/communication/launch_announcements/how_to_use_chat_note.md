@@ -1,6 +1,6 @@
 # May 20: ThreeFold Two-Way Chat Update
 
-![](img/how_to_use_chat_note.jpeg)
+![](img/how_to_use_chat_note.jpg)
 
 Last month, we opened up **[a two-way chat](https://t.me/threefold)** here on Telegram for our community to have conversations about ThreeFold, ask questions, and offer feedback. If you haven’t joined yet, please do!
 

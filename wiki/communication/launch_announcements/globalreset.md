@@ -14,4 +14,4 @@ As part of the Summit and beyond, we will be exploring what a digital reset woul
 
 *All change begins from within ourselves. Join the Global Reset Summit and take an important step towards your future self. Pay it forward by donating and making sure no one gets left behind.*
 
-![](img/globalreset.jpeg)
+![](img/globalreset.jpg)

@@ -1,6 +1,6 @@
 # May 19: Introducing PlanED by TAG!
 
-![](img/planedintro.jpeg)
+![](img/planedintro.jpg)
 
 Today we’re proud to introduce you to PlanED by Take Action Global (TAG), a member of the Conscious Internet Alliance.
 

@@ -1,6 +1,6 @@
 # September 16: P2P Solutions – Another Look
 
-![](img/p2psolutions.jpeg)
+![](img/p2psolutions.jpg)
 
 ThreeFold has created the largest peer-to-peer cloud on the planet — but the Internet is more than just storage and capacity.
 

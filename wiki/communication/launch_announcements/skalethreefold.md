@@ -1,6 +1,6 @@
 # August 13: SKALE Labs & ThreeFold Join Forces
 
-![](img/skalethreefold.jpeg)
+![](img/skalethreefold.jpg)
 
 We're proud to announce our partnership with SKALE Labs!
 

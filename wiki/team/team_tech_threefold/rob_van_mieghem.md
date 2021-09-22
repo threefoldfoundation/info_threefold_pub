@@ -1,4 +1,4 @@
-![robvanmieghem](img/rob.jpeg)
+![robvanmieghem](img/rob.jpg)
 
 # Rob Van Mieghem - @robvanmieghem
 

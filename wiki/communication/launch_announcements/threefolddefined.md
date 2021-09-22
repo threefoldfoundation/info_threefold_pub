@@ -1,6 +1,6 @@
 # September 3: ThreeFold, Defined
 
-![](img/tfdefined.jpeg)
+![](img/tfdefined.jpg)
 
 - Gracias
 - Спасибо

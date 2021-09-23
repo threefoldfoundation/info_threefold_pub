@@ -15,7 +15,7 @@ Add peers to your configuration file like so:
 Peers: ["PEER_URL:PORT", "PEER_URL:PORT", ...]
 ```
 
-please consult [yggdrasil installation page](https://yggdrasil-network.github.io/installation.html) for more information and clients
+Please consult [yggdrasil installation page](https://yggdrasil-network.github.io/installation.html) for more information and clients
 
 ### Run
 
@@ -27,6 +27,12 @@ On Linux with `systemd`, Yggdrasil can be started and enabled as a service, or r
 sudo yggdrasil -useconffile /etc/yggdrasil.conf
 ```
 
+Get your IPv6 address with following command :
+
+```
+yggdrasilctl getSelf
+```
+
 #### MacOS
 The MacOS package will automatically install and start the `launchd` service. After adding peers to your config file, restart Yggdrasil by stopping the service (it will be restarted automatically):
 
@@ -34,7 +40,14 @@ The MacOS package will automatically install and start the `launchd` service. Af
 sudo launchctl stop yggdrasil
 ```
 
+Get your IPv6 address with following command :
+
+```
+sudo yggdrasilctl getSelf
+```
+
 ### Test Connectivity
+
 To ensure that you have successfully connected to the Yggdrasil network, try loading the site in your browser:
 
 ```

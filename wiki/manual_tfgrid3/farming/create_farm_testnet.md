@@ -1,4 +1,4 @@
-# Creating a Farm on TFChain Devnet
+# Creating a Farm on TFChain Testnet
 
 ## Step 1: Copy types to clipboard
 
@@ -6,7 +6,7 @@ Open https://raw.githubusercontent.com/threefoldtech/tfgrid-api-client/master/ty
 
 ## Step 2: browse to Polkadot UI
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/settings/developer in your browser.
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/settings/developer in your browser.
 
 Paste the types in in the box and hit `save`
 
@@ -14,7 +14,7 @@ Paste the types in in the box and hit `save`
 
 ## Step 3: Create an account
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/accounts in your browser, 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts in your browser, 
 
 click `Add account`, take note of the seed. Click on the `Advanced creation options` arrow, and select keypair crypto type: `Edwards(ed25519, alternative)`
 
@@ -30,7 +30,7 @@ On the same page, on the left top, hover over `Account` button and click on `Tra
 
 ## Step 5: Create a Twin
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/extrinsics in your browser 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser 
 
 and select your account from the list. Next, select `tfgridModule` -> `createTwin(ip)` from the list.
 
@@ -40,7 +40,8 @@ Fill in your [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) IPV6
 
 ## Step 6: Create a Farm
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/extrinsics in your browser 
+Devnet: 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser
 
 and select your account from the list. Next, select `tfgridModule` -> `createFarm(..)` from the list.
 
@@ -56,7 +57,7 @@ Optionally you can also provide public ips on your farm.
 
 ### Query twin
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/chainstate 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
 
 and select `tfgridModule` -> scroll all the way down to `twinIdByAccountID(accountID):u32` and select your account ID from the list. Hit the PLUS symbol and you should see your twin ID.
 
@@ -64,7 +65,7 @@ and select `tfgridModule` -> scroll all the way down to `twinIdByAccountID(accou
 
 ### Query farm:
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/chainstate 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
 
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 

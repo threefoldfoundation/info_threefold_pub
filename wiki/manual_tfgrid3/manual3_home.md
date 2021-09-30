@@ -19,6 +19,7 @@ This is work which is being done from ThreeFold and wants to integrate with Polk
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
 
+- [Whats New](grid3_new)
 -----------
 - [Getting Started](grid3_get_started)
 - [Terraform](grid3_terraform)
@@ -28,6 +29,5 @@ This is work which is being done from ThreeFold and wants to integrate with Polk
 -----------
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)
-- [Developer Specs](specs)
-- [Whats New](grid3_new)
+
   

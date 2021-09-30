@@ -1,3 +1,5 @@
+<!-- replaced by grid3_billing.md --->
+
 # TFGrid Billing
 
 ## Concepts

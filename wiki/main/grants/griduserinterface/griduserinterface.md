@@ -29,7 +29,7 @@ To provide better user interfaces for users and farmers of the TF Grid. Today th
 
 The current user interface is part of our 3SDK tool, its still too complicated, the aim of this project is to create a complete new experience.
 
-- [Visit the SDK](freeflownation:intro)
+- [Visit the SDK](intro)
 
 ### Existing interfaces are for developers or farmers
 

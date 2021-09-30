@@ -14,7 +14,7 @@
 - In Q2 2019, ThreeFold_Dubai launched our generation 1 of our TF Grid
 - April 2020 ThreeFold_Dubai [launched the TFGrid v2.0](threefold_grid_2_0) which is now public and usable by the world
   - ThreeFold has a new website and a new wiki
-  - A manual on how to use the TF Grid 2.0 (see [our manual](freeflownation:intro))
+  - A manual on how to use the TF Grid 2.0 (see [our manual](intro))
   - The farmers & TFT holders have at their own will upgraded their wallets, zero-nodes, ...
 - May 2020: ThreeFold_Dubai launched our 2nd version of our token called TFT but this time on Stellar
   - The original TFTv1 kept all same properties and benefits and is now called TFTA also on Stellar (is technology choice), anyone can move from TFTv1 to TFTv2

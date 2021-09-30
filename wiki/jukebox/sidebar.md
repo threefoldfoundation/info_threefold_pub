@@ -14,7 +14,7 @@
     - [Technical Support](tech_support)
 - [Roadmap](roadmap)
 - [Technology Behind](technology)
-    - [TFGrid](zos_3node_tfgrid_intro)
+    - [TFGrid](zos)
     - [Smart Contract for IT](smartcontract_it)
     - [CU/SU/NU primitives](tfgrid_primitives)
     - [Compare = Competitive](funding:tf_compare)

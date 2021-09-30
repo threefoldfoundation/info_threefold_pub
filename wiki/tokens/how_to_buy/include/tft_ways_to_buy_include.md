@@ -16,6 +16,6 @@
 Note: (*****) is easiest.
 
 
-<!-- | THREEFOLD       | ***** | [BTC in TF Wallet](threefold_connect_btc)          | Ability to convert BTC to TFT [ThreeFold Wallet](threefold_connect) (buy TFT) | NOW          | -->
+<!-- | THREEFOLD       | ***** | [BTC in TF Wallet](threefold_connect_btc)          | Ability to convert BTC to TFT [ThreeFold Wallet](threefold:threefold_connect) (buy TFT) | NOW          | -->
 
 <!-- | DEX             | **   | [Huobi DEFI](tft_huobi_defi)                       | automatic price determination in line with available liquidity      | Q3           | -->

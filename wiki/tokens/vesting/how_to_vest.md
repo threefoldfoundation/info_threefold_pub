@@ -34,4 +34,3 @@ In the dashboard, you can check for all vesting transactions that happened (`CHE
 
 ![](img/vesting_transactions.jpg ':size=600') --->
 
-

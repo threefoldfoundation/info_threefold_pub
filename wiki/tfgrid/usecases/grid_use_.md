@@ -68,7 +68,7 @@ See [Twin Chat](twin:twin_chat)
 
 ![](img/browsers_.png)
 
-See [Browser](accelerator:hercules_browser)
+See [Browser](twin:hercules_browser)
 
 ## Developers
 

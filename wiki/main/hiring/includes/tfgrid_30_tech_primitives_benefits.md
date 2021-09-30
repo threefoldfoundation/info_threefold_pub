@@ -16,5 +16,5 @@ The way how to use our TFGrid is like docker on steroids, everything docker/kube
 **Learn More:**
 
 - [CU/SU/NU Primitives](tfgrid_primitives)
-- [TFGrid](zos_3node_tfgrid_intro)
+- [TFGrid](zos)
 - [Smart Contract for IT](smartcontract_it)

@@ -14,7 +14,7 @@ We need your help, dear community, try our solutions on testnet and give us feed
 
 🔥 Try to deploy 3Bot on testnet [here](http://deploy3bot.testnet.grid.tf/)
 🔥 Try to deploy a TF Now solution [here](http://marketplace.threefold.io/)
-🔥 Manual for deployment [here](freeflownation:intro)
+🔥 Manual for deployment [here](intro)
 
 🙋‍♀️🙋‍♂️ **Have you seen our new TF Capacity Explorer?**
 We have a new ✨ [TF Capacity Explorer site](http://explorer.threefold.io/) ✨ where we showcase ALL nodes from around the world, whether on mainnet, testnet, or devnet. One website for all!

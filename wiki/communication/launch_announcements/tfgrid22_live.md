@@ -2,7 +2,7 @@
 
 ![](img/tfgrid22live.jpg)
 
-Please dig into [our manual](freeflownation:intro) if you are interested in getting started on the ThreeFold_Grid.
+Please dig into [our manual](intro) if you are interested in getting started on the ThreeFold_Grid.
 
 Included are [some helpful links](sdk:community) in case you have any questions or feedback.
 

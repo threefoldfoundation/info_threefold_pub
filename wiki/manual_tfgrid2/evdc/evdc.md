@@ -25,4 +25,4 @@ Please find a video how to use the eVDC [here](https://vimeo.com/598957060)
   - [Get Started](evdc_getting_started) - An overview of how to get started with eVDC.
   - [Create a VDC](evdc_create) - How to create your eVDC.
   - [Pricing](evdc_pricing) - An overview of the pricing packages for eVDC.
-  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.
+  - [Where to get tokens](how_to_buy) - Explains where and how you can get TFT to run your eVDC.

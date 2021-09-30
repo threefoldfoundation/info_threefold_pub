@@ -16,4 +16,4 @@ In this section, you will learn about eVDC, what it is and how to get started.
   - [Upgrade](evdc_upgrade) - A guide on  how to upgrade your eVDC compute and storage.
   - [Remove](evdc_remove) - A guide on how to downgrade your eVDC compute and storage.
   - [Pricing](evdc_pricing) - An overview of the pricing packages for eVDC.
-  - [Where to get tokens](buy_tft) - Explains where and how you can get TFT to run your eVDC.
+  - [Where to get tokens](how_to_buy) - Explains where and how you can get TFT to run your eVDC.

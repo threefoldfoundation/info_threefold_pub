@@ -1,4 +1,4 @@
-![](img/earth.jpg)
+![](img/earth_.png)
 # Decentralised
 
 see [Decentralization Topic](decentralization)

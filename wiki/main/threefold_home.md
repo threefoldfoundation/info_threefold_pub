@@ -3,7 +3,7 @@
 
 # Hey there 👋
 
-Welcome to the ThreeFold Wiki. Here you will find all relevant information around ThreeFold.
+Welcome to the ThreeFold Knowledgebase. Here you will find all relevant information around ThreeFold.
 
 **If you're new to our project, we'd recommend you to start with "About Threefold?".**
 

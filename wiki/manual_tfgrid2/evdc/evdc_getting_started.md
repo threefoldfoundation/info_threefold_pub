@@ -17,7 +17,7 @@
 ### Pricing
 
 - [Price Sheet](evdc_pricing)
-- [Where to buy TFT](buy_tft)
+- [Where to buy TFT](how_to_buy)
 
 ### Support
 

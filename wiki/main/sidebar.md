@@ -15,7 +15,7 @@
   - [ThreeFold Companies](threefold_companies)
   - [ThreeFold Councils](threefold_councils)
   - [Alliance for a Conscious Internet](aci)
-- [Legal](legal:legal)
+- [Legal](legal)
 
 
 <!-- - [Knowledge Base](wiki_overview) -->

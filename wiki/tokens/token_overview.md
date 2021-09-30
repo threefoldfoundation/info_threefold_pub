@@ -48,14 +48,14 @@
 Calculated May 5 2021
 
 
-> Less than 7% will be liquid at [ThreeFold 3.0 Launch](threefold3_launch).
+> Less than 7% will be liquid at [ThreeFold 3.0 Launch](@threefold3_launch).
 
 > WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)
 
 ## Remarks
 
 !!!include:stats_toc
-- [ThreeFold Token & Grid History](threefold_history)
+- [ThreeFold Token & Grid History](@threefold_history)
 
 !!!include:token_toc
 

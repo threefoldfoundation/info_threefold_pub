@@ -22,7 +22,7 @@
     - [Remove](evdc_remove)
     - [Demo](deploy_vdc_demo)
   - [Pricing](evdc_pricing)
-  - [Where to get tokens](buy_tft)
+  - [Where to get tokens](how_to_buy)
 - [Kubernetes](kubernetes)
   - [Solution architecture](evdc_k8s)
   - [Get Started](kubernetes_deploy)

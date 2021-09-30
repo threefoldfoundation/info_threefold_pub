@@ -1,6 +1,6 @@
 # ThreeFold Web Resources
 
-## ThreeFold Wiki pages and websites
+## ThreeFold Knowledgebase pages and websites
 Here you find an overview of our most important web resources besides our wikis.
 
 ![lgo](img/large_tfn_3.jpg)

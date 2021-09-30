@@ -7,6 +7,7 @@
 
 ------
 **More Info**
+- [Technology](technology)
 - [Team Expansion](team_expansion)
 - [How Do We Collaborate](freeflownation:freeflow_home)
 - [Decentralization](decentralization)

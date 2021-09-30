@@ -7,8 +7,8 @@
 - [Farming](farming_home)
 - [Tokens](tokens_home)
 - [Use ThreeFold](grid_use)
-!!!include:carbonwin_sidebar
 - [Technology](technology)
+!!!include:carbonwin_sidebar
 - [Manuals](wiki_overview)
 - [News/Blogs/...](communication)
 - [Get Involved](getinvolved)

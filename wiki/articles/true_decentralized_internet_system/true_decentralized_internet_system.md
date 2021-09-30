@@ -1,6 +1,6 @@
 # The World Needs True Decentralization
 
-![alt_text](img/theworld.jpg)
+![alt_text](img/theworld_.jpg)
 
 # Introduction
 

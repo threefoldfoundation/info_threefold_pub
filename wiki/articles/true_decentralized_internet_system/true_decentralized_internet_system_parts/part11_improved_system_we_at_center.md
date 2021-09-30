@@ -1,6 +1,6 @@
 ## The idea: we need an improved “IT” system where we become the center.
 
-![](img/yoga_dude.jpg)
+![](img/yoga_dude_.jpg)
 
 ![alt_text](img/allaboutyou.jpg)
 

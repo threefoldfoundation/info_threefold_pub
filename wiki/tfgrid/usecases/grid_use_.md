@@ -66,7 +66,7 @@ See [Twin Chat](twin:twin_chat)
 
 ### Cloud Browser Engine
 
-![](img/browsers.jpg)
+![](img/browsers_.png)
 
 See [Browser](accelerator:hercules_browser)
 

@@ -15,6 +15,7 @@
 - [Grid 3.0 Manual](/manual_tfgrid3/manual3_home)
 - [Grid Pricing](pricing)
 - [Cloud Compare](cloud_compare)
+- [Technology](technology)
 - [Roadmap](roadmap)
 - [Support](support)
 - [Videos](generic_video)

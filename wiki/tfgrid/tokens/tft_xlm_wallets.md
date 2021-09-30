@@ -4,15 +4,15 @@ Because TFT is on the Stellar network
 
 ## Ledger Nano X
 
-![alt](img/ledger_nano_logo.jpg)
+![alt](img/ledger_nano_logo_.jpg)
 
 ## Solar
 
-![alt](img/solar_wallet_logo.jpg)
+![alt](img/solar_wallet_logo_.jpg)
 
 ## Lobstr
 
-![alt](img/lobstr_wallet_logo.jpg)
+![alt](img/lobstr_wallet_logo_.png)
 
 ## Interstellar
 

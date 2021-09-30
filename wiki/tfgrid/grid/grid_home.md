@@ -1,4 +1,4 @@
-![](img/grid_p2p.jpg)
+![](img/grid_p2p_.png)
 
 # Overview
 

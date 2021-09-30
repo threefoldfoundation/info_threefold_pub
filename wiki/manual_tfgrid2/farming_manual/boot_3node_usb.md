@@ -12,7 +12,7 @@
 
 In this example we flashed the image to `Generic flash disk 8.07`. We select this option.
 
-![Zero-OS during boot](img/bios_setting_zos.jpg)
+![Zero-OS during boot](img/bios_setting_zos_.jpg)
 
 Close the BIOS with `Save & Exit`
 

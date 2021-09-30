@@ -5,7 +5,7 @@ You can transfer your TFT from eVDC mainnet or testnet, and import your wallet i
 ## Prerequisites
 
 - An active eVDC on testnet / mainnet, with some TFT funds on its [eVDC Wallet](evdc_wallet)
-- A [solar Wallet](https://solarwallet.io) app. Read more on how to get a Solar Wallet [here](sdk:solar_wallet) if you have not downloaded yet.
+- A [solar Wallet](https://solarwallet.io) app. Read more on how to get a Solar Wallet [here](solar_wallet) if you have not downloaded yet.
 
 ## Import eVDC Wallet to Solar Wallet (Mainnet)
 

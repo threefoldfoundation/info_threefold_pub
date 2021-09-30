@@ -1,6 +1,6 @@
 # ThreeFold Grid Guardians
 
-![](img/grid_guardians.jpg)
+![](img/grid_guardians_.jpg)
 
 A group of 9 people who have the important job of keeping the TF Chain blockchain validator nodes running.
 

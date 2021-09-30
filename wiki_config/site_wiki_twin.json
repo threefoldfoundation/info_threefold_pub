@@ -1,0 +1,10 @@
+{
+	"name": "twin",
+	"git_url": "https://github.com/threefoldfoundation/info_digitalself/tree/development/wiki",
+	"pull": true,
+	"reset": false,
+	"cat": "wiki",
+	"domains": [
+		"twin.threefold.io"
+	]
+}

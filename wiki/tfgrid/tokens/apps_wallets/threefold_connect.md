@@ -28,7 +28,7 @@ To use the ThreeFold Connect App you simply need to download the ThreeFold Conne
 
 Seed phrases are required to restore your wallet in the unlikely case you loose your devices or access to your ThreeFold Connect App.
 
-![](img/3bot_seed_phrase.jpg)
+![](img/3bot_seed_phrase_.png)
 
 _Note: this screenshot is slightly outdated (will be updated soon) but shows you what to be looking for._
 
@@ -103,5 +103,4 @@ Here you can receive support on any questions related to ThreeFold.
 ## Settings
 
 You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.
-
 

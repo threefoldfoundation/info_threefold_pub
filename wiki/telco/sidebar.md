@@ -1,23 +1,14 @@
 - [Home](readme)
 - [Web 4.0](internet4)
-- [Why for the planet?](funding:why)
-- [Why for the country?](why)
+- [Why for the planet?](why)
 - [Products](products)
 - [Technology](technology)
-  - [TFGrid](zos_3node_tfgrid_intro)
-  - [Smart Contract for IT](smartcontract_it)
-  - [CU/SU/NU primitives](tfgrid_primitives)
-  - [Digital Twin Hub](twin:digitaltwin_hub)
-  - [Digital Twin Experiences](twin:digitaltwin_experiences)
-  - [Compare = Competitive](funding:tf_compare)
-  - [Consensus Mechanism](consensus3)
 - [TFGrid UseCases](grid_use)
-- [Carbon Double Win](energy_savings)
-  - [Light Bulb vs Digital Twin](bulb_comparison_twin)
-  - [Energy Savings Storage](energy_savings_storage)
-  - [Energy Savings Twin](energy_savings_digital_twin)
-  - [Carbon Double Win](carbon_double_win)
+!!!include:carbonwin_sidebar
 - [Team](team)
-- [Presentations](funding:presentations)
 
 **CONFIDENTIAL**
+
+<!-- - [Presentations](funding:presentations) -->
+<!-- - [Digital Twin Hub](twin:digitaltwin_hub)
+- [Digital Twin Experiences](twin:digitaltwin_experiences) -->

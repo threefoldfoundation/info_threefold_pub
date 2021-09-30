@@ -1,4 +1,4 @@
-![alt](img/mazraa_logo.jpg)
+![alt](img/mazraa_logo_.jpg)
 
 # Buy TFT From a Farmer: Mazraa 
 

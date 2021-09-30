@@ -8,7 +8,7 @@ This makes us 2x Carbon negative (see [here](cloudunits_carbon_double_win)).
 
 Saving energy is one thing, but there will still be remaining energy, this needs to be offset by carbon credits.
 
-![](img/carbon_neutral1.jpg)
+![](img/carbon_neutral1_.jpg)
 
 We work together with Take Action Global to let students farm carbon credits. This has the potential to offset energy usage 100% by the end of 2021.
 

@@ -1,6 +1,6 @@
 # ThreeFold Switzerland
 
-![](img/crypto_valley_zug.jpg)
+![](img/crypto_valley_zug_.jpg)
 
 Officially called ThreeFold AG.
 

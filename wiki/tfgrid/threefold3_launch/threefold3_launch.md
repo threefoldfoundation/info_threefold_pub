@@ -1,4 +1,4 @@
-![](img/tf30.jpg)
+![](img/tf30_.jpg)
 
 # The path to ThreeFold 3.0
 
@@ -79,5 +79,4 @@ Planned later this year.
 Please let us know if you can help
 
 !!!include:threefold3_launch_tfvaluable
-
 

@@ -4,7 +4,7 @@
 
 Based in DMCC commodities freezone in Dubai:
 
-![](img/threefold_commodities_1.jpg)
+![](img/threefold_commodities_1_.jpg)
 
 ## Planned Purpose
 

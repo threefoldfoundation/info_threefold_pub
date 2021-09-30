@@ -26,7 +26,7 @@ Each TFT represents underlying cloud capacity and can be exchanged for that capa
 
 By buying, holding, and utilizing TFTs, you are actively supporting the expansion of the ThreeFold_Grid and its use cases - creating a more sustainable, fair and equally accessible Internet.
 
-![](img/limitedsupply.jpg)
+![](img/limitedsupply_.png)
 
 ## Limited Supply
 

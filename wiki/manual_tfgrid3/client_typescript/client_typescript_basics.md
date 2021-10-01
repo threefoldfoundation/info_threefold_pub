@@ -31,3 +31,6 @@ tsc test.ts && node test.js
 cd scripts
 tsc test_kubernetes.ts && node test_kubernetes.js
 ```
+
+.
+

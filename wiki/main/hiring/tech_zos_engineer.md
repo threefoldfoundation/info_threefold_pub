@@ -42,7 +42,7 @@ See how we are [thinking beyond blockchain](internet4).
   - Understand and follow Pareto 20/80 rule
   - Not afraid to be a teacher for others
   - Understand that quality is important
-  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflownation:p2p_awareness_level)
+  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflow:p2p_awareness_level)
   
 !!!include:hr_tech_values
 

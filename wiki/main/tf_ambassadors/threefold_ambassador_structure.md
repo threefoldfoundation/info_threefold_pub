@@ -5,12 +5,12 @@
 
 ## requirements to be a TF ambassador
 
-- [X] [I want to be a FreeFlow Citizen](freeflownation:freeflow_citizen) (please read)
+- [X] [I want to be a FreeFlow Citizen](freeflow:freeflow_citizen) (please read)
 - [X] I am willing to put the planet first and then the community 
 - [X] I realize to be an ambassador costs time and effort
 - [X] I realize there are other channels to protect my own interests in relation to ThreeFold
 
-More info in [how to contribute](freeflownation:peer2peer_collaboration)
+More info in [how to contribute](freeflow:peer2peer_collaboration)
 
 ## changes to our current ambassador model
 
@@ -61,6 +61,6 @@ please reach out if you want to start a circle.
 
 ## more information
 
-- [how to contribute](freeflownation:peer2peer_collaboration)
-- [circles remuneration](freeflownation:circles_remuneration)
-- [circle roles](freeflownation:circles_roles)
+- [how to contribute](freeflow:peer2peer_collaboration)
+- [circles remuneration](freeflow:circles_remuneration)
+- [circle roles](freeflow:circles_roles)

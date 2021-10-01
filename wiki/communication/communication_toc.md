@@ -8,7 +8,7 @@
 - [Telegram Main Chat](telegram_chat)
 - [Code of conduct](code_conduct)
 - [How You Can Help](getinvolved)
-- [Collaboration](freeflownation:collaboration)
+- [Collaboration](freeflow:collaboration)
 **Information To Share**
 - [Video Content](explainer_videos)
 - [ThreeFold Wallpapers](threefold_wallpapers)

@@ -50,7 +50,7 @@ The blockchain layer is used in digital_twin as well as for zero_os.
   - Flexible, out-of-the-box thinker, +/- everything you will be working on is not following existing paradigms.
   - Not afraid of changes
   - Understand that quality is important
-  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflownation:p2p_awareness_level)
+  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflow:p2p_awareness_level)
 
 !!!include:hr_tech_values
 

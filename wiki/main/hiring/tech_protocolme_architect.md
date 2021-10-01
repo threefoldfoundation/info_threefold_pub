@@ -51,7 +51,7 @@ As a Technical Architect you will work very closely together with despiegk and t
   - Good communicator
   - Understand and follow Pareto 20/80 rule
   - A good teacher
-  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflownation:p2p_awareness_level) 
+  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflow:p2p_awareness_level) 
 
 !!!include:hr_tech_values
 

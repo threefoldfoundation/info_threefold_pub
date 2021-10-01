@@ -27,8 +27,8 @@ Unique features.
 
 - examples:
   - data files (json or dtml) = data of your digital life
-  - files of the [filemanager](twin:dtfilemanager)
-  - backend for the [dthyperdrive](twin:dthyperdrive) -->
+  - files of the [filemanager](digitalself:dtfilemanager)
+  - backend for the [dthyperdrive](digitalself:dthyperdrive) -->
 
 ## Architecture
 

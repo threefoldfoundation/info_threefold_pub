@@ -7,4 +7,4 @@ If you'd like other ways to get involved, have questions, or feel something is m
 - [How You Can Help!](how_to_help)
 - [Shareable Content](threefold_content)
 - [ThreeFold Wallpapers](threefold_wallpapers)
-- [Collaboration](freeflownation:collaboration)
+- [Collaboration](freeflow:collaboration)

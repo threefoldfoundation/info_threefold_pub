@@ -50,7 +50,7 @@ Your main responsibility is to test our code of both the ThreeFold Grid and the 
     - Flexible out of the box thinker, +- everything you will be working on is not following existing paradigms
     - Don’t be afraid of changes
     - Understand that quality is important
-    - Be at least level ‘wolf’ in [the skill levels we use, we look at them in a different way](freeflownation:p2p_awareness_level)
+    - Be at least level ‘wolf’ in [the skill levels we use, we look at them in a different way](freeflow:p2p_awareness_level)
 
 !!!include:hr_tech_values
 

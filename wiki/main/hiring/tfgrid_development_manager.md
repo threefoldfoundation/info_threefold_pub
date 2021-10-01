@@ -59,7 +59,7 @@ Components you manage:
   - Understand and follow Pareto 20/80 rule
   - Be a good teacher
   - Understand what it means to be a team_lead 
-  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflownation:p2p_awareness_level)
+  - Be at least level 'wolf' in [the skill levels we use, we look at them in a different way](freeflow:p2p_awareness_level)
 !!!include:hr_tech_values
 
 ## Remuneration

@@ -8,7 +8,7 @@
 ------
 **More Info**
 - [Team Expansion](@team_expansion)
-- [How Do We Collaborate](@freeflownation:freeflow_home)
+- [How Do We Collaborate](@freeflow:freeflow_home)
 - [Decentralization](@decentralization)
   - [Decentralization Status](@decentralization_status)
   - [ThreeFold Foundation](@threefold_foundation)

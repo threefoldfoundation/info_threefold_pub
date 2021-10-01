@@ -1,3 +1,3 @@
-!!!include:digitalself:twin_chat
+!!!include:twin:twin_chat
 
 <!-- !!!def:chatsystem -->

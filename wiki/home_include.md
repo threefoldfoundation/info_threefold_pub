@@ -1,2 +1,2 @@
-- [**ThreeFold Home**](threefold_home)
+- [**ThreeFold Home**](@threefold_home)
 ------------

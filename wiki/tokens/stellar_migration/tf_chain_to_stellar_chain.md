@@ -37,4 +37,3 @@ Once the conversion process has ended, you will arrive in the accounts overview 
 *Note that if you get an error message, please try again later before contacting support.*
 
 - TFTA -> TFT: [See here for more info](tfta_to_tft)
-

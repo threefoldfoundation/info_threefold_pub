@@ -79,4 +79,3 @@ Planned later this year.
 Please let us know if you can help
 
 !!!include:threefold3_launch_tfvaluable
-

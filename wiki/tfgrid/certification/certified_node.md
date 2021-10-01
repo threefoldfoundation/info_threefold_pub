@@ -31,4 +31,3 @@ The TitanV2.1 node is a certfified node.  Cerrtified nodes are eligeble for more
 
 
 !!!def alias:certified_node
-

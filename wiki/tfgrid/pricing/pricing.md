@@ -11,4 +11,3 @@ Below you can see how the market prices these cloud units.
 !!!include:cloudunits_pricing
 
 > [Compare with other cloud providers](cloud_pricing_compare)
-

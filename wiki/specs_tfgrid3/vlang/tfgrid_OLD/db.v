@@ -11,7 +11,7 @@ fn save2<T>(obj T) {
 	// return obj
 }
 
-// println(@LINE)
+// println(LINE)
 
 // //we can see if we can use Generics for this but last time didn't work as I wanted
 // //idea is we have a generic way how to save/load from FS, best would be we don't have to repeat code

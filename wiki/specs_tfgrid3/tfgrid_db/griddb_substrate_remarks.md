@@ -73,4 +73,3 @@ We store every creation / update / deletion of above objects in a graphql databa
 
 In this Diagram we can see that a Node and a Farm have a Twin object. An Entity can link to a Twin given that there is a proof that this Entity agreed on that link.
 
-

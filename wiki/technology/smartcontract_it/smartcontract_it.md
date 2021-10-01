@@ -50,4 +50,3 @@ is optional but when required stakeholder can be defined to give consensus and s
 <!-- !!!include:smartcontract_toc -->
 
 !!!def alias:smartcontract_it
-

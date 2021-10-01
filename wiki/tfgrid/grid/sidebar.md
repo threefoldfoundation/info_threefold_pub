@@ -1,10 +1,10 @@
-- [**ThreeFold Home**](threefold_home)
-- [**TFGrid Home**](tfgrid_home)
+- [**ThreeFold Home**](@threefold_home)
+- [**TFGrid Home**](@tfgrid_home)
 **ThreeFold Grid**
 - [Intro](@grid_intro)
-  - [ThreeFold 2 Pager](https://threefold.docsend.com/view/cp7cn5m8vzhr7g49)
-  - [ThreeFold: For Blockchain](https://threefold.docsend.com/view/zvy8ub83icrzqhnp)
-  - [ThreeFold: The Token](https://threefold.docsend.com/view/p4skb74nsd9xemqb)
+  - [ThreeFold 2 Pager](@https://threefold.docsend.com/view/cp7cn5m8vzhr7g49)
+  - [ThreeFold: For Blockchain](@https://threefold.docsend.com/view/zvy8ub83icrzqhnp)
+  - [ThreeFold: The Token](@https://threefold.docsend.com/view/p4skb74nsd9xemqb)
 - [What is it?](@grid_concepts)
   - [Grid Concepts](@grid_concepts)
   - [What is Farming](@farming_intro)
@@ -20,5 +20,4 @@
   - [Grid Architecture](@grid_architecture)
 - [Grid Pricing](@pricing)
 - [Capacity Explorer](@tfgrid_explorer)
-
 

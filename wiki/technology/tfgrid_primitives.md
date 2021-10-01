@@ -46,4 +46,3 @@ Through the smartcontract_it concept you deploy your primitive workloads.
 !!!def alias:tfgrid_primitives,grid_primitives
 
 
-

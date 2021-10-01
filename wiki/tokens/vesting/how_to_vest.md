@@ -33,4 +33,3 @@ Once the transfer is done, your TFTs are vested (see [Vesting Pool](vesting_pool
 In the dashboard, you can check for all vesting transactions that happened (`CHECK TRANSACTIONS` button).
 
 ![](img/vesting_transactions.jpg ':size=600') --->
-

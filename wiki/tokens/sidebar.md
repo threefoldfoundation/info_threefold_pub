@@ -1,12 +1,12 @@
 !!!include:home_include
 **TFT**
-- [What is TFT](token_what)
-- [Features](token_features)
+- [What is TFT](@token_what)
+- [Features](@token_features)
 - [Valuation](@grid_valuation)
-- [New to Tokens](newtotokens)
+- [New to Tokens](@newtotokens)
 - [Buy and Sell TFT](@how_to_buy)
 - [Tokenomics](@tokenomics)
-- [Token Overview](token_overview)
+- [Token Overview](@token_overview)
 -----------
 **Wallets Stellar**
 - [Overview](@threefold_wallets)

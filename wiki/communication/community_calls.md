@@ -13,4 +13,3 @@
 - [Autonomous Internet Demo 2019](autonomousdemo_oct2019)
 - [Token Session 2019](tokensession_oct2019)
 - [ThreeFold Wallet Dos and Don'ts](wallet_do_dont)
-

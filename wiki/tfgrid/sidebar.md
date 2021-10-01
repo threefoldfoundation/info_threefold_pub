@@ -1,9 +1,9 @@
 !!!include:home_include
-- [Why](why_intro)
-  - [Web 4.0](web4)
-  - [Why we do what we do](why_intro)
+- [Why](@why_intro)
+  - [Web 4.0](@web4)
+  - [Why we do what we do](@why_intro)
   - [Why a new P2P cloud](@why_grid_link)
-- [About TFGrid](grid_home)
+- [About TFGrid](@grid_home)
 - [Farming](@farming_home)
 - [Tokens](@tokens_home)
 - [Use ThreeFold](@grid_use)

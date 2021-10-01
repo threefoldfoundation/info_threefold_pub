@@ -56,4 +56,3 @@ More Info:
 - For the installation of Kubernetes monitoring on your local machine, see [Local Monitoring](evdc_monitoring_local).
 - Go back to [Kubernetes Actions](kubernetes_deploy).
 
-

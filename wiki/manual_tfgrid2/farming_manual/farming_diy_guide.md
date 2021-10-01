@@ -16,4 +16,3 @@ In this section, we will help you get started with your farm:
 
 If you have any questions, please feel free to reach us on the [Farming Section on the Forum](https://forum.Threefold.io/c/Threefold-grid-support/farmer-discussion).
 
-

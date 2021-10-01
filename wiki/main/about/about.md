@@ -15,4 +15,3 @@ Here's [a longer video explanation](howitworks_2).
 **Check out this video** on how it all started and what we have accomplished already.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

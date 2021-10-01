@@ -59,4 +59,3 @@ Factors the TFGrid Reputation_engine will look at (Q4 2021, latest Q1 2022)
 - Uptime (nodes & network)
 
 The monitoring engine could require farmers to execute on certain actions.
-

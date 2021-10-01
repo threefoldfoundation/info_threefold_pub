@@ -14,4 +14,3 @@ Next to this hardlock, a lot of tokens are vested see [this token overview page]
 ### Token Information
 
 !!!include:stats_toc
-

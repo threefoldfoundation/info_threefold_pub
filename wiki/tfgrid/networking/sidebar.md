@@ -1,12 +1,11 @@
 !!!include:home_include
 **Farming Network**
-- [SOHO = Small Office Home Office Setup](/networking/network_soho)
-- [Certified/Commercial Setup](/networking/network_datacenter)
-- [Certified/Commercial Setup 2 ISP feed (recommended)](/networking/network_datacenter_two_isp)
-- [Large Scale Setup](/networking/network_datacenter_large)
-- [Future: redundant routing setup](/networking/network_datacenter_redundant) 
+- [SOHO = Small Office Home Office Setup](@network_soho)
+- [Certified/Commercial Setup](@network_datacenter)
+- [Certified/Commercial Setup 2 ISP feed (recommended)](@network_datacenter_two_isp)
+- [Large Scale Setup](@network_datacenter_large)
+- [Future: redundant routing setup](@network_datacenter_redundant) 
 
 -----------
 **Farming**
-- [Farming Home](farming_intro)
-
+- [Farming Home](@farming_intro)

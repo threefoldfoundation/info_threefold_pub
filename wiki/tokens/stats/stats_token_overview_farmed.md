@@ -42,4 +42,3 @@ Total liquid tokens:
 ### Token Information
 
 !!!include:stats_toc
-

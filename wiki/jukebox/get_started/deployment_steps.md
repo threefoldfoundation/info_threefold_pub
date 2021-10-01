@@ -116,4 +116,3 @@ Please go to **My Workloads** to see your currently operating nodes and their st
 _If facing any issues don't hesitate to click on a blue chat bubble here on the right bottom corner. 
 <br/>
 Our support team is there to help you!_
-

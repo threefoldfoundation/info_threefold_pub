@@ -41,4 +41,3 @@ More info about [how to use the grid see here](grid_use)
 !!!def alias:tfpricing,cloudunit_pricing,threefold_pricing
 
 !!!tfpriceinfo
-

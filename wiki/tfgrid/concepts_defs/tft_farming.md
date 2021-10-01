@@ -13,4 +13,3 @@ For the purpose of farming, TF Tokens upto 4 Billion, are in a locked pool which
 See [Farming Rewards](farming_reward) for more info.
 
 !!!def alias:token_farming,tft_farming,threefold_minting,token_minting,tft_minting
-

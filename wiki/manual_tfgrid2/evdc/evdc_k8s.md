@@ -61,4 +61,3 @@ Any tooling to manage your Kubernetes cluster (both for workload provisioning an
 The `Marketplace` widgets are created with the help of Helm Charts, which can be found [here](https://github.com/threefoldtech/vdc-solutions-charts). 
 
 Of course, you can also create your own Helm Charts and deploy them onto your Kubernetes cluster. 
-

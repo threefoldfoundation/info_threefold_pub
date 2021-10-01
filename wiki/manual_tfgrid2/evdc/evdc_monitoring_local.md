@@ -40,4 +40,3 @@ More info:
 
 - For the installation of Kubernetes Monitoring Stack on the Marketplace, see [here](evdc_monitoring_stack).
 - Go back to [Kubernetes Actions](kubernetes_deploy).
-

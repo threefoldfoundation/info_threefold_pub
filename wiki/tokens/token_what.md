@@ -16,7 +16,7 @@ With TFT, you can use the following products and services that live on the Three
 
 ## Where do TFTs come from?
 
-When farmers connect 3Nodes to the [ThreeFold Grid](grid_intro), they farm (mine) and get rewarded with TFTs. Learn more about the farming/minting logic [here](@farming_reward). While farmers keep on expanding the ThreeFold_Grid, the token economy is limited to 4 Billion tokens. This limit ensures stability of value and incentivization for all stakeholders.
+When farmers connect 3Nodes to the [ThreeFold Grid](grid_intro), they farm (mine) and get rewarded with TFTs. Learn more about the farming/minting logic [here](farming_reward). While farmers keep on expanding the ThreeFold_Grid, the token economy is limited to 4 Billion tokens. This limit ensures stability of value and incentivization for all stakeholders.
 
 > TFTs are created (minted) by the TF open-source minting software as a result of capacity being connected to the ThreeFold_Grid. 
 
@@ -29,7 +29,7 @@ This process is called **Farming**. [You can learn more about farming here](farm
 A circular economy enables anyone to take part and to get rewarded for it: 
 1. When Farmers connect 3Nodes and add capacity to the ThreeFold_Grid, they will create new TFT through the process of farming.  
 2. Farmers can then exchange the farmed TFTs into other fiat or digital currencies on public exchanges. Also, this is where users can exchange fiat or digital currencies for TFTs.
-3. Once they have TFTs in their wallets, users can reserve capacity on the Threefold_Grid and pay farmers directly. We call this process [cultivation](@cultivation).
+3. Once they have TFTs in their wallets, users can reserve capacity on the Threefold_Grid and pay farmers directly. We call this process [cultivation](cultivation).
 
 ## Explore the analytics of TFT on Stellar 
 

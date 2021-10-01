@@ -44,7 +44,7 @@ A marketplace of peer-to-peer solutions for communities to scale privately in a 
 
 ![](img/office2.jpg)
 
-see [AYDO](twin:aydo)
+see [AYDO](accelerator:aydo)
 
 ### Zoom Alternative
 

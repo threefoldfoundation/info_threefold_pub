@@ -7,7 +7,7 @@ Please note that for now our Terraform plugin is only supported for Linux and Ma
 Steps:
 
 - [Install and configure Yggdrasil](planetary_network)
-- [Create wallet and twin on TF Chain](tfchain_init)
+- [Create wallet and twin on TF Chain](specs_grid3:tfchain_init)
 - [Install Terraform](terraform_install)
 
 

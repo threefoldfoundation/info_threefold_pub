@@ -1,0 +1,10 @@
+{
+	"name": "freeflow",
+	"git_url": "https://github.com/freeflowuniverse/info_freeflow_pub/tree/development/wiki",
+	"pull": true,
+	"reset": false,
+	"cat": "wiki",
+	"domains": [
+		"freeflow"
+	]
+}

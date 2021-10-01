@@ -23,7 +23,7 @@ Users can then access the ThreeFold_Grid with 3Bot, a virtual system administrat
 
 This model permits anyone to participate in the Internet economy and removes all centralization from the model as users can operate their digital lives directly on the operating system level.
 
-The ThreeFold_Grid is approaching it's 3rd major release and many things are already possible on top of it. ThreeFold didn't stop at only building the peer-to-peer communications infrastructure. In parallel, peer-to-peer applications and services are also being built such as a peer-to-peer cloud, peer-to-peer marketplace, and a peer-to-peer software development kit amongst others. Any application which can run on Linux can run on top of the ThreeFold Grid with many [advantages](cloud_compare).
+The ThreeFold_Grid is approaching it's 3rd major release and many things are already possible on top of it. ThreeFold didn't stop at only building the peer-to-peer communications infrastructure. In parallel, peer-to-peer applications and services are also being built such as a peer-to-peer cloud, peer-to-peer marketplace, and a peer-to-peer software development kit amongst others. Any application which can run on Linux can run on top of the ThreeFold Grid with many [advantages](cloud_compare_home).
 
 ## What is autonomous technology? 
 

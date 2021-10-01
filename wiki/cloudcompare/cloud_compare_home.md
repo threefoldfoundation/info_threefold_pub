@@ -1,6 +1,6 @@
 # Benefits of a Peer2Peer Cloud
 
-![](img/cloud.jpg)
+![](img/cloud_.png)
 
 
 |                                                                                | Centralised Cloud | Blockchain Infrastructure Project | ThreeFold Peer To Peer Cloud |

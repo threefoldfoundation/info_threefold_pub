@@ -22,7 +22,7 @@
 !!!include:zos_advantages
 <BR>
 **More Info**
-- [Compare Clouds](@cloud_compare)
+- [Compare Clouds](@cloud_compare_home)
 - [Use the Threefold Grid](@grid_use)
 - [Release Notes](@releasenotes)
 - [Consensus Mechanism](@consensus3)

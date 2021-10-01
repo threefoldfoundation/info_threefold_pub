@@ -94,4 +94,4 @@ Learn more about 3Bot [here](part4_3bot_digital_avatar_digital_self).
 - [Marketplace Get Started](evdc_marketplace) - Deploy peer-to-peer apps on top of your eVDC.
 - [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
 - [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
-- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.
+- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare_home) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.

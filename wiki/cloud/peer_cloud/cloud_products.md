@@ -1,5 +1,5 @@
 
-![](img/cloud_node.jpg)
+![](img/cloud_node_.png)
 
 # ThreeFold P2P Cloud Components
 
@@ -88,6 +88,5 @@ IAC offers three main advantages:
 - IaC makes things much more efficient by eliminating all manual processes and the slack in the process. A code-based approach makes it easy to get more done in less time. No need to wait on a task to be manually completed before heading to the next one.
 - IaC shifts the power into the developer’s hands. As the infrastructure provisioning becomes more reliable and consistent, developers can start focusing on the application development. They can script once and use that code multiple times, saving time and effort while keeping complete control.
 - Automation removes the risk associated with human error, like manual misconfiguration; removing this can decrease downtime and increase reliability. 
-
 
 

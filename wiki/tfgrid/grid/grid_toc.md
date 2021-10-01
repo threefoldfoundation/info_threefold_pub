@@ -12,7 +12,7 @@
   - [Grid Valuation](grid_valuation) - A study about the potential value of the ThreeFold Grid considering market dynamics.
 - [What can I do with it?](grid_use)
   - [Use the Threefold Grid](grid_use) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-  - [Web2 vs Web3 vs ThreeFold Peer2Peer](cloud_compare) - How the ThreeFold Grid compares to Blockchain and Cloud infrastructures.
+  - [Web2 vs Web3 vs ThreeFold Peer2Peer](cloud_compare_home) - How the ThreeFold Grid compares to Blockchain and Cloud infrastructures.
 - More Info
   - [How is capacity measured](cloudunits) - What is the cloud capacity offering on the ThreeFold Grid.
   - [Grid Architecture](grid_architecture) - An introduction to the main technological components that form the ThreeFold Grid.

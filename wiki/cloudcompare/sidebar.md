@@ -1,6 +1,6 @@
 
 - [**Home**](@readme)
-- [Cloud Compare](@cloud_compare)
+- [**Cloud Home**](@cloud_home)
 -----------
 
 - [aggregated](@storage_compute_network)

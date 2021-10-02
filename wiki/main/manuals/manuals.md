@@ -20,7 +20,7 @@ The latest version of Zero OS (TF Grid’s operating system) and the associated 
 
 Currently TF Grid 2.3.0 is released on Mainnet, introducing a lot of exciting new features and upgrades [**TF Grid 2.3.0 Release Note**](release_notes_2_3_0).
 
-Please see the [**TF Grid 2.3 Manual**](intro) for more details.
+Please see the [**TF Grid 2.3 Manual**](freeflow:intro) for more details.
 
 Other important links to experience the TF Grid:
 

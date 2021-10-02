@@ -29,7 +29,7 @@ The team has put in tremendous work to get the technology to where it is today. 
 
 *By the way, we have now for months been using the video conferencing feature of Digital Twin ourselves, it's super cool and very useful!*
 
-Visit [the Digital Twin wiki](twin:twin_home) to learn more.
+Visit [the Digital Twin wiki](digitalself:twin_home) to learn more.
 
 ## We made major improvements to our web presence
 

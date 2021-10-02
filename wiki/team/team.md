@@ -77,7 +77,7 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Maxime Daniel](maxime_daniel)                 | Lead Developer Storage Components                                | TF Tech      |
 | [Hamdy Farag](hamdy_farag)                     | Lead Developer Digital Twin                                      | TF Tech      |
 | [Jonas Delrue](jonas_delrue)                   | Teamlead Digital Twin (parttime)                                 | TF Tech      |
-| [Muhammed Azmy](muhammed_azmy)                   | BE Team Lead                                 | TF Tech      |
+| [Muhammed Azmy](data:muhammed_azmy)                   | BE Team Lead                                 | TF Tech      |
 | [Sasha Astiadi](sasha_astiadi)                 | Coordination / Administration                                    | TF Tech      |
 | [Geert Machtelinckx](geert_machtelinckx)       | Tech Writing, Testing, Coordination                              | TF Tech      |
 

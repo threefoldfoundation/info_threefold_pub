@@ -1,0 +1,10 @@
+{
+    "name": "data",
+    "git_url": "https://github.com/threefoldfoundation/threefold_data/tree/development_lowres/content",
+    "pull": true,
+    "reset": false,
+    "cat": "data",
+    "domains": [
+        "data.threefold.io"
+    ]
+}

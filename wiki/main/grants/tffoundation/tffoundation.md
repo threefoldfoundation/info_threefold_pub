@@ -1,6 +1,6 @@
 # The ThreeFold Foundation
 
-![](threefold_foundation.jpg)
+![](img/threefold_foundation.png)
 
 _The ThreeFold Foundation_ is there to promote and grow the TF Grid - an infrastructure empowering a new and democratized digital economy based on values of equality (of access), autonomy, and environmental sustainability. It is the foundation of the new internet.
 

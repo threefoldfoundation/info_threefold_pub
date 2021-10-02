@@ -1,6 +1,6 @@
 # Artheon VR Museum
 
-![](artheon.jpg)
+![](img/artheon_.jpg)
 
 *The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage.
 

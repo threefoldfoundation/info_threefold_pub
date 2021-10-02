@@ -1,6 +1,6 @@
 # Crystal Home
 
-![](crystal_home.jpg)
+![](img/crystalhome_.jpg)
 
 *The Crystal Home* is bringing a different approach to housing building circular and fully self-sufficient homes that make housing construction affordable and sustainable without compromising on quality.
 

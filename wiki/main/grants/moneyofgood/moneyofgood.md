@@ -1,6 +1,6 @@
 # Money of Good
 
-![](money_of_good.jpg)
+![](img/money_of_good_.jpg)
 
 *The Money of Good* is a socioeconomic platform that uses disruptive proof-of-meditation technology (neurofeedback+blockchain) to offer people the chance to earn money as a reward for practicing meditation, improving their health, raising consciousness while fostering a new fair and sustainable economic model.
 

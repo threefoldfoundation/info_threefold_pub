@@ -1,6 +1,6 @@
 # The Humanized Internet
 
-![](the_humanized_internet.jpg)
+![](img/the_humanized_internet.png)
 
 *The Humanized Internet* is working to use new technologies to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity.
 

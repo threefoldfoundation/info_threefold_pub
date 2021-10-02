@@ -44,13 +44,13 @@ A marketplace of peer-to-peer solutions for communities to scale privately in a 
 
 ![](img/office2.jpg)
 
-see [AYDO](twin:aydo)
+see [AYDO](digitalself:aydo)
 
 ### Zoom Alternative
 
 ![](img/internet_flow_transp.jpg)
 
-see [Kutana](twin:kutana)
+see [Kutana](digitalself:kutana)
 
 ### Web publishing system
 
@@ -62,13 +62,13 @@ see [Publishing System](publisher)
 
 ![](img/chat.jpg)
 
-See [Twin Chat](twin:twin_chat)
+See [Twin Chat](digitalself:twin_chat)
 
 ### Cloud Browser Engine
 
 ![](img/browsers_.png)
 
-See [Browser](twin:hercules_browser)
+See [Browser](digitalself:hercules_browser)
 
 ## Developers
 

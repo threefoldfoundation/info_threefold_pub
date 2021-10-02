@@ -5,21 +5,6 @@
 	"reset": false,
 	"cat": "wiki",
 	"domains": [
-		"legal.threefold.io",
-		"legal-info.threefold.io",
-		"legal-wiki.threefold.io"
-	],
-	"descr": "",
-	"groups": [],
-	"acl": [],
-	"trackingid": "17",
-	"opengraph": {
-		"title": "",
-		"description": "",
-		"url": "",
-		"type_": "",
-		"image": "",
-		"image_width": "",
-		"image_height": ""
-	}
+		"legal.threefold.io"
+	]
 }

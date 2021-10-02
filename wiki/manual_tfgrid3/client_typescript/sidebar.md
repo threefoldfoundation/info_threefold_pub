@@ -5,3 +5,4 @@
 - [Deploy a VM](@client_typescript_vm_example)
 - [Deploy a Kubernetes cluster](@client_typescript_kubernetes_example)
 - [Get Deployment information](@deployment_get)
+

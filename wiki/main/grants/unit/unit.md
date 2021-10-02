@@ -1,6 +1,6 @@
 # Unit
 
-![](unit.jpg)
+![](img/unit_.jpg)
 
 *The Unit* is an underlying technology which powers two-sided marketplaces (like uber, or airbnb) which powers a platform for a specific vertical or industry. Unit also invests in these projects and companies through Unit Ventures, with the vision to create millions of jobs, and support projects by allocating funds and resources to them.
 

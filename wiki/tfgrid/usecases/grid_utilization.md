@@ -13,7 +13,7 @@ From publishing to video hosting, communication to project management, ThreeFold
 
 Infrastructure as code movement:
 
-[ThreeFold Manual](intro)
+[ThreeFold Manual](freeflow:intro)
 
 The knowledge base for those interested in learning more about how to create and deploy IT Solutions on top of our Peer2Peer Cloud.
 

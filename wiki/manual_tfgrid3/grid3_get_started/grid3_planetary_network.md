@@ -1,7 +1,7 @@
 
-# YGGDRASIL
+# Planetary Network
 
-[Yggdrasil](https://yggdrasil-network.github.io) is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms, and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4. For more information
+The planetary network is based on [Yggdrasil](https://yggdrasil-network.github.io), which is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms, and allows pretty much any IPv6-capable application to communicate securely with other Yggdrasil nodes. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4. 
 
 ### Install
 

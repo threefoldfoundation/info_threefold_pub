@@ -69,3 +69,7 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
 ![query_farm](img/query_farm_1.jpg)
+
+## Step 8: look up your farm on the Grid3 Explorer
+
+There is a new UI explorer available [here](https://explorer.tfchain.dev.threefold.io/) 

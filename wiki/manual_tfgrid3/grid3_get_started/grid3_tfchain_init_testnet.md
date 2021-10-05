@@ -5,7 +5,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 #### Important notes:
 
 - You must choose `ed25519` as the "crypto type" when setting up your account
-- When funding your wallet from the provided faucet accounts, you can transfer more than the shown balance of those accounts. Take a few thousand tokens to make sure you don't run out while testing
+- The testnet used real TFT, which can be transferred from Stellar over the Stellar-Substrate Bridge (url TO DO).
 - The guide advises to find your twin ID by checking the `twinID()` method. However, this will only correspond to your ID until a new twin is created and the value is incremented. To make sure you're seeing the ID associated with your account, use `twinIdByAccountID(AccountId)` instead, and select your account name from the drop down.
 
 ## Create Twin

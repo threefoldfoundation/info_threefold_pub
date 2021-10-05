@@ -11,8 +11,10 @@
 - [Terraform](@grid3_terraform)
 -----------
 - [Grid Overview](@grid_readme)
-- [Create a Farm](@create_farm)
+- [Create a Farm on Devnet](@create_farm_devnet)
+- [Create a Farm on Testnet](@create_farm_testnet)
+
 -----------
 - [TypeScript Client](@client_typescript)
-- [Graphql Client](@graphql)
+- [GraphQL Client](@graphql)
   

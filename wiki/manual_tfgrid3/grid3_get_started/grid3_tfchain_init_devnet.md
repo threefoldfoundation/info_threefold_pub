@@ -1,6 +1,6 @@
 ## TF-Chain on Devnet
 
-For deployments, you'll need a TF-Chain account and a twin registered. Visit [this page](https://vgrid.staging2.threefold.io/#/vgrid__grid_substrate_getting_started) for instructions. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
+For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 
 #### Important notes:
 

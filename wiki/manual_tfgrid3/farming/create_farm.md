@@ -1,4 +1,4 @@
-# Creating a Farm on TFChain Devnet
+# Create a Farm on TFChain Devnet
 
 ## Step 1: Copy types to clipboard
 
@@ -31,7 +31,6 @@ On the same page, on the left top, hover over `Account` button and click on `Tra
 ## Step 5: Create a Twin
 
 Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/extrinsics in your browser 
-
 and select your account from the list. Next, select `tfgridModule` -> `createTwin(ip)` from the list.
 
 Fill in your [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) IPV6. And click on submit transaction and sign it with your account.

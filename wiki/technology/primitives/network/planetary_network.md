@@ -4,17 +4,16 @@
 
 ![](img/planetary_net.jpg)
 
-Overlay network which lives on top of the existing internet or other peer2peer networks created. In this network, everyone is connected to everyone. End-to-end encryption between users of an app and the app running behind the network wall.
+The planetary network is an overlay network which lives on top of the existing internet or other peer2peer networks created. In this network, everyone is connected to everyone. End-to-end encryption between users of an app and the app running behind the network wall.
 
-Each user end network point = strongly authenticated & uniquely identified independent of network carrier used. No need for centralized firewall or vpn solutions, this is circle based networking security.
-
+Each user end network point is strongly authenticated and uniquely identified, independent of the network carrier used. There is no need for a centralized firewall or VPN solutions, as there is a circle based networking security in place.
 
 Benefits :
-- finds shortest possible paths between peers
-- Full security through end-to-end encrypted
-- allows for peer2peer links like meshed wireless
-- can survive broken internet links and re-route when needed
-- resolves the shortage of IPV4 addresses
+- It finds shortest possible paths between peers
+- There's full security through end-to-end encrypted messaging
+- It allows for peer2peer links like meshed wireless
+- It can survive broken internet links and re-route when needed
+- It resolves the shortage of IPV4 addresses
 
 
 Whereas current computer networks depend heavily on very centralized design and configuration, this networking concept breaks this mould by making use of a global spanning tree to form a scalable IPv6 encrypted mesh network.  This is a peer2peer implementation of a networking protocol.

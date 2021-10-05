@@ -11,7 +11,7 @@ Important for users now :
 | Part of extrinsic __tfgridModule__ | 
 | `addFarmIP(id, ip, gateway)` | Add a public IPv4 address for the farmer | 
 | `addStellarPayoutV2Address(farmID, stellarAddress)` | Link the Stellar wallet address to the farmID. This is the address that will be used in the minting process. |
-| `createFarm(name, publicIps)` | 
+| `createFarm(name, publicIps)` | Create 
 | `createTwin(ip)` | Create a Twin with an IP address where the twin can be found in the planetary network |  
 | `deleteFarm(id)` | Delete a farm with the specified id | 
 | `deleteNode(id)` | Delete the node with the specified id |

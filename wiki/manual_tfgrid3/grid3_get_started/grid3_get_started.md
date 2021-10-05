@@ -5,7 +5,9 @@ In this section we describe the different installations needed to get started wi
 Steps:
 - Install the [Planetary Network](grid3_planetary_network)
 - Set up [Redis](grid3_redis)
-- Create your account and twin on [TFChain](grid3_tfchain_init)
+- Create your account and twin on TFChain
+  - [TFchain devnet](grid3_tfchain_init_devnet)
+  - [TFchain testnet](grid3_tfchain_init_testnet)
 
 Once you have installed the TFChain toolkit, you can start 
 

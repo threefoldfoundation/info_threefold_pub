@@ -12,8 +12,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ### Create account on Substrate using Polkadot
 
-- Go to Polkadot UI
-![image](https://user-images.githubusercontent.com/64129/125321199-bc340200-e33c-11eb-80c9-d37f4c843f28.jpg)
+- Go to [Polkadot UI, TF-Chain-testnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts)
 
 - Click on `Add an account` in [Polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts)
 - Save the mnemonic seed -needs to be ed25519- in a safe place

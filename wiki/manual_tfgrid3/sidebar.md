@@ -8,13 +8,13 @@
 - [Billing](@grid3_billing)
 -----------
 - [Getting Started](@grid3_get_started)
-- [Terraform](@grid3_terraform)
------------
 - [Grid Overview](@grid_readme)
 - [Create a Farm on Devnet](@create_farm_devnet)
 - [Create a Farm on Testnet](@create_farm_testnet)
-
 -----------
+- Automation and Deployment
+- [What you need to know](@grid3_developer_basics)
+- [Terraform](@grid3_terraform)
 - [TypeScript Client](@client_typescript)
 - [GraphQL Client](@graphql)
   

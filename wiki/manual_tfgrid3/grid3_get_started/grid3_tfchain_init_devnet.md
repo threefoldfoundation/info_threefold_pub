@@ -1,4 +1,4 @@
-## TF-Chain
+## TF-Chain on Devnet
 
 For deployments, you'll need a TF-Chain account and a twin registered. Visit [this page](https://vgrid.staging2.threefold.io/#/vgrid__grid_substrate_getting_started) for instructions. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 
@@ -28,10 +28,10 @@ For deployments, you'll need a TF-Chain account and a twin registered. Visit [th
 
 ### Create Twin on Substrate using Polkadot
 
-- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/settings/developer) in polkadot. *note: don't forget to save*
+- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/settings/developer) in polkadot. *note: don't forget to save*
 ![](img/substrate_types.jpg)
 
-- Click on `Add an account` in [polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/accounts)
+- Click on `Add an account` in [polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/accounts)
 - Save the mnemonic seed in a safe place
 
 - Click on `Advanced creation options` and select the keyword crypto type of **`Edwards (ed25519, alternative)`**
@@ -43,7 +43,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. Visit [th
 - Fund the account with test funds (Click on send funds from the account of Alice to your account name)
 ![](img/substrate_send_funds.jpg)
 
-- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/extrinsics)
+- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/extrinsics)
 
   - `Selected account` -> your Account name
 
@@ -56,7 +56,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. Visit [th
 
 ![](img/substrate_create_twin.jpg)
 
-- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/chainstate) and click on the +
+- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/chainstate) and click on the +
   - `Module` -> tfgridModule
   - `Method` -> twinID(): u32
 

@@ -18,16 +18,23 @@ This is work which is being done from ThreeFold and wants to integrate with Polk
 
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
-
 - [Whats New](grid3_new)
------------
-- [Getting Started](grid3_get_started)
-- [Terraform](grid3_terraform)
------------
+- [Getting Started](grid3_get_started) on Grid 3
+
+Once you have installed the TFChain toolkit, you can 
+
+- Start farming
+  - on [Devnet](create_farm)
+  - on [Testnet](create_farm_testnet)
+
+- Start using the TFGrid
+  - Use [Terraform](grid3_terraform)
+  - Deploy using CapRover (Under Construction)
+  - Deploy in VDC (Under Construction)
+
+---
+
 - [Grid Overview](grid_readme)
-- [Create a Farm](create_farm)
------------
+
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)
-
-  

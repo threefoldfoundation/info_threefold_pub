@@ -1,5 +1,7 @@
 !!!include:home_include
+
 **Technology**
+
 - [Zero-OS](@zos)
 - [Zero-OS primitives](@tfgrid_primitives)
   - [ZKube](@zkube)

@@ -34,7 +34,7 @@ Once you have installed the TFChain toolkit, you can
 
 ---
 
-- [Grid Overview](grid3_readme)
+- [Grid Overview](manual3_tfgrid_home)
 
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)

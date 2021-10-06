@@ -4,6 +4,7 @@
 **Manual 3.0**
 - [TFGrid 3](manual3_tfgrid_home)
     - [What's New](grid3_new)
+    - [Billing](grid3_billing)
     - [Overview](grid3_overview)
     - [Components Interaction](grid3_components)
     - [Definitions](grid3_definitions)

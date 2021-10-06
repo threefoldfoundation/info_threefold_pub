@@ -3,6 +3,8 @@
 - [**Cloud Home**](@cloud_home)
 -----------
 
+**Compare**
+
 - [aggregated](@storage_compute_network)
 - [blockchain](@blockchain_deploy)        
 - [any usecase](@no_redevelop) 

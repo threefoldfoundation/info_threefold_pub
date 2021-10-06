@@ -1,5 +1,7 @@
 !!!include:home_include
+
 **about**
+
 - [ThreeFold Companies](@threefold_companies)
 - [Concepts / Definitions](@definitions_concepts)
 - [Team Expansion](@team_expansion)

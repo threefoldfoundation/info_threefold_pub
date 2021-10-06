@@ -20,6 +20,10 @@ Learn more about the variables [here](farming_reward).
 
 Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
 
+## Utilization of Tokens
+
+see [Utilization Token Flow](cultivation_flow)
+
 ## Limited Supply & Liquidity Drivers
 
 See [Limited Supply & Liquidity Drivers](tft_limited_supply)

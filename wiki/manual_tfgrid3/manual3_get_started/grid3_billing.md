@@ -1,10 +1,11 @@
 # Billing on ThreeFold Grid 3.0
 
-The billing process has been completely reviewed compared to the previous versions of the ThreeFold Grid.
+In TFGrid 3.0 billing is done post utilization.
 
 ## Use TFTs on Parity Substrate
 
 As from v3.0, TFTs exist on TFChain, which is ThreeFold's blockchain on Parity Substrate.
+
 These TFTs have the same value as on the Stellar network, there is a bridging mechanism in place that allows to transfer TFTs between the 2 blockchains, in both directions.
 
 ## Proof of Utilisation (PoU)
@@ -12,11 +13,6 @@ These TFTs have the same value as on the Stellar network, there is a bridging me
 While Farmers can increase their yields by selling their capacity themselves, PoU incentivises solution providers and sales channels with a portion of the proceeds to support the demand for capacity on the ThreeFold Grid. Solution providers can be decentralized software providers or IoT networks that use ThreeFold as an infrastructure layer in their offering.
 
 PoU is split amongst different actors involved in the sales process of the Internet capacity:
-
-- 60% goes to solution providers and sales channels that bring utilization of the internet capacity;
-- 25% of the TFT gets burned to maintain a scarce token economy. With significant usage, the burn can even lead to deflation;
-- 10% of the proceeds is earned by the Farmers, and if Farmers are able to sell their capacity themselves, they are also eligible to earn the sales channel reward;
-- 5% is awarded to the Threefold Foundation for the promotion and marketing of the ThreeFold Grid and its available solutions.
 
 Learn more about ThreeFold Tokenomics [here](tokenomics).
 

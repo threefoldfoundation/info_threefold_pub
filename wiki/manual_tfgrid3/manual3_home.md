@@ -30,13 +30,13 @@ Once you have installed the TFChain toolkit, you can
   - on [Testnet](create_farm_testnet)
 
 - Start using the TFGrid
-  - Use [Terraform](grid3_terraform)
+  - Use [Terraform](grid3_terraform_home)
   - Deploy using CapRover (Under Construction)
   - Deploy in VDC (Under Construction)
 
 ---
 
-- [Grid Overview](grid_readme)
+- [Grid Overview](grid3_readme)
 
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)

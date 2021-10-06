@@ -6,3 +6,4 @@ This document is about TF-Grid 3.0. It shows an overview of the grid regarding o
 - [Overview](grid3_overview)
 - [Components Interaction](grid3_components)
 - [Definitions](grid3_definitions)
+- [Release Notes](releasenotes3)

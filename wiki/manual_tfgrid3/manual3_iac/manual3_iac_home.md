@@ -10,19 +10,15 @@ Infrastructure as code is the process of managing and provisioning computer data
 2. Efficient software development lifecycle: IaC shifts the power into the developer’s hands. As the infrastructure provisioning becomes more reliable and consistent, developers can start focusing on application development more. Also, they can script once and use that code multiple times, thus, saving time and effort while keeping complete control.
 3. Reduced management overhead: In a data center world there was a need to have admins to govern and manage storage, networking, compute and other layers of hardware and middleware. IaC eliminates a need for these multiple roles. Those admins can now focus on identifying the next exciting technology they want to implement.
 
-> TODO: ...
+## Our main tool = Terraform
 
-## Ansible
+Is an opensource IAC tool, fully integrated with ThreeFold Cloud software.
 
-Is an opensource IAC tool from Redhat, fully integrated with ThreeFold Cloud software.
+## Links
 
-- see [ansible](ansible)
+- [What you need to know](@grid3_developer_basics)
+- [Terraform](@grid3_terraform_home)
+- [TypeScript Client](@client_typescript)
+- [GraphQL Client](@graphql)
 
-## 3Bot
-
-<br>
-<br>
-<br>
-<br>
-
-**source info: wikipedia, [cloudbolt](https://www.cloudbolt.io/blog/3-advantages-and-challenges-of-infrastructure-as-code-iac/) **
+*more info: wikipedia, [cloudbolt](https://www.cloudbolt.io/blog/3-advantages-and-challenges-of-infrastructure-as-code-iac/),[stackpath(https://blog.stackpath.com/infrastructure-as-code-explainer/)*

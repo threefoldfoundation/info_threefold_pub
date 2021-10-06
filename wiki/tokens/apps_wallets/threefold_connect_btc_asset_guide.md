@@ -18,7 +18,7 @@ The bridging process invokes additional transaction fees from the Bitcoin networ
 
 ### Reminder of our T&C
 
-As a wallet holder, you are the only person that has access to the private keys allowing to generate transactions on the blockchain network. ThreeFold is unable to help you out in case you lose these private keys. Please don't share the app seed phrase nor the Stellar secret of your wallet with anyone. Make a secure backup of them so that you are able to recover your wallet on another device in case your device gets lost or stops functioning. Please read our [terms & conditions](https://library.threefold.me/#/legal__terms_conditions_griduser) to understand further about the liability circumstances of ThreeFold Grid Products and Services users.
+As a wallet holder, you are the only person that has access to the private keys allowing to generate transactions on the blockchain network. ThreeFold is unable to help you out in case you lose these private keys. Please don't share the app seed phrase nor the Stellar secret of your wallet with anyone. Make a secure backup of them so that you are able to recover your wallet on another device in case your device gets lost or stops functioning. Please read our [terms & conditions](*terms_conditions_griduser) to understand further about the liability circumstances of ThreeFold Grid Products and Services users.
 
 ## Manuals
 

@@ -1,37 +1,37 @@
 # Explorer UI
 
-![explorer0](explorer0.png)
+![explorer0](img/explorer0.png)
 
 Explorer UI helps with visualizing the information about farms and nodes. It also supports Dark mode for more comfortable navigation
 
 ## exploring farms
 You can see a list of all farms with filtering options
-![explorer_farms](explorer_farms.png)
+![explorer_farms](img/explorer_farms.png)
 
 ## farm details
 Click on a farm shows up the farm details information
-![explorer_farm_details](explorer_farm_details.png)
+![explorer_farm_details](img/explorer_farm_details.png)
 
 ## exploring nodes
 Explorer UI allows exploring the nodes and filtering them by many filtering option 
-![exporer_nodes](explorer_nodes.png)
+![exporer_nodes](img/explorer_nodes.png)
 
 ## node details
 You can see all of the node details 
 
-![explorer_node_details](explorer_node_details.png)
+![explorer_node_details](img/explorer_node_details.png)
 
 
 ## darkmode
 We support darkmode as well
 
-![explorer_darkmode](explorer_darkmode.png)
+![explorer_darkmode](img/explorer_darkmode.png)
 
 
 ## capacity distribution
 
 Can also see a map of how the capacity is distributed
-![capacity_distribution](explorer_nodes_distribution.png)
+![capacity_distribution](img/explorer_nodes_distribution.png)
 
 ## available explorers
 - [Devnet explorer](https://explorer.tfchain.dev.threefold.io)

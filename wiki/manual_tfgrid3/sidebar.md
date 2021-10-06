@@ -15,7 +15,7 @@
     - [Redis](@grid3_redis)
     - [TFChain Init Devnet](@grid3_tfchain_init_devnet)
     - [TFChain Init Testnet](@grid3_tfchain_init_testnet)
-    - [Terraform](@grid3_terraform_home)
+    - [Stellar-TFChain bridge](@grid3_stellar_tfchain_bridge)
 - [Infra As Code](manual3_iac_home)
     - [What you need to know](@grid3_developer_basics)
     - [Terraform](@grid3_terraform_home)

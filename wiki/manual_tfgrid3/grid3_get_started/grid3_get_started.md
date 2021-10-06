@@ -19,3 +19,5 @@ Once you have installed the TFChain toolkit, you can start
 - Farming
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)
+
+- [Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)

@@ -45,10 +45,16 @@ ZOS injects its own generic kernel while booting the container based on the cont
 ### kubernetes 
 We leverage the VM primitive to allow provisioning kubernetes clusters across multiple nodes based on k3os flist.
 
+## Getting started
+
+Please check [Getting started](@grid3_get_started) to get the necessary software / configurations
+
+
 
 For detailed information check
 
 - [Overview](@grid3_overview)
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
+- [Getting started](@grid3_get_started)
 - [Billing](@grid3_billing)

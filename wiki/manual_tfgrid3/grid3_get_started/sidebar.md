@@ -4,7 +4,8 @@
 - [Get Started](@grid3_get_started)
 - [Planetary Network](@grid3_planetary_network)
 - [Redis](@grid3_redis)
-- [TFChain Init](@grid3_tfchain_init)
+- [TFChain Init Devnet](@grid3_tfchain_init_devnet)
+- [TFChain Init Testnet](@grid3_tfchain_init_testnet)
 - [Terraform](@grid3_terraform)
 
 

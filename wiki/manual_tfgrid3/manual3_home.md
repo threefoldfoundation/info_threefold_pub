@@ -12,22 +12,31 @@ This is work which is being done from ThreeFold and wants to integrate with Polk
 
 - Introduction Video ThreeFold Project [video](https://vimeo.com/438190961), only takes 2 minutes. 
 - The official website is https://www.threefold.io.
-- ThreeFold is live, see for yourself on our [Grid Explorer](https://explorer.grid.tf/).
+- ThreeFold is live, see for yourself on our explorers : 
+  - [Grid Explorer v2](https://explorer.grid.tf/)
+  - [Grid Explorer v3 devnet](https://explorer.tfchain.dev.threefold.io/)
 
 > **CONFIDENTIAL:** All information in this site is confidential.
 
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
+- [What's New](grid3_new)
+- [Getting Started](grid3_get_started) on Grid 3
 
-- [Whats New](grid3_new)
------------
-- [Getting Started](grid3_get_started)
-- [Terraform](grid3_terraform)
------------
+Once you have installed the TFChain toolkit, you can 
+
+- Start farming
+  - on [Devnet](create_farm_devnet)
+  - on [Testnet](create_farm_testnet)
+
+- Start using the TFGrid
+  - Use [Terraform](grid3_terraform)
+  - Deploy using CapRover (Under Construction)
+  - Deploy in VDC (Under Construction)
+
+---
+
 - [Grid Overview](grid_readme)
-- [Create a Farm](create_farm)
------------
+
 - [TypeScript Client](client_typescript)
 - [Graphql Client](graphql)
-
-  

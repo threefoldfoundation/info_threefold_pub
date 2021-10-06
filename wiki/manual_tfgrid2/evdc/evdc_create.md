@@ -51,9 +51,4 @@ Once the above steps are copleted, your eVDC will be ready for exploitation. A k
   - [Your VDC Admin Panel](evdc_my_evdc) - An introduction to your Admin Panel.
   - [Manage Compute Nodes](evdc_compute) - An overview of how to manage your peer-to-peer compute nodes.
   - [Manage Storage Nodes](evdc_storage) - An overview of how to manage your peer-to-peer storage nodes.
-<<<<<<< HEAD
   - [Wallet](evdc_wallet) - An overview of how to manage your wallet.
-=======
-  - [Wallet](evdc_wallet) - An overview of how to manage your wallet.
-
->>>>>>> development

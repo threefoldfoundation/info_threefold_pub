@@ -1,4 +1,4 @@
-# Creating a Farm on TFChain Devnet
+# Create a Farm on TFChain Devnet
 
 ## Step 1: Copy types to clipboard
 
@@ -14,11 +14,11 @@ Paste the types in in the box and hit `save`
 
 ## Step 3: Create an account
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/accounts in your browser, 
+- Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/accounts in your browser.
+- Click `Add account`, take note of the seed. 
+- Click on the `Advanced creation options` arrow, and select keypair crypto type: `Edwards(ed25519, alternative)`
 
-click `Add account`, take note of the seed. Click on the `Advanced creation options` arrow, and select keypair crypto type: `Edwards(ed25519, alternative)`
-
-Click `I have saved my mnemonic seed safely` and click next and fill in the required fields.
+- Click `I have saved my mnemonic seed safely` and click next and fill in the required fields.
 
 ![account_creation](img/account_create_1.jpg)
 
@@ -31,7 +31,6 @@ On the same page, on the left top, hover over `Account` button and click on `Tra
 ## Step 5: Create a Twin
 
 Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#/extrinsics in your browser 
-
 and select your account from the list. Next, select `tfgridModule` -> `createTwin(ip)` from the list.
 
 Fill in your [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) IPV6. And click on submit transaction and sign it with your account.
@@ -69,3 +68,7 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fexplorer.devnet.grid.tf%2Fws#
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
 ![query_farm](img/query_farm_1.jpg)
+
+## Step 8: look up your farm on the Grid3 Explorer
+
+There is a new UI explorer available [here](https://explorer.tfchain.dev.threefold.io/) 

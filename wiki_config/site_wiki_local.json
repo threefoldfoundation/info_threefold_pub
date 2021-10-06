@@ -4,5 +4,6 @@
 	"domains": [
 		"library.threefold.me"
 	],
+	"cat":"wiki",
 	"pull": false
 }

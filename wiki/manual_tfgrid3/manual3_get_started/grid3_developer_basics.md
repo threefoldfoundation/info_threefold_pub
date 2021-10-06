@@ -37,7 +37,8 @@ VM workload is the only workload that you will need to run a full blown VM or an
 
 ### How can I create an flist?
 
-[Check 0-Hub](@flist_hub), from there you can convert an existing docker image to be flist based or build your own flist from scratch.
+The easiest way is by converting existing docker images using [the hub](https://hub.grid.tf/docker-convert)
+
 
 ### How flist-based container run in a VM?
 ZOS injects its own generic kernel while booting the container based on the content of the filesystem
@@ -45,10 +46,14 @@ ZOS injects its own generic kernel while booting the container based on the cont
 ### kubernetes 
 We leverage the VM primitive to allow provisioning kubernetes clusters across multiple nodes based on k3os flist.
 
+
+## Exploring the capacity
+You can easily check using [explorer-ui](@grid3_explorer) 
+
+
 ## Getting started
 
 Please check [Getting started](@grid3_get_started) to get the necessary software / configurations
-
 
 
 For detailed information check

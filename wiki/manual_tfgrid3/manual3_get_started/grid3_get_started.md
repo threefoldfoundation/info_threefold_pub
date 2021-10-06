@@ -1,6 +1,6 @@
 # Get Started
 
-In this section we describe the different installations needed to get started with [Threefold Grid v3](*grid_home.md).
+In this section we describe the different installations needed to get started with [Threefold Grid v3](grid_home).
 
 Steps:
 - Install the [Planetary Network](grid3_planetary_network)

@@ -5,5 +5,4 @@
 - [Team Expansion](@team_expansion)
 - [How Do We Collaborate](@freeflow:collaboration)
 - [Decentralization](@decentralization)
-- [Legal](@legal:legal)
- 
+- [Legal](!@legal:legal)

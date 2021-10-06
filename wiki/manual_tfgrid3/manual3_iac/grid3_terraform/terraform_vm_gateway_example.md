@@ -8,7 +8,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.6"
+      version = "0.1.7"
     }
   }
 }
@@ -50,7 +50,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.6"
+      version = "0.1.7"
     }
   }
 }

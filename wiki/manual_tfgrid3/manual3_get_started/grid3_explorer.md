@@ -12,25 +12,28 @@ You can see a list of all farms with filtering options
 Click on a farm shows up the farm details information
 ![explorer_farm_details](img/explorer_farm_details.png)
 
-## Exploring nodes
+## exploring nodes
+Explorer UI allows exploring the nodes and filtering them by many filtering option 
+![exporer_nodes](img/explorer_nodes.png)
 
 Explorer UI allows exploring the nodes and filtering them using many filtering options.
  
 ![exporer_nodes](img/explorer_nodes.png)
 
-## Node details
+![explorer_node_details](img/explorer_node_details.png)
 
 You can see all of the node details by clicking on a node record.
 
 ![explorer_node_details](img/explorer_node_details.png)
 
-## Darkmode
+![explorer_darkmode](img/explorer_darkmode.png)
 
 Darkmode is supported. Click on the icon in the upper right corner of the screen. 
 
 ![explorer_darkmode](img/explorer_darkmode.png)
 
-## Capacity distribution
+Can also see a map of how the capacity is distributed
+![capacity_distribution](img/explorer_nodes_distribution.png)
 
 A map is available with a global overview of in which countries there is capacity offered. 
 

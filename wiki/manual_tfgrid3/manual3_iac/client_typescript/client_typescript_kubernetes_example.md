@@ -109,7 +109,7 @@ async function main() {
 
     let znetwork_interface1 = new ZNetworkInterface();
     znetwork_interface1.network = "testznetwork1";
-    znetwork_interface1.ip = "10.240.1.6";
+    znetwork_interface1.ip = "10.240.1.7";
 
     let zmachine_network1 = new ZmachineNetwork();
     zmachine_network1.planetary = true;

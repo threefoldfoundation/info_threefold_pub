@@ -31,4 +31,4 @@ We live in an era where we have hundreds or even thousands of digital identities
 
 With Digital Twin, you are not the product anymore. 
 
-Learn more about your digital world and your digital identity [here](digitalself:one_digital_identity).
+Learn more about your digital world and your digital identity [here](twin:one_digital_identity).

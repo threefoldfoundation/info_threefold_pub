@@ -20,4 +20,3 @@
   - [Grid Architecture](@grid_architecture)
 - [Grid Pricing](@pricing)
 - [Capacity Explorer](@tfgrid_explorer)
-

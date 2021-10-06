@@ -15,12 +15,13 @@ We believe the world needs to raise consciousness on 3 levels.
 
 <iframe src="https://player.vimeo.com/video/419955708" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-- [A little game slide deck, let's work for a better planet]()
+
+## More Info
+
 - Threefold
     - [TFTech latest investor deck](https://threefold.docsend.com/view/m57233sxgt253avs)
     - [The ThreeFold knowledge base (wiki)](https://library.threefold.me/) (has lots of info)
 - **[Lots of FreeFlow Tribe info in 1 spot](https://threefold.docsend.com/view/s/xsk6k7rvppbb5nqv)**
-
 
 - Bernard Lietaer Book: 
     - [Towards a sustainable world: 3 Paradigm shifts towards a sustainable world: 3 Paradigm shifts](https://www.amazon.com/dp/3200065273/ref=cm_sw_su_dp)

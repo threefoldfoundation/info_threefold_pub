@@ -1,6 +1,8 @@
 - [**ThreeFold Home**](@threefold_home)
 - [**TFGrid Home**](@tfgrid_home)
+
 **ThreeFold Grid**
+
 - [Intro](@grid_intro)
   - [ThreeFold 2 Pager](https://threefold.docsend.com/view/cp7cn5m8vzhr7g49)
   - [ThreeFold: For Blockchain](https://threefold.docsend.com/view/zvy8ub83icrzqhnp)

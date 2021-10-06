@@ -1,6 +1,6 @@
 !!!include:home_include
 
-***TFGrid Home**
+**TFGrid Home**
 
 - [Why](@why_intro)
   - [Web 4.0](@web4)

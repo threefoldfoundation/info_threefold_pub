@@ -16,14 +16,12 @@ This is work which is being done from ThreeFold and wants to integrate with Polk
   - [Grid Explorer v2](https://explorer.grid.tf/)
   - [Grid Explorer v3 devnet](https://explorer.tfchain.dev.threefold.io/)
 
-> **CONFIDENTIAL:** All information in this site is confidential.
-
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
 - [What's New](grid3_new)
 - [Getting Started](grid3_get_started) on Grid 3
 
-Once you have installed the TFChain toolkit, you can 
+Once you have installed the TFChain toolkit, you can
 
 - Start farming
   - on [Devnet](create_farm_devnet)

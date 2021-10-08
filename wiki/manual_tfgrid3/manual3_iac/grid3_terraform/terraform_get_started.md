@@ -25,7 +25,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.7"
+      version = "0.1.8"
     }
   }
 }
@@ -96,7 +96,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.7"
+      version = "0.1.8"
     }
   }
 }
@@ -265,7 +265,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.7"
+      version = "0.1.8"
     }
   }
 }
@@ -347,7 +347,7 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.7"
+      version = "0.1.8"
     }
   }
 }

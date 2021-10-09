@@ -45,5 +45,11 @@ A map is available with a global overview of in which countries there is capacit
 - [Mainnet explorer -not live yet-](https://explorer.tfchain.threefold.io)
 TODO: keep it in todo until all are alive
 
+## GraphQL
+Info on TFChain is indexed over GraphQL and is available for queries. 
+- [Devnet GraphQL](https://tfchain.dev.threefold.io/graphql/graphql)
+- [Testnet GraphQL](https://tfchain.test.threefold.io/graphql/graphql)
+- Mainnet GraphQL - not yet live
+
 ## Reporting issues
 Please open a github issue in [grid_explorer_ui repo](https://github.com/threefoldtech/grid_explorer_ui)

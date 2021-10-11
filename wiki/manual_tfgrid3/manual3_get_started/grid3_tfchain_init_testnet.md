@@ -17,8 +17,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 - Click on `Add an account` in [Polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts)
 - Save the mnemonic seed -needs to be ed25519- in a safe place
 - Add a name and password for your account (remember the password for future usage)
-- Fund the account with test funds (Click on send funds from the account of Alice to your account name)
-
+- Fund the account with funds from your Stellar wallet. Please click [here](grid3_bridge) to know how to use the bridge between the Stellar network and TF-Chain. 
 
 ### Add types in the UI
 

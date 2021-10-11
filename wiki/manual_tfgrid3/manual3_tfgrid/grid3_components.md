@@ -17,10 +17,8 @@ Node uses the same verification mechanism against requests from twins.
 
 On the grid, we build on top of the above concepts a more sophisticated logic to represent the following: (note, full types specifications can be found here)
 - farm: a farm is associated
-  - `entity-id`: this defines the entity of the farm itself, so it holds information about the country, city, etc and public key.
   - `twin-id`: the communication endpoint for this farm.
 - node:  associated with
-  - `entity-id`: defines the entity of the node itself, (pubkey, city, country, etc…)
   - `twin-id`: defines the peer information (peer-id and public ipv6)
   - `farm-id`: unique farm id this node is part of.
 

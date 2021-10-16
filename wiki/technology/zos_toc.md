@@ -10,7 +10,7 @@
 
 - [ZOS Filesystem](zos_fs) : deduped imutable filesystem
 - [ZOS Mount](zmount) : a part of a SSD (fast disk), mounted underneith your zmachine
-- [Quantum Safe Filesystem](qsfs) : unbreakable storage system (secondary storage only)
+- [Quantum Safe Filesystem](!@qsss_home) : unbreakable storage system (secondary storage only)
 - [Zero-DB](zdb) : the lowest level storage primitive, is a key value stor, used underneith other storage mechanisms typically
 - [Zero-Disk](zdisk) : OEM only, virtual disk format
 

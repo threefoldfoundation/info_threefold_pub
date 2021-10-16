@@ -1,17 +1,10 @@
-# Quantum Safe Storage System
-
 ![](img/qsstorage_architecture.jpg)
 
-## Quantum Safe Storage Benefits
+# Quantum Safe Storage System
 
 Imagine a storage system with the following benefits
 
-- upto 10x more efficient (power and usage of hardware)
-- ultra reliable, data can not be lost
-- ultra safe & private
-- ultra scalable
-- sovereign, data is close to you in the country of your choice
-- true peer2peer, by everyone for everyone
+!!!include:qss_benefits_
 
 > This is not a dream but does exist and is the underpinning of the TFGrid.
 
@@ -20,7 +13,9 @@ Our storage architecture follows the true peer-to-peer design of the TF grid. An
 Peer2peer provides the unique proposition of selecting storage providers that match your application and service of business criteria. For example, you might be looking to store data for your application in a certain geographic area (for governance and compliance) reasons. Also, you might want to use different "storage policies" for different types of data. Examples are live versus archived data. All of these uses cases are possible with this storage architecture and could be built by using the same building blocks produced by farmers and consumed by developers or end-users.
 
 
+!!!include:qsss_toc
 
-!!!include:quantumsafe_toc
+!!!def alias:qsss,quantum_safe_storage_system
 
-!!!def alias:qsss
+
+

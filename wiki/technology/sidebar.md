@@ -16,7 +16,7 @@
   - [Planetary Network](@planetary_network)
   - [Zero-NIC](@znic)
   - [WebGateway](@webgw)
-- [Quantum Safe Storage](@qsss)
+- [Quantum Safe Storage](@qsss_home)
 - [Smart Contract for IT](@smartcontract_it)
 - [Infrastructure As Code](@smartcontract_iac)
 <BR>

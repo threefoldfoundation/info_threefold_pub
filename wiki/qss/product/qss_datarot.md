@@ -1,4 +1,4 @@
-# Datarot
+# Datarot Cannot Happend On our Storage System
 
 Fact that data goes bad over time on e.g. a harddisk.
 Many of this silent data corruption is seen and can pass by unnotified.

@@ -1,8 +1,12 @@
 # TFGrid Capacity explorer
 
-![capacity explorer](img/capacity_explorer.jpg)
+![](img/tf_grid.jpg)
+
+Today we have about thousands of 3Nodes across the grid see our https://explorer.grid.tf
 
 > see https://explorer.threefold.io/
+
+![capacity explorer](img/capacity_explorer.jpg)
 
 The TFGrid explorer shows TF Grid usage statistics and provides details about all the active nodes and gateways.
 

@@ -1,4 +1,4 @@
-# Transferring TFT between Stellar and TF Chain
+# Transferring TFT between Stellar and TF-Chain
 
 ## Usage
 
@@ -35,9 +35,9 @@ Select `Advanced creation options` -> Change `keypair crypto type` to `Edwards (
 
 Choose a name and password and proceed.
 
-Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/extrinsics , select tftBridgeModule and extrinsic: `swap_to_stellar`. Provide your substrate address and amount.
-Again, a withdrawfee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
+Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/extrinsics , select tftBridgeModule and extrinsic: `swap_to_stellar`. Provide your Bridge substrate address and the amount to transfer. Sign using your password.
+Again, a withdrawfee of 1 TFT will be taken, so make sure you send an amount larger than 1 TFT.
 
-The amount withdrawn from TF Chain will be sent to your stellar wallet.
+The amount withdrawn from TF-Chain will be sent to your Stellar wallet.
 
 Example: ![swap_to_stellar](img/swap_to_stellar.png)

@@ -1,12 +1,10 @@
-TODO: there need to be a release or an easier way to generate these 
-
 # Transferring TFT between Stellar and TF Chain
 
 ## Usage
 
 This document will explain how you can transfer TFT from TF Chain to Stellar and back.
 
-Note: Bridge is connected Stellar Testnet for now 
+Note: Bridge is connected Stellar Testnet for now.
 
 ## Prerequisites
 
@@ -24,6 +22,19 @@ go build .
 Create a Stellar wallet from the key that you generated.
 Transfer the TFT from your wallet to the bridge address GCMBZY4NGEV4CQYHJ6SXMRSTLTEOR2ERNKY6NH32LYCVDCN2E5CXZJOU. A depositfee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
 
+### Alternative Transfer to TF Chain
+
+We also enabled deposits to TF Grid objects. Following objects can be deposited to:
+
+- Twin
+- Farm
+- Node
+- Entity
+
+To deposit to any of these objects, a memo text in format `object_objectID` must be passed on the deposit to the bridge wallet. Example: `twin_1`. 
+
+To deposit to a TF Grid object, this object **must** exists. If the object is not found on chain, a refund is issued.
+
 ## TF Chain to Stellar
 
 Create a TF Chain account from the key that you generated. (TF Chain raw seed).
@@ -32,3 +43,7 @@ Select `Advanced creation options` -> Click `Schnorrkel (sr25519)` -> Select `Ed
 
 Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/extrinsics , select tftBridgeModule and extrinsic: `swap_to_stellar`. Provide your substrate address and amount.
 Again, a withdrawfee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
+
+The amount withdrawn from TF Chain will be sent to your Stellar wallet.
+
+Example: ![swap_to_stellar](swap_to_stellar.png)

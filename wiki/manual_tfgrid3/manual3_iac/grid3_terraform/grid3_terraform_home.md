@@ -11,3 +11,4 @@ Threefold loves Open Source! In v3.0 we are integrating one of the most popular 
 - [Deploy a VM and Expose over the Gateway](terraform_vm_gateway_example)
 - [Deploy a Kubernetes cluster](terraform_k8s_example)
 - [Deploy a ZDB](terraform_zdb_example)
+- [Using QSFS](grid_terraform_qsfs)

@@ -2,7 +2,7 @@
 - [**Manual 3 Home**](@manual3_home)
 -----------
 
-**Client Terraform**
+**Terraform**
 
 - [Terraform Install](@terraform_install)
 - [Terraform Get Started and Walkthrough](@terraform_get_started)

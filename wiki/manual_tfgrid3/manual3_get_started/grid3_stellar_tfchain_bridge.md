@@ -46,4 +46,4 @@ Again, a withdrawfee of 1 TFT will be taken, so make sure you send a larger amou
 
 The amount withdrawn from TF Chain will be sent to your Stellar wallet.
 
-Example: ![swap_to_stellar](swap_to_stellar.png)
+Example: ![swap_to_stellar](img/swap_to_stellar.png)

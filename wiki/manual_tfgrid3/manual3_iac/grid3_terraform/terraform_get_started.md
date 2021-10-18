@@ -2,12 +2,12 @@
 
 Here you'll find all of the information you need to create your first deployment on ThreeFold Grid 3.0 using Terraform. We'll walk through how to setup a wallet and Twin on TF Chain, how to install Terraform, and how to use Terraform to provision a basic virtual machine.
 
-Please note that for now our Terraform plugin is only supported for Linux and MacOS. Windows support is planned for the future.
+Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is only supported for Linux and MacOS. Windows support is planned for the future.
 
 Steps:
 
 - [Install and configure Yggdrasil](planetary_network)
-- [Create wallet and twin on TF Chain]
+- Create wallet and twin on TF Chain
   - On [Devnet](grid3_tfchain_init_devnet)
   - On [Testnet]*grid3_tfchain_init_testnet)
 - [Install Terraform](terraform_install)
@@ -117,7 +117,7 @@ provider "grid" {
 Please note you can leave its content empty and export everything as environment variables
 
 ```
-export TWIN_IP=X
+export TWIN_ID=X
 export MNEMONICS="....."
 
 ```

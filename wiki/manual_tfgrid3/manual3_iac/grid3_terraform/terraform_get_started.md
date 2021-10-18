@@ -4,6 +4,8 @@ Here you'll find all of the information you need to create your first deployment
 
 Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is only supported for Linux and MacOS. Windows support is planned for the future.
 
+please make sure to read [What you need to know before getting started](grid3_developer_basics)
+
 Steps:
 
 - [Install and configure Yggdrasil](planetary_network)

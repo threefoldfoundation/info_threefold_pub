@@ -1,5 +1,7 @@
 ## terraform basics
 
+please make sure to read [What you need to know before getting started](grid3_developer_basics)
+
 - make a directory for your project `mkdir myfirstproject`
 - `cd myfirstproject`
 - create `main.tf`  <- creates the terraform main file 

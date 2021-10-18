@@ -1,4 +1,4 @@
-In this example we will see how to deploy a single VM and expose it over the gateway on the Threefold grid v3
+In this example we will see how to deploy a single VM and expose it over the gateway on the Threefold grid v3 
 
 !!!include terraform_basics
 

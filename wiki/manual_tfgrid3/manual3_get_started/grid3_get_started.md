@@ -21,4 +21,6 @@ Once you have installed the TFChain toolkit, you can start
   - Instructions for [Testnet](create_farm_testnet)
 
 - [Devnet Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)
-- [Testnet Capacity Explorer](https://explorer.tfchain.testnet.threefold.io/)
+- [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
+
+- [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image

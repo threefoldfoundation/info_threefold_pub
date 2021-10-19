@@ -24,3 +24,5 @@ Once you have installed the TFChain toolkit, you can start
 - [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
 
 - [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
+
+- [TF-Chain Functions overview](grid3_functions_overview)

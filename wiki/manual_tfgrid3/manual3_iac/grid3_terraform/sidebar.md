@@ -13,3 +13,4 @@
 - [Deploy a Kubernetes cluster](@terraform_k8s_example)
 - [Deploy a ZDB](@terraform_zdb_example)
 - [Using QSFS](grid_terraform_qsfs)
+- [Deploy CapRover using terraform](terraform_caprover)

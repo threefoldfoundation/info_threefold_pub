@@ -14,29 +14,11 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 !!!include:grid3_testnet_account_activation
 
 
-### Add types in the UI
-
-- Add types https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json in developer settings 
-![image](https://user-images.githubusercontent.com/64129/125321714-441a0c00-e33d-11eb-8546-09704d5ceffd.jpg)
-
 ### Create Twin on Substrate using Polkadot
 
 - Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/settings/developer) in Polkadot. *note: don't forget to save*
 ![](img/substrate_types.jpg)
 
-- Click on `Add an account` in [Polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts)
-- Save the mnemonic seed in a safe place
-
-- Click on `Advanced creation options` and select the keyword crypto type of **`Edwards (ed25519, alternative)`**
-`
-![](img/add_account_1.jpg)
-- Add a name and password for your account (remember the password for future usage)
-![](img/add_account_2.jpg)
-![](img/add_account_3.jpg)
-
-!!!include:grid3_testnet_account_activation
-- Fund the account with test funds (Click on send funds from the account of Alice to your account name)
-![](img/substrate_send_funds.jpg)
 
 - Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics)
 

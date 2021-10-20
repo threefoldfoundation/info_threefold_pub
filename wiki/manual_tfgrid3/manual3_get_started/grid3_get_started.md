@@ -9,7 +9,7 @@ Steps:
   - [TFchain devnet](grid3_tfchain_init_devnet)
   - [TFchain testnet](grid3_tfchain_init_testnet)
 
-Once you have installed the TFChain toolkit, you can start 
+Once you have installed the TFChain previous requirements, you can start 
 
 - Using the TFGrid :  
   - Use [Terraform](grid3_terraform_home)

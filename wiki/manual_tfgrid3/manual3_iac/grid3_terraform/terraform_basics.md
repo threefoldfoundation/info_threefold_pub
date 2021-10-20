@@ -4,6 +4,8 @@ please make sure to read [What you need to know before getting started](grid3_de
 
 - make a directory for your project `mkdir myfirstproject`
 - `cd myfirstproject`
+- to initialize the repo `terraform init`
+
 - create `main.tf`  <- creates the terraform main file 
 
 ```terraform
@@ -24,7 +26,6 @@ provider "grid" {
 ... MORE TO BE ADDED
 ```
 
-- to initialize the repo `terraform init`
 - to execute a terraform file `terraform apply -parallelism=1`
 - to see the state `terraform showstate`
 - to destroy `terraform destroy`

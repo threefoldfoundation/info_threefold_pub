@@ -13,7 +13,7 @@ ThreeFold Foundation is legally-speaking not organized as a foundation or even a
 We have two options:
 
 - A new structure in Switzerland (CH)
-- Or, ThreeFold_VZW which exists in Belgium.
+- or, ThreeFold_VZW which exists in Belgium.
  
 There will be a contract in place between current shareholders of ThreeFold_Dubai entities and ThreeFold_VZW that ThreeFold_VZW can at any point take over all shares for a nominal fee. This basically shows the community that there are no for-profit intentions to this organization and that all will be done to maintain that status (to be done April 2021).
 

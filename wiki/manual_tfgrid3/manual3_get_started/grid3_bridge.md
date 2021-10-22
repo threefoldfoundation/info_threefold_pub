@@ -17,7 +17,7 @@ go build .
 ./keygen
 ```
 
-## Stellar to TF Chain
+## Stellar to TF-Chain
 
 Create a Stellar wallet from the key that you generated.
 Transfer the TFT from your wallet to the bridge address. A deposit fee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
@@ -32,6 +32,19 @@ The amount deposited on TF Chain minus 1 TFT will be transferred over the bridge
 Effect will be the following :
 - Transferred TFTs from Stellar will be sent to a Stellar vault account representing all tokens on TF-Chain
 - TFTs will be minted on the TF-Chain for the transferred amount
+
+### Alternative Transfer to TF Chain
+
+We also enabled deposits to TF Grid objects. Following objects can be deposited to:
+
+- Twin
+- Farm
+- Node
+- Entity
+
+To deposit to any of these objects, a memo text in format `object_objectID` must be passed on the deposit to the bridge wallet. Example: `twin_1`. 
+
+To deposit to a TF Grid object, this object **must** exists. If the object is not found on chain, a refund is issued.
 
 ## TF-Chain to Stellar
 

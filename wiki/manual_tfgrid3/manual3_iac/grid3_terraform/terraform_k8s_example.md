@@ -7,4 +7,4 @@ In this example we will see how to deploy a kubernetes cluster on the Threefold 
 
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/k8s/main.tf'
 
-.
+!!!include terraform_outputs

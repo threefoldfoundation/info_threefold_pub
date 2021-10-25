@@ -12,7 +12,7 @@
 - [Getting Started](manual3_getstarted_home)
     - [Get Started](@grid3_get_started)
     - [Planetary Network](@grid3_planetary_network)
-    - [Redis](@grid3_redis)
+    <!-- - [Redis](@grid3_redis) -->
     - [TFChain Devnet](@grid3_tfchain_init_devnet)
     - [TFChain Testnet](@grid3_tfchain_init_testnet)
     - [Stellar-TFChain bridge](@grid3_bridge)

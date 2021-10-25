@@ -3,8 +3,7 @@
 In this section we describe the different installations needed to get started with [Threefold Grid v3](grid_home).
 
 Steps:
-- Install the [Planetary Network](grid3_planetary_network)
-- Set up [Redis](grid3_redis)
+- Install the [Planetary Network](grid3_planetary_network) 
 - Create your account and twin on TFChain
   - [TFchain devnet](grid3_tfchain_init_devnet)
   - [TFchain testnet](grid3_tfchain_init_testnet)

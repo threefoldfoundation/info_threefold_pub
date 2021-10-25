@@ -32,4 +32,7 @@ The javascript client can be found at [grid3_client_ts repo](https://github.com/
 ## Deploy
 - [example creating a zmachine](client_typescript_vm_example) 
 - [example creating a kubernetes cluster](client_typescript_kubernetes_example)
+- [example creating zdbs](client_typescript_zdbs)
+- [example creating qsfs](client_typescript_qsfs)
+- [example exposing on the gateway](client_typescript_vm_gateway)
 - [Getting deployment result](deployment_get)

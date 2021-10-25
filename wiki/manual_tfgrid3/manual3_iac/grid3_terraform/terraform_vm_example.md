@@ -9,3 +9,4 @@ In this example we will see how to deploy a single VM on the Threefold grid v3
 
 .
 
+!!!include terraform_outputs

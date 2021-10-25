@@ -27,6 +27,7 @@ provider "grid" {
 ```
 
 - to execute a terraform file `terraform apply -parallelism=1`
+- to see the output `terraform output`
 - to see the state `terraform showstate`
 - to destroy `terraform destroy`
 

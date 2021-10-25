@@ -71,3 +71,7 @@ output "fqdn" {
     value = grid_fqdn_proxy.p1.fqdn
 }
 ```
+
+
+
+!!!include terraform_outputs

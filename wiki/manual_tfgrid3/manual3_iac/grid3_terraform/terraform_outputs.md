@@ -1,0 +1,1 @@
+`terraform output` can be used to get the relevant output variables e.g public ip, planetary network ip, wireguard configurations .. etc 

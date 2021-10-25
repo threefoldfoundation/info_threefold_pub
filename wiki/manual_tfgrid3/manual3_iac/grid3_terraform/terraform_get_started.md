@@ -11,7 +11,7 @@ Steps:
 - [Install and configure Yggdrasil](planetary_network)
 - Create wallet and twin on TF Chain
   - On [Devnet](grid3_tfchain_init_devnet)
-  - On [Testnet]*grid3_tfchain_init_testnet)
+  - On [Testnet](grid3_tfchain_init_testnet)
 - [Install Terraform](terraform_install)
 
 

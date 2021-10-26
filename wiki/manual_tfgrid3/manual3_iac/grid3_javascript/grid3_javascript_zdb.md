@@ -35,25 +35,47 @@ Here we define a `ZDB model` and setting the relevant properties e.g
 - disk_size: disk size in GB
 - public: public ipv6
 - password: namespace password
+
+
+#### preparing ZDBs collection
+```javascript
 // create zdbs object
 const zdbs = new ZDBSModel();
 zdbs.name = "tttzdbs";
 zdbs.zdbs = [zdb];
 zdbs.metadata = '{"test": "test"}';
 
-async function main() {
+```
+you can attach multiple ZDBs innto the collection nand send it for deployment
+
+
+
+#### Deployment
+
+
+```javascript
     const res = await grid3.zdbs.deploy(zdbs);
     console.log(JSON.stringify(res));
+```
 
+
+#### Get Deployment information
+
+`getObj` gives detailed information about the workload.
+```javascript
     // get the deployment
     const l = await grid3.zdbs.getObj(zdbs.name);
     console.log(l);
+```
 
-    // // delete
-    // const m = new ZDBDeleteModel();
-    // m.name = zdbs.name;
-    // const d = await grid3.zdbs.delete(m);
-    // console.log(d);
-}
 
-main();
+#### Deleting a deployment
+
+`.delete` method helps cancelling the relevant contracts related to that ZDBs deployment
+```javascript
+    // delete
+    const m = new ZDBDeleteModel();
+    m.name = zdbs.name;
+    const d = await grid3.zdbs.delete(m);
+    console.log(d);
+```

@@ -1,0 +1,59 @@
+!!!include:grid3_javascript_loadclient
+
+## Deploying ZDB
+
+### Example code
+
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/zdb.ts
+
+
+### Detailed explanation
+
+#### Getting the client
+
+```javascript
+const grid3 = getClient();
+```
+
+#### Building the model
+
+```javascript
+// create zdb object
+const zdb = new ZDBModel();
+zdb.name = "hamada";
+zdb.node_id = 18;
+zdb.mode = ZdbModes.user;
+zdb.disk_size = 9;
+zdb.public = false;
+zdb.password = "testzdb";
+```
+
+Here we define a `ZDB model` and setting the relevant properties e.g 
+- name
+- node_id : where to deploy on
+- mode: `user or seq`
+- disk_size: disk size in GB
+- public: 
+- password: namespace password
+// create zdbs object
+const zdbs = new ZDBSModel();
+zdbs.name = "tttzdbs";
+zdbs.zdbs = [zdb];
+zdbs.metadata = '{"test": "test"}';
+
+async function main() {
+    const res = await grid3.zdbs.deploy(zdbs);
+    console.log(JSON.stringify(res));
+
+    // get the deployment
+    const l = await grid3.zdbs.getObj(zdbs.name);
+    console.log(l);
+
+    // // delete
+    // const m = new ZDBDeleteModel();
+    // m.name = zdbs.name;
+    // const d = await grid3.zdbs.delete(m);
+    // console.log(d);
+}
+
+main();

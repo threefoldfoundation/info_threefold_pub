@@ -4,7 +4,7 @@
 
 ### Example code
 
-!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development_builds_scripts/scripts/kubernetes.ts
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/kubernetes.ts
 
 
 ### Detailed explanation
@@ -67,6 +67,7 @@ k.ssh_key =
 
 #### Deploying
 
+use `deploy` function to deploy the kubernetes project
 
 ```javascript
     const res = await grid3.k8s.deploy(k);

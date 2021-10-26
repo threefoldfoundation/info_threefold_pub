@@ -33,7 +33,7 @@ Here we define a `ZDB model` and setting the relevant properties e.g
 - node_id : where to deploy on
 - mode: `user or seq`
 - disk_size: disk size in GB
-- public: 
+- public: public ipv6
 - password: namespace password
 // create zdbs object
 const zdbs = new ZDBSModel();

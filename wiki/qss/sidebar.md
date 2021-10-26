@@ -7,6 +7,7 @@
 - [Algorithm](@qss_algorithm)
 - [Filesystem](@qss_filesystem)
 - [Zero knowledge proof](@qss_zero_knowledge_proof)
+- [Manual](qsfs_setup)
 
 ------
 

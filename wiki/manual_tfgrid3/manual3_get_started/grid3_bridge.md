@@ -1,5 +1,7 @@
 # Transferring TFT between Stellar and TF-Chain
 
+NOTE: we are researching hard on fixing some issues to have a smooth upgrade process for the runtime, however it's recommended not to send too much tokens to TF Chain for testing until a further notice.
+
 ## Usage
 
 This document will explain how you can transfer TFT from TF Chain to Stellar and back.

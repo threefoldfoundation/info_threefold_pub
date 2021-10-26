@@ -18,7 +18,7 @@ Is an opensource IAC tool, fully integrated with ThreeFold Cloud software.
 
 - [What you need to know](@grid3_developer_basics)
 - [Terraform](@grid3_terraform_home)
-- [TypeScript Client](@client_typescript)
+- [TypeScript Client](@grid3_javascript_home)
 - [GraphQL Client](@graphql)
 
 *more info: wikipedia, [cloudbolt](https://www.cloudbolt.io/blog/3-advantages-and-challenges-of-infrastructure-as-code-iac/),[stackpath(https://blog.stackpath.com/infrastructure-as-code-explainer/)*

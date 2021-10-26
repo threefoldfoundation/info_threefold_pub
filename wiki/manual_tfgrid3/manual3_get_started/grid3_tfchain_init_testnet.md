@@ -2,6 +2,8 @@
 
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 
+NOTE: we are researching hard on fixing some issues to have a smooth upgrade process for the runtime, however it's recommended not to send too much tokens to TF Chain for testing until a further notice.
+
 #### Important notes:
 
 - You must choose `ed25519` as the "crypto type" when setting up your account

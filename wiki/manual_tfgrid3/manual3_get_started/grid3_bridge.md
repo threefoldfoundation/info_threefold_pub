@@ -1,13 +1,44 @@
 # Transferring TFT between Stellar and TF-Chain
 
-NOTE: we are researching hard on fixing some issues to have a smooth upgrade process for the runtime, however it's recommended not to send too much tokens to TF Chain for testing until a further notice.
+> NOTE: We are working hard to have the runtime environments running in a fully stable manner. However, as we're still in test phase, it is recommended not to send too many tokens to TF-Chain for testing, until a further notice.
 
-## Usage
+This document will explain how you can transfer TFT from TF-Chain to Stellar and back.
 
-This document will explain how you can transfer TFT from TF Chain to Stellar and back.
-For now, only transfer is possible between accounts that are generated in the same manner and that are yours. Please find the keygen tooling for it below. 
+## Option 1 : Use the Bridge UI
 
-## Prerequisites
+A Web User interface is available to transfer tokens from TF-Chain to the Stellar network. 
+
+- On [Testnet](https://bridge.tfchain.test.threefold.io/), works with Stellar mainnet TFT
+- On [Devnet](https://bridge.tfchain.dev.threefold.io/), works with Stellar testnet TFT
+
+### Transfer TFT from Stellar network to TF-Chain
+
+Deposit TFTs from the Stellar network to TF-Chain needs to be done from your Stellar wallet, however, instructions are available in the [Stellar-TF-Chain Bridge](https://bridge.tfchain.test.threefold.io/). To get the instructions, click on the `DEPOSIT FROM STELLAR` button. 
+
+![](./img/tfgrid3_bridge_stellar_to_tfchain.png)
+
+Tokens need to be sent to the bridge address (on Testnet `GA2CWNBUHX7NZ3B5GR4I23FMU7VY5RPA77IUJTIXTTTGKYSKDSV6LUA4`), with a memo indicating the destination on TF-Chain. In most cases, you will send your tokens to the twin you have created on TF-Chain. 
+So in case you have a twin defined which has the twin_ID = 123, add the memo text `twin_123` in your transfer.  
+
+### Transfer TFT from TF-Chain to Stellar Network
+
+In order to make the bridge work, you need to trust the Web UI that accesses the account you have created on the TF-Chain. 
+
+![](./img/tfgrid3_bridge_trust_ui.png)
+
+Click on `Yes, allow this application access`.
+
+Once done, you get the transfer screen. 
+
+![](./img/tfgrid3_bridge_tfchain_to_stellar.png)
+
+Fill in the Stellar Address and the amount to transfer to your Stellar wallet, and click `WITHDRAW`. 
+
+## Option 2 : Use the key generator
+
+Using this method, only transfer is possible between accounts that are generated in the same manner and that are yours. Please find the keygen tooling for it below. 
+
+### Prerequisites
 
 - ed25519 keypair
 - Go installed on your local computer
@@ -19,7 +50,7 @@ go build .
 ./keygen
 ```
 
-## Stellar to TF-Chain
+### Stellar to TF-Chain
 
 Create a Stellar wallet from the key that you generated.
 Transfer the TFT from your wallet to the bridge address. A deposit fee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
@@ -35,7 +66,7 @@ Effect will be the following :
 - Transferred TFTs from Stellar will be sent to a Stellar vault account representing all tokens on TF-Chain
 - TFTs will be minted on the TF-Chain for the transferred amount
 
-### Alternative Transfer to TF Chain
+#### Alternative Transfer to TF Chain
 
 We also enabled deposits to TF Grid objects. Following objects can be deposited to:
 
@@ -48,7 +79,7 @@ To deposit to any of these objects, a memo text in format `object_objectID` must
 
 To deposit to a TF Grid object, this object **must** exists. If the object is not found on chain, a refund is issued.
 
-## TF-Chain to Stellar
+### TF-Chain to Stellar
 
 Create a TF-Chain account from the key that you generated. (TF Chain raw seed).
 Browse to : 

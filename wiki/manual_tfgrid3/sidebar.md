@@ -19,7 +19,7 @@
 - [Infrastructure As Code](manual3_iac_home)
     - [What you need to know](@grid3_developer_basics)
     - [Terraform](@grid3_terraform_home)
-    - [TypeScript Client](@client_typescript)
+    - [TypeScript Client](@grid3_javascript_home)
     - [GraphQL Client](@graphql)
 - [Farm Creation](create_farm)
   - [On Devnet](@create_farm_devnet)

@@ -1,4 +1,4 @@
-- [Installation](@grid3_javscript_installation)
+- [Installation](@grid3_javascript_installation)
 - [Loading client](@grid3_javascript_loadclient)
 - [Deploy a VM](@grid3_javascript_vm)
 - [Deploy multiple VMs](@grid3_javascript_vms)

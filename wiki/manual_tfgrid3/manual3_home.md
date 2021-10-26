@@ -4,17 +4,17 @@
 
 > ThreeFold pushes the bar further than blockchain, we integrate a cloud system with a blockchain.
 
-The blockchain we use is based on parity substrate and we want to integrate later with polkadot.
+The blockchain we use is based on Parity-Substrate and we want to integrate later with Polkadot.
 
-This is work which is being done from ThreeFold and wants to integrate with Polkadot using Parity-Substrate
 
 ## Some more info About ThreeFold
 
-- Introduction Video ThreeFold Project [video](https://vimeo.com/438190961), only takes 2 minutes. 
-- The official website is https://www.threefold.io.
+- 2-minute Introduction Video ThreeFold Project [video](https://vimeo.com/438190961)
+- The official website https://www.threefold.io
 - ThreeFold is live, see for yourself on our explorers : 
   - [Grid Explorer v2](https://explorer.grid.tf/)
   - [Grid Explorer v3 devnet](https://explorer.tfchain.dev.threefold.io/)
+  - [Grid Explorer v3 testnet](https://bridge.tfchain.test.threefold.io/)
 
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
@@ -31,8 +31,6 @@ Once you have installed the TFChain toolkit, you can
   - Use [Terraform](grid3_terraform_home)
   - Deploy using CapRover (Under Construction)
   - Deploy in VDC (Under Construction)
-
----
 
 - [Grid Overview](manual3_tfgrid_home)
 

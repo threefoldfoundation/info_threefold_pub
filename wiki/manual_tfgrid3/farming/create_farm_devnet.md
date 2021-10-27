@@ -22,6 +22,18 @@ Click `I have saved my mnemonic seed safely` and click next and fill in the requ
 
 ![account_creation](img/account_create_1.jpg)
 
+- Save the JSON file somewhere safe.
+
+![account_creation](img/account_create_1.jpg)
+
+### Step 3.b: Install PolkadotJS extension and import your newly created account
+
+Go to: https://polkadot.js.org/extension/ and add this extension to your browser.
+
+Open the extension, click the + sign (on the right top) and select `Restore account from backup JSON file`, drag the saved json file in there and proceed with setup.
+
+Once completed, you can sign any extrinsic to create a twin / farm with your extension.
+
 ## Step 4: Fund your account
 
 On the same page, on the left top, hover over `Account` button and click on `Transfer`. First select account `Alice` and secondly select your newly created account from the list. Send any amount to your account (these are just tokens to play around with, they hold no real value).

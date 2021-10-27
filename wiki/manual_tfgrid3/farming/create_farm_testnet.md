@@ -20,13 +20,25 @@ Paste the types in in the box and hit `save`
 
 - Click `I have saved my mnemonic seed safely` and click next and fill in the required fields.
 
+- Save the JSON file somewhere safe.
+
 ![account_creation](img/account_create_1.jpg)
 
-## Step 4: Fund your account
+### Step 3.b: Install PolkadotJS extension and import your newly created account
 
-On the same page, on the left top, hover over `Account` button and click on `Transfer`. First select account `Alice` and secondly select your newly created account from the list. Send any amount to your account (these are just tokens to play around with, they hold no real value).
+Go to: https://polkadot.js.org/extension/ and add this extension to your browser.
 
-![account_transfer](img/account_transfer_1.jpg)
+Open the extension, click the + sign (on the right top) and select `Restore account from backup JSON file`, drag the saved json file in there and proceed with setup.
+
+Once completed, you can sign any extrinsic to create a twin / farm with your extension.
+
+## Step 4: Fund your account through the Threefold activation service
+
+On the accounts page, scroll down to your account and click on your name that you gave it. On the right, copy the address under your name.
+
+Browse to https://tfchain.test.threefold.io/activation/ and input your account address.
+
+![account_creation](img/activation_service.png)
 
 ## Step 5: Create a Twin
 

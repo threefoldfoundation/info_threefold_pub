@@ -40,6 +40,10 @@ Browse to https://tfchain.test.threefold.io/activation/ and input your account a
 
 ![account_creation](img/activation_service.png)
 
+## Step 4: Activate your account
+
+!!!include:grid3_testnet_account_activation level:2
+
 ## Step 5: Create a Twin
 
 Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser 
@@ -52,12 +56,11 @@ Fill in your [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) IPV6
 
 ## Step 6: Create a Farm
 
-Devnet: 
 Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser
 
 and select your account from the list. Next, select `tfgridModule` -> `createFarm(..)` from the list.
 
-Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://explorer.devnet.grid.tf/graphql/ explorer. 
+Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://tfchain.test.threefold.io/graphql/graphql explorer. 
 
 To find a country or city you can query all the available countries and cities in graphql.
 
@@ -65,7 +68,9 @@ Optionally you can also provide public ips on your farm.
 
 ![create_farm](img/create_farm_1.jpg)
 
-## Step 7: query twin ID and Farm ID
+
+
+## Step 8: query twin ID and Farm ID
 
 ### Query twin
 
@@ -95,7 +100,7 @@ As farm id you need to specify your farm id.
 
 IP should be in CIDR format.
 
-![create_farm](img/add_public_ip.jpg)
+![create_farm](img/add_public_ip.png)
 
 ## Optional: Remove public IP's from your farm
 
@@ -109,4 +114,15 @@ As farm id you need to specify your farm id.
 
 IP should be in CIDR format.
 
-![create_farm](img/remove_public_ip.jpg)
+![create_farm](img/remove_public_ip.png)
+
+## Step 8: Add payout address on Stellar network
+
+The reward process for farming does the payout on the Stellar network. 
+That is why a farmer needs to provide a Stellar wallet address, so the minting process can pay out the correct amount of TFT onto that Stellar wallet address. 
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser
+
+and select your account from the list. Next, select `tfgridModule` -> `addStellarPayoutV2Address(..)` from the list.
+Fill in the farmId you obtained in step 7. 
+Fill in a Stellar account address (string in capital letters, starting with a G) you can find in your ThreeFold Connect app (or another Stellar wallet). 

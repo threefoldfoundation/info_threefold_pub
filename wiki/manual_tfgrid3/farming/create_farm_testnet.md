@@ -22,11 +22,9 @@ Paste the types in in the box and hit `save`
 
 ![account_creation](img/account_create_1.jpg)
 
-## Step 4: Fund your account
+## Step 4: Activate your account
 
-On the same page, on the left top, hover over `Account` button and click on `Transfer`. First select account `Alice` and secondly select your newly created account from the list. Send any amount to your account (these are just tokens to play around with, they hold no real value).
-
-![account_transfer](img/account_transfer_1.jpg)
+!!!include:grid3_testnet_account_activation level:2
 
 ## Step 5: Create a Twin
 
@@ -70,3 +68,31 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/ch
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
 ![query_farm](img/query_farm_1.jpg)
+
+## Optional: Add public IP's to your farm
+
+You can add public IP's to your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `addFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/add_public_ip.png)
+
+## Optional: Remove public IP's from your farm
+
+You can remove public IP's from your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `removeFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/remove_public_ip.png)

@@ -4,7 +4,7 @@
 
 ### Example code
 
-!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development_builds_scripts/scripts/singleVM.ts
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/singleVM.ts
 
 
 ### Detailed explanation

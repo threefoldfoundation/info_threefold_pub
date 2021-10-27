@@ -29,4 +29,4 @@ On the accounts page, scroll down to your account and click on your name that yo
 
 Go to activation service [Testnet](https://tfchain.test.threefold.io/activation/) | [Mainnet](https://tfchain.threefold.io/activation/) , paste the address in the input field and click `Activate`
 
-Your account should now be activated on Tfchain testnet.
+Your account should now be activated on TF-Chain testnet.

@@ -70,3 +70,31 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/cha
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
 ![query_farm](img/query_farm_1.jpg)
+
+## Optional: Add public IP's to your farm
+
+You can add public IP's to your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `addFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/add_public_ip.png)
+
+## Optional: Remove public IP's from your farm
+
+You can remove public IP's from your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `removeFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/remove_public_ip.png)

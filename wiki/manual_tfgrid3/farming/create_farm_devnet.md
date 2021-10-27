@@ -45,7 +45,7 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/ext
 
 and select your account from the list. Next, select `tfgridModule` -> `createFarm(..)` from the list.
 
-Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://explorer.devnet.grid.tf/graphql/ explorer. 
+Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://tfchain.dev.threefold.io/graphql/graphql explorer. 
 
 To find a country or city you can query all the available countries and cities in graphql.
 

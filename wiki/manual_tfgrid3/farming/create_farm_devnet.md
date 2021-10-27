@@ -83,7 +83,7 @@ As farm id you need to specify your farm id.
 
 IP should be in CIDR format.
 
-![create_farm](img/add_public_ip.jpg)
+![create_farm](img/add_public_ip.png)
 
 ## Optional: Remove public IP's from your farm
 
@@ -97,4 +97,4 @@ As farm id you need to specify your farm id.
 
 IP should be in CIDR format.
 
-![create_farm](img/remove_public_ip.jpg)
+![create_farm](img/remove_public_ip.png)

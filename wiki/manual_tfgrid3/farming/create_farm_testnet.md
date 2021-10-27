@@ -22,11 +22,9 @@ Paste the types in in the box and hit `save`
 
 ![account_creation](img/account_create_1.jpg)
 
-## Step 4: Fund your account
+## Step 4: Activate your account
 
-On the same page, on the left top, hover over `Account` button and click on `Transfer`. First select account `Alice` and secondly select your newly created account from the list. Send any amount to your account (these are just tokens to play around with, they hold no real value).
-
-![account_transfer](img/account_transfer_1.jpg)
+...
 
 ## Step 5: Create a Twin
 

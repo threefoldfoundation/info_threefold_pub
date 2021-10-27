@@ -12,5 +12,5 @@
 
 <!-- ### Further Use Cases
 
-- [Digital Twin Hub (your personal data/application space on the internet)](accelerator:digitaltwin_hub)
+- [Digital Twin Hub (your personal data/application space on the internet)](twin:digitaltwin_hub)
 - [Digital Twin Experiences](twin:twin_experiences) -->

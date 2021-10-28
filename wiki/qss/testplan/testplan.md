@@ -6,7 +6,7 @@ The quantum safe storage system runs on the following platforms
 - kubernetes cluster with Helm installation scripts.
 
 ### Installation
-For instructions in installing the QSFS please see the manual [here](../manual/README.md).
+For instructions in installing the QSFS please see the manual [here](https://github.com/threefoldfoundation/info_threefold_pub/blob/main/wiki/qss/manual/qsfs_setup.md).
 
 #### Bare metal Linux
 The software comes as a single binary which will install all the necessary components (local) to run the quantum safe file system.  The server in the storage front end and the TF Grid is the storage backend. The storage backend configuration can be provided in two different ways:

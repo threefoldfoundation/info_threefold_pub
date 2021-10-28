@@ -32,4 +32,16 @@ The screen (eventually) should show similar screen like above. the `farmer` in y
 Network setup will also be completely different. also `PUB` will show `not configured` which is normal for a new node.
 
 ## Setting up public configuration `PUB`
-TODO
+Nodes don't need `public config` to host workloads, put a node with public config can also do
+- Work as an access point for user networks (ipv4 and ipv6)
+- Handle gateway workloads (gateway workloads allow users to expose services from their private workloads)
+
+### Requirements
+- PolkaDot UI on the desired environment
+- A node booted into your farm.
+- The node ID shown from your node console (15 in the screenshot above)
+
+### Steps
+Open polkadot UI and navigate to `Developer > Extrinsics`
+
+![set public config](img/public-config.png)

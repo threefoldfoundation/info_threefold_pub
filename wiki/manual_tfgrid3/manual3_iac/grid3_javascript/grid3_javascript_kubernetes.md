@@ -85,9 +85,8 @@ console.log(l);
 #### Deleting deployment
 
 ```javascript
-const m = new K8SDeleteModel();
-m.name = k.name;
-const d = await grid3.k8s.delete(m);
+
+const d = await grid3.k8s.delete({ name: k.name });
 console.log(d);
 
 ```

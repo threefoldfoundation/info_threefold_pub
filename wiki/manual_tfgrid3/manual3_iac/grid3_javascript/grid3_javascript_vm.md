@@ -105,9 +105,8 @@ console.log(JSON.stringify(l));
 
 ```javascript
 // // delete
-const m = new MachinesDeleteModel();
-m.name = vms.name;
-const d = await grid3.machines.delete(m);
+
+const d = await grid3.machines.delete({ name: vms.name });
 console.log(d);
 ```
 In the underlying layer we cancel the contracts that were created on the chain and as a result all of the workloads tied to his project will get deleted.

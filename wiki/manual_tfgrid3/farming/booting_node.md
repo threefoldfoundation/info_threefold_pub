@@ -1,8 +1,8 @@
 ## Booting a node into a farm
 This explain the step necessary to boot a `zos` node into a farm
 
-### Pre Requirements
-- Farm created on the chain. Please make a node of the `network` (devnet, testnet) and  `farm-id`
+### Requirements
+- Farm created on the chain. Please make a node of the `network` [devnet](create_farm_devnet) or [testnet](create_farm_testnet.md) and  `farm-id`
 
 ## Steps
 - Visit [bootstrap](https://dev.bootstrap.grid.tf/generate)
@@ -25,7 +25,7 @@ Last step is to write the image to the usb stick, linux user can use `dd` comman
 - Reboot
 
 ## Checking the node console
-![zos-screen](img/zos-screen.png)
+![zos-screen](img/zos_screen.png)
 
 The screen (eventually) should show similar screen like above. the `farmer` in your case should show the farmer ID you used to build the usb image, and next to it your farm name.
 

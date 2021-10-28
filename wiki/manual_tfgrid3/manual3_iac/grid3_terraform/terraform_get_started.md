@@ -27,7 +27,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -35,6 +34,9 @@ terraform {
 provider "grid" {
     twin_id = FROM THE CREATE TWIN STEP
     mnemonics = "FROM THE CREATE TWIN STEP" 
+    rmb_proxy_url="https://rmbproxy1.devnet.grid.tf/"
+    substrate_url="wss://tfchain.dev.threefold.io/ws"
+    graphql_url="https://tfchain.dev.threefold.io/graphql/graphql/"
 }
 
 
@@ -98,7 +100,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -114,6 +115,9 @@ Providers can have different arguments e.g using which identity when deploying, 
 provider "grid" {
     twin_id = FROM THE CREATE TWIN STEP
     mnemonics = "FROM THE CREATE TWIN STEP" 
+    rmb_proxy_url="https://rmbproxy1.devnet.grid.tf/"
+    substrate_url="wss://tfchain.dev.threefold.io/ws"
+    graphql_url="https://tfchain.dev.threefold.io/graphql/graphql/"
 }
 ```
 Please note you can leave its content empty and export everything as environment variables
@@ -490,7 +494,6 @@ You can check the examples repo [here](https://github.com/threefoldtech/terrafor
 
 ### Current limitation
 
-- [parallism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
-- [windows  support](https://github.com/threefoldtech/terraform-provider-grid/issues/9)
+- [parallelism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
 - [increasing IPs in active deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/15)
 - [introducing new nodes to kuberentes deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/13)

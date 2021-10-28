@@ -4,10 +4,19 @@
 
 
 ```
-provider "threefoldgrid" {
-    mnemonics = "..."
-    substrate_url = "..."
-    twin_id = "..."
+terraform {
+  required_providers {
+    grid = {
+      source = "threefoldtech/grid"
+    }
+  }
+}
+provider "grid" {
+    twin_id = FROM THE CREATE TWIN STEP
+    mnemonics = "FROM THE CREATE TWIN STEP"
+    rmb_proxy_url="https://rmbproxy1.devnet.grid.tf/"
+    substrate_url="wss://tfchain.dev.threefold.io/ws"
+    graphql_url="https://tfchain.dev.threefold.io/graphql/graphql/"
 }
 ```
 ### environment variables
@@ -15,6 +24,8 @@ should be recognizable as Env variables too
 - `MNEMONICS`
 - `SUBSTRATE_URL`
 - `TWIN_ID`
+- `RMB_PROXY_URL`
+- `GRAPHQL_URL`
 
 ### credential file
 

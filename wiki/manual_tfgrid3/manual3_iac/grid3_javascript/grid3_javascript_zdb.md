@@ -74,8 +74,6 @@ you can attach multiple ZDBs innto the collection nand send it for deployment
 `.delete` method helps cancelling the relevant contracts related to that ZDBs deployment
 ```javascript
     // delete
-    const m = new ZDBDeleteModel();
-    m.name = zdbs.name;
-    const d = await grid3.zdbs.delete(m);
+    const d = await grid3.zdbs.delete({name:zdbs.name});
     console.log(d);
 ```

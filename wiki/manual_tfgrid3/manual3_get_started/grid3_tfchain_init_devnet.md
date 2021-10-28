@@ -22,13 +22,11 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ### Add types in the UI
 
-- Add types https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json in developer settings 
-![image](https://user-images.githubusercontent.com/64129/125321714-441a0c00-e33d-11eb-8546-09704d5ceffd.jpg)
+- Add types https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json in developer settings (do not forget to click `Save`)
+
+![image](img/substrate_types.jpg)
 
 ### Create Twin on Substrate using Polkadot
-
-- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/settings/developer) in polkadot. *note: don't forget to save*
-![](img/substrate_types.jpg)
 
 - Click on `Add an account` in [polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/accounts)
 - Save the mnemonic seed in a safe place

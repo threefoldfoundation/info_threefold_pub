@@ -1,17 +1,18 @@
 ## We are looking for contributors to our cause
 
+> See priority 1 as highest
+
 ### Sales & Marketing
 
-| Function                                                          | Description                                                                        | priority |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
+| Function       | Description     | Priority |
+| ----------- | ----------- | -------- |
 | [Operations & Hardware Sales Manager](ops_hardware_sales_manager) | Responsible for strategy and planning revolving around our commercial 3node setup. | 3        |
 
-priority 1 is highest
 
-### Engineering Functions
+### Engineering Roles
 
-| Function                                                    | Description                                                            | priority |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
+| Function       | Description     | Priority |
+| ----------- | ----------- | -------- |
 | [Development Manager](tfgrid_development_manager)           | Oversee development & release management of TFGrid code components.    | 1        |
 | [Grid Operations Manager](tfgrid_ops_manager)               | Keep TFGrid operational globally, work with all the farmers.           | 2        |
 | [Master Architect, Digital Twin](tech_protocolme_architect) | Technical protocol.me / Digital Twin master architect.                 | 3        |

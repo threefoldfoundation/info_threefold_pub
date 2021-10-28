@@ -1,7 +1,7 @@
-# Datarot Cannot Happend On our Storage System
+# Datarot Cannot Happen on our Storage System
 
-Fact that data goes bad over time on e.g. a harddisk.
-Many of this silent data corruption is seen and can pass by unnotified.
+Fact that data storage degrades over time and becomes unreadable, on e.g. a harddisk.
+The storage system provided by ThreeFold intercepts this silent data corruption, making that it can pass by unnotified.
 
 > see also https://en.wikipedia.org/wiki/Data_degradation
 

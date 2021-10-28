@@ -26,3 +26,4 @@
   - [On Testnet](@create_farm_testnet)
   - [Booting nodes](@booting_node)
 - [Quantum Safe Storage System](@qsss_home)
+- [Testing](@testing_home)

@@ -2,7 +2,7 @@
 This explain the step necessary to boot a `zos` node into a farm
 
 ### Requirements
-- Farm created on the chain. Please make a node of the `network` [devnet](create_farm_devnet) or [testnet](create_farm_testnet.md) and  `farm-id`
+- Farm created on the chain. Please make a node of the `network` [devnet](create_farm_devnet) or [testnet](create_farm_testnet) and  `farm-id`
 
 ## Steps
 - Visit [bootstrap](https://dev.bootstrap.grid.tf/generate)

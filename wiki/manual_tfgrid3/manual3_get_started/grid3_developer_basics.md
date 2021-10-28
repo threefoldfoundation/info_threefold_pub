@@ -3,7 +3,7 @@ This should be a simple intro for developers or operations
 
 ## networking
 
-### Private network
+### Private network (ZNET)
 For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@tfgrid_networking_toc)
 
 ### Planetary network
@@ -27,8 +27,6 @@ And then you need to specify the yggrassil IP of your backend service, so the ga
 As a user, you have two options
 - let the gateway terminate the TLS traffic for you and communicate with your workloads directly 
 - let the gateway forward the traffic to your backend and you do the termination yourself (the recommended way if you are doing any sensitive business)
-
-
 
 
 ## Compute

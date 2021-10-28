@@ -494,7 +494,6 @@ You can check the examples repo [here](https://github.com/threefoldtech/terrafor
 
 ### Current limitation
 
-- [parallism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
-- [windows  support](https://github.com/threefoldtech/terraform-provider-grid/issues/9)
+- [parallelism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
 - [increasing IPs in active deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/15)
 - [introducing new nodes to kuberentes deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/13)

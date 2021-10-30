@@ -8,10 +8,10 @@ Welcome to the ThreeFold Knowledgebase. Here you will find all relevant informat
 **If you're new to our project, we'd recommend you to start with "About Threefold?".**
 
 
-- [Learn more about the ThreeFold Grid = largest Peer2Peer Cloud in the world](grid_home)
-- [Learn more about farming](farming_home)
-- [Learn more about tokens](tokens_home)
-- [Learn how to use te grid](cloud_home)
+- [Learn more about the ThreeFold Grid = largest Peer2Peer Cloud in the world](@grid_home)
+- [Learn more about farming](@farming_home)
+- [Learn more about tokens](@tokens_home)
+- [Learn how to use te grid](@cloud_home)
 
 <!-- 
 

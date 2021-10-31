@@ -18,4 +18,4 @@
 - [Roadmap](@roadmap)
 ------------
 - [Definitions & Concepts](@definitions_concepts)
-- [Legal](!@legal:legal)
+- [Legal](!@legal_home)

@@ -44,4 +44,4 @@ Most solutions have simple deployment tutorials. You can find them in this knowl
 - [Monitoring Stack](evdc_monitoring_stack): A monitoring stack for Kubernetes clusters.
 - [Forum](evdc_discourse): A forum that comes with chat rooms, mailing list and more.
 
-> By using The ThreeFold Marketplace or 3Bot you agree to our [Terms and Conditions](legal:terms_conditions_cloud) and [Policies](legal:legal).
+> By using The ThreeFold Marketplace or 3Bot you agree to our [Terms and Conditions](legal:terms_conditions_cloud) and [Policies](legal:legal_home).

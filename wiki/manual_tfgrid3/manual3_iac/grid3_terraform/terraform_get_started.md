@@ -32,11 +32,8 @@ terraform {
 }
 
 provider "grid" {
-    twin_id = FROM THE CREATE TWIN STEP
     mnemonics = "FROM THE CREATE TWIN STEP" 
-    rmb_proxy_url="https://rmbproxy1.devnet.grid.tf/"
-    substrate_url="wss://tfchain.dev.threefold.io/ws"
-    graphql_url="https://tfchain.dev.threefold.io/graphql/graphql/"
+    network = "dev" # or test to use testnet
 }
 
 
@@ -50,7 +47,7 @@ resource "grid_network" "net1" {
 resource "grid_deployment" "d1" {
   node = 2
   network_name = grid_network.net1.name
-  ip_range = grid_network.net1.nodes_ip_range["2"]
+  ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
   vms {
     name = "vm1"
     flist = "https://hub.grid.tf/tf-official-apps/base:latest.flist"
@@ -105,26 +102,24 @@ terraform {
 }
 
 ```
-We tell it we want the threefoldtech grid provider, and version 0.10
+We tell it we want the threefoldtech grid provider, latest version.
 
 ### Initializing the provider
-Providers can have different arguments e.g using which identity when deploying, which substrate network to crete contracts on, .. etc. This can be done in the provider section
+Providers can have different arguments e.g using which identity when deploying, which substrate network to create contracts on, .. etc. This can be done in the provider section
 
 
 ```terraform
 provider "grid" {
-    twin_id = FROM THE CREATE TWIN STEP
     mnemonics = "FROM THE CREATE TWIN STEP" 
-    rmb_proxy_url="https://rmbproxy1.devnet.grid.tf/"
-    substrate_url="wss://tfchain.dev.threefold.io/ws"
-    graphql_url="https://tfchain.dev.threefold.io/graphql/graphql/"
+    network = "dev" # or test to use testnet
+
 }
 ```
 Please note you can leave its content empty and export everything as environment variables
 
 ```
-export TWIN_ID=X
 export MNEMONICS="....."
+export NETWORK="....."
 
 ```
 
@@ -148,7 +143,7 @@ We tell terraform we will have a network spanning two nodes `having the node IDs
 resource "grid_deployment" "d1" {
   node = 2
   network_name = grid_network.net1.name
-  ip_range = grid_network.net1.nodes_ip_range["2"]
+  ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
   vms {
     name = "vm1"
     flist = "https://hub.grid.tf/tf-official-apps/base:latest.flist"
@@ -180,7 +175,7 @@ It's bit long for sure but let's try to dissect it a bit
 ```terraform
   node = 2
   network_name = grid_network.net1.name
-  ip_range = grid_network.net1.nodes_ip_range["2"]
+  ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
 ```
 
 #### VMs 
@@ -253,10 +248,10 @@ Here we define the output variables we are interested in which most likely to be
 to start the deployment `terraform init && terraform apply -parallelism=1`
 
 ## Changing
-You can add more VMs or Disks and just do `terraform apply`
+You can add more VMs or Disks and just do `terraform apply -parallelism=1`
 
 ## Destroying
-can be done using `terraform destroy`
+can be done using `terraform destroy -parallelism=1`
 
 And that's it!! you managed to deploy 2 VMs on the threefold grid v3
 

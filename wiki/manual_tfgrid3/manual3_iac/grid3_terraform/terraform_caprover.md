@@ -50,14 +50,13 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.9"
     }
   }
 }
 
 provider "grid" {
-    twin_id = 29
-    mnemonics = "" 
+    mnemonics = "<your-mnemonics>" 
+    network = "dev" # or test to use testnet
 }
 
 resource "grid_network" "net0" {
@@ -70,7 +69,7 @@ resource "grid_network" "net0" {
 resource "grid_deployment" "d0" {
   node = 4
   network_name = grid_network.net0.name
-  ip_range = grid_network.net0.nodes_ip_range["4"]
+  ip_range = lookup(grid_network.net0.nodes_ip_range, 4, "")
   disks {
     name        = "data0"
     # will hold images, volumes etc. modify the size according to your needs
@@ -140,7 +139,7 @@ output "vm_public_ip" {
   vim main.tf
   ```
 
-  - In `provider` Block, update the `twin_id` and add your `mnemonics`.
+  - In `provider` Block, add your `mnemonics` and specify the grid network to deploy on.
   - In `resource` Block, update the disks size, memory size, and cores number to fit your needs or leave as it is for testing.
   - In the `PUBLIC_KEY` env var value put your ssh public key .
   - In the `CAPROVER_ROOT_DOMAIN` env var value put your root domain, this is optional and you can add it later from the dashboard put it will save you the extra step and allow you to access your dashboard using your domain name directly after the deployment.
@@ -358,14 +357,13 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.9"
     }
   }
 }
 
 provider "grid" {
-    twin_id = 29
-    mnemonics = "" 
+    mnemonics = "<your-mnemonics>"
+    network = "dev" # or test to use testnet 
 }
 
 resource "grid_network" "net2" {
@@ -378,7 +376,7 @@ resource "grid_network" "net2" {
 resource "grid_deployment" "d2" {
   node = 4
   network_name = grid_network.net2.name
-  ip_range = grid_network.net2.nodes_ip_range["4"]
+  ip_range = lookup(grid_network.net2.nodes_ip_range, 4, "")
   disks {
     name        = "data2"
     # will hold images, volumes etc. modify the size according to your needs
@@ -444,7 +442,7 @@ output "vm_public_ip" {
   vim main.tf
   ```
 
-  - In `provider` Block, update the `twin_id` and add your `mnemonics`.
+  - In `provider` Block, add your `mnemonics` and specify the grid network to deploy on.
   - In `resource` Block, update the disks size, memory size, and cores number to fit your needs or leave as it is for testing.
   - In the `PUBLIC_KEY` env var value put your ssh public key.
   - In the `SWMTKN` env var value put the previously generated token.

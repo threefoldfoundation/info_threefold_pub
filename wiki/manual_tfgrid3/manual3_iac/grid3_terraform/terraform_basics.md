@@ -27,6 +27,7 @@ provider "grid" {
 
 ... MORE TO BE ADDED
 ```
+
 - capitalized environment variables can be used instead of writing them in the provider (e.g. TWIN_ID)
 - the provided urls are for devnet, you can probably guess for testnet or consult the docs.
 - to execute a terraform file `terraform apply -parallelism=1`

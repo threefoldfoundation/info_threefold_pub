@@ -1,4 +1,4 @@
-![](img/iac_.jpg)
+![](img/iac_.png)
 
 # Infrastructure As Code
 

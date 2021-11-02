@@ -1,4 +1,7 @@
 !!!include:home_include
+
+**JukbeBox**
+
 - [Intro to Jukebox](@about_jukebox)
 - [Get Started](@get_started)
     - [You will need](@you_need)
@@ -18,7 +21,7 @@
     - [TFGrid](@zos)
     - [Smart Contract for IT](@smartcontract_it)
     - [CU/SU/NU primitives](@tfgrid_primitives)
-    - [Compare = Competitive](@funding:tf_compare)
+    - [Compare = Competitive](cloud_compare_home)
 !!!include:carbonwin_sidebar
 
 <!-- - [Get started](@get_started) -->

@@ -28,17 +28,23 @@ The company is 80% engineering centric today.
 
 > TFTech has no links to tokens, at this point (March 2021) does not own any of them either. All Token & TFGrid activities are coordinate from TFF.
 
+## some facts
 
-## shareholders end 2020
+- +- 100 contributors are funded from out of TFTech for ThreeFold larger project.
+- a lot of the work sponsored from TF Tech is outsourced to ThreeFold_Dubai .
+- our burnrate right now is about 500k EUR per month, we thank our investors for their support.
 
-|                                 | description                                          |
+## shareholders Q4 2021
+
+|                                 |                     description                      |
 | ------------------------------- | ---------------------------------------------------- |
 | private investors CLA           | +- 18.5% of company, by means of convertible loan    |
 | private investor SHARES         | +- 2.5% of company, already converted loan to shares |
 | founders                        | 25% of company                                       |
 | advisors / threefold foundation | 5%                                                   |
-| not for profit foundation       | 49% of company                                       |
+| not for profit foundation       | 49% of company  (in process)                         |
 
+Are estimates
 
 ## location
 

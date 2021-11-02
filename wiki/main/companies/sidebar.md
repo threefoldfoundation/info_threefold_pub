@@ -7,3 +7,5 @@
 - [TFTech](@threefold_tech0)
 - [Mazraa  Farming Cooperative](@mazraa)
 - [BetterToken Farming Cooperative](@bettertoken)
+- [Incubaid](https://www.incubaid.com/)
+- [Take Action Global](https://www.takeactionglobal.org/)

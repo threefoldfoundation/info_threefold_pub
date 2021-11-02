@@ -1,5 +1,7 @@
 !!!include:home_include
+
 **Technology**
+
 - [Zero-OS](@zos)
 - [Zero-OS primitives](@tfgrid_primitives)
   - [ZKube](@zkube)
@@ -14,7 +16,7 @@
   - [Planetary Network](@planetary_network)
   - [Zero-NIC](@znic)
   - [WebGateway](@webgw)
-- [Quantum Safe Storage](@qsss)
+- [Quantum Safe Storage](@qsss_home)
 - [Smart Contract for IT](@smartcontract_it)
 - [Infrastructure As Code](@smartcontract_iac)
 <BR>

@@ -40,6 +40,5 @@ We expect this to be small in beginning
 - [ ] the remainder goes to promotion pool as held by wisdom council to promote & support sales & utilization
 
 
-<!-- !!!include:staking_farmed_tft -->
 
 !!!include:farming_toc

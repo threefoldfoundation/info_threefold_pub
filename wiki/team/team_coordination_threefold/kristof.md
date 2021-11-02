@@ -2,15 +2,27 @@
 
 ![](img/kristof.jpg)
 
+We dream about a world where everyone can be happy, with respect for each other and the world's resources. A world where we dare to love ourselves and we don’t have to be scared about our future. A world where we don’t need to be a product and we have learned to collaborate with openness and trust.
+
+We believe we are born as beautiful people, but fear leads us in a direction that might not be the path to happiness. In general, we believe that people want to do good. 
+
+We believe the world needs to raise consciousness on 3 levels. 
+
+- Physical = environment, food production, energy, ...
+- Spiritual = personal growth in awareness 
+- Digital = the system with the potential to connect us all
+
+
 <iframe src="https://player.vimeo.com/video/419955708" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-- [A little game slide deck, let's work for a better planet](http://planet.freeflownation.org/)
+
+## More Info
+
 - Threefold
-    - [TFTech latest investor deck](https://threefold.io/info/threefold/threefold_intro_2021.pdf)
+    - [TFTech latest investor deck](https://threefold.docsend.com/view/m57233sxgt253avs)
     - [The ThreeFold knowledge base (wiki)](https://library.threefold.me/) (has lots of info)
-- project we really care about and help with
-    - [Take Action Global: lower carbon footprint + education for 100m students, using digital twin technology](https://threefold.io/info/threefold/tag_fundraise_2021.pdf)
-    - [Mitaa Fairswap, exchange anything for anything, everywhere. Digital inclusion for hundreds of millions of people, better than blockchain alone.](https://threefold.io/info/threefold/mitaa_2021_intro.pdf)
+- **[Lots of FreeFlow Tribe info in 1 spot](https://threefold.docsend.com/view/s/xsk6k7rvppbb5nqv)**
+
 - Bernard Lietaer Book: 
     - [Towards a sustainable world: 3 Paradigm shifts towards a sustainable world: 3 Paradigm shifts](https://www.amazon.com/dp/3200065273/ref=cm_sw_su_dp)
     - we have co-authored this book and talks about new types of money, decentralization, ...
@@ -28,6 +40,9 @@
     - [Green Planet Blue Planet Podcast Interview](https://podcasts.apple.com/us/podcast/ep-181-new-internet-that-empowers-equality-freedom/id1265643891?i=1000471122643&fbclid=IwAR3wzClqHuItRdopNIcXyH3wSUTXeftwOh1cVKtNAWTZSm9jlMKcnanM0V4) (+30k people listened to it)
     - [Tokyo FinTech Podcast](https://podcasts.apple.com/us/podcast/episode-38-kristof-de-spiegeleer-threefold-foundation/id1497776730?i=1000476125540)
     - [corporate unplugged (march 2021)](https://corporateunplugged.com/kristof-de-spiegeleer/)
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl6h1bwIiurjbvUlK5Agce0cijBuEu7meCPNDHLArfr5wAHbaOC0X6fUoyVJAncAzD4PLMsA55E9xc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## my agenda / contact info
 

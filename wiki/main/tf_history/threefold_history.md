@@ -23,7 +23,7 @@ These buyers could use their TFT to buy IT capacity from ThreeFold_Dubai or Bett
 
 The ThreeFold_Grid is the result of many farmers using the open source technology which is now on https://github.com/threefoldtech.
 
-Originally, the technology used was created by three companies: GreenIT Globe, ThreeFold_Dubai & [ThreeFold Tech](threefold_internal:tftech). The last two still actively participate in the creation of tech components or content as used by all ThreeFold Farmers today.
+Originally, the technology used was created by three companies: GreenIT Globe, ThreeFold_Dubai & [ThreeFold Tech](tftech). The last two still actively participate in the creation of tech components or content as used by all ThreeFold Farmers today.
 
 !!!include:threefold_funding
 

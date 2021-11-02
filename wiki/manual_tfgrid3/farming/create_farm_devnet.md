@@ -22,6 +22,18 @@ Click `I have saved my mnemonic seed safely` and click next and fill in the requ
 
 ![account_creation](img/account_create_1.jpg)
 
+- Save the JSON file somewhere safe.
+
+![account_creation](img/account_create_1.jpg)
+
+### Step 3.b: Install PolkadotJS extension and import your newly created account
+
+Go to: https://polkadot.js.org/extension/ and add this extension to your browser.
+
+Open the extension, click the + sign (on the right top) and select `Restore account from backup JSON file`, drag the saved json file in there and proceed with setup.
+
+Once completed, you can sign any extrinsic to create a twin / farm with your extension.
+
 ## Step 4: Fund your account
 
 On the same page, on the left top, hover over `Account` button and click on `Transfer`. First select account `Alice` and secondly select your newly created account from the list. Send any amount to your account (these are just tokens to play around with, they hold no real value).
@@ -45,7 +57,7 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/ext
 
 and select your account from the list. Next, select `tfgridModule` -> `createFarm(..)` from the list.
 
-Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://explorer.devnet.grid.tf/graphql/ explorer. 
+Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://tfchain.dev.threefold.io/graphql/graphql explorer. 
 
 To find a country or city you can query all the available countries and cities in graphql.
 
@@ -70,3 +82,31 @@ Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/cha
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
 ![query_farm](img/query_farm_1.jpg)
+
+## Optional: Add public IP's to your farm
+
+You can add public IP's to your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `addFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/add_public_ip.png)
+
+## Optional: Remove public IP's from your farm
+
+You can remove public IP's from your farm as following:
+
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/chainstate
+
+and select your account from the list. Next, select `tfgridModule` -> `removeFarmIp(..)` from the list.
+
+As farm id you need to specify your farm id.
+
+IP should be in CIDR format.
+
+![create_farm](img/remove_public_ip.png)

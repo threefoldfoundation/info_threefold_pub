@@ -50,7 +50,7 @@ see [AYDO](accelerator:aydo)
 
 ![](img/internet_flow_transp.jpg)
 
-see [Kutana](digitalself:kutana)
+see [Kutana](accelerator:kutana)
 
 ### Web publishing system
 
@@ -62,13 +62,13 @@ see [Publishing System](publisher)
 
 ![](img/chat.jpg)
 
-See [Twin Chat](digitalself:twin_chat)
+See [Twin Chat](twin:twin_chat)
 
 ### Cloud Browser Engine
 
 ![](img/browsers_.png)
 
-See [Browser](digitalself:hercules_browser)
+See [Browser](accelerator:hercules_browser)
 
 ## Developers
 

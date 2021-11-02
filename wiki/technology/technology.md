@@ -1,29 +1,19 @@
-![](img/tech_header.jpg)
+![](img/technology_home_.jpg)
 
-# Technology
+# ThreeFold Technology
+
+ThreeFold has created an amazing technology system to allow anyone to host their applications and data close to them.
+
+- Developers can code on top of the Digital Twin.
+- Any IT person can deploy any app which is compatible with linux on top of the ThreeFold Grid
 
 ![](img/tech_architecture1.jpg)
 
-- IT Capacity : 3Nodes running our operating system ZOS provide Storage,Compute, Network to the world.
-- Digital Twin: every person get's a digital_twin_server, as the center of their digital life
-- On top of this digital twin anyone can build experiences: digitaltwin_experiences
 
-### Zero-OS
+!!!include:technology_toc
 
-ZeroOS (ZOS) is the operating system which allows the 3Nodes to be used to provide IT capacity required by the solutions running on the TFGrid.
+![](img/tech_header.jpg)
 
-### 3Nodes
 
-Computers (servers) are the low-level provider for the IT capacity of the Cloud, we call them TFGrid Nodes or in short a `3Node`.
 
-![](img/3node_nice.jpg)
 
-3Nodes are servers which run the ZOS software.
-
-They provide storage, compute & networking capacities. Together, 3Nodes make up the capacity layers for the TF Grid.
-
-### Explorer
-
-Today we have about thousands of 3Nodes across the grid see our https://explorer.grid.tf
-
-![](img/tf_grid.jpg)

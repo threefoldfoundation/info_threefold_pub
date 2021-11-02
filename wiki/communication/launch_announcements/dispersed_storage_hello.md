@@ -6,4 +6,4 @@ In most distributed systems, data is stored multiple times to guarantee redundan
 
 Meet **the dispersed storage algorithm** – a crucial part of our storage system – which breaks data down into equations that are spread across nodes, leading to increased security, reliability, and efficiency, with much lower overhead.
 
-Read more about the dispersed storage algorithm **[here](qss_description?id=the-space-algorithm-of-storage)**, which might also explain the image choice. 🛸
+Read more about the dispersed storage algorithm **[here](qsss_home?id=the-space-algorithm-of-storage)**, which might also explain the image choice. 🛸

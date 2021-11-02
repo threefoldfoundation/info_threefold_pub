@@ -26,6 +26,7 @@ provider "grid" {
 ```
 - all provider input variables and their description can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/index.md)
 - capitalized environment variables can be used instead of writing them in the provider (e.g. MNEMONICS)
+
 - to execute a terraform file `terraform apply -parallelism=1`
 - to see the output `terraform output`
 - to see the state `terraform showstate`

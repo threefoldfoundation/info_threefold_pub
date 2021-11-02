@@ -3,12 +3,12 @@ In this example we will see how to deploy a single VM and expose it over the gat
 !!!include terraform_basics
 
 ## expose with prefix
+A complete list of gateway name workload parameters can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/resources/name_proxy.md).
 ```
 terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -44,13 +44,12 @@ Here
 
 
 ## expose with fulldomain
-
+A complete list of gateway fqdn workload parameters can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/resources/fqdn_proxy.md).
 ```
 terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }

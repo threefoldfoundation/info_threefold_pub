@@ -1,5 +1,7 @@
 ## Creating an Account on TFChain 
 
+!!!include grid3_portal_notice
+
 ### Step 1: Go to the TFChain UI
 
 in case of testnet use testnet public node: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts

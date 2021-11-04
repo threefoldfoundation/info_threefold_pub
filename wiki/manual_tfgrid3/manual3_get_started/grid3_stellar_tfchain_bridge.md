@@ -1,5 +1,7 @@
 # Transferring TFT between Stellar and TF Chain
 
+!!!include grid3_portal_notice
+
 ## Usage
 
 This document will explain how you can transfer TFT from TF Chain to Stellar and back.

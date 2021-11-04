@@ -7,36 +7,38 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 
 ## devnet
 
-- tfchain.dev.grid.tf
-- graphql.dev.grid.tf/graphql
-- explorer.dev.grid.tf
-- activation.dev.grid.tf
-- bridge.dev.grid.tf
-- twin.dev.grid.tf
-- portal.dev.grid.tf
-- gridproxy.dev.grid.tf
+- [TFChain](tfchain.dev.grid.tf)
+- [GraphQL](graphql.dev.grid.tf/graphql)
+- [Capacity Explorer](explorer.dev.grid.tf)
+- [Activation Service](activation.dev.grid.tf)
+- [TFChain-Stellar Bridge](bridge.dev.grid.tf)
+- [Twin Resolver](twin.dev.grid.tf)
+- [TFGrid Portal ](portal.dev.grid.tf)
+- [TFGrid Proxy ](gridproxy.dev.grid.tf)
 
 
 ## testnet
 
-- tfchain.test.grid.tf
-- graphql.test.grid.tf/graphql
-- explorer.test.grid.tf
-- activation.test.grid.tf
-- bridge.test.grid.tf
-- twin.test.grid.tf
-- portal.test.grid.tf
-- gridproxy.test.grid.tf
+- [TFChain](tfchain.test.grid.tf)
+- [GraphQL](graphql.test.grid.tf/graphql)
+- [Capacity Explorer](explorer.test.grid.tf)
+- [Activation Service](activation.test.grid.tf)
+- [TFChain-Stellar Bridge](bridge.test.grid.tf)
+- [Twin Resolver](twin.test.grid.tf)
+- [TFGrid Portal ](portal.test.grid.tf)
+- [TFGrid Proxy ](gridproxy.test.grid.tf)
+
 
 ## mainnet
 
 > NOTE: this is still under construction
 > 
-- tfchain.grid.tf
-- graphql.grid.tf/graphql
-- explorer.grid.tf
-- activation.grid.tf
-- bridge.grid.tf
-- twin.grid.tf
-- portal.grid.tf
-- gridproxy.grid.tf
+
+- [TFChain](tfchain.grid.tf)
+- [GraphQL](graphql.grid.tf/graphql)
+- [Capacity Explorer](explorer.grid.tf)
+- [Activation Service](activation.grid.tf)
+- [TFChain-Stellar Bridge](bridge.grid.tf)
+- [Twin Resolver](twin.grid.tf)
+- [TFGrid Portal ](portal.grid.tf)
+- [TFGrid Proxy ](gridproxy.grid.tf)

@@ -30,6 +30,8 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 
 ## mainnet
 
+> NOTE: this is still under construction
+> 
 - tfchain.grid.tf
 - graphql.grid.tf/graphql
 - explorer.grid.tf

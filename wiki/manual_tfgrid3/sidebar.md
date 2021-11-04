@@ -27,3 +27,4 @@
   - [Booting nodes](@booting_node)
 - [Quantum Safe Storage System](@qsss_home)
 - [Testing](@testing_home)
+- [Threefold Services](manual3_tfservices)

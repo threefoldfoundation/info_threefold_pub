@@ -6,7 +6,7 @@ ThreeFold's compute vmachine technology is fully compatible with docker.
 
 ## ZMachine
 
-ThreeFold VMachine technology as implemented in Zero-OS using KVM Hypervisor.
+ThreeFold VMachine technology as implemented in Zero-OS using [KVM Hypervisor](https://www.linux-kvm.org).
 
 ![](img/container_native.jpg)
 

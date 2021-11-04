@@ -60,7 +60,7 @@ query MyQuery {
 
 ## finding nodes  with capacity
 
-```
+```graphql
 query MyQuery {
   nodes() {
     cru,
@@ -72,9 +72,9 @@ query MyQuery {
 
 ```
 
-##  filtering nnodes with capacity
+##  filtering nodes with capacity
 
-```
+```graphql
 query MyQuery {
   nodes(where: {cru_gt: "2", hru_gt: "5000", mru_gt: "500", sru_gt: "1000"}) {
     cru

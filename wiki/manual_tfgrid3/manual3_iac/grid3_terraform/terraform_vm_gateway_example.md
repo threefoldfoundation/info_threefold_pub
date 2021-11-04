@@ -71,6 +71,7 @@ output "fqdn" {
 }
 ```
 
+please note for `fqdn` proxy to work, you need to create `A` record on your name provider for `remote.omar.grid.tf`  to gateway node `2` IP
 
 
 !!!include terraform_outputs

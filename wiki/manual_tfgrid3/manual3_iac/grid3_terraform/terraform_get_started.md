@@ -491,8 +491,9 @@ We will be mainly interested in the master node public ip `computed IP` and the 
 You can check the examples repo [here](https://github.com/threefoldtech/terraform-provider-grid/tree/development/examples)
 
 
-### Current limitation
+### Current limitations
 
 - [parallelism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
 - [increasing IPs in active deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/15)
 - [introducing new nodes to kuberentes deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/13)
+- [Multiple deployments on the same node](https://github.com/threefoldtech/terraform-provider-grid/issues/11)

@@ -116,7 +116,6 @@ So this deployment is almost similiar to what we have in the [vm deployment sect
 
 ```javascript
     const l = await grid3.machines.getObj(machines_name);
-    console.log(">>>>>>>>>>>>>>>Deployment result<<<<<<<<<<<<<<<");
     console.log(JSON.stringify(l))
 ```
 

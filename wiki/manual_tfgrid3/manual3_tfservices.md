@@ -7,38 +7,39 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 
 ## devnet
 
-- [TFChain](tfchain.dev.grid.tf)
-- [GraphQL](graphql.dev.grid.tf/graphql)
-- [Capacity Explorer](explorer.dev.grid.tf)
-- [Activation Service](activation.dev.grid.tf)
-- [TFChain-Stellar Bridge](bridge.dev.grid.tf)
-- [Twin Resolver](twin.dev.grid.tf)
-- [TFGrid Portal ](portal.dev.grid.tf)
-- [TFGrid Proxy ](gridproxy.dev.grid.tf)
+- [TFChain](wss://tfchain.dev.grid.tf)
+- [GraphQL](https://graphql.dev.grid.tf/graphql)
+- [Capacity Explorer](https://explorer.dev.grid.tf)
+- [Activation Service](https://activation.dev.grid.tf)
+- [TFChain-Stellar Bridge](https://bridge.dev.grid.tf)
+- [Twin Resolver](https://twin.dev.grid.tf)
+- [TFGrid Portal ](https://portal.dev.grid.tf)
+- [TFGrid Proxy ](https://gridproxy.dev.grid.tf)
 
 
 ## testnet
 
-- [TFChain](tfchain.test.grid.tf)
-- [GraphQL](graphql.test.grid.tf/graphql)
-- [Capacity Explorer](explorer.test.grid.tf)
-- [Activation Service](activation.test.grid.tf)
-- [TFChain-Stellar Bridge](bridge.test.grid.tf)
-- [Twin Resolver](twin.test.grid.tf)
-- [TFGrid Portal ](portal.test.grid.tf)
-- [TFGrid Proxy ](gridproxy.test.grid.tf)
 
+- [TFChain](wss://tfchain.test.grid.tf)
+- [GraphQL](https://graphql.test.grid.tf/graphql)
+- [Capacity Explorer](https://explorer.test.grid.tf)
+- [Activation Service](https://activation.test.grid.tf)
+- [TFChain-Stellar Bridge](https://bridge.test.grid.tf)
+- [Twin Resolver](https://twin.test.grid.tf)
+- [TFGrid Portal ](https://portal.test.grid.tf)
+- [TFGrid Proxy ](https://gridproxy.test.grid.tf)
 
 ## mainnet
 
 > NOTE: this is still under construction
 > 
 
-- [TFChain](tfchain.grid.tf)
-- [GraphQL](graphql.grid.tf/graphql)
-- [Capacity Explorer](explorer.grid.tf)
-- [Activation Service](activation.grid.tf)
-- [TFChain-Stellar Bridge](bridge.grid.tf)
-- [Twin Resolver](twin.grid.tf)
-- [TFGrid Portal ](portal.grid.tf)
-- [TFGrid Proxy ](gridproxy.grid.tf)
+
+- [TFChain](wss://tfchain.grid.tf)
+- [GraphQL](https://graphql.grid.tf/graphql)
+- [Capacity Explorer](https://explorer.grid.tf)
+- [Activation Service](https://activation.grid.tf)
+- [TFChain-Stellar Bridge](https://bridge.grid.tf)
+- [Twin Resolver](https://twin.grid.tf)
+- [TFGrid Portal ](https://portal.grid.tf)
+- [TFGrid Proxy ](https://gridproxy.grid.tf)

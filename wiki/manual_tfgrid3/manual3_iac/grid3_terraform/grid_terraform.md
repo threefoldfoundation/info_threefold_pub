@@ -30,8 +30,7 @@ mv terraform-provider-grid ~/.terraform.d/plugins/threefoldtech.com/providers/gr
 terraform {
   required_providers {
     grid = {
-      version = "0.1.8"
-      source  = "threefoldtech.com/providers/grid"
+      source = "threefoldtech/grid"
     }
   }
 }
@@ -100,8 +99,7 @@ a two machine deployment with the first using a public ip
 terraform {
   required_providers {
     grid = {
-      version = "0.1.8"
-      source  = "threefoldtech.com/providers/grid"
+      source = "threefoldtech/grid"
     }
   }
 }
@@ -170,8 +168,7 @@ multinode deployments
 terraform {
   required_providers {
     grid = {
-      version = "0.1.8"
-      source  = "threefoldtech.com/providers/grid"
+      source = "threefoldtech/grid"
     }
   }
 }
@@ -245,8 +242,7 @@ zds
 terraform {
   required_providers {
     grid = {
-      version = "0.1.8"
-      source  = "threefoldtech.com/providers/grid"
+      source = "threefoldtech/grid"
     }
   }
 }

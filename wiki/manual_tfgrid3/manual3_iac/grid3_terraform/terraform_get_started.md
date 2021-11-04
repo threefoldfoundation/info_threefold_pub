@@ -9,6 +9,7 @@ please make sure to read [What you need to know before getting started](grid3_de
 Steps:
 
 - Create wallet, twin on TF Chain and access your mnemonics
+  - [Grid porta](manual3_portal_home)
   - On [Devnet](grid3_tfchain_init_devnet)
   - On [Testnet](grid3_tfchain_init_testnet)
 - [Install Terraform](terraform_install)
@@ -271,7 +272,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -353,7 +353,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }

@@ -29,8 +29,7 @@ Once you have installed the TFChain toolkit, you can
 
 - Start using the TFGrid
   - Use [Terraform](grid3_terraform_home)
-  - Deploy using CapRover (Under Construction)
-  - Deploy in VDC (Under Construction)
+  - [Deploy using CapRover](terraform_caprover)
 
 - [Grid Overview](manual3_tfgrid_home)
 

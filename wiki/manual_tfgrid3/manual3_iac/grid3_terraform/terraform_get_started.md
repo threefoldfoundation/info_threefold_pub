@@ -8,8 +8,7 @@ please make sure to read [What you need to know before getting started](grid3_de
 
 Steps:
 
-- [Install and configure Yggdrasil](planetary_network)
-- Create wallet and twin on TF Chain
+- Create wallet, twin on TF Chain and access your mnemonics
   - On [Devnet](grid3_tfchain_init_devnet)
   - On [Testnet](grid3_tfchain_init_testnet)
 - [Install Terraform](terraform_install)
@@ -177,6 +176,12 @@ It's bit long for sure but let's try to dissect it a bit
   network_name = grid_network.net1.name
   ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
 ```
+
+- `node=2` means this deployment will happen on node with id `2`
+- `network_name` which network to deploy our project on, and here  we choose the `name` of network `net1`
+- `ip_range` here we [lookup](https://www.terraform.io/docs/language/functions/lookup.html) the iprange of node `2` and initially load it with `""`
+
+> Advannced note: Direct map access fails during the planning if the key doesn't exist which happens in cases like adding a node to the network and a new deployment on this node. So it's replaced with this to make a default empty value to pass the planning validation and it's validated anyway inside the plugin.
 
 #### VMs 
 

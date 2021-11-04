@@ -82,8 +82,7 @@ to create your twin please check [grid substrate getting started](grid_substrate
 ```bash
 ./msgbusd --twin <TWIN_ID> #run message bus with your twin id
 cd examples/resources
-export MNEMONICS="<mnemonics workds>"
-export TWIN_ID="<your twin id>"
+export MNEMONICS="<mnemonics words>"
 terraform init && terraform apply
 ```
 ## Destroying deployment
@@ -261,7 +260,7 @@ resource "grid_deployment" "d1" {
     mode = "user"
   }
   zdbs{
-    name = "zdb2"
+    name = "zdb2"You can easily check using [explorer-ui](@grid3_explorer) , 
     size = 2
     description = "zdb2 description"
     password = "zdbpasswd2"
@@ -273,6 +272,3 @@ output "deployment_id" {
     value = grid_deployment.d1.id
 }
 ```
-
-.
-

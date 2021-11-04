@@ -178,7 +178,7 @@ It's bit long for sure but let's try to dissect it a bit
   ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
 ```
 
-- `node=2` means this deployment will happen on node with id `2`
+- `node=2` means this deployment will happen on node with id `2`. Please note the choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.
 - `network_name` which network to deploy our project on, and here  we choose the `name` of network `net1`
 - `ip_range` here we [lookup](https://www.terraform.io/docs/language/functions/lookup.html) the iprange of node `2` and initially load it with `""`
 

@@ -46,4 +46,5 @@ function getClient(): GridClient {
     return new GridClient(config.twin_id, config.url, config.mnemonic, rmb);
 }
 ```
-Please check [Get started](terraform_get_started) section for detailed explanation, and to explore capacity you can use [explorer-ui](@grid3_explorer) 
+
+> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.

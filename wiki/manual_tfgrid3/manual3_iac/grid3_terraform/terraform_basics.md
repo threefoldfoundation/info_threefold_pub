@@ -34,4 +34,6 @@ provider "grid" {
 
 
 
-Please check [Get started](terraform_get_started) section for a detailed walkthrough, and to explore capacity you can use [explorer-ui](@grid3_explorer) 
+Please check [Get started](terraform_get_started) section for a detailed walkthrough
+
+> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.

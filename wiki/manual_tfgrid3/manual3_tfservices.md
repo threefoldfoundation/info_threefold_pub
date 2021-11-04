@@ -7,7 +7,9 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 
 ## devnet
 
-- [TFChain](wss://tfchain.dev.grid.tf)
+TODO: fixme `wss://` for tfchain
+
+- [TFChain](https://tfchain.dev.grid.tf) `wss://tfchain.dev.grid.tf`
 - [GraphQL](https://graphql.dev.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.dev.grid.tf)
 - [Activation Service](https://activation.dev.grid.tf)
@@ -19,8 +21,8 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 
 ## testnet
 
-
-- [TFChain](wss://tfchain.test.grid.tf)
+TODO: fixme `wss://`for tfchain
+- [TFChain](https://tfchain.test.grid.tf) `wss://tfchain.test.grid.tf`
 - [GraphQL](https://graphql.test.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.test.grid.tf)
 - [Activation Service](https://activation.test.grid.tf)
@@ -34,8 +36,8 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 > NOTE: this is still under construction
 > 
 
-
-- [TFChain](wss://tfchain.grid.tf)
+TODO: fixme wss:// for tfchain
+- [TFChain](https://tfchain.grid.tf) `wss://tfchain.grid.tf`
 - [GraphQL](https://graphql.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.grid.tf)
 - [Activation Service](https://activation.grid.tf)

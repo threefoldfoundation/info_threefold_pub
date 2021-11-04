@@ -1,7 +1,5 @@
 ## What's new ?
 
-TFGrid 3.0 is a full redesign of the ThreeFold Grid architecture. The main purpose of this redesign is to decentralize all the components that the Grid is built with. 
-
 ### TFChain 3.0
 
 A decentralised chain holding all information on entities that make up the ThreeFold Grid. It runs on Parity Substrate blockchain infrastructure.

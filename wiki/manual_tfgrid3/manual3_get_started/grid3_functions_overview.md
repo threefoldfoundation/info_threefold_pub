@@ -14,19 +14,21 @@ Important for users now :
 | `createFarm(name, publicIps)` | Create a new farm |
 | `createTwin(ip)` | Create a Twin with an IP address where the twin can be found in the planetary network |  
 | `deleteFarm(id)` | Delete a farm with the specified id |
-| `deleteNode(id)` | Delete the node with the specified id |
-| `deleteTwin(TwinId)` | Delete a Twin with the specified TwinID |
 | `removeFarmIp(id, ip)` | Remove IP address from a farm. |
 | `setFarmCertification(farmId, certificationType)` |
 | `updateFarm(id, name, pricingPolicyId)` | Update farm variables |
-| `updateNode(nodeId, farmId, resources, location, country, city, publicConfig)` | Update node variables |
 | `updateTwin(ip)` | Update the IP address of the Twin on Planetary Network |
+| `deleteTwin(TwinId)` | Delete a Twin with the specified TwinID |
 
-Other functions : 
+
+Other functions (not to be used manually, or for later usage): 
 
 | Function | Description | Example |
 |------|-------|----------|
 | Part of extrinsic __tfgridModule__ |
+| `createNode(farmId, resources, location, country, city, interfaces)` | Create a node linked to the farmID. __Remark__: this function is done during the node boodstrap process, no value in adding a node manually as node will be considered as 'down' |
+| `updateNode(nodeId, farmId, resources, location, country, city, publicConfig)` | Update node variables |
+| `deleteNode(id)` | Delete the node with the specified id |
 | `addTwinEntity(twinID, entityID, signature)` |
 | `createCertificationCode(name, description, certificationCodeType)` |
 | `createEntity(target, name, country, city, signature)` |

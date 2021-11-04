@@ -2,7 +2,7 @@
 
 Here you'll find all of the information you need to create your first deployment on ThreeFold Grid 3.0 using Terraform. We'll walk through how to setup a wallet and Twin on TF Chain, how to install Terraform, and how to use Terraform to provision a basic virtual machine.
 
-Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is only supported for Linux and MacOS. Windows support is planned for the future.
+Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is supported on Linux and MacOS. Windows
 
 please make sure to read [What you need to know before getting started](grid3_developer_basics)
 

@@ -9,10 +9,6 @@ Note that exchanges and wallets have restrictions on where they can sell crypto.
 
 !!!include:tft_ways_to_buy_include
 
-<!-- ## NEW: Buy TFT in-app with BTC
-
-The new version of the ThreeFold Connect app allows to buy TFT directly using BTC in the ThreeFold Connect app. Find more instructions [here](threefold_connect_btc). -->
-
 ## Buy TFT using a VISA card
 
 If Liquid's Quick Exchange is available in your country and that you have a VISA card, this is the easiest way to buy TFT. You can buy without a KYC procedure up-to $150, and more if you do the KYC. 

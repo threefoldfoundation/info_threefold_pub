@@ -1,6 +1,7 @@
 # TFT on Binance Smart Chain
 
-TFT is implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
+The main home for TFT is Stellar network. You will need TFT on Stellar in order to reserve capacity on ThreeFold Grid. 
+On the [Binance Smart Chain (BSC)] TFT is implemented as a cross-chain asset (BToken) (https://www.binance.org/en/smartChain).
 
 TFT can be transferred between Stellar and BSC through a Stellar-BSC Bridge. 
 

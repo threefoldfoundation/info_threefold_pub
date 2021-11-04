@@ -32,7 +32,7 @@ Choose one of the following mechanisms to go from a digital currency like XLM to
 - [wallet solar](solar_wallet) = desktop, needs install
 - [wallet Lobstr](lobstr_wallet) = desktop, needs install
 - [stellarx](tft_stellarx) = web based, gives you a trading view
-- [Interstellar](tft_interstellar) = web based, more for traders
+- [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available.
 
 Please let us know which method you prefer.
 

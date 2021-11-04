@@ -71,6 +71,7 @@ output "fqdn" {
 }
 ```
 
+Please check [Get started](terraform_get_started.md) section for detailed explanation
 
 
 !!!include terraform_outputs

@@ -213,11 +213,11 @@ So to add a VM
   }
 ```
 - We give it a name within our deployment `vm1`
-- define the flist to run within the VM
-- define the cpu and memory
-- define if it requires a public IP or not
-- define the entrypoint which in most of the cases in `/sbin/zinit init`, but in case of flists based on containers it can be specific to each flist
-- then we define te environment variables, in this example we define `SSH_KEY` to authorize me accessing the machine
+- `flist` is used to  define the [flist](zos_fs) to run within the VM. Check the [supported flists](grid3_supported_flists)
+- `cpu` and `memory` are used to define the cpu and memory
+- `publicip` is usued to define if it requires a public IP or not
+- `entrypoint` is used define the entrypoint which in most of the cases in `/sbin/zinit init`, but in case of flists based on containers it can be specific to each flist
+- `env_vars` are used to define te environment variables, in this example we define `SSH_KEY` to authorize me accessing the machine
 
 Here we say we will have this deployment on node with `twin ID 2` using the overlay network defined from before `grid_network.net1.name` and use the ip range allocated to that specific node `2`
 

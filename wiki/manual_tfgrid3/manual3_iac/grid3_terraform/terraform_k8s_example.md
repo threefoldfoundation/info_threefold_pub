@@ -9,4 +9,7 @@ In this example we will see how to deploy a kubernetes cluster on the Threefold 
 A complete list of k8s resource parameters can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/resources/kubernetes.md).
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/k8s/main.tf'
 
+Please check [Get started](terraform_get_started.md) section for detailed explanation
+
+
 !!!include terraform_outputs

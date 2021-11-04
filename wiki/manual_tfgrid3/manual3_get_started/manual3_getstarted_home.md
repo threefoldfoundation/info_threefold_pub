@@ -7,8 +7,11 @@ Steps:
 
 - Install the [Planetary Network](grid3_planetary_network)
 - Create your account and twin on TFChain
+  - [TFGrid Portal](manual3_portal_home)
   - [TFchain devnet](grid3_tfchain_init_devnet)
   - [TFchain testnet](grid3_tfchain_init_testnet)
+
+> NOTE: [TFGrid Portal](manual3_portal_home) is still in the works, but after being released it will be the only place to interact with the Threefold blockchain.
 
 Once you have installed the TFChain toolkit, you can start 
 

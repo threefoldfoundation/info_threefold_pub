@@ -1,4 +1,6 @@
 ## TFChain on Testnet
+> NOTE: [TFGrid Portal](manual3_portal_home) is still in the works, but after being released it will be the only place to interact with the Threefold blockchain. and this  section will be obsolete
+
 
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 

@@ -16,10 +16,12 @@ Steps:
 Once you have installed the TFChain toolkit, you can start 
 
 - Using the TFGrid:  
+  - [Exploring capacity](grid3_explorer)
+    - [GraphQL examples](explorer_graphql_examples)
   - Use [Terraform](grid3_terraform_home)
   - Deploy using [CapRover](terraform_caprover)
   - Using [Javascript clients](grid3_javascript_home) 
-
+  
 - Farming
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)

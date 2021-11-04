@@ -8,6 +8,4 @@ A complete list of VM workload parameters can be found [here](https://github.com
 
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/singlenode/main.tf'
 
-Please check [Get started](terraform_get_started.md) section for detailed explanation
-
 !!!include terraform_outputs

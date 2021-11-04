@@ -32,3 +32,6 @@ provider "grid" {
 - to see the state `terraform show`
 - to destroy `terraform destroy -parallelism=1`
 
+
+
+Please check [Get started](terraform_get_started) section for a detailed walkthrough, and to explore capacity you can use [explorer-ui](@grid3_explorer) 

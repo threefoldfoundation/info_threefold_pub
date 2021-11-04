@@ -46,3 +46,4 @@ function getClient(): GridClient {
     return new GridClient(config.twin_id, config.url, config.mnemonic, rmb);
 }
 ```
+Please check [Get started](terraform_get_started) section for detailed explanation, and to explore capacity you can use [explorer-ui](@grid3_explorer) 

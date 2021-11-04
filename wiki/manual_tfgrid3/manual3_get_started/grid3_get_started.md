@@ -19,9 +19,8 @@ Once you have installed the TFChain previous requirements, you can start
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)
 
-- [Devnet Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)
-- [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
-
+- [Exploring capacity](grid3_explorer)
+- 
 - [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
 
 - [TF-Chain Functions overview](grid3_functions_overview)

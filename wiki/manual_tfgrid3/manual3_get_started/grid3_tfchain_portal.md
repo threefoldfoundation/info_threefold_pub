@@ -34,7 +34,6 @@ You now have an account, but it's inactive and does not contain any TFT. Click o
 
 ![](img/grid3_portal_activate_account.png)
 
-Every update on the blockchain requires a small amount of TFT. To get you started easily, 1 TFT is transferred to the account during activation. 
 
 ## Create a Twin
 

@@ -4,9 +4,7 @@ In this section we describe the different installations needed to get started wi
 
 Steps:
 - Install the [Planetary Network](grid3_planetary_network) 
-- Create your account and twin on TFChain
-  - [TFchain devnet](grid3_tfchain_init_devnet)
-  - [TFchain testnet](grid3_tfchain_init_testnet)
+- Create your account and twin on [TFChain](grid3_tfchain_init)
 
 Once you have installed the TFChain previous requirements, you can start 
 
@@ -16,6 +14,7 @@ Once you have installed the TFChain previous requirements, you can start
   - Deploy in VDC (Under Construction)
 
 - Farming
+  - [Portal info](grid3_tfchain_portal)
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)
 

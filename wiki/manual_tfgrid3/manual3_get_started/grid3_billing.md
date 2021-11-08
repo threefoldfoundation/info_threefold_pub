@@ -22,7 +22,7 @@ TF Chain enables a new billing model, where deployers authorize a smart contract
 
 Deployers may choose to fund their wallets with large or small amounts at a time, according to their preferences.
 
-Through this mechanism, post-billing becomes the standard way of paying for capacity on the ThreeFold Grid. Used hardware resources are calculated and paid for on an hourly base. Zero-OS sends hourly a billing record to TF-Chain on an hourly basis, where it is registered. The first hour is being taken care of by Zero-OS, resulting in a post-billing payment scheme. 
+Through this mechanism, post-billing becomes the standard way of paying for capacity on the ThreeFold Grid. Used hardware resources are calculated and paid for on an hourly base. Zero-OS sends a billing record to TF-Chain on an hourly basis, where it is registered. The first hour is being taken care of by Zero-OS, resulting in a post-billing payment scheme. 
 
 These resources are a combination of cloud units : 
 - Compute resources ("CU")

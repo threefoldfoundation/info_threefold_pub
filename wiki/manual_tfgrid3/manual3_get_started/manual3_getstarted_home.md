@@ -6,12 +6,7 @@ In this section we describe the different installations needed to get started wi
 Steps:
 
 - Install the [Planetary Network](grid3_planetary_network)
-- Create your account and twin on TFChain
-  - [TFGrid Portal](manual3_portal_home)
-  - [TFchain devnet](grid3_tfchain_init_devnet)
-  - [TFchain testnet](grid3_tfchain_init_testnet)
-
-> NOTE: [TFGrid Portal](manual3_portal_home) is still in the works, but after being released it will be the only place to interact with the Threefold blockchain.
+- Create your account and twin on [TFChain](grid3_tfchain_init)
 
 Once you have installed the TFChain toolkit, you can start 
 
@@ -23,6 +18,7 @@ Once you have installed the TFChain toolkit, you can start
   - Using [Javascript clients](grid3_javascript_home) 
   
 - Farming
+  - [Portal info](grid3_tfchain_portal)
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)
   - [Booting a node](booting_node)
@@ -30,4 +26,10 @@ Once you have installed the TFChain toolkit, you can start
   - [Billing](@grid3_billing)
   - [Learn About TFGrid 3](@manual3_tfgrid_home)
   
+## Website overview
+
+- [Devnet Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)
+- [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
+- [TFGrid Portal Devnet](https://portal.tfchain.dev.threefold.io/)
+- [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
   

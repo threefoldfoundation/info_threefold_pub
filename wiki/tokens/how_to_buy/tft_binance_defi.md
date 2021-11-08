@@ -17,7 +17,7 @@ Binance Smart Chain (BSC) is a blockchain network built for running smart contra
 - Instructions to set up Metamask for BSC: [here](tft_bsc_metamask)
 - Instructions to set up Trust Wallet for BSC: [here](tft_bsc_trustwallet)
 2. You will need BNB in that wallet to cover transaction fees. Low amounts are sufficient, as the average transaction on BSC does not exceed 50 ct USD.
-3. Go to [Exchange PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf) and wait for TFT to appear. This may take a few seconds.
+3. Go to [Exchange PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf) and wait for TFT to appear. If it does not appear, open select token dialog, paste TFT Contract address (0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf) and click checkbox “I Understand”. This may take a few seconds. This may take a few seconds.
 > Again, please note it is very important to use the official contract address: **0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf**. Do not use links or contract addresses from unverified sources!!
 4. Click through the security warning.
 

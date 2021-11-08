@@ -46,8 +46,7 @@ We leverage the VM primitive to allow provisioning kubernetes clusters across mu
 
 
 ## Exploring the capacity
-You can easily check using [explorer-ui](@grid3_explorer) 
-
+You can easily check using [explorer-ui](@grid3_explorer) , also to plan your deployment you can use these [example queries](explorer_graphql_examples)
 
 ## Getting started
 

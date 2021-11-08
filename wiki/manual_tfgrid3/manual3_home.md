@@ -19,8 +19,10 @@ The blockchain we use is based on Parity-Substrate and we want to integrate late
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 
 - [What's New](grid3_new)
-- [Getting Started](grid3_get_started) on Grid 3
-
+- [Grid Overview](manual3_tfgrid_home)
+- [Exploring capacity](grid3_explorer)
+- [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
+- 
 Once you have installed the TFChain toolkit, you can
 
 - Start farming
@@ -29,10 +31,8 @@ Once you have installed the TFChain toolkit, you can
 
 - Start using the TFGrid
   - Use [Terraform](grid3_terraform_home)
-  - Deploy using CapRover (Under Construction)
-  - Deploy in VDC (Under Construction)
+  - [Deploy using CapRover](terraform_caprover)
+  - [TypeScript Client](grid3_javascript_home)
+  - [Graphql Client](graphql)
+  - 
 
-- [Grid Overview](manual3_tfgrid_home)
-
-- [TypeScript Client](grid3_javascript_home)
-- [Graphql Client](graphql)

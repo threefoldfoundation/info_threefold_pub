@@ -19,3 +19,5 @@
 **Wallets Binance Smartchain**
 - [Metamask Wallet](tft_bsc_metamask)
 - [Trust Wallet](tft_bsc_trustwallet)
+**Bridges**
+- [Stellar - Binance SmartChain](tft_bsc_bridge)

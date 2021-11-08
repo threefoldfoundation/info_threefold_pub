@@ -1,5 +1,8 @@
 # Transferring TFT between Stellar and TF-Chain
 
+!!!include grid3_portal_notice
+
+
 > NOTE: We are working hard to have the runtime environments running in a fully stable manner. However, as we're still in test phase, it is recommended not to send too many tokens to TF-Chain for testing, until a further notice.
 
 This document will explain how you can transfer TFT from TF-Chain to Stellar and back.

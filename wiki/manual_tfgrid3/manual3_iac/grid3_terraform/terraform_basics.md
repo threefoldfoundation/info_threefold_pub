@@ -29,6 +29,11 @@ provider "grid" {
 
 - to execute a terraform file `terraform apply -parallelism=1`
 - to see the output `terraform output`
-- to see the state `terraform showstate`
+- to see the state `terraform show`
 - to destroy `terraform destroy -parallelism=1`
 
+
+
+Please check [Get started](terraform_get_started) section for a detailed walkthrough
+
+> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.

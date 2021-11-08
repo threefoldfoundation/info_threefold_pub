@@ -4,7 +4,7 @@
 
 ### Example code
 
-!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/singleVM.ts
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/single_vm.ts
 
 
 ### Detailed explanation
@@ -61,7 +61,7 @@ We need to specify its
 - disks: disks model collection
 - memory
 - root filesystem size
-- flist: the image it is going to start from
+- flist: the image it is going to start from. Check the [supported flists](grid3_supported_flists)
 - entry point: entrypoint command / script to execute
 - env: has the environment variables needed e.g sshkeys used
 - public ip: if we want to have a public ip attached to the VM

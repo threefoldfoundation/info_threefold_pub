@@ -2,14 +2,14 @@
 
 Here you'll find all of the information you need to create your first deployment on ThreeFold Grid 3.0 using Terraform. We'll walk through how to setup a wallet and Twin on TF Chain, how to install Terraform, and how to use Terraform to provision a basic virtual machine.
 
-Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is only supported for Linux and MacOS. Windows support is planned for the future.
+Please note that for now our [Terraform plugin](https://github.com/threefoldtech/terraform-provider-grid) is supported on Linux and MacOS. Windows
 
 please make sure to read [What you need to know before getting started](grid3_developer_basics)
 
 Steps:
 
-- [Install and configure Yggdrasil](planetary_network)
-- Create wallet and twin on TF Chain
+- Create wallet, twin on TF Chain and access your mnemonics
+  - [Grid porta](manual3_portal_home)
   - On [Devnet](grid3_tfchain_init_devnet)
   - On [Testnet](grid3_tfchain_init_testnet)
 - [Install Terraform](terraform_install)
@@ -178,6 +178,12 @@ It's bit long for sure but let's try to dissect it a bit
   ip_range = lookup(grid_network.net1.nodes_ip_range, 2, "")
 ```
 
+- `node=2` means this deployment will happen on node with id `2`. Please note the choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.
+- `network_name` which network to deploy our project on, and here  we choose the `name` of network `net1`
+- `ip_range` here we [lookup](https://www.terraform.io/docs/language/functions/lookup.html) the iprange of node `2` and initially load it with `""`
+
+> Advannced note: Direct map access fails during the planning if the key doesn't exist which happens in cases like adding a node to the network and a new deployment on this node. So it's replaced with this to make a default empty value to pass the planning validation and it's validated anyway inside the plugin.
+
 #### VMs 
 
 in terraform you can define items of a list like the following
@@ -207,11 +213,11 @@ So to add a VM
   }
 ```
 - We give it a name within our deployment `vm1`
-- define the flist to run within the VM
-- define the cpu and memory
-- define if it requires a public IP or not
-- define the entrypoint which in most of the cases in `/sbin/zinit init`, but in case of flists based on containers it can be specific to each flist
-- then we define te environment variables, in this example we define `SSH_KEY` to authorize me accessing the machine
+- `flist` is used to  define the [flist](zos_fs) to run within the VM. Check the [supported flists](grid3_supported_flists)
+- `cpu` and `memory` are used to define the cpu and memory
+- `publicip` is usued to define if it requires a public IP or not
+- `entrypoint` is used define the entrypoint which in most of the cases in `/sbin/zinit init`, but in case of flists based on containers it can be specific to each flist
+- `env_vars` are used to define te environment variables, in this example we define `SSH_KEY` to authorize me accessing the machine
 
 Here we say we will have this deployment on node with `twin ID 2` using the overlay network defined from before `grid_network.net1.name` and use the ip range allocated to that specific node `2`
 
@@ -266,7 +272,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -348,7 +353,6 @@ terraform {
   required_providers {
     grid = {
       source = "threefoldtech/grid"
-      version = "0.1.8"
     }
   }
 }
@@ -487,8 +491,9 @@ We will be mainly interested in the master node public ip `computed IP` and the 
 You can check the examples repo [here](https://github.com/threefoldtech/terraform-provider-grid/tree/development/examples)
 
 
-### Current limitation
+### Current limitations
 
 - [parallelism=1](https://github.com/threefoldtech/terraform-provider-grid/issues/12)
 - [increasing IPs in active deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/15)
 - [introducing new nodes to kuberentes deployment](https://github.com/threefoldtech/terraform-provider-grid/issues/13)
+- [Multiple deployments on the same node](https://github.com/threefoldtech/terraform-provider-grid/issues/11)

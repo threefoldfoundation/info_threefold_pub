@@ -46,3 +46,5 @@ function getClient(): GridClient {
     return new GridClient(config.twin_id, config.url, config.mnemonic, rmb);
 }
 ```
+
+> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.

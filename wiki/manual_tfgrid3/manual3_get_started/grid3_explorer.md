@@ -54,3 +54,6 @@ Info on TFChain is indexed over GraphQL and is available for queries.
 
 ## Reporting issues
 Please open a github issue in [grid_explorer_ui repo](https://github.com/threefoldtech/grid_explorer_ui)
+
+
+Also to plan your deployment beyond the explorer capabilities you can use these [graphql example queries](explorer_graphql_examples)

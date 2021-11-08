@@ -16,7 +16,7 @@ Liquid is a highly-reputable and highly-secure exchange and we are proud to have
 
 3. You’ll be asked to confirm your email. So, please check your inbox.
   a. When you click “confirm” within the email, you will be taken back to Liquid
-4. Within a few minutes, you will receive an email confirming your account and an email regarding one last verification. It looks like Liquid is testing the sign-up process. It seems that some people will be asked to verify on the website, while others will be given the option to verify via video call. Follow the instructions in the email you receive. Although, see our note below to complete your verification.
+4. Within a few minutes, you will receive an email confirming your account and an email regarding verification. Follow the instructions in the email you receive. Although, see our note below to complete your verification.
 
 *Note: If you’re not given the option to verify via video but would like to do so, follow the instructions [here](https://help.liquid.com/en/articles/3104816-video-call-kyc-verification). If you choose to verify via the website, [here is a full explanation](https://help.liquid.com/en/articles/2273305-how-do-i-verify-kyc-my-liquid-account) of how to do so & what you will need.*
 
@@ -37,8 +37,8 @@ It's quite simple to set up two-factor authentication (2FA) – and from a secur
     - A trading pair is basically a currency which can be used to exchange or trade with another currency
     - **If you need help on trading, you can find it [here](https://help.liquid.com/en/articles/2275743-how-do-i-make-a-spot-trade)**
 3. Now you can start buying TFT
-    - If you want to trade BTC, click [here](https://app.liquid.com/exchange/TFTBTC)
-    - If you want to trade with USDT, click [here](https://app.liquid.com/exchange/TFTUSDT)
+    - If you want to trade on TFT/BTC pair, click [here](https://app.liquid.com/exchange/TFTBTC)
+    - If you want to trade on TFT/USDT, click [here](https://app.liquid.com/exchange/TFTUSDT)
 
 **Liquid has some [helpful guides](https://help.liquid.com/en/collections/1110080-getting-started-with-your-liquid-account) with everything from getting set up to depositing currencies, trading, and withdrawing – and a good support team.**
 

@@ -6,9 +6,7 @@ In this section we describe the different installations needed to get started wi
 Steps:
 
 - Install the [Planetary Network](grid3_planetary_network)
-- Create your account and twin on TFChain
-  - [TFchain devnet](grid3_tfchain_init_devnet)
-  - [TFchain testnet](grid3_tfchain_init_testnet)
+- Create your account and twin on [TFChain](grid3_tfchain_init)
 
 Once you have installed the TFChain toolkit, you can start 
 

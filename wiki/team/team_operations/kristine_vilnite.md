@@ -3,7 +3,7 @@
 
 ![kristine_vilnite](img/kristine_vilnite.jpg)
 
-- Partnerships / Product Management (Jubebox for Blockchain)
+- Project Management / Onboarding Coordination
 - [LinkedIn](https://www.linkedin.com/in/kristinevilnite/)
 
 A loving, kind, explorer fully dedicating her professional path to build a sustainable foundation for the future. Kristine is a compassionate innovator, founder, advisor, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm.

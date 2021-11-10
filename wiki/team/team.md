@@ -10,15 +10,7 @@ Our team has achieved **6** previous major exits within the IT domain, mainly to
 
 Total exit value **+500m USD** at an average **60X revenue** for each company.
 
-<br/>
-
-![team](img/team.jpg)
-
-<br/>
-
-<!-- tabs:start --> 
-
-#### ** Coord **
+## Coordination
 
 | Name                                           | Position                                                  | Organization      |
 | ---------------------------------------------- | --------------------------------------------------------- | ----------------- |
@@ -30,30 +22,29 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Ewald Weizenbauer](ewald_weizenbauer)         | CCO + Funding (50% of time)                               | TF Tech           |
 | [Karoline Zizka](karoline_zizka)               | Operations / Administration / PA Kristof                  | TF Tech           |
 | [Andrea Castiglione](andrea_castiglione)       | Main driver for tokenlaunch, network & partners (partime) | TF Dubai          |
-| [Kristine Vilnite](kristine_vilnite)           | Project Management                                        | TF Dubai          |
-| [Roel van Sabben](roel_van_sabben)             | Farming Coordination & Sales                              | TF Tech           |
-| [Sabrina Sadik](sabrina_sadik)                 | Community & TFGrid Support Coordination                   | TF Tech           |
+| [Kristine Vilnite](kristine_vilnite)           | Project Management / Onboarding Coordinati                | TF Dubai          |
+| [Sabrina Sadik](sabrina_sadik)                 | Operations & TFGrid Support Coordination                  | TF Tech           |
 
-#### ** BizDev **
+## BizDev
 
 | Name                                     | Position                                                          | Organization |
 | ---------------------------------------- | ----------------------------------------------------------------- | ------------ |
-| [Christhoper Hutton](christhoper_hutton) | Head Business Development, Financial Management (P&L)             | TF Tech      |
+| [Chris Hutton](christhoper_hutton) | Head Business Development, Financial Management (P&L)                   | TF Tech      |
 | [Owen Kemp](owen_kemp)                   | TFTech Funding, Ambassador Coordinator                            | TF Tech      |
 | [Andreas Hartl](andreas_hartl)           | Farming Business Development  + TFGrid Operations (grow the grid) | TF Tech      |
 | [Maximilian Rang](maximilian_rang)       | Business development for Crypto Community                         | TF Dubai     |
-| [Nickolay Babenko](nickolay_babenko)       | Business Development & Tokenomics                        | TF Dubai     |
+| [Nickolay Babenko](nickolay_babenko)       | Business Development & Tokenomics                               | TF Dubai     |
 
-#### ** Promotion **
+## Promotion
 
 | Name                               | Position                           | Organization |
 | ---------------------------------- | ---------------------------------- | ------------ |
 | [Sacha Obeegadoo](sacha_obeegadoo) | Promotion/Marketing Coordinator    | TF Dubai     |
 | [Sam Taggart](sam_taggart)         | Communication & Internal Community | TF Dubai     |
-| [Maximilian Rang](maximilian_rang) | Marketing for Crypto Community     | TF Dubai     |
+| [Hannah Cordes](hannah_cordes)     | Copywriter, Content creator        | TF Dubai     |
 
 
-#### ** Community **
+## Community
 
 | Name                                     | Position                                        | Organization |
 | ---------------------------------------- | ----------------------------------------------- | ------------ |
@@ -62,7 +53,7 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Fernando del Sol](fernando_del_sol)     | Community builder  (burning man)                | External     |
 | [Benjelloun Oussama](benjelloun_oussama) | Blockchain partnerships & communities           | TF Dubai     |
 
-#### ** Tech **
+## Tech
 
 | Name                                           | Position                                                         | Organization |
 | ---------------------------------------------- | ---------------------------------------------------------------- | ------------ |
@@ -70,20 +61,15 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Rob van Mieghem](rob_van_mieghem)             | Master Architect Blockchain + Engineering Coordination           | TF Tech      |
 | [Jan de Landtsheer](jan_de_landtsheer)         | Master Architect ZOS                                             | TF Tech      |
 | [Weynand Kuijpers](weynand_kuijpers)           | QA Manager + Pre-sales + Product Management Quantum Safe Storage | TF Tech      |
-| [Kristine Vilnite](kristine_vilnite)           | Product Management Jukebox for Blockchain                        | TF Tech      |
 | [Reem Khamis](reem_khamis)                     | Team Lead Cairo 1                                                | TF Tech      |
 | [Ahmed Thabet](ahmed_thabet)                   | Team Lead Cairo 2                                                | TF Tech      |
 | [Lee Smet](lee_smet)                           | Lead Developer ZOS / Blockchain                                  | TF Tech      |
 | [Maxime Daniel](maxime_daniel)                 | Lead Developer Storage Components                                | TF Tech      |
-| [Hamdy Farag](hamdy_farag)                     | Lead Developer Digital Twin                                      | TF Tech      |
 | [Jonas Delrue](jonas_delrue)                   | Teamlead Digital Twin (parttime)                                 | TF Tech      |
-| [Muhammed Azmy](data:muhammed_azmy)                   | BE Team Lead                                 | TF Tech      |
+| [Muhammed Azmy](muhamad_azmy)                  | BE Team Lead                                                     | TF Tech      |
 | [Sasha Astiadi](sasha_astiadi)                 | Coordination / Administration                                    | TF Tech      |
 | [Geert Machtelinckx](geert_machtelinckx)       | Tech Writing, Testing, Coordination                              | TF Tech      |
 
-
-
-<!-- tabs:end -->
 
 > Some people are on multiple tabs, because they have multiple roles
 

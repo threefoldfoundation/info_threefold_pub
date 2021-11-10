@@ -2,22 +2,22 @@
 
 ### What is CapRover?
 
-CapRover is an easy-to-use app/database deployment and web server manager that works for a variety of applications such as Node.js, Ruby, PHP, Postgres, and MongoDB. It runs fast and is very robust, as it uses Docker, Nginx, LetsEncrypt, and NetData under the hood behind its user-friendly interface.
-Here’s a link to CapRover's open source repository on [GitHub](https://github.com/caprover/caprover)
+[CapRover](https://caprover.com/) is an easy-to-use app/database deployment and web server manager that works for a variety of applications such as Node.js, Ruby, PHP, Postgres, and MongoDB. It runs fast and is very robust, as it uses Docker, Nginx, LetsEncrypt, and NetData under the hood behind its user-friendly interface.
+Here’s a link to CapRover's open source repository on [GitHub](https://github.com/caprover/caprover).
 
 ### Features of Caprover:
 
 - CLI for automation and scripting
 - Web GUI for ease of access and convenience
-- No lock-in! Remove CapRover and your apps keep working!
-- Docker Swarm under the hood for containerization and clustering
-- Nginx (fully customizable template) under the hood for load-balancing
-- Let’s Encrypt under the hood for free SSL (HTTPS)
-- One-Click Apps: Deploying one-click apps is a matter of seconds! MongoDB, Parse, MySQL, WordPress, Postgres and many more.
-- Fully Customizable: Optionally fully customizable nginx config allowing you to enable HTTP2, specific caching logic, custom SSL certs and etc
-- Cluster Ready: Attach more nodes and create a cluster in seconds! CapRover automatically configures nginx to load balance.
-- Increase Productivity: Focus on your apps! Not the bells and whistles just to run your apps!
-- Easy Deploy: Many ways to deploy. You can upload your source from dashboard, use command line caprover deploy, use webhooks and build upon git push
+- No lock-in: Remove CapRover and your apps keep working !
+- Docker Swarm under the hood for containerization and clustering.
+- Nginx (fully customizable template) under the hood for load-balancing.
+- Let’s Encrypt under the hood for free SSL (HTTPS).
+- __One-Click Apps__ : Deploying one-click apps is a matter of seconds! MongoDB, Parse, MySQL, WordPress, Postgres and many more.
+- __Fully Customizable__ : Optionally fully customizable nginx config allowing you to enable HTTP2, specific caching logic, custom SSL certs and etc.
+- __Cluster Ready__ : Attach more nodes and create a cluster in seconds! CapRover automatically configures nginx to load balance.
+- __Increase Productivity__ : Focus on your apps ! Not the bells and whistles, just to run your apps.
+- __Easy Deploy__ : Many ways to deploy. You can upload your source from dashboard, use command line caprover deploy, use webhooks and build upon git push
 
 ### Pre-requisites
 
@@ -31,9 +31,9 @@ Here’s a link to CapRover's open source repository on [GitHub](https://github.
 
 ### How to run CapRover on ThreeFold Grid 3:
 
-In this guide, we will use Caprover to setup your own private Platform as a service (PaaS) on ThreeFold grid 3 infrastructure.
+In this guide, we will use Caprover to setup your own private Platform as a service (PaaS) on TFGrid 3 infrastructure.
 
-#### clone the project repo
+#### Clone the project repo
 
 ```sh
 git clone https://github.com/freeflowuniverse/freeflow_caprover.git
@@ -41,9 +41,9 @@ git clone https://github.com/freeflowuniverse/freeflow_caprover.git
 
 #### A) leader node deployment/setup:
 
-##### step 1: Deploy a leader Node
+##### step 1: Deploy a Leader Node
 
-Create a leader caprover node using terraform, here's ann example
+Create a leader caprover node using terraform, here's an example :
 
 ```
 terraform {
@@ -161,16 +161,16 @@ output "vm_public_ip" {
   zinit log caprover
   ```
 
-  you will see output like this:
+  You will see output like this:
 
   ```bash
-  root@caprover:~# zinit list
+  root@caprover:~ # zinit list
   sshd: Running
   containerd: Running
   dockerd: Running
   sshd-init: Success
   caprover: Running
-  root@caprover:~# zinit log caprover
+  root@caprover:~ # zinit log caprover
   [+] caprover: CapRover Root Domain: newapps.grid.tf
   [+] caprover: {
   [+] caprover:             "namespace": "captain",
@@ -279,11 +279,11 @@ output "vm_public_ip" {
   [+] caprover: ===================================
   ```
 
-  wait until you see \***\* Installation is done! \*\*\*** in the caprover service log
+  Wait until you see \***\* Installation is done! \*\*\*** in the caprover service log.
 
-##### step 2: Connect Root Domain
+##### Step 2: Connect Root Domain
 
-After the container runs, you will now need to connect your Caprover instance to a Root Domain.
+After the container runs, you will now need to connect your CapRover instance to a Root Domain.
 
 Let’s say you own example.com. You can set \*.something.example.com as an A-record in your DNS settings to point to the IP address of the server where you installed CapRover. To do this, go to the DNS settings in your domain provider website, and set a wild card A record entry.
 
@@ -343,11 +343,11 @@ Now CapRover is ready and running in a single node.
   - Generated token `SWMTKN-1-0892ds1ney7pa0hymi3qwph7why1d9r3z6bvwtin51r14hcz3t-cjsephnu4f2ezfpdd6svnnbq7`
   - Leader node public ip `185.206.122.33`
 
-This information is required in the next section to run Caprover in cluster mode.
+This information is required in the next section to run CapRover in cluster mode.
 
-#### B) Worker node deployment/setup:
+#### B) Worker Node Deployment/setup:
 
-##### step 1: Deploy a worker Node
+##### Step 1: Deploy a Worker Node
 
 example worker terraform file
 
@@ -448,16 +448,16 @@ output "vm_public_ip" {
   - In the `SWMTKN` env var value put the previously generated token.
   - In the `LEADER_PUBLIC_IP` env var value put the leader node public ip.
 
-- save the file, and execute the following commands:
+- Save the file, and execute the following commands:
 
   ```bash
   terraform init
   terraform apply -parallelism=1
   ```
 
-- wait till you see `apply complete`, and note the VM public ip in the final output.
+- Wait till you see `apply complete`, and note the VM public ip in the final output.
 
-- verify the status of the VM
+- Verify the status of the VM.
 
   ```bash
   ssh root@{public_ip_address}
@@ -465,7 +465,7 @@ output "vm_public_ip" {
   zinit log caprover
   ```
 
-  you will see output like this:
+  You will see output like this:
 
   ```bash
   root@caprover:~# zinit list
@@ -481,14 +481,13 @@ output "vm_public_ip" {
 
 This means that your worker node is now ready and have joined the cluster successfully.
 
-You can also verify this from capRover dashboard in `Cluster` tab, check
-`Nodes` section, you should be able to see the new worker node added there.
+You can also verify this from CapRover dashboard in `Cluster` tab. Check `Nodes` section, you should be able to see the new worker node added there.
 
-Now CapRover is ready in cluster mode(more than one server).
+Now CapRover is ready in cluster mode (more than one server).
 
 To run One-Click Apps please follow this [tutorial](https://caprover.com/docs/one-click-apps.html)
 
-### Implementations details:
+### Implementations Details:
 
 - we use Ubuntu 18.04 to minimize the production issues as CapRover is tested on Ubuntu 18.04 and Docker 19.03.
 - In standard installation, CapRover has to be installed on a machine with a public IP address.

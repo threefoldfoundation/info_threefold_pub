@@ -16,7 +16,7 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 
 <br/>
 
-<!-- tabs:start -->
+<!-- tabs:start --> 
 
 #### ** Coord **
 

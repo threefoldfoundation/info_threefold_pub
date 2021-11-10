@@ -1,1 +1,1 @@
-> NOTE: [TFGrid Portal](manual3_portal_home) is still in the works, but after being released it will be the only place to interact with the Threefold blockchain. and this section will be obsolete, the  portal covers bridging money, account activation, twin and farm management.
+> NOTE: [TFGrid Portal](grid3_tfchain_portal) is still in the works, but after being released it will be the only place to interact with the Threefold blockchain. and this section will be obsolete, the  portal covers bridging money, account activation, twin and farm management.

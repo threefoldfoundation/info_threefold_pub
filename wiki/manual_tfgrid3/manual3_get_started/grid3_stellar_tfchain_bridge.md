@@ -6,7 +6,7 @@
 
 This document will explain how you can transfer TFT from TF Chain to Stellar and back.
 
-Note: Bridge is connected Stellar Testnet for now.
+Note: The Bridge described below is for devnet, connected to Stellar Testnet.
 
 ## Prerequisites
 
@@ -40,10 +40,10 @@ To deposit to a TF Grid object, this object **must** exists. If the object is no
 ## TF Chain to Stellar
 
 Create a TF Chain account from the key that you generated. (TF Chain raw seed).
-Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/accounts -> Add Account -> Click on mnemonic and select `Raw Seed` -> Paste raw TF Chain seed. 
+Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf#/accounts -> Add Account -> Click on mnemonic and select `Raw Seed` -> Paste raw TF Chain seed. 
 Select `Advanced creation options` -> Click `Schnorrkel (sr25519)` -> Select `Edwards (ed25519)`. Click `I have saved my mnemonic seed safely` and proceed.
 
-Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.threefold.io#/extrinsics , select tftBridgeModule and extrinsic: `swap_to_stellar`. Provide your substrate address and amount.
+Browse to https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf#/extrinsics , select tftBridgeModule and extrinsic: `swap_to_stellar`. Provide your substrate address and amount.
 Again, a withdrawfee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
 
 The amount withdrawn from TF Chain will be sent to your Stellar wallet.

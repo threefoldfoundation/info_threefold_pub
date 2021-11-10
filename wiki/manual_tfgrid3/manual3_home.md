@@ -13,8 +13,8 @@ The blockchain we use is based on Parity-Substrate and we want to integrate late
 - The official website https://www.threefold.io
 - ThreeFold is live, see for yourself on our explorers : 
   - [Grid Explorer v2](https://explorer.grid.tf/)
-  - [Grid Explorer v3 devnet](https://explorer.tfchain.dev.threefold.io/)
-  - [Grid Explorer v3 testnet](https://explorer.tfchain.test.threefold.io/)
+  - [Grid Explorer v3 devnet](https://explorer.dev.grid.tf/)
+  - [Grid Explorer v3 testnet](https://explorer.test.grid.tf/)
 
 > This site is under heavy construction but should be usable already, all feedback more than welcome. <BR>
 

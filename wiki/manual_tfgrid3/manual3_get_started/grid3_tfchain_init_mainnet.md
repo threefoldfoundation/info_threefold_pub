@@ -24,10 +24,10 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ### Create Twin on Substrate using Polkadot
 
-- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/settings/developer) in Polkadot. *note: don't forget to save*
+- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/settings/developer) in Polkadot. *note: don't forget to save*
 ![](img/substrate_types.jpg)
 
-- Click on `Add an account` in [Polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts)
+- Click on `Add an account` in [Polkadot accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/accounts)
 - Save the mnemonic seed in a safe place
 
 - Click on `Advanced creation options` and select the keyword crypto type of **`Edwards (ed25519, alternative)`**
@@ -41,7 +41,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 - Fund the account with test funds (Click on send funds from the account of Alice to your account name)
 ![](img/substrate_send_funds.jpg)
 
-- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics)
+- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics)
 
   - `Selected account` -> your Account name
 
@@ -54,7 +54,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ![](img/substrate_create_twin.jpg)
 
-- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate) and click on the +
+- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/chainstate) and click on the +
   - `Module` -> tfgridModule
   - `Method` -> twinID(): u32
 

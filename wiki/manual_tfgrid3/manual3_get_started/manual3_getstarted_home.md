@@ -28,8 +28,8 @@ Once you have installed the TFChain toolkit, you can start
   
 ## Website overview
 
-- [Devnet Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)
-- [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
-- [TFGrid Portal Devnet](https://portal.tfchain.dev.threefold.io/)
+- [Devnet Capacity Explorer](https://explorer.dev.grid.tf/)
+- [Testnet Capacity Explorer](https://explorer.test.grid.tf/)
+- [TFGrid Portal Devnet](https://portal.dev.grid.tf/)
 - [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
   

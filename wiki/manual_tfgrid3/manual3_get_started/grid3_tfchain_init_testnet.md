@@ -22,11 +22,11 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ### Create Twin on Substrate using Polkadot
 
-- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/settings/developer) in Polkadot. *note: don't forget to save*
+- Add the required [types in json format](https://github.com/threefoldtech/tfgrid-api-client/blob/master/types.json) to the [developer settings](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/settings/developer) in Polkadot. *note: don't forget to save*
 ![](img/substrate_types.jpg)
 
 
-- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics)
+- Select the options to create the twin in [polkadot developer extrinsics](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/extrinsics)
 
   - `Selected account` -> your Account name
 
@@ -39,7 +39,7 @@ For deployments, you'll need a TF-Chain account and a twin registered. You'll ne
 
 ![](img/substrate_create_twin.jpg)
 
-- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate) and click on the +
+- To get your twin ID, select the options required in [Polkadot Developer Chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/chainstate) and click on the +
   - `Module` -> tfgridModule
   - `Method` -> twinID(): u32
 

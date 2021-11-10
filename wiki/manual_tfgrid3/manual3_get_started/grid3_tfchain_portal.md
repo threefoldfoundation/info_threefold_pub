@@ -1,7 +1,7 @@
 # TF-Chain Portal
 
 The portal is an easy interface containing all elements needed to set up a farm, and can be found : 
-- on [Devnet](https://portal.tfchain.dev.threefold.io/)
+- on [Devnet](https://portal.dev.grid.tf/)
 - on Testnet : under construction
 - on Mainnet : under construction
 

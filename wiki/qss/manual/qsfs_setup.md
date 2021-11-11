@@ -201,11 +201,12 @@ accessed by the filesystem (e.g. a file is being read), then the data
 container is recovered from the backend storage 0-db's by 0-stor, and
 0-db can subsequently serve this data to 0-db-fs.
 
-> 0-db-fs limitation
-> Any workload should be supported on this filesystem, with some exceptions:
+### 0-db-fs limitation
 
-> Opening a file in 'always append mode' will not have the expected behavior
-> There is no support of O_TMPFILE by fuse layer, which is a feature required by overlayfs, thus this is not supported. Overlayfs is used by Docker for example.
+Any workload should be supported on this filesystem, with some exceptions:
+
+- Opening a file in 'always append mode' will not have the expected behavior
+- There is no support of O_TMPFILE by fuse layer, which is a feature required by overlayfs, thus this is not supported. Overlayfs is used by Docker for example.
 
 
 ## Autorepair

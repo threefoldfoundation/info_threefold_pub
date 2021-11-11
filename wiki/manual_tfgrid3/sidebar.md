@@ -4,11 +4,11 @@
 **Manual 3.0**
 - [TFGrid 3](manual3_tfgrid_home)
     - [What's New](grid3_new)
-    - [Billing](grid3_billing)
     - [Overview](grid3_overview)
+    - [Billing](grid3_billing)
     - [Components Interaction](grid3_components)
     - [Definitions](grid3_definitions)
-    - [Grid Primitives](tfgrid_primitives)
+    - [ZOS Primitives](tfgrid_primitives)
     - [Release Notes](releasenotes3)
 - [Getting Started](manual3_getstarted_home)
     - [Get Started](@grid3_get_started)

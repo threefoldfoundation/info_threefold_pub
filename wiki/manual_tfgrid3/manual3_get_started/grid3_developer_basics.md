@@ -58,5 +58,6 @@ For detailed information check
 - [Overview](@grid3_overview)
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
+- [ZOS Primitives](tfgrid_primitives)
 - [Getting started](@grid3_get_started)
 - [Billing](@grid3_billing)

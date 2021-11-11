@@ -1,6 +1,6 @@
 # TF-Chain Portal
 
-The portal is an easy interface containing all elements needed to set up a farm, and can be found : 
+The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on tfchain, and farm management, and can be found : 
 - on [Devnet](https://portal.dev.grid.tf/)
 - on Testnet : under construction
 - on Mainnet : under construction

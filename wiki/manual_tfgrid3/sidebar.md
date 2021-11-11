@@ -8,6 +8,7 @@
     - [Overview](grid3_overview)
     - [Components Interaction](grid3_components)
     - [Definitions](grid3_definitions)
+    - [Grid Primitives](tfgrid_primitives)
     - [Release Notes](releasenotes3)
 - [Getting Started](manual3_getstarted_home)
     - [Get Started](@grid3_get_started)

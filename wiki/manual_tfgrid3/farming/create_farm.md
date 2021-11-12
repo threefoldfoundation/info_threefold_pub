@@ -4,7 +4,9 @@ Here we discuss how to get started as a farmer on the Threefold Grid how to crea
 
 Please check [Farming](farming_home) for more information on how things work. 
 
-- Creating a Farm
+- [Create a farm using the Portal](grid3_tfchain_init)
+- 
+- Creating a Farm using Polkadot interface (advanced setup)
   - [on Devnet](@create_farm_devnet)
   - [on Testnet](@create_farm_testnet)
 - [Booting a node](@booting_node)

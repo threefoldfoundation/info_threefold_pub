@@ -1,6 +1,6 @@
 ## Weynand Kuijpers
 
-![weynand_kuijpers](img/weynand_kuijpers.jpg )
+![weynand_kuijpers](img/weynand_kuijpers.png)
 
 - QA Manager / Pre-Sales / Consultant for projects
 - [LinkedIn](https://www.linkedin.com/in/weynandkuijpers/)
@@ -17,3 +17,6 @@ Key strengths: Non-manipulative style, values differences, honourable and easy g
 
 Weynand owns all pre-sales & consultancy activities in ThreeFold Tech,
 and operates from Dubai.
+
+
+<iframe src="https://player.vimeo.com/video/414000468" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ## Pierre van Hoorebeke
 
-![pierre_van_hoorebeke](img/pierre_van_hoorebeke.jpg)
+![pierre_van_hoorebeke](img/pierre_van_hoorebeke.png)
 
 - CLO (50%)
 - [LinkedIn](https://www.linkedin.com/in/pierre-van-hoorebeke-5958343/)

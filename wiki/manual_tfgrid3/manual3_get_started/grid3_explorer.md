@@ -40,16 +40,16 @@ A map is available with a global overview, showing in which countries capacity i
 ![capacity_distribution](img/explorer_nodes_distribution.png)
 
 ## Available explorers
-- [Devnet explorer](https://explorer.tfchain.dev.threefold.io)
-- [Testnet explorer](https://explorer.tfchain.test.threefold.io)
-- [Mainnet explorer -not live yet-](https://explorer.tfchain.threefold.io)
+- [Devnet explorer](https://explorer.dev.grid.tf)
+- [Testnet explorer](https://explorer.test.grid.tf)
+- [Mainnet explorer -not live yet-](https://explorer.grid.tf)
 
 > TODO: keep it in todo until all are alive
 
 ## GraphQL
 Info on TFChain is indexed over GraphQL and is available for queries. 
-- [Devnet GraphQL](https://tfchain.dev.threefold.io/graphql/graphql)
-- [Testnet GraphQL](https://tfchain.test.threefold.io/graphql/graphql)
+- [Devnet GraphQL](https://graphql.dev.grid.tf/graphql)
+- [Testnet GraphQL](https://graphql.test.grid.tf/graphql)
 - Mainnet GraphQL - not yet live
 
 ## Reporting issues

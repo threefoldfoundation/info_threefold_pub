@@ -4,10 +4,10 @@
 <iframe src="https://player.vimeo.com/video/414000468" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe
 
 
-## agenda
+## Weynand's Agenda
 <iframe src="https://calendar.google.com/calendar/embed?src=weynand%40incubaid.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" 
 
-## information
+## Information
 
 - Threefold
     - slides: http://slides.threefold.tech/

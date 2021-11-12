@@ -8,7 +8,9 @@ Steps:
 - Install the [Planetary Network](grid3_planetary_network)
 - Create your account and twin on [TFChain](grid3_tfchain_init)
 
-Once you have installed the TFChain toolkit, you can start 
+Once you have installed the TFChain toolkit, you can [Get started with portal](grid3_tfchain_portal)
+
+
 
 - Using the TFGrid:  
   - [Exploring capacity](grid3_explorer)
@@ -18,18 +20,18 @@ Once you have installed the TFChain toolkit, you can start
   - Using [Javascript clients](grid3_javascript_home) 
   
 - Farming
-  - [Portal info](grid3_tfchain_portal)
   - Instructions for [Devnet](create_farm_devnet)
   - Instructions for [Testnet](create_farm_testnet)
   - [Booting a node](booting_node)
-
   - [Billing](@grid3_billing)
   - [Learn About TFGrid 3](@manual3_tfgrid_home)
   
 ## Website overview
 
-- [Devnet Capacity Explorer](https://explorer.tfchain.dev.threefold.io/)
-- [Testnet Capacity Explorer](https://explorer.tfchain.test.threefold.io/)
-- [TFGrid Portal Devnet](https://portal.tfchain.dev.threefold.io/)
+- [Devnet Capacity Explorer](https://explorer.dev.grid.tf/)
+- [Testnet Capacity Explorer](https://explorer.test.grid.tf/)
+- [TFGrid Portal Devnet](https://portal.dev.grid.tf/)
+- [TFGrid Portal Testnet](https://portal.test.grid.tf/)
 - [Hub](https://dev.bootstrap.grid.tf) with TFGrid 3.0 Bootstrap image
   
+  Check [Threefold Services](manual3_tfservices) for the complete list

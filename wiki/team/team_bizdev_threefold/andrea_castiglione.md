@@ -1,4 +1,3 @@
-
 ## Andrea Castiglione
 
 ![andrea_castiglione](img/andrea_castiglione.jpg)

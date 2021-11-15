@@ -1,4 +1,4 @@
-The [client](https://github.com/threefoldtech/grid3_client_ts) is written using typescript to provide more convinient, type-checked code
+The [client](https://github.com/threefoldtech/grid3_client_ts) is written using typescript to provide more convinient, type-checked code and it is used to deploy workloads like Virtual machines, kubernetes clusters, quantum storage, .. etc
 
 
 ## Prerequisites
@@ -27,4 +27,4 @@ From now on in the document we will assume you already have
 
 if you don't, please visit the [Get started section](manual3_getstarted_home)
 
-We provided set of scripts to play around with in the repository in the `scripts` directory
+We provided set of scripts to play around with in the repository in the `scripts` directory. [check how to run them](grid3_javascript_run_scripts)

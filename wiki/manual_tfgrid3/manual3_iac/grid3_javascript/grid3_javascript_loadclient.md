@@ -55,5 +55,12 @@ The grid client requires a communication transport, the availlable options are `
 - network: `dev` for devnet, `test` for testnet
 - mnemonics: used for signing the requests.
 - storeSecret: used to encrypt data while storing in backeds
-- BackendStorage : can be auto which willl automatically adapt if running in node environment to use `filesystem backedn` or the browser enviornment to use `localstorage backend`. 
+- BackendStorage : can be `auto` which willl automatically adapt if running in node environment to use `filesystem backend` or the browser enviornment to use `localstorage backend`. Also you can set it to `kvstore` to use the tfchain keyvalue store module.
+- keypairType: is defaulted to `sr25519`, most likely you will never need to change it. `ed25519` is supported too.
+
+
+
 > Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.
+
+Check the document for [capacity planning using code](grid3_javascript_capacity_planning) if you want to automate it
+> Note: this feature is still experimental

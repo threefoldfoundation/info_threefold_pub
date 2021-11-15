@@ -20,31 +20,40 @@ So according to your scenario you choose the communication method
 
 ```json
 {
-    "twin_id": 51,
-    "mnemonic": "muffin reward plug grant able market nerve orphan token foster major relax",
-    "url": "wss://tfchain.dev.threefold.io/ws",
-    "proxy": "https://rmbproxy1.devnet.grid.tf"
-}`
+    "network": "dev",
+    "mnemonic": "",
+    "rmb_proxy": true,
+    "storeSecret": "secret"
+}
 ```
 
 So all configurations that is needed are
-- twin_id
-- tfchanin or proxy url (based on the communication method)
+- network: `dev` for devnet, `test` for testnet
 - mnemonics
-- rmb
+- rmb_proxy: to use the https RMB proxy to reduce the dependencies on having `redis` and `yggrassil` on the same host, and also to be usable too from the browser if needed.
 
 ## creating a client
 
 ```typescript
-function getClient(): GridClient {
+async function getClient(): Promise<GridClient> {
     let rmb: MessageBusClientInterface;
-    if (config.proxy) {
-        rmb = new HTTPMessageBusClient(config.twin_id, config.proxy);
+    if (config.rmb_proxy) {
+        rmb = new HTTPMessageBusClient(0, "");
     } else {
         rmb = new MessageBusClient();
     }
-    return new GridClient(config.twin_id, config.url, config.mnemonic, rmb);
+    const gridClient = new GridClient(config.network, config.mnemonic, config.storeSecret, rmb, "", BackendStorageType.auto, KeypairType.sr25519);
+    await gridClient.connect();
+    return gridClient;
 }
 ```
+The grid client requires a communication transport, the availlable options are `MessageBusClient` that works over the RMB, and `HTTPMessageBusClient` using relay proxies 
 
+> HTTPMessageBusClient is very highlevel, and allows easier integration with many languages because it's http based, also it enables the whole space of web applications. It's safe to assume that we will be using it from now on.
+
+- communication transport: RMB or over RMB proxy via HTTP
+- network: `dev` for devnet, `test` for testnet
+- mnemonics: used for signing the requests.
+- storeSecret: used to encrypt data while storing in backeds
+- BackendStorage : can be auto which willl automatically adapt if running in node environment to use `filesystem backedn` or the browser enviornment to use `localstorage backend`. 
 > Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.

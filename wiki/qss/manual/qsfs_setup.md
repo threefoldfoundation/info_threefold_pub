@@ -41,8 +41,8 @@ Now that the data storage is running, we can create the config file for
 0-stor. The (minimal) config for this example setup will look as follows:
 
 ```toml
-data_shards = 2
-parity_shards = 1
+minimal_shards = 2
+expected_shards = 3
 redundant_groups = 0
 redundant_nodes = 0
 root = "/mnt"

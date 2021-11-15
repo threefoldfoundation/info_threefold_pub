@@ -6,7 +6,7 @@ After the [deployment of a VM](grid3_javascript_vm), now it's time to expose it 
 
 ### Example code
 
-!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/name_gateway.ts.ts
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/name_gateway.ts
 
 
 ### Detailed explanation
@@ -61,7 +61,7 @@ After the [deployment of a VM](grid3_javascript_vm), now it's time to expose it 
 
 ### Example code
 
-!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/fqdn_gateway.ts.ts
+!!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/fqdn_gateway.ts
 
 
 ### Detailed explanation

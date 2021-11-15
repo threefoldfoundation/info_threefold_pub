@@ -3,6 +3,7 @@
 - [Deploy a VM](@grid3_javascript_vm)
 - [Capacity planning](@grid3_javascript_capacity_planning)
 - [Deploy multiple VMs](@grid3_javascript_vms)
+- [Deploy CapRover](@grid3_javascript_caprover)
 - [Gateways](@grid3_javascript_vm_gateways)
 - [Deploy a Kubernetes cluster](@grid3_javascript_kubernetes)
 - [Deploy a ZDB](@grid3_javascript_zdb)

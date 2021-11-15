@@ -2,7 +2,20 @@
 
 ![explorer0](img/explorer0.png)
 
-Explorer UI helps with visualizing the information about farms and nodes. It also supports Dark mode for more comfortable navigation.
+Explorer UI helps exploring the capacity connected to Threefold Grid. Searching for nodes, farms, gateways .. etc. It also supports Dark mode for more comfortable navigation.
+
+## Statistics
+
+![statistics](img/explorer_statistics.png)
+
+Here you can see generic overview about 
+- number of farms
+- number of nodes
+- number of gateways
+- number of twins
+- number of contracts
+- the capacity CRU, SRU, HRU, MRU
+- the number of public IPs available
 
 ## Exploring farms
 You can see a list of all farms with filtering options

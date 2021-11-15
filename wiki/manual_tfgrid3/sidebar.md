@@ -16,6 +16,7 @@
     <!-- - [Redis](@grid3_redis) -->
     - [TFChain](@grid3_tfchain_init)
     - [Stellar-TFChain bridge](@grid3_bridge)
+    - [Exploring Capacity](@grid3_explorer)
 - [Infrastructure As Code](manual3_iac_home)
     - [What you need to know](@grid3_developer_basics)
     - [Terraform](@grid3_terraform_home)

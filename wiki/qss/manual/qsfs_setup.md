@@ -106,7 +106,7 @@ process to block your terminal, you can start it in the background:
 ## Setup and run 0-db
 
 First we will get the hook script. The hook script can be found in the
-[qunatum_storage repo on github](https://github.com/threefoldtech/quantum_storage).
+[quantum_storage repo on github](https://github.com/threefoldtech/quantum-storage).
 A slightly modified version is found here:
 
 ```bash

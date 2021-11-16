@@ -2,7 +2,7 @@
 
 The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on tfchain, and farm management, and can be found : 
 - on [Devnet](https://portal.dev.grid.tf/)
-- on Testnet : under construction
+- on [Testnet](https://portal.test.grid.tf/)
 - on Mainnet : under construction
 
 ![](img/grid3_portal_account.png ':size=600')
@@ -86,7 +86,7 @@ In a first phase, farming of tokens still results in payout on the Stellar netwo
 
 ## Generate your node bootstrap image
 
-Once you know your farmID, you can set up your node on TFGrid3. Click on `Download USB image` or, for other image formats go to the [bootstrap page](https://dev.bootstrap.grid.tf/).
+Once you know your farmID, you can set up your node on TFGrid3. Click on `Take me to bootstrap page`.
 
 ## Edit your Twin
 
@@ -119,4 +119,4 @@ Click on `SUBMIT WITHDRAW` and sign using your password.
 
 ## Capacity Explorer
 
-In the upper right corner, you can click on `CAPACITY EXPLORER` to get a view of all capacity connected to TFGrid v3. For more info, see [here](grid3_explorer). 
+In the upper right corner, you can click on `CAPACITY EXPLORER` to get a view of all capacity connected to TFGrid v3. For more info, see [here](grid3_explorer).

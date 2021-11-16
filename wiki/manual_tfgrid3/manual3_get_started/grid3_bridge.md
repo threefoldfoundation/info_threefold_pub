@@ -18,7 +18,7 @@ A Web User interface is available to transfer tokens from TF-Chain to the Stella
 
 Deposit TFTs from the Stellar network to TF-Chain needs to be done from your Stellar wallet, however, instructions are available in the [Stellar-TF-Chain Bridge](https://bridge.test.grid.tf/). To get the instructions, click on the `DEPOSIT FROM STELLAR` button. 
 
-![](img/tfgrid3_bridge_stellar_to_tfchain.png)
+![](img/grid3_bridge_stellar_to_tfchain.png ':size=400')
 
 Tokens need to be sent to the bridge address (on Testnet `GA2CWNBUHX7NZ3B5GR4I23FMU7VY5RPA77IUJTIXTTTGKYSKDSV6LUA4`), with a memo indicating the destination on TF-Chain. In most cases, you will send your tokens to the twin you have created on TF-Chain. 
 So in case you have a twin defined which has the twin_ID = 123, add the memo text `twin_123` in your transfer.  

@@ -4,7 +4,5 @@ Here we discuss how to get started as a farmer on the Threefold Grid how to crea
 
 Please check [Farming](farming_home) for more information on how things work. 
 
-- Creating a Farm
-  - [on Devnet](@create_farm_devnet)
-  - [on Testnet](@create_farm_testnet)
+- Creating a Farm using the [Portal](@grid3_tfchain_init)
 - [Booting a node](@booting_node)

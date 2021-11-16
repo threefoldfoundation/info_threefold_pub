@@ -1,4 +1,2 @@
-- Creating a Farm
-  - [on Devnet](@create_farm_devnet)
-  - [on Testnet](@create_farm_testnet)
+- [Creating a Farm](@create_farm)
 - [Booting a node](@booting_node)

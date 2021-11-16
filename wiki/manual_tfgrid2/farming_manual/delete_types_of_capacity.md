@@ -1,4 +1,4 @@
-<!--- Delete => replace by cloud_capacity_type --->
+<!--- Delete => replace by internet_capacity_type --->
 
 # Types of ThreeFold_Grid Capacity
 
@@ -42,7 +42,7 @@ Everyone who uses this capacity (which will be more cost effective than Certifie
 | **Uptime SLA**                     | Medium                             | High                         | Highest                     | High                 |
 | **Capacity Price**                 | Medium                             | High                         | High                        | Highest              |
 | **Farming Token Distribution**     | After 30% capacity reservation (2) | Immediately 100%             | Immediately 100%            | TBD                  |
-| **Cultivation Token Distribution** |                                    |                              |                             |                      |
+| **Utilization Token Distribution** |                                    |                              |                             |                      |
 | **TF Foundation Promotion Fee**    | 10%                                | 10%                          | 10%                         | 10%                  |
 | **TFTech License Fee**             | -                                  | 10%                          | 10%                         | TBD                  |
 | **Managed Service Fee**            | -                                  | -                            | -                           | TBD                  |

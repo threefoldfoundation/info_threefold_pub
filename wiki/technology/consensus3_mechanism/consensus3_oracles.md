@@ -26,7 +26,7 @@ graph TB
         Monitor_Engine --> 3Node2
         Monitor_Engine --> 3Node3
     end
-    subgraph TFGridBCNode1[TFGrid Blockchain Node]
+    subgraph TFChainNode1[TFGrid Blockchain Node]
         Monitor_Engine
         Explorers[TFChain Explorers]-->TFGridDB --> BCNode
         Explorers --> BCNode

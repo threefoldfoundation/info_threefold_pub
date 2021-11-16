@@ -7,7 +7,7 @@ As a result of farming, Internet capacity is generated and made available on the
 A Farmer earns tokens in 2 ways:
 
 - Farming: as a result of connecting server/storage hardware to the ThreeFold_Grid
-- Cultivation: as a result of their Farming Pool capacity being utilised (sold) by ThreeFold_Grid Users
+- Utilization: as a result of their Farming Pool capacity being utilised (sold) by ThreeFold_Grid Users
 
 There are two types of capacity farmers:
 

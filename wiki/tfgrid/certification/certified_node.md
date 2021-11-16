@@ -21,7 +21,7 @@ The Titan V2.1 node is a certified node.  Certified nodes are eligible for more 
 
 ### More Technical Details
 
-- The BIOS gets locked and a public key from ThreeFold gets inserted which makes sure only certified builds are booted.
+- The BIOS gets locked.
 - The BIOS gets configured to use TPM2 
   - more info about tpm2 [here](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_raj.pdf).
 - TPM2 is a security implementation on the motherboard which allows Zero-OS to securely store private keys, this mechanism is used to identify Zero-OS nodes and make sure they are registered as certified node.

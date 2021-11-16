@@ -32,11 +32,11 @@ In a DIY Setting a farmer receives 14 TFT per CPR for the duration of 60 months.
 
 
 
-Tokens for cultivation (usage of the 3Nodes capacity) are not included in this total as that is hard to predict.
+Tokens for utilization (usage of the 3Nodes capacity) are not included in this total as that is hard to predict.
 
-#### Cultivation Tokens (Tokens received for usage of your capacity.)
+#### Utilization Tokens (Tokens received for usage of your capacity.)
 
-As Cultivation is harder to predict we can't put any numbers against it.
+As Utilization is harder to predict we can't put any numbers against it.
 Of all cultivated tokens on a 3Node the farmer receives 10%.
 
 ## Dimensions

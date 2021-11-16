@@ -1,19 +1,15 @@
 ### Titan v2.1 farming reward calculation
 
-#### Simulation 1: TFT = 1 USD
+- TFT price goes to 1 USD, starting price of TFT in this simulation = 0.06USD
+- investment cost = 1040 USD
 
-!!!include:titan_v2_1_calc_a_include
+![](img/calc_titanv21.png)
 
-> [More details see here](titan_v2_1_calc_a)
- 
-#### Simulation 2: TFT does not go up in price.
+<BR>  
+- [calculator here](https://threefold.docsend.com/view/a92hkwqiqky6r5jc)
+<BR>
+- **Delivers a potential return of 2009%**
 
-!!!include:titan_v2_1_calc_b_include
-
-> [More details see here](titan_v2_1_calc_b)
-
-#### More Info
-
-- More info about [how to work with calculator](farming_calculator)
+!!!include:farming_calc_remarks
 
 !!!include:simulation_note

@@ -7,7 +7,7 @@ Company developing & promoting software for self-healing, self-driving cloud & b
 - TFTech is working together with industry partners to sell its software
   - Major partners: HPE, Solidaridad, Kleos (learn more on [threefold.io/partners](https://threefold.io/partners)
 - Income - License and OEM agreements involving the TFTech technology: - License fees can be in the form of a revenue share on commercial products being developed on top of the TF platform. - With respect to the TF Grid, a fee of 10% of revenue generated is charged
-  for as a license fee for certified edge cloud capacity registered on the TF Grid
+  for as a license fee for certified edge Internet Capacity registered on the TF Grid
   network
 - Investors to this point:
   - Self-funded by founders & current funding round

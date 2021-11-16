@@ -1,7 +1,7 @@
 ![](img/farming_reward.jpg ':size=350x')
 
 
-# Cultivation Flow
+# Utilization Flow
 
 This document describes how TFT are used to buy capacity from the TFGrid by means of using our TF_Channels.
 

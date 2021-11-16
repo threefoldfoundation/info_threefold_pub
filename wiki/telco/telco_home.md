@@ -32,7 +32,7 @@ ThreeFold can deliver
 
 ## How?
 
-ThreeFold’s partner will provide server hardware (nodes) with ThreeFold’s operating system called Zero-OS installed which will be hosted in cellphone towers and other distributed locations. The nodes will be connected to the ThreeFold grid, providing cloud capacity at the edge, at the exact spot of where this capacity is needed for the best performance.
+ThreeFold’s partner will provide server hardware (nodes) with ThreeFold’s operating system called Zero-OS installed which will be hosted in cellphone towers and other distributed locations. The nodes will be connected to the ThreeFold grid, providing Internet Capacity at the edge, at the exact spot of where this capacity is needed for the best performance.
 
 ## Why?
 

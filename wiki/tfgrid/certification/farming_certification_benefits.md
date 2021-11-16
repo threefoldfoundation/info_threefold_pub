@@ -9,10 +9,9 @@ This certification program has many benefits for the TFGrid user, for the world 
 | Better Global Distribution                             | More Uptime (SLA)                                    | Lower Operational Cost                                 |
 | Sovereignity (legal framework)                         | Better Performance                                   | Higher Credibility                                     |
 | More protection for user                               | Possiblity For Support                               | Custom Pricing CU/SU/NU is possible (*)                |
-|                                                        | Continuation Protection                              | Strategic Benefits e.g. link to sales channels         |
 | **[more info](farming_certification_benefits_planet)** | **[more info](farming_certification_benefits_user)** | **[more info](farming_certification_benefits_farmer)** |
 
-(*) in collaboration with TFTech, and planned for earliest Q4 2021.
+(*) in collaboration with TFTech, and planned for earliest H1 2022.
 
 - [farming certification requirements](farming_certified_requirements)
 - [certified nodes](certified_node)

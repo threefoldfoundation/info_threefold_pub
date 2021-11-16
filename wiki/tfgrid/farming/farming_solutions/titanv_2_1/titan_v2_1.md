@@ -16,19 +16,12 @@ The Titan Node V2.1 is a medium sized node that already packs quite a punch and 
 - CU = 7.75
 - SU = 4.17
 
-### Dimensions
-
-* Width 176 mm
-* Height 200 mm
-* Depth 380 mm  
-
 ### Order A Titan V2.1
 
 Titan v2.1 Nodes are now available in ThreeFold Tech shop.
 
 [shop.threefold.tech](https://shop.threefold.tech)
 
-!!!include:titan_v2_1_calc
 
 !!!include:certified_node_services
 

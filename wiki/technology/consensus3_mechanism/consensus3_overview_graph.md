@@ -7,7 +7,7 @@ graph TB
         money_blockchain --> account3
         click money_blockchain "/threefold/#money_blockchain"
     end
-    subgraph TFGridBCNode1[TFChain BCNode]
+    subgraph TFChainNode1[TFChain BCNode]
         Explorer1-->BCNode1
         ConsensusEngine1-->BCNode1
         ConsensusEngine1 --> money_blockchain
@@ -18,7 +18,7 @@ graph TB
         click BCNode1 "/info/threefold/#bcnode"
         click Explorer1 "/info/threefold/#tfexplorer"
     end
-    subgraph TFGridBCNode2[TFChain BCNode]
+    subgraph TFChainNode2[TFChain BCNode]
         Explorer2-->BCNode2
         ConsensusEngine2-->BCNode2
         ConsensusEngine2 --> money_blockchain

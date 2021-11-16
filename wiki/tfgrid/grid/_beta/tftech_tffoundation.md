@@ -45,7 +45,7 @@ Docker blogs and reports:
 
 ### Which sort of developers?
 
-The best results are achieved if young developers are approached. They are open to new environments and languages and for these there is a certain appeal to this new system. If we go to more seasoned / older developpers they will have a tendency to "stick" to what they know and will resist investing time in something new (and unproven). Obviously the exception to this rules proves it.
+The best results are achieved if young developers are approached. They are open to new environments and languages and for these there is a certain appeal to this new system. If we go to more seasoned / older developers they will have a tendency to "stick" to what they know and will resist investing time in something new (and unproven). Obviously the exception to this rules proves it.
 
 ### What exactly will we have ready for the January launch and by when?
 

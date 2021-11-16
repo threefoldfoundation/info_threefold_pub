@@ -8,7 +8,6 @@
   - [Farming Hardware Examples](farming_hardware_overview)
 - [Certified Farming](certified_farming)
   - [Example farming with Titan v2.1](titan_v2_1)
-- [Planet Positive Farming](energy_savings) - our TFGrid offsets carbon 3x more than it uses.
 
 !!!include:farming_steps
 

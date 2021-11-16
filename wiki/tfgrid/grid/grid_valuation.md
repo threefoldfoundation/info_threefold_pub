@@ -27,7 +27,7 @@ The current growth rates only reflect the increasing demand of emerging technolo
 
 Despite the fast-growing global cloud market, the distribution of data centers is still mostly concentrated on the western world (mainly Northern America) and certain parts of Asia.
 
-- This [source](https://wikileaks.org/amazon-atlas/map/) lists the data centers of the current market leader in cloud capacity
+- This [source](https://wikileaks.org/amazon-atlas/map/) lists the data centers of the current market leader in Internet Capacity
 - Other major market players follow the same patterns: 
   - [Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents)
   - [Cloudwirx](https://www.cloudwirx.com/datacenters)

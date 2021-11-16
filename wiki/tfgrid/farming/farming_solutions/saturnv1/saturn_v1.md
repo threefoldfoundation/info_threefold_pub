@@ -26,9 +26,9 @@ TODO: @despiegk No idea how to calculate this for the Saturn.
 
 
 
-### Cultivation Tokens (Tokens received for usage of your capacity.)
+### Utilization Tokens (Tokens received for usage of your capacity.)
 
-As per ThreeFold's Tokenomics all farmers receive tokens for farming (putting and keeping capacity online), but they will also take a percentage of the cultivation (usage of the capacity paid for by users). This percentages is between 10% and 50% depending on who sells the capacity. If the farmer sells his own capacity he will get the full 50%. If he decides to let someone else sell his capacity he will be get 10% of all cultivation activity.
+As per ThreeFold's Tokenomics all farmers receive tokens for farming (putting and keeping capacity online), but they will also take a percentage of the utilization (usage of the capacity paid for by users). This percentages is between 10% and 50% depending on who sells the capacity. If the farmer sells his own capacity he will get the full 50%. If he decides to let someone else sell his capacity he will be get 10% of all utilization activity.
 
 
 ### Calculate Your Farming Returns

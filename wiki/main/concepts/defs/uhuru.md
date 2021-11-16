@@ -7,7 +7,5 @@ alternative to:
 - whatsapp
 - integrated browser (jimber)
 
-Available starting Sept 2021 as early beta.
-
 !!!def
 

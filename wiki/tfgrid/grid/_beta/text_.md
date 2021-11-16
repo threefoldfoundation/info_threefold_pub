@@ -37,7 +37,7 @@ The ThreeFold foundation foresees a number of different types of cooperatives to
     - location of hosting for the hardware
     - if support is required for the end users using the capacity (additional fee)
 - Farmer will get detailed proposal/simulation
-    - simulation of tokens (from farming, from cultivation)
+    - simulation of tokens (from farming, from utilization)
     - amount of tokens required to purchase
     - monthly cost
 - Farmer need to instruct his DigitalME that its ok the spend the required budget for this project.
@@ -74,7 +74,7 @@ Farmer wants to host himself (connectivity/bandwidth)
     - unmanaged (new)
     - amount, size & configuration of the nodes
 - Farmer will get detailed proposal/simulation
-    - simulation of tokens (from farming, from cultivation)
+    - simulation of tokens (from farming, from utilization)
     - amount of tokens required to purchase
 - The cooperative will
     - send invoice to buyer

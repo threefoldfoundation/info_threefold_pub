@@ -17,7 +17,7 @@ The amount of TFTs that are created by farmers depends on three variables:
 
 Learn more about the variables [here](farming_reward).
 
-Tokens are burned as result of cultivation which leads to nr of tokens to be limited.
+Tokens are burned as result of utilization which leads to nr of tokens to be limited.
 
 ## Limited Supply & Liquidity Drivers
 

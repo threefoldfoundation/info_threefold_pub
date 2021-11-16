@@ -53,7 +53,7 @@ Meet our current [**Wisdom Council members**](https://threefold.io/aci/wisdomcou
 
 ## Remarks about Grants
 
-ThreeFold Foundation receives through the blockchain a percentage of all cloud capacity farmed and sold on the ThreeFold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
+ThreeFold Foundation receives through the blockchain a percentage of all Internet Capacity farmed and sold on the ThreeFold Grid. These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
 
 Also a certain amount of TFT are available to use for the further development of the TFGrid.
 

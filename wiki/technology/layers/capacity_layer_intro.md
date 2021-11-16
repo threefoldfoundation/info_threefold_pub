@@ -15,11 +15,11 @@ There is no shell, local nor remote attached to Zero-OS. It does not allow for i
 
 ### 3Node
 
-The ThreeFold_Grid needs hardware/servers to function. Servers of all shapes and sizes can be added to the grid by anyone, anywhere in the world. The production of cloud capacity on the Threefold Grid is called Farming and people who add these servers to the grid are called Farmers. This is a fully decentralized process and they get rewarded by the means of TFT. 
+The ThreeFold_Grid needs hardware/servers to function. Servers of all shapes and sizes can be added to the grid by anyone, anywhere in the world. The production of Internet Capacity on the Threefold Grid is called Farming and people who add these servers to the grid are called Farmers. This is a fully decentralized process and they get rewarded by the means of TFT. 
 
 Farmers download the Zero-OS operating system and boot their servers themselves. Once booted, these servers become 3Nodes. The 3Nodes will register themselves in a database called the TF_Explorer. Once registered in the TF_Explorer, the capacity of the 3Nodes will become available on the TF Grid Explorer. Also, given the autonomous nature of the ThreeFold_Grid, there is no need for any intermediaries between the user and 3Nodes. 
 
-This enables a complete peer-to-peer environment for people to reserve their cloud capacity directly from the hardware.
+This enables a complete peer-to-peer environment for people to reserve their Internet Capacity directly from the hardware.
 
 ### Smart Contract for IT 
 

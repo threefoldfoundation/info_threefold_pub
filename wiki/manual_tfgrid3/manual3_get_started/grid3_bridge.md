@@ -27,13 +27,13 @@ So in case you have a twin defined which has the twin_ID = 123, add the memo tex
 
 In order to make the bridge work, you need to trust the Web UI that accesses the account you have created on the TF-Chain. 
 
-![](img/tfgrid3_bridge_trust_ui.png)
+![](img/grid3_bridge_trust_ui.png ':size=400')
 
 Click on `Yes, allow this application access`.
 
 Once done, you get the transfer screen. 
 
-![](img/tfgrid3_bridge_tfchain_to_stellar.png)
+![](img/grid3_bridge_tfchain_to_stellar.png ':size=600')
 
 Fill in the Stellar Address and the amount to transfer to your Stellar wallet, and click `WITHDRAW`. 
 
@@ -105,4 +105,4 @@ Behind the scenes, following will happen:
 - Transferred TFTs from Stellar will be sent from the Stellar vault account to the user's Stellar account
 - TFTs will be burned on the TF-Chain for the transferred amount
 
-Example: ![swap_to_stellar](img/swap_to_stellar.png)
+Example: ![swap_to_stellar](img/swap_to_stellar.png ':size=400')

@@ -46,7 +46,6 @@ minimal_shards = 2
 expected_shards = 3
 redundant_groups = 0
 redundant_nodes = 0
-root = "/tmp"
 socket = "/tmp/zstor.sock"
 prometheus_port = 9100
 zdb_data_dir_path = "/tmp/zdbfs/data/zdbfs-data"
@@ -210,6 +209,19 @@ Any workload should be supported on this filesystem, with some exceptions:
 - Opening a file in 'always append mode' will not have the expected behavior
 - There is no support of O_TMPFILE by fuse layer, which is a feature required by
   overlayfs, thus this is not supported. Overlayfs is used by Docker for example.
+
+## docker setup
+
+It is possible to run the zstor in a docker container. First, create a data directory
+on your host. Then, save the config file in the data directory as `zstor.toml`. Ensure
+the storage 0-db's are running as desribed above. Then, run the docker container
+as such: 
+
+```
+docker run -ti --privileged --rm --network host --name fstest -v /path/to/data:/data -v /mnt:/mnt:shared azmy/qsfs
+```
+
+The filesystem is now available in `/mnt`.
 
 ## Autorepair
 

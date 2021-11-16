@@ -25,9 +25,7 @@ The blockchain we use is based on Parity-Substrate and we want to integrate late
 - 
 Once you have installed the TFChain toolkit, you can
 
-- Start farming
-  - on [Devnet](create_farm_devnet)
-  - on [Testnet](create_farm_testnet)
+- [Get started farming](create_farm)
 
 - Start using the TFGrid
   - Use [Terraform](grid3_terraform_home)

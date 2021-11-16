@@ -1,2 +1,2 @@
-- [Creating a Farm](create_farm)
+- [Creating a Farm](@create_farm)
 - [Booting a node](@booting_node)

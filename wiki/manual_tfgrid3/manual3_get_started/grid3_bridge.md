@@ -18,7 +18,7 @@ A Web User interface is available to transfer tokens from TF-Chain to the Stella
 
 Deposit TFTs from the Stellar network to TF-Chain needs to be done from your Stellar wallet, however, instructions are available in the [Stellar-TF-Chain Bridge](https://bridge.test.grid.tf/). To get the instructions, click on the `DEPOSIT FROM STELLAR` button. 
 
-![](img/tfgrid3_bridge_stellar_to_tfchain.png)
+![](img/grid3_bridge_stellar_to_tfchain.png ':size=400')
 
 Tokens need to be sent to the bridge address (on Testnet `GA2CWNBUHX7NZ3B5GR4I23FMU7VY5RPA77IUJTIXTTTGKYSKDSV6LUA4`), with a memo indicating the destination on TF-Chain. In most cases, you will send your tokens to the twin you have created on TF-Chain. 
 So in case you have a twin defined which has the twin_ID = 123, add the memo text `twin_123` in your transfer.  
@@ -27,13 +27,13 @@ So in case you have a twin defined which has the twin_ID = 123, add the memo tex
 
 In order to make the bridge work, you need to trust the Web UI that accesses the account you have created on the TF-Chain. 
 
-![](img/tfgrid3_bridge_trust_ui.png)
+![](img/grid3_bridge_trust_ui.png ':size=400')
 
 Click on `Yes, allow this application access`.
 
 Once done, you get the transfer screen. 
 
-![](img/tfgrid3_bridge_tfchain_to_stellar.png)
+![](img/grid3_bridge_tfchain_to_stellar.png ':size=600')
 
 Fill in the Stellar Address and the amount to transfer to your Stellar wallet, and click `WITHDRAW`. 
 
@@ -105,4 +105,4 @@ Behind the scenes, following will happen:
 - Transferred TFTs from Stellar will be sent from the Stellar vault account to the user's Stellar account
 - TFTs will be burned on the TF-Chain for the transferred amount
 
-Example: ![swap_to_stellar](img/swap_to_stellar.png)
+Example: ![swap_to_stellar](img/swap_to_stellar.png ':size=400')

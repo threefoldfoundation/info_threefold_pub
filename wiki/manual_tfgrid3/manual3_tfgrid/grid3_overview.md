@@ -1,6 +1,6 @@
 ## Overview
 
-![Overlay](img/grid3_overlay.jpg)
+![Overlay](img/grid3_overlay.jpg ':size=600')
 
 The architecture can be described as follows:
 

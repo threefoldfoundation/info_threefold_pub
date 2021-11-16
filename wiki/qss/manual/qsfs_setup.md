@@ -14,6 +14,7 @@ ubuntu instance.
   - 0-stor: https://github.com/threefoldtech/0-stor_v2/releases, if
         multiple binaries are available in the assets, choose the one
         ending in `musl`
+- Make sure all binaries are executable (`chmod +x $binary`)
 
 ## Setup and run 0-stor
 
@@ -32,9 +33,9 @@ such:
 /tmp/0-db --background --mode user --port 9992 --data /tmp/zdb-meta/zdb2/data --index /tmp/zdb-meta/zdb2/index
 /tmp/0-db --background --mode user --port 9993 --data /tmp/zdb-meta/zdb3/data --index /tmp/zdb-meta/zdb3/index
 
-/tmp/0-db --background --mode seq --port 9900 --data /tmp/zdb-data/zdb0/data --index /tmp/zdb-data/zdb0/index
-/tmp/0-db --background --mode seq --port 9901 --data /tmp/zdb-data/zdb1/data --index /tmp/zdb-data/zdb1/index
-/tmp/0-db --background --mode seq --port 9902 --data /tmp/zdb-data/zdb2/data --index /tmp/zdb-data/zdb2/index
+/tmp/0-db --background --mode seq --port 9980 --data /tmp/zdb-data/zdb0/data --index /tmp/zdb-data/zdb0/index
+/tmp/0-db --background --mode seq --port 9981 --data /tmp/zdb-data/zdb1/data --index /tmp/zdb-data/zdb1/index
+/tmp/0-db --background --mode seq --port 9982 --data /tmp/zdb-data/zdb2/data --index /tmp/zdb-data/zdb2/index
 ```
 
 Now that the data storage is running, we can create the config file for
@@ -45,10 +46,10 @@ minimal_shards = 2
 expected_shards = 3
 redundant_groups = 0
 redundant_nodes = 0
-root = "/mnt"
+root = "/tmp"
 socket = "/tmp/zstor.sock"
 prometheus_port = 9100
-zdb_data_dir_path = "/tmp/zdbfs-cache/0-db/data"
+zdb_data_dir_path = "/tmp/zdbfs/data/zdbfs-data"
 max_zdb_data_dir_size = 25600
 
 [encryption]
@@ -82,13 +83,13 @@ address = "[::1]:9993"
 
 [[groups]]
 [[groups.backends]]
-address = "[::1]:9900"
+address = "[::1]:9980"
 
 [[groups.backends]]
-address = "[::1]:9901"
+address = "[::1]:9981"
 
 [[groups.backends]]
-address = "[::1]:9902"
+address = "[::1]:9982"
 ```
 
 > A full explanation of all options can be found in the 0-stor readme:
@@ -135,7 +136,7 @@ if [ "$action" == "jump-index" ]; then
 
     # upload dirty index files
     for dirty in $5; do
-        file=$(printf "zdb-index-%05d" $dirty)
+        file=$(printf "i%d" $dirty)
         cp ${dirbase}/${file} ${tmpdir}/
     done
 
@@ -167,7 +168,8 @@ fi
 exit 1
 ```
 
-> This guide assumes the file is saved as `/tmp/zdbfs/zdb-hook.sh`
+> This guide assumes the file is saved as `/tmp/zdbfs/zdb-hook.sh. Make sure the
+> file is executable, i.e. chmod +x /tmp/zdbfs/zdb-hook.sh`
 
 The local 0-db which is used by 0-db-fs can be started as follows:
 
@@ -185,13 +187,13 @@ The local 0-db which is used by 0-db-fs can be started as follows:
 
 Finally, we will start 0-db-fs. This guides opts to mount the fuse
 filesystem in `/mnt`. Again, assuming the 0-db-fs binary was saved as
-`/tmp/zdbfs`:
+`/tmp/0-db-fs`:
 
 ```bash
-/tmp/zdbfs /mnt -o autons -o background
+/tmp/0-db-fs /mnt -o autons -o background
 ```
 
-You should now have the qsfs filesystem mounted at `/tmp`. As you write
+You should now have the qsfs filesystem mounted at `/mnt`. As you write
 data, it will save it in the local 0-db, and it's data containers will
 be periodically encoded and uploaded to the backend data storage 0-db's.
 The data files in the local 0-db will never occupy more than 25GiB of
@@ -206,8 +208,8 @@ container is recovered from the backend storage 0-db's by 0-stor, and
 Any workload should be supported on this filesystem, with some exceptions:
 
 - Opening a file in 'always append mode' will not have the expected behavior
-- There is no support of O_TMPFILE by fuse layer, which is a feature required by overlayfs, thus this is not supported. Overlayfs is used by Docker for example.
-
+- There is no support of O_TMPFILE by fuse layer, which is a feature required by
+  overlayfs, thus this is not supported. Overlayfs is used by Docker for example.
 
 ## Autorepair
 
@@ -215,12 +217,13 @@ Autorepair automatically repairs object stored in the backend when one or more s
 are not reachable anymore. It does this by periodically checking if all the backends
 are still reachable. If it detects that one or more of the backends used by an encoded
 object are not reachable, the healthy shards are downloaded, the object is restored
-and encoded again (possibly with a new config, if it has since changed), and uploaded again.
+and encoded again (possibly with a new config, if it has since changed), and uploaded
+again.
 
-Autorepair does not validate the integrity of individual shards. This is protectected against
-by having multiple spare (redundant) shards for an object. Corrupt shards are detected
-when the object is rebuild, and removed before attempting to rebuild. Autorepair
-also does not repair the metadata of objects.
+Autorepair does not validate the integrity of individual shards. This is protectected
+against by having multiple spare (redundant) shards for an object. Corrupt shards
+are detected when the object is rebuild, and removed before attempting to rebuild.
+Autorepair also does not repair the metadata of objects.
 
 ## Monitoring, alerting and statistics
 

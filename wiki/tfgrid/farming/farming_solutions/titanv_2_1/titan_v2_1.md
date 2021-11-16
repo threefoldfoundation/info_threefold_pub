@@ -16,6 +16,12 @@ The Titan Node V2.1 is a medium sized node that already packs quite a punch and 
 - CU = 7.75
 - SU = 4.17
 
+!!!include:titan_v2_1_calc
+
+<!-- ### Farming Rewards
+
+- [Farming Rewards Calculation]() -->
+
 ### Order A Titan V2.1
 
 Titan v2.1 Nodes are now available in ThreeFold Tech shop.

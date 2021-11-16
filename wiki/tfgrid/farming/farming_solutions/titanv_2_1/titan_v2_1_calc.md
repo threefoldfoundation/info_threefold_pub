@@ -5,9 +5,7 @@
 
 ![](img/calc_titanv21.png)
 
-<BR>  
 - [calculator here](https://threefold.docsend.com/view/a92hkwqiqky6r5jc)
-<BR>
 - **Delivers a potential return of 2009%**
 
 !!!include:farming_calc_remarks

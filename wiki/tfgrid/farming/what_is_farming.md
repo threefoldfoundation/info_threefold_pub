@@ -9,3 +9,4 @@ Farming is the concept of expanding the internet with more network, compute & st
 - Everyone in the world can now use this compute, storage and network capacity to deploy apps onto those 3nodes in stead of in a centralized datacenter.
 - A 3node runs our operating system ZOS which provides for good security and the most efficient utilization of hardware.
 
+!!!include:utility_token_model

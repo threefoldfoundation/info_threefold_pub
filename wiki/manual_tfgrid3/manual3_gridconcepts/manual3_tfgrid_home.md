@@ -1,4 +1,4 @@
-# Introduction
+# Grid 3.0 Concepts
 
 This document is about TF-Grid 3.0. It shows an overview of the grid regarding operation, and how different components communicate to each other.
 

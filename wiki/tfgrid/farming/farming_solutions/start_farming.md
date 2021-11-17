@@ -3,7 +3,7 @@
 
 ## Buy Your Own Hardware.
 
-Buy any computer and calculate your farming gain.
+Buy any computer and calculate your farming rewards.
 
 > [see farming calculator](farming_calculator)
 

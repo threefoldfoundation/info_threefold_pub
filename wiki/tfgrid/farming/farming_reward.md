@@ -13,20 +13,25 @@ TFT earned per month per node =
 
 ```
 
+> Please note that farmers can use their own provided capacity almost free of charge, see [Proof of Utilization](proof_of_utilization).
+
 ## Proof-of-Capacity
 
 A connected 3Node produces CU, SU, NU and IPAddr for the TFgrid. The farmer gets rewarded to make this capacity available.
 
-| Unit                | description                                    | default                  |
-| ------------------- | ---------------------------------------------- | ------------------------ |
-| Compute Unit (CU)   | typically 2 vcpu, 4 GB mem, 50 GB storage      | $REWARD_CU_TFT TFT/month |
-| Storage Unit (SU)   | typically 1 TB of netto usable storage         | $REWARD_SU_TFT TFT/month |
-| Network Unit (NU)   | 1 GB of data transfered as used by TFGrid user | $REWARD_NU_TFT TFT/GB    |
-| Public IPv4 Address | Public IP Address as used by a TFGrid user     | $REWARD_IP_TFT TFT/hour  |
+The CU, SU rewards are registered on the [TFChain](tfchain) and do not change as long as your node keeps on producing storage & compute capacity at required minimal uptime. The NU and Public Ipaddresses are rewarded as TFGrid users consume this capacity. This reward is dynamic and can change over time depending USD/TFT ratio as well as average cost for bandwidth for the farmers.
 
-- certified is 25% more (1+25%)
+| Unit                | description                                                       | rewards                  |
+| ------------------- | ----------------------------------------------------------------- | ------------------------ |
+| Compute Unit (CU)   | typically 2 vcpu, 4 GB mem, 50 GB storage                         | $REWARD_CU_TFT TFT/month |
+| Storage Unit (SU)   | typically 1 TB of netto usable storage                            | $REWARD_SU_TFT TFT/month |
+| Network Unit (NU)   | 1 GB of data transfered as used by TFGrid user for Public IP Addr | $REWARD_NU_TFT TFT/GB    |
+| Public IPv4 Address | Public IP Address as used by a TFGrid user                        | $REWARD_IP_TFT TFT/hour  |
+
+> **current TFT to USD price is $TFTUSD** ($NOW), is used to calculate the rewards above.
+
+- certified node gets 25% more farming rewards.
 - TFT pricing pegged to USD (pricing changes in line with TFT/USD rate)
-- **current TFT to USD price is $TFTUSD** , calculated on $NOW
 - Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
 - More info see [Farming Hardware Calculator](farming_calculator)
 - TFT price for CU/SU is locked once farming starts for a 3node (first boot & registration to blockchain) or at date of purchase when certified 3node.
@@ -36,16 +41,18 @@ A connected 3Node produces CU, SU, NU and IPAddr for the TFgrid. The farmer gets
 
 ## Learn More
 
+!!!include:utility_token_model
+
 - **[Farming Reward Calculator](farming_calculator).**
 - [info about certified nodes](certified_node)
 - [info about cloudunits](cloudunits)
 
+
 ## Remarks
 
-> Above described Farming rewards are for TFGrid version 3.0 and will only apply for 3Nodes as registered in TFGrid 3.0 blockchain called TFChain 3.0 <BR>
-> Farming for 3.0 has more rewards compared to farming for 2.x
-
-- Today allmost all 3Nodes are still registered to TFGrid 2.0 and as such use [farming model 2](farming_reward2)
+- Above described Farming rewards are for TFGrid version 3.0 and will only apply for 3Nodes as registered [in TFChain](tfchain).
+- Above specifications will only be final once [Wisdom Council](wisdom_council) approves and TFGrid 3.x is on mainnet.
+- Today allmost all 3Nodes registered use [farming model 2](farming_reward2).
 - More information about the upgrade see: [upgrade from farming 2 to farming 3](farming_upgrade_2_3)
 
 !!!include:farming_toc

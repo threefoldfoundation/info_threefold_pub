@@ -23,7 +23,6 @@ Once our TFChain 3.0 is available as part of TFGrid 3.0, we will revise if anoth
 
 - Approve TFT donations (grants) to ThreeFold related contribution projects or doing good projects.
 - Agree on changes in protocol or required data on TFChain e.g. [farming reward](farming_reward), [pricing](pricing) or [discount](staking_discount_levels) table. We expect that somewhere in the future our DAO will take over some of these functions.
-- Approval of new [sales channels](threefold_sales_channel). The sales channels are recorded in TFChain (starting 3.1).
 
 Next to this ThreeFold can ask for further guidance:
 

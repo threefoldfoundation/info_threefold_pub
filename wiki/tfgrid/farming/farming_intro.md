@@ -25,6 +25,7 @@ The proof-of-capacity records three Internet resources from the 3node (server):
 - Compute Capacity (CPU)
 - Memory Capacity (RAM)
 - Storage Capacity (SSD/HDD)
+- Network Capacity (Bandwidth, IP Addresses)
 
 The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions of the blockchain. 
 

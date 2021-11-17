@@ -2,7 +2,7 @@
 
 # Titan Node V2.1
 
-The Titan Node V2.1 is a medium sized node that already packs quite a punch and will be able to run heavier workloads.
+The Titan Node V2.1 packs quite a punch and will be able to run heavier workloads.
 
 ### Specifications
 
@@ -16,11 +16,22 @@ The Titan Node V2.1 is a medium sized node that already packs quite a punch and 
 - CU = 7.75
 - SU = 4.17
 
-!!!include:titan_v2_1_calc
+### Titan v2.1 farming reward simulation
 
-<!-- ### Farming Rewards
+- Simulation parameters
+  - Price of TFT after 5 years =  1 USD
+  - Starting price of TFT in this simulation = 0.06USD
+- investment cost = 1040 USD
 
-- [Farming Rewards Calculation]() -->
+![](img/calc_titanv21.png)
+
+- [calculator here](https://threefold.docsend.com/view/a92hkwqiqky6r5jc)
+- This potentially can **deliver a return of 2009%** in line with these simulation patameters
+
+!!!include:farming_calc_remarks
+
+!!!include:simulation_note
+
 
 ### Order A Titan V2.1
 

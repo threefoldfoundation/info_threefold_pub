@@ -23,5 +23,5 @@ Is combination of tfchain_nodes
 !!!include:tfchain_moreinfo
 
 
-!!!def alias:tf_chain,tfgrid_chain,threefold_blockchain,TFChain,ThreeFold_Grid_BC,TFGBC
+!!!def alias:tf_chain,tfchain,tfgrid_chain,threefold_blockchain,TFChain,ThreeFold_Grid_BC,TFGBC
 

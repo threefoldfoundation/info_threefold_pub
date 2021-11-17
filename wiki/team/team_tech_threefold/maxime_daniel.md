@@ -1,6 +1,6 @@
 ## Maxime Daniel - @maxux
 
-![maxime daniel](img/maxime_daniel.jpg)
+![maxime daniel](img/maxime_daniel.png)
 
 I have had a passion for programming ever since I was 10 years old. I love building something that helps
 me or people to achieve goals easier, faster, and more accessible. My contribution to ThreeFold

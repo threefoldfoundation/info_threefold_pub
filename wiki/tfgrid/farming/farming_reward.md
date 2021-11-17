@@ -13,7 +13,7 @@ TFT earned per month per node =
 
 ```
 
-> Please note that farmers can use their own provided capacity almost free of charge, see [Proof of Utilization](proof_of_utilization).
+> Please note that farmers can use their own provided capacity at minimal cost, see [Own Farm Utilization](proof_of_utilization).
 
 ## Proof-of-Capacity
 
@@ -30,12 +30,14 @@ The CU, SU rewards are registered on the [TFChain](tfchain) and do not change as
 
 > **current TFT to USD price is $TFTUSD** ($NOW), is used to calculate the rewards above.
 
-- certified node gets 25% more farming rewards.
+- Certified node gets 25% more farming rewards.
 - TFT pricing pegged to USD (pricing changes in line with TFT/USD rate)
 - Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
 - More info see [Farming Hardware Calculator](farming_calculator)
 - TFT price for CU/SU is locked once farming starts for a 3node (first boot & registration to blockchain) or at date of purchase when certified 3node.
 - [CU/SU/NU = storage and compute units](cloudunits) farmed  = amount CU,SU available to TFGrid with enough uptime.
+- None of the Farming Rewards is related to how much a user pays for the capacity.
+- More info see [Proof Of Capacity Page](proof_of_capacity)
 
 !!!include:staking_farmed_tft
 

@@ -19,19 +19,18 @@ How does the cost get calculated
 | 35%        | needs to be burned                     | results in more TFT burned compared to generated once grid more mature.  |
 | 10%        | to TF Foundation                       | used to promote the manage the project.                                  |
 | 5%         | to Staking Pool for TFChain Validators | used to reward the people who run the TFChain 3.0 blockchain validators. |
-| 50%        | for solution providers & sales channel | managed by [ThreeFold DAO](tfdao).                                         |
+| 50%        | for solution providers & sales channel | managed by [ThreeFold DAO](tfdao).                                       |
 
 
 
-## Dome ThreeFold DAO rules
+## ThreeFold DAO rules in Relation To Utilization
 
-- if a farmer uses his own capacity (at CU/SU level), the cost will be the farmed tokens for that capacity + 10% for ThreeFold Tech. In other words the farmer can use own capacity almost free of charge, only a 10% fee goes to the technology creator of Zero-OS.
-- when a user uses capacity, a solutionprovider secret or saleschannel secret can be specified, this allows the TFDAO to decide how the TFT needs to be distributed in line to sales channel and solution providers
-- each solution provider and sales channel gets registered in TFChain and as such the distribution can be defined and calculated at charge time.
-- for default farming, the TFDAO needs to find consensus to arrange solution & sales channel parameters. If not specified then the part for the solution providers and/or sales channel goes in ThreeFold Owned Community Wallet.
-- The community wallet allows for grants to the ThreeFold Community, TFDAO consensus needs to be achieved.
-- For certified farming, [ThreeFold Tech](threefold_tech0) can define the solution & sales channel parameters. 
+- Each solution provider and sales channel gets registered in TFChain and as such the distribution can be defined and calculated at charge time.
+- For billing purposes, ThreeFold DAO will check if its for a known sales channel or solution provider, if yes then the billing smart contract code will know how to distribute the TFT's. If the channel of solution provider is not known, then the 50% will go to a DAO owned Community Grant Wallet.
+- The Community Grant Wallet allows for grants to the ThreeFold Community, TFDAO consensus needs to be achieved.
+- For certified farming, [ThreeFold Tech](threefold_tech0) can define the solution & sales channel parameters, these are channels as provided by ThreeFold Tech.
 - Burning can be lowered to 25% if too many tokens would be burned, TFDAO consensus needs to be achieved.
+- A farmers can use their own provided capacity at minimal cost, see [Own Farm Utilization](proof_of_utilization).
 
 
 > Has to be confirmed by Wisdom Council. Will only be fully active starting TFGrid 3.1.

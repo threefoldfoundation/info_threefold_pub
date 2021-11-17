@@ -25,7 +25,7 @@ How does the cost get calculated
 
 ## ThreeFold DAO rules in Relation To Utilization
 
-- Each solution provider and sales channel gets registered in TFChain and as such the distribution can be defined and calculated at charge time.
+- Each solution provider and sales channel gets registered in TFChain and as such the distribution can be defined and calculated at billing time.
 - For billing purposes, ThreeFold DAO will check if its for a known sales channel or solution provider, if yes then the billing smart contract code will know how to distribute the TFT's. If the channel of solution provider is not known, then the 50% will go to a DAO owned Community Grant Wallet.
 - The Community Grant Wallet allows for grants to the ThreeFold Community, TFDAO consensus needs to be achieved.
 - For certified farming, [ThreeFold Tech](threefold_tech0) can define the solution & sales channel parameters, these are channels as provided by ThreeFold Tech.

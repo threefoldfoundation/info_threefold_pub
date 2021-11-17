@@ -3,6 +3,7 @@
 - [Farming](@farming_home)
 - [Tokens](@tokens_home)
 - [Cloud](@cloud_home)
+- [Manual](@manual3_home)
 - [About](@about)
 
 

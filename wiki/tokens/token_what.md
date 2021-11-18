@@ -16,7 +16,7 @@ ThreeFold is the missing layer for Internet Capacity.
 
 ## What can I do with a TFT?
 
-Users, developers, and enterprises need TFT to deploy their IT workloads on the TF Grid. Anything which runs on Linux is supported on the TFGrid.
+Users, developers, and enterprises use TFT to reserve the capacity they need to create, use and share their data, IT workloads, and applications on the network. Moreover, with TFT, users will be able to use the different products and services deployed on the ThreeFold Grid. 
 
 ![](img/missing_layer_.jpg)
 

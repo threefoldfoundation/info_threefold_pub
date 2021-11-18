@@ -1,27 +1,18 @@
-# TF Grid / Token (TFT) Valuation
+
+<BR>
+<BR>
+
+# TF Grid and its corresponding token TFT are valuable.
 
 ![](img/tft.jpg)
 
+Demand for decentralized capacity is exploding with increasing data demands and trends such as the MetaVerse, Web3, Web2, Edge Computing, 5G, AI, VR, IoT and more. 
 
-The TF Grid's capacity is meeting the demand of one the fastest-growing markets globally. 
+A TFT represents Internet_Capacity (compute, storage & network) on the TF Grid and as such will grow with the expansion of the Grid.
 
-Demand for decentralized capacity is exploding with increasing data demands and trends such as Edge Computing, 5G, AI, VR, IoT and more. There is a direct relationship between the economic value of the TF Grid and the value of the TFT. 
+![](img/token_time_to_get_involved_now_.jpg)
 
-A TFT represents a unit of capacity (compute, storage & network) on the TF Grid. 
-
-The combined valuation of all TFT in circulation can be expressed by the demand for capacity on the TF Grid, leading to a sound and transparent method of valuation.
-
-## The global cloud market is growing fast
-
-Various reports from reputable resources such as 
-
-- [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g)
-- [Markets and Markets](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html)
-- [IDC](https://www.idc.com/getdoc.jsp?containerId=prUS45340719) 
-
-show that the global cloud market will double its revenues between 2018 and 2023. Currently (2021) it is valued at USD 249.8 Billion.
-
-The current growth rates only reflect the increasing demand of emerging technologies such as IoT, AI, autonomous driving and VR in developed countries that *already* have access to the Internet. They *do not* include the billions of people and potential future businesses from developing regions of our world.
+> This is a + Trillions USD Market.
 
 ## ThreeFold aims to connect the unconnected
 
@@ -39,47 +30,33 @@ With the [TF Grid](grid_home) and TF Ecosystem, ThreeFold can also tap into the 
 
 ## The potential of the ThreeFold Grid
 
+![](img/missing_layer_.jpg)
+
 The TF Grid is a peer-to-peer Internet/Cloud grid that provides more efficient solutions than centralized alternatives.
 
-Considering the current global market growth, let's assume that the TF Grid achieves a 10% share of the 500 billion public cloud market by 2025.
+Considering the current global market growth, let's assume that the TF Grid achieves a 10% share of the 1000 billion public cloud market by 2025.
 
-This would translate to a 50 billion USD (10% market share) demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. 
+This would translate to a 100 billion USD (10% market share) demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. 
 
-## The ThreeFold_Token (TFT)
+## The ThreeFold Token (TFT)
+
+![](img/token_valuable_.jpg)
 
 The TF Grid can be expanded indefinitely and independent farmers are incentivized to contribute to this expansion according to market demand.
 
-The amount of TFT in circulation in the market is, however, limited to a maximum of 4 billion TFT.
+The amount of TFT in circulation in the market is, however, limited and will go down over time, see [Tokens Limited](tft_limited_supply)
 
 ![](img/token_issuance_economy1.jpg)
 
-In alignment with the above assumptions, 50 billion USD (10% market share) would meet a limited supply of TFT that can never exceed 4 billion.
+In alignment with the above assumptions, 100 billion USD (10% market share) would meet a [limited supply of TFT](tft_limited_supply).
 
-In the case that ThreeFold would only achieve a 1% market share (10x less than the mentioned above), this still would lead to an expected demand of 5 billion USD worth of capacity. This demand will meet the limited circulating supply of TFT.
-
-<!-- !!!include:grid_valuation_5y -->
-
-## Sustainable growth vs hype
-
-Market dynamics can lead to a higher valuation. Also, some TFT holders might not want to trade their tokens as they expect a future increase in value. 
-
-This results in a lower liquid amount of TFT meeting the 5 billion USD demand (keeping the same example as above). 
-
-Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble.
-
-While this can lead to big speculative gains for some, these are always the losses of others.
-
-ThreeFold does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. 
-
-## Nr of TFT is limited
+## Burning & Staking lead to limited Supply of TFT
 
 see [Token Limited Supply](tft_limited_supply)
 
 ## Disclaimer
 
 > Disclaimer: Please note that we can't and won't make price predictions on TFT valuation and that all calculations made here are purely hypothetical. Use the simulator to make your own estimations.
-
-!!!include:legal:tft_not_speculative_note
 
 !!!alias tft_valuation,token_valuation
 

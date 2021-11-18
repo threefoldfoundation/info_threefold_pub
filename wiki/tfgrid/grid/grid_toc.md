@@ -1,9 +1,5 @@
 ## Grid More Info 
 
-- [Intro](grid_intro) - A quick overview of what is the ThreeFold Grid
-  - [ThreeFold 2 Pager](https://library.threefold.me/threefold_2pager.pdf) - An overview of ThreeFold.
-  - [ThreeFold: For Blockchain](https://library.threefold.me/tfgrid_2pager_blockchain.pdf) - An overview of how blockchains can scale efficiently on the ThreeFold Grid.
-  - [ThreeFold: The Token](https://library.threefold.me/tfgrid_2pager_token.pdf) - An overview of the ThreeFold Token circular economy. 
 - [What is it?](grid_concepts)
   - [Grid Concepts](grid_concepts)
   - [What is Farming](farming_intro) - An introduction to Farming and how anyone can participate in expanding the ThreeFold Grid.
@@ -18,4 +14,8 @@
   - [Grid Architecture](grid_architecture) - An introduction to the main technological components that form the ThreeFold Grid.
 - [Pricing](pricing)
 
->TODO: link pdf's to docsend
+
+<!-- - [Intro](grid_intro) - A quick overview of what is the ThreeFold Grid
+  - [ThreeFold 2 Pager](https://library.threefold.me/threefold_2pager.pdf) - An overview of ThreeFold.
+  - [ThreeFold: For Blockchain](https://library.threefold.me/tfgrid_2pager_blockchain.pdf) - An overview of how blockchains can scale efficiently on the ThreeFold Grid.
+  - [ThreeFold: The Token](https://library.threefold.me/tfgrid_2pager_token.pdf) - An overview of the ThreeFold Token circular economy.  -->

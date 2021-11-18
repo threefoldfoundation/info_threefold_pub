@@ -1,4 +1,3 @@
-# Use ThreeFold 
 
 !!!include:grid_use_
 

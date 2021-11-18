@@ -19,6 +19,7 @@
 - [Quantum Safe Storage](@qsss_home)
 - [Smart Contract for IT](@smartcontract_it)
 - [Infrastructure As Code](@smartcontract_iac)
+- [Roadmap](roadmap_grid)
 <BR>
 **Benefits**
 !!!include:zos_advantages

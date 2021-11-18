@@ -21,4 +21,4 @@ The architecture can be described as follows:
   - The node then can read the contract data, validate and apply them. Deployment status can then be queried over RMB directly from the node.
   - Node will also send consumption reports to the contract, the contract then can start billing the user.
 
-![Sequence Diagram](img/sequence.jpg  ':size=600')
+![Sequence Diagram](img/sequence.jpg)

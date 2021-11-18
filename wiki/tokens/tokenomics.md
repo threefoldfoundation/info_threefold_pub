@@ -1,10 +1,11 @@
 # Tokenomics Overview
 
 <!-- ![](img/inclusive_.png) -->
+<!-- ![](img/circular_tft_.png) -->
 
-![](img/tf3_tokenomics.jpg)
+![](img/tokenomincs3_.jpg)
 
-## Creation of TFTs
+## Proof of Capacity = Creation/Minting of TFTs
 
 TFTs are rewarded when new capacity (storage & compute) is added to the ThreeFold_Grid in the form of hardware. 
 
@@ -16,13 +17,13 @@ The amount of TFTs that are created by farmers depends on three variables:
 2. Memory Capacity (RAM)
 3. Storage Capacity (SSD/HDD)
 
-Learn more about the variables [here](farming_reward).
+Learn more about the farming rewards [here](farming_reward).
 
 Tokens are burned as result of utilization which leads to nr of tokens to be limited.
 
-## Utilization of Tokens
+## Proof of Utilization
 
-see [Utilization Token Flow](utilization_flow)
+see [Utilization Token Flow](proof_of_utilization)
 
 ## Limited Supply & Liquidity Drivers
 
@@ -33,6 +34,8 @@ See [Limited Supply & Liquidity Drivers](tft_limited_supply)
 Many tokens are in vesting wallets see [Vesting](vesting_overview).
 
 ## TF Grid is valuable
+
+![](img/tft_like_btc_.jpg)
 
 See [Valuable TF Grid](grid_valuation)
 

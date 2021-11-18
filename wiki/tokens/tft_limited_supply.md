@@ -2,23 +2,25 @@
 
 # Limited Token Supply
 
-## Circulation: There is a maximum of 4 Billion TFTs
+## Circulation: Nr of TFT are by design limited
 
-While the ThreeFold_Grid can expand infinitely, a maximum of 4 Billion TFTs can be in circulation. 
+While the ThreeFold_Grid can expand infinitely, the nr of TFT is limited.
+
+The technical limit of TFT is 4 Billion, but its very unlikely we will ever get there because the difficulty to get TFT goes up and there are lots of parameters taking care of scarcity.
 
 Learn more about the Threefold Grid and TFT valuation [here](grid_valuation).
 
-## TFT Burning
+## TFT Burning, will lead to total nr of TFT going down
 
-Starting from Farming 3.0 TFT's are burned when people buy capacity of the TFGrid.
+**Starting TFGrid 3, 35% of the TFT used for buying capacity get burned by the TFChain.**
 
-At start burning is 25% of the capacity bought, once the grid becomes bigger this could lead to decrease of TFT in the system.
+> this means as the grid gets used more this principle allone will lead to more TFT burned compared to TFT farmed, which means the grid expansion lead to less TFT in stead of more.
+
+![](img/tokenomincs3_.jpg)
 
 ## Sound Token Distribution
 
 We believe that the TFT distribution is fair and should lead to the promotion and expansion of the ThreeFold project.
-
-With a maximum amount of 4 billion tokens in circulation:
 
 - 75% is reserved for farming where tokens will be created as a result of farming rewards.
 - 3% is to fund community driven projects on the grid.
@@ -35,7 +37,6 @@ Like every item, service, or currency, TFT derives part of its value from scarci
 
 The commercial capability of a 3Node is at least 6 times superior than the total amount of TFT that can be created over 4 years. This leads to a shortage of TFT.
 
-**20-30% of the TFT used for buying capacity from the TFGrid is burned by the TFChain (in 3.0), this means for 3nodes where +70% of capacity is used this leads to more TFT burned compared to TFT farmed, which means in this case the grid expansion lead to less TFT in stead of more.**
 
 ## Natural Economic Demand
 

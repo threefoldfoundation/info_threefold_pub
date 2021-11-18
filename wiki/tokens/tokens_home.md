@@ -8,3 +8,9 @@ In this section, you will learn about what the token is, its features, tokenomic
 
 <!-- !!!include:token_toc -->
 
+![](img/tft_like_btc_.jpg)
+
+## Our Token TFT is a Valuable Token
+
+![](img/tokenomincs3_.jpg)
+

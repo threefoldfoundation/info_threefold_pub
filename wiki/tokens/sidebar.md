@@ -3,12 +3,12 @@
 **Tokens Home**
 
 - [What is TFT](token_what)
-- [Features](token_features)
-- [Valuation](grid_valuation)
+- [Valuable](grid_valuation)
 - [New to Tokens](newtotokens)
 - [Buy and Sell TFT](how_to_buy)
 - [Tokenomics](tokenomics)
 - [Token Overview](token_overview)
+- [Grid Utilization](@grid_use)
 -----------
 **Wallets Stellar**
 - [Overview](threefold_wallets)

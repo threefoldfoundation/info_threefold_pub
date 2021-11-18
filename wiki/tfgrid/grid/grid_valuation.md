@@ -24,7 +24,7 @@ Despite the fast-growing global cloud market, the distribution of data centers i
 
 This unequal distribution of capacity can be explained by the high requirements in infrastructure, electricity, and security to operate large scale data centers which requires large amount of money invested in the infrastructure. Beside this, the price of Compute and Storage Capacity on the market is too high for the global population to be able to afford it. 
 
-Please have a look at our pricing comparison compared to others on the market, [here](@cloud_pricing_compare.md).
+Please have a look at our pricing comparison compared to others on the market, [here](@cloud_pricing_compare).
 
 With the ThreeFold Grid and its ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
 
@@ -59,4 +59,3 @@ see [Token Limited Supply](tft_limited_supply)
 > Disclaimer: Please note that we can't and won't make price predictions on TFT valuation and that all calculations made here are purely hypothetical. Use the simulator to make your own estimations.
 
 !!!alias tft_valuation,token_valuation
-

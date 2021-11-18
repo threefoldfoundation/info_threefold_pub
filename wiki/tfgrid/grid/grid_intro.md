@@ -3,7 +3,7 @@
 
 ## Our Values 
 
-![](img/values.png)
+![](img/values_.jpg)
 
 ## ThreeFold Grid Description
 

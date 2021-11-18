@@ -14,7 +14,7 @@
 - [Capacity Explorer](@tfgrid_explorer)
 - [Manual for Grid 3.0](@manual3_home)
 - [Communication and Information](@communication)
-- [Get Involved](@getinvolved)
+- [Get Involved](how_to_help)
 - [Roadmap](@roadmap_grid)
 ------------
 - [Farming](@farming_intro)

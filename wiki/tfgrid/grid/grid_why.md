@@ -7,7 +7,7 @@ Unsovereign Internet Infrastructure
 
 In 2020, cloud infrastructure providers account for 53% of global traffic, out of which Amazon, Google, Microsoft, Facebook will deliver more than 80% of the payload. While the cloud will deliver the majority of the workloads, the future of the internet stands at a risk of being consolidated, centralized, and at the mercy of these providers. The primary driver of cloud adoption is the promise of flexibility and cost advantage, but the reality is that the products offered by cloud providers are overpriced, complicated and lock clients into ecosystems that limit their ability to innovate, compete and operate within their own internet network, and as a matter of fact, emerging countries’ needs, or else they remain unconnected. Nearly 3.7 billion people still do not have access to internet facilities which creates a huge global inequality and unfairness towards the accessibility to education, information, and knowledge. 
 
-![](img/cable.png)
+![](img/cable_.jpg)
 
 In other words, it is the same as using long cables from the Internet Service Provider “Country” to the Client “Country” to provide internet. Yet, these countries do not extract a lot of benefits from it. Our data is stored in centralized power-hungry data centers owned by well-known companies which are then sold to third parties as part of their business model - encouraging a system with no privacy. 
 

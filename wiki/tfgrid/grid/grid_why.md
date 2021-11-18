@@ -1,39 +1,30 @@
-# The need for a New Peer-to-Peer Internet Grid 
+A Troubled Industry 
 
-## The Problem 
+Without adequate Internet Capacity, companies and societies are unable to develop and evolve - yet this is the future we face today. 
 
-Originally the Internet was created to be open in access, for everyone, and by everyone. While it was the case for a while, it isn't anymore. People are turned into products by a centralized model that is unsustainable and way too complex. 
+Over the past decade, the spectacular advancement of Internet Capacity has been due in large part to the hyper-scale efficiencies of multi-billion-dollar data centers. But this model is fast becoming obsolete. Short-term demand for Internet Capacity is far outpacing available supply, thanks to power-intensive applications like Big Data, the Internet of Things (IoT), and Artificial Intelligence (AI). 
+Unsovereign Internet Infrastructure 
 
-The Internet is growing at an accelerated rate. To service this demand, a few large companies (Google, Amazon, Alibaba, Facebook, etc.) have built and continue to build hyper-scale, power-hungry and centralized data centers. These data centers make up the majority of all Internet capacity available today.
-
-This Internet infrastructure is very badly distributed, generally located only in the most developed regions of this world. Despite being a human right, only half of the global population has Internet access today. The Internet became the biggest source of information and value, it is therefore important to have an architecture that is scalable and affordable to all - something that is not the case today.
-
-![](img/bad_internet.jpg)
-
-The Internet is expanding at such a rapid pace, that even the cloud giants can't cope with it. The creation of hyper-scale data centers takes time and costs billions. And that doesn't even take into consideration all the externalities, as the Internet consumes about 10% of global energy resources. Therefore, in an age of climate change and where user data is not safe anymore, we need to find a more sustainable and sovereign solution.
-
-## The ThreeFold_Grid is the foundation for a better Internet
-
-The ThreeFold_Grid is a peer-to-peer and autonomous Internet grid that provides game-changing performance and empowers new possibilities. With +14,000 CPU cores and +80,000,000 GB of online storage distributed across 110+ locations in 21+countries, the ThreeFold_Grid is the largest peer-to-peer network of Internet (compute, storage and network) capacity in the world. See the live capacity of the ThreeFold_Grid [here](https://explorer.threefold.io).
-
-
-ThreeFold is restoring the neutrality of the Internet by expanding a peer-to-peer grid that:
-- Enables users to protect their data
-- delivers better performance and security than current alternatives.
-- is sustainable for our planet.
-
-
-Features of the ThreeFold_Grid:
-- **Peer-to-Peer**: No intermediaries anymore. On the TF Grid, consumers go directly to the source. So, for example, if two friends call each other on a secure peer-to-peer application that lives on the TF Grid, only they will have access to data about the call, no one else – not even us!
-- **Decentralized**: The TF Grid's capacity is distributed across 20+ countries at launch. ThreeFold's decentralized architecture brings many benefits such as security, cost-efficiency, sustainability, and much more. The expansion and reach to regions that need Internet capacity the most will be incentivized and/or sponsored by the Foundation.
-- **Autonomous**: Because it is self-sustainable and self-healing, the TF Grid is extremely resilient and enables data to be available even in the unlikely case a node on which data is stored goes down. The first of its kind, the TF Grid autonomous technology removes all the layers of complexity present in the current Internet.
-- **Private & Secure**: By removing the need for human intervention, we eliminated many backdoors present in the current architecture. Combined with the peer-to-peer and autonomous approach, users benefit from an incredibly private digital life.
-- **Efficient**: Less is more. By reducing the layers of complexity, the TF Grid enables code and development up-to 10x faster.
-- **Equal**: Internet access should be available to everyone. The TF Grid solutions position themselves as the most affordable on the market. As mentioned above, the expansion of the TF Grid to remote regions of our world will be incentivized and/or sponsored by the Foundation.
-- **Sustainable**: The TF Grid is up-to 90% more sustainable than centralized alternatives on the market.
-
-> And you can become a part of this solution by [becoming a farmer](become_a_farmer) and adding more decentralized capacity to the ThreeFold_Grid.
+In 2020, cloud infrastructure providers account for 53% of global traffic, out of which Amazon, Google, Microsoft, Facebook will deliver more than 80% of the payload. While the cloud will deliver the majority of the workloads, the future of the internet stands at a risk of being consolidated, centralized, and at the mercy of these providers. The primary driver of cloud adoption is the promise of flexibility and cost advantage, but the reality is that the products offered by cloud providers are overpriced, complicated and lock clients into ecosystems that limit their ability to innovate, compete and operate within their own internet network, and as a matter of fact, emerging countries’ needs, or else they remain unconnected. Nearly 3.7 billion people still do not have access to internet facilities which creates a huge global inequality and unfairness towards the accessibility to education, information, and knowledge. 
 
 
 
-!!!include:grid_toc
+In other words, it is the same as using long cables from the Internet Service Provider “Country” to the Client “Country” to provide internet. Yet, these countries do not extract a lot of benefits from it. Our data is stored in centralized power-hungry data centers owned by well-known companies which are then sold to third parties as part of their business model - encouraging a system with no privacy. 
+Cost Ineffective 
+The internet is too expensive for the individual and for most countries. Assuming that Internet usage means consuming 500 megabytes of data per month at current prices, only 17% of people in South Asia and 11% of people in Sub-Saharan Africa can afford to use the Internet - Please note that the estimation is still less than an average mobile data user consumes in developing countries. To make the internet affordable to everybody, global prices would need to fall by an average of 90% which is implausible with current infrastructure costs. 
+Lack of Security due to Centralization Architectures  
+One major problem with current centralized systems is that they run on centralized architectures. Every internet company has its own data centers, where it stores user data and runs its applications. This entails some serious security and privacy concerns. 
+
+Worldwide-known examples such as the data breach of Equifax or Yahoo showed us how bad things can get when data is stored in one location resulting in data leaks and loss - Equifax: security incident led to the financial and personal data of 145 million people finding its way into the hands of malicious actors. Yahoo: loss of data belonging to 3 billion user accounts. 
+
+Meanwhile, centralized architectures suffer from single points of failure. When the servers of centralized services such as Google Drive or Amazon Web Services fail, all the websites and applications that depend on them stop working. Additionally, they are also vulnerable to Denial of Service and Distributed Denial of Service (DoS/DDoS) attacks, because they provide attackers with a single target to hit. 
+Lack of Security Due to Human Error 
+The current IT stack depends on human error and it has been considered as the major cause of cybersecurity breaches with more than 95% of the cases. Human errors allow attackers to access encrypted channels and sensitive information 
+Unsustainable Infrastructure
+Power-hungry data centers consume energy at unsustainable rates. The gigabytes of data we’re using come at a significant cost to the environment. Together, with all the data centers around the world, they represent over 2 trillion gigabytes of storage and consume around 205 TWh - More than the State of New York City. 
+Trouble to Cater for Future Demand
+If we meet the projected demand for 2022, more than 4,000 new data centers, costing an estimated $5 trillion, will be needed to build and consume an additional 400 GW/h. This is roughly equivalent to Japan’s energy consumption and would place an impossible strain on the global electricity grid. Already, demand for data center storage is causing memory shortages and price hikes. 
+
+There is a need for modernizing the data infrastructure and this is empowered through ThreeFold and INCA. 
+Our Solution - ThreeFold
+We decided to turn around the current digital miasma and create from scratch a new internet infrastructure that is decentralized, fully peer-to-peer, secured, and more sustainable - ThreeFold Grid. ThreeFold developed this new infrastructure formed by people and organizations that connect Internet Capacity (Compute, Storage, and Network Capacity) anywhere where electricity and network can be found. As such, this solution is providing the possibility for any country to have their own internet and be sovereign. This will, therefore, be the gateway towards providing the internet to the global population which will allow fair access to education, information, and knowledge - Knowledge is the key driver of prosperity, happiness, and the advancement of human civilization. 

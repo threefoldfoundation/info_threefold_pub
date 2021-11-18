@@ -1,7 +1,8 @@
-!!!include:home_include
+- [ThreeFold Grid Home](@grid_home)
+- [Farming](@farming_intro)
+- [ThreeFold Token](@tokens_home)
 
 **Tokens Home**
-
 - [What is TFT](token_what)
 - [Valuable](grid_valuation)
 - [New to Tokens](newtotokens)
@@ -21,3 +22,10 @@
 - [Trust Wallet](tft_bsc_trustwallet)
 **Bridges**
 - [Stellar - Binance SmartChain](tft_bsc_bridge)
+------------
+
+- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
+- [Technology](@technology)
+------------
+- [Definitions & Concepts](@definitions_concepts)
+- [Legal](!@legal:legal_home)

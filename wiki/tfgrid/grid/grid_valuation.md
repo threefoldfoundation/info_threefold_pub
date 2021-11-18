@@ -60,5 +60,3 @@ see [Token Limited Supply](tft_limited_supply)
 
 !!!alias tft_valuation,token_valuation
 
-
-!!!include:grid_toc

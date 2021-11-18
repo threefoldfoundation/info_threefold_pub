@@ -1,21 +1,31 @@
-!!!include:home_include
+- [ThreeFold Grid Home](@grid_home)
 
-**TFGrid Home**
+**ThreeFold Grid**
 
 - [Why](@why_intro)
-- [About TFGrid](@grid_home)
-- [Farming](@farming_home)
-- [Tokens](@tokens_home)
-- [Grid Utilization](@grid_use)
-- [Technology](@technology)
-!!!include:carbonwin_sidebar
+- [ThreeFold Grid Introduction](@grid_intro)
+  - [ThreeFold 2 Pager](https://threefold.docsend.com/view/cp7cn5m8vzhr7g49)
+  - [ThreeFold: For Blockchain](https://threefold.docsend.com/view/zvy8ub83icrzqhnp)
+  - [ThreeFold: The Token](https://threefold.docsend.com/view/p4skb74nsd9xemqb)
+- [Grid Concepts](@grid_concepts)
+- [Grid Architecture](@grid_architecture)
+- [Grid Valuation](@grid_valuation)
+- [How is capacity measured](@cloudunits)
+- [Carbon-Negative Grid](@carbon_negative_grid)
+- [Capacity Explorer](@tfgrid_explorer)
 - [Manuals](@manual3_home)
-- [News/Blogs/...](@communication)
+- [Communication and Information](@communication)
 - [Get Involved](@getinvolved)
 - [Roadmap](@roadmap_grid)
 ------------
+- [Farming](@farming_intro)
+- [ThreeFold Token](@tokens_home)
+- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
+- [Technology](@technology)
+------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)
+
 
 
 

@@ -1,8 +1,5 @@
-!!!include:home_include
-- [Grid](@tfgrid_home)
-- [Farming](@farming_home)
-- [Tokens](@tokens_home)
-- [Cloud](@cloud_home)
-- [Grid Utilization](@grid_use)
-- [Manual](@manual3_home)
+- [ThreeFold Grid](@grid_home)
+- [Farming](@farming_intro)
+- [ThreeFold Tokens](@tokens_home)
+- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
 - [About](@about)

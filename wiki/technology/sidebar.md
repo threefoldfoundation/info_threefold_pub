@@ -1,4 +1,7 @@
-!!!include:home_include
+- [ThreeFold Grid Home](@grid_home)
+- [Farming Home](@farming_intro)
+- [ThreeFold Token Home](@tokens_home)
+- [Technology Home](@technology)
 
 **Technology**
 

@@ -1,4 +1,6 @@
-!!!include:home_include
+- [ThreeFold Grid Home](@grid_home)
+- [Farming](@farming_intro)
+- [ThreeFold Token](@tokens_home)
 
 **Peer Cloud**
 
@@ -13,14 +15,17 @@
     - [Sovereign](@usp_sovereign)
   - [Architecture](@cloud_architecture)
   - [Web2 vs Web3 vs P2P](@cloud_compare_home)
-  - carbon_double_win
-- [Grid 2.0 Manual](@manual2_home)
-- [Grid 3.0 Manual](@manual3_home)
-- [Grid Pricing](@pricing)
+- [Cloud Pricing](@pricing)
 - [Cloud Compare](@cloud_compare_home)
 - [Technology](@technology)
 - [Roadmap](@roadmap_grid)
 - [Support](@support)
 - [Videos](@generic_video)
 - [Grid3 Specs](@specs_tfgrid3_home)
+
+------------
+- [Technology](@technology)
+------------
+- [Definitions & Concepts](@definitions_concepts)
+- [Legal](!@legal:legal_home)
 

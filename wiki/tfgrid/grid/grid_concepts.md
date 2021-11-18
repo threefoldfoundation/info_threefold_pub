@@ -1,5 +1,5 @@
 
-# Intro to the ThreeFold Grid Concepts
+# ThreeFold Grid Concept 
 
 ## What is the Internet?
 
@@ -10,20 +10,6 @@ The communications infrastructure of the Internet consists of its hardware compo
 The Internet carries many applications and services, most prominently the World Wide Web, including social media, e-mail, mobile applications, multiplayer online games, Internet telephony (calls), file sharing, and streaming media services.
 
 Most servers that provide these services are today hosted in centralized data centers owned by a few large corporations. This centralized model is inefficient, as through it's centralized model, if the main servers go down, the whole system experiences downtime. Hundreds of downtime events have been recorded throughout the last few years. Also, given these companies own the data centers, they also own the data that is contained in them and use it for profit reasons. 
-
-## What is the ThreeFold Grid?
-
-The ThreeFold_Grid is a peer-to-peer and autonomous Internet Grid that provides game-changing performance and empowers new possibilities. With +500 servers delivering +80,000,000 GB of online storage across 110+ locations in 21+countries, the ThreeFold_Grid is the largest peer-to-peer Internet in the world. TCP/IP isn't used on the ThreeFold Grid which makes it completely private and secure for the users. All the applications an serves are completely decentralized 
-
-The ThreeFold_Grid is made up of many servers we call 3Nodes that are distributed around the world by independent people and organizations we call Farmers. 3Nodes run a unique operating system called Zero-OS, a lightweight and ultra-efficient open source operating system. All 3Nodes connected to the ThreeFold_Grid are registered in a database called the ThreeFold Directory, that registers the capacity available on the ThreeFold Grid Explorer. We call this proof-of-capacity. 
-
-Users can then access the ThreeFold_Grid with 3Bot, a virtual system administrator that executes the commands (reservation of capacity, sending messages, store files, build applications, etc.) directly on the operating system level via a smart contract for IT. 
-
-![](img/tf_principle_banner.jpg)
-
-This model permits anyone to participate in the Internet economy and removes all centralization from the model as users can operate their digital lives directly on the operating system level.
-
-The ThreeFold_Grid is approaching it's 3rd major release and many things are already possible on top of it. ThreeFold didn't stop at only building the peer-to-peer communications infrastructure. In parallel, peer-to-peer applications and services are also being built such as a peer-to-peer cloud, peer-to-peer marketplace, and a peer-to-peer software development kit amongst others. Any application which can run on Linux can run on top of the ThreeFold Grid with many [advantages](cloud_compare_home).
 
 ## What is autonomous technology? 
 
@@ -42,6 +28,3 @@ Peers make a portion of their resources, such as processing power, disk storage 
 Emerging collaborative P2P systems are going beyond the era of peers doing similar things while sharing resources, and are looking for diverse peers that can bring in unique resources and capabilities to a virtual community thereby empowering it to engage in greater tasks beyond those that can be accomplished by individual peers, yet that are beneficial to all the peers.
 
 Given anyone can plug-in servers to the ThreeFold Grid and that there are no intermediaries between the users and the servers, as well as between users and users, ThreeFold created a peer-to-peer Internet. 
-
-
-!!!include:grid_toc

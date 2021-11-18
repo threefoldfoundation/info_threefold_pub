@@ -9,9 +9,10 @@ Welcome to the ThreeFold Knowledgebase. Here you will find all relevant informat
 
 
 - [Learn more about ThreeFold Grid](@grid_home)
-- [Learn more about Farming](@farming_home)
+- [Learn more about Farming](@farming_intro)
 - [Learn more about ThreeFold Token](@tokens_home)
 - [Learn more about ThreeFold Peer-to-Peer Cloud](@cloud_home)
+- [Learn more about the technology](@technology)
 
 <!-- 
 

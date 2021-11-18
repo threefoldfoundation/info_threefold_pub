@@ -2,18 +2,17 @@
 
 **ThreeFold Grid**
 
-- [Why](@why_intro)
+- [Why](@grid_why)
 - [ThreeFold Grid Introduction](@grid_intro)
   - [ThreeFold 2 Pager](https://threefold.docsend.com/view/cp7cn5m8vzhr7g49)
   - [ThreeFold: For Blockchain](https://threefold.docsend.com/view/zvy8ub83icrzqhnp)
   - [ThreeFold: The Token](https://threefold.docsend.com/view/p4skb74nsd9xemqb)
 - [Grid Concepts](@grid_concepts)
 - [Grid Architecture](@grid_architecture)
-- [Grid Valuation](@grid_valuation)
+- [How Valuable the TF Grid is](@grid_valuation)
 - [How is capacity measured](@cloudunits)
-- [Carbon-Negative Grid](@carbon_negative_grid)
 - [Capacity Explorer](@tfgrid_explorer)
-- [Manuals](@manual3_home)
+- [Manuals Grid 3.0](@manual3_home)
 - [Communication and Information](@communication)
 - [Get Involved](@getinvolved)
 - [Roadmap](@roadmap_grid)

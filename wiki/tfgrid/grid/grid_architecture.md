@@ -2,9 +2,9 @@
 
 ## Introduction 
 
-The ThreeFold_Grid is made up of many servers we call 3Nodes that are distributed around the world by independent people and organizations called Farmers. 3Nodes run a unique operating system called Zero-OS, a lightweight and ultra-efficient open source operating system. All 3Nodes connected to the ThreeFold_Grid are registered in a database called the TF Directory, that displays the capacity available on the TF Grid Explorer. We call this proof-of-capacity. 
+The ThreeFold Grid is made up of many servers we call 3Nodes that are distributed around the world by independent people and organizations called Farmers. 3Nodes run a unique operating system called Zero-OS, a lightweight and ultra-efficient open source operating system. All 3Nodes connected to the ThreeFold_Grid are registered in a database called the TF Directory, that displays the capacity available on the TF Grid Explorer. We call this proof-of-capacity. 
 
-Once registered in the TF Directory, people and organizations that connect 3Nodes get remunerated in the means of ThreeFold Tokens (TFT), the official currency of the ThreeFold_Grid. 
+Once registered in the TF Directory, people and organizations that connect 3Nodes get remunerated in the means of ThreeFold Tokens ("TFT"), the official currency of the ThreeFold_Grid. 
 
 Users can then access the ThreeFold_Grid with 3Bot, a virtual system administrator that executes the commands and functions (reservation of capacity, editing workloads, etc.) directly on the operating system level via a smart contract for IT.  
 
@@ -96,7 +96,6 @@ Learn more about Threefold Grid Blockchain [here](consensus3).
 - This software is beta quality but usable for production. Be reminded that the workload itself is running on Zero-OS and the Smart Contract for IT layer, which is production quality.
 - Our newest version is 2.6, which has a nice UI and user-friendly wizards.
 
-*Note: This was last updated March 2021.*
 
 
-!!!include:grid_toc
+

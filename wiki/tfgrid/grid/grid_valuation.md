@@ -2,17 +2,15 @@
 <BR>
 <BR>
 
-# TF Grid and its corresponding token TFT are valuable.
+# ThreeFold Grid and its utility token - TFT - are valuable.
 
 ![](img/tft.jpg)
 
 Demand for decentralized capacity is exploding with increasing data demands and trends such as the MetaVerse, Web3, Web2, Edge Computing, 5G, AI, VR, IoT and more. 
 
-A TFT represents Internet_Capacity (compute, storage & network) on the TF Grid and as such will grow with the expansion of the Grid.
+A ThreeFold Token ("TFT") represents a unit of reservation of Internet Capacity (Compute, Storage and Network) on the ThreeFold Grid ("Grid"). Considering the infinite expansion of the Grid, the limited supply and the burning mechanism of the token, the ThreeFold Token will grow consequently, providing values to its holders. 
 
 ![](img/token_time_to_get_involved_now_.jpg)
-
-> This is a + Trillions USD Market.
 
 ## ThreeFold aims to connect the unconnected
 
@@ -24,9 +22,11 @@ Despite the fast-growing global cloud market, the distribution of data centers i
   - [Cloudwirx](https://www.cloudwirx.com/datacenters)
   - [Microsoft](https://yellowduckguy.wordpress.com/2018/03/15/microsoft-worldwide-data-center-locations/)
 
-This unequal distribution of capacity can be explained by the high requirements in infrastructure, electricity, and security to operate large scale data centers that often require an investment of USD 1bn+ for setup.
+This unequal distribution of capacity can be explained by the high requirements in infrastructure, electricity, and security to operate large scale data centers which requires large amount of money invested in the infrastructure. Beside this, the price of Compute and Storage Capacity on the market is too high for the global population to be able to afford it. 
 
-With the [TF Grid](grid_home) and TF Ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
+Please have a look at our pricing comparison compared to others on the market, [here](@cloud_pricing_compare.md).
+
+With the ThreeFold Grid and its ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
 
 ## The potential of the ThreeFold Grid
 
@@ -38,7 +38,7 @@ Considering the current global market growth, let's assume that the TF Grid achi
 
 This would translate to a 100 billion USD (10% market share) demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. 
 
-## The ThreeFold Token (TFT)
+## The ThreeFold Token (TFT) is Valuable 
 
 ![](img/token_valuable_.jpg)
 

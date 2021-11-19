@@ -35,7 +35,7 @@ The CU, SU rewards are registered on the [TFChain](tfchain) and do not change as
 - Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
 - More info see [Farming Hardware Calculator](farming_calculator)
 - TFT price for CU/SU is locked once farming starts for a 3node (first boot & registration to blockchain) or at date of purchase when certified 3node.
-- [CU/SU/NU = storage and compute units](cloudunits) farmed  = amount CU,SU available to TFGrid with enough uptime.
+- [CU/SU/NU = storage and compute units](cloudunits) farmed  = amount CU,SU available to ThreeFold Grid with enough uptime.
 - None of the Farming Rewards is related to how much a user pays for the capacity.
 - More info see [Proof Of Capacity Page](proof_of_capacity)
 
@@ -49,15 +49,12 @@ The CU, SU rewards are registered on the [TFChain](tfchain) and do not change as
 - [info about certified nodes](certified_node)
 - [info about cloudunits](cloudunits)
 
-
 ## Remarks
 
-- Above described Farming rewards are for TFGrid version 3.0 and will only apply for 3Nodes as registered [in TFChain](tfchain).
+- Above described Farming rewards are for TFGrid version 3.0 and will only apply for 3Nodes as registered in TF Chain.
 - Above specifications will only be final once [Wisdom Council](wisdom_council) approves and TFGrid 3.x is on mainnet.
-- Today allmost all 3Nodes registered use [farming model 2](farming_reward2).
+- Today almost all 3Nodes registered use [Farming Model 2](farming_reward2).
 - More information about the upgrade see: [upgrade from farming 2 to farming 3](farming_upgrade_2_3)
-
-!!!include:farming_toc
 
 !!!def alias:farming_reward,farming_reward,farming_reward3,farming_reward
 

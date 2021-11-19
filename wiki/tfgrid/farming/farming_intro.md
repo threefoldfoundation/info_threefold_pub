@@ -40,9 +40,9 @@ The Internet represents the largest economy in the world and is growing at a rap
 - Demand Growth: +70 Billion smart devices to join the Internet of Things network by 2025. 
 - +1 Billion people to go digital in the next 5 years.
 
-The ThreeFold Grid offers the most scaleable, secure and sustainable infrastructure to supply the increasing Internet demand. Learn more about the ThreeFold Grid [here](grid_home).
+The ThreeFold Grid offers the most scaleable, secure and sustainable infrastructure to supply the increasing Internet demand. 
 
+Learn more about the ThreeFold Grid [here](grid_home).
 
-!!!include:farming_toc
 
 !!!alias become_a_farmer

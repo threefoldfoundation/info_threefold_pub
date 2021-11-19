@@ -1,15 +1,16 @@
 
 # Become a Farmer
 
-## Buy Your Own Hardware.
+## Steps To Becoming A Farmer
 
-Buy any computer and calculate your farming rewards.
-
-> [see farming calculator](farming_calculator)
+- [Step 1: Learn more about rewards of farming](farming_reward)
+- [Step 2: Choose your server/hardware type](farming_hardware_overview)
+- [Step 3: Calculate your farming rewards according to your choice](farming_calculator)
+- [Step 4: download the operating system and boot your 3Node](farming_manual)
 
 ## ThreeFold Node Shop
 
-To make it easy to get started ThreeFold has defined a smaller node which is sold in the ThreeFold Shop.
+To make it easy to get started, ThreeFold has defined a smaller node which is sold in the ThreeFold Shop.
 
 ![titan node](img/titan_side.jpg 'size=200')
 

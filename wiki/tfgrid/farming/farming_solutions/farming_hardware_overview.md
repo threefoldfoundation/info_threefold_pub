@@ -52,6 +52,3 @@ It is recommended to have the following hardware configuration:
 
 You will be required to provide your own hosting as well as setup and administer your own farm.
 
-
-
-!!!include:farming_toc

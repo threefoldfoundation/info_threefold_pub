@@ -4,9 +4,13 @@
 **Farming**
 
 - [Farming Rewards](@farming_reward)
+  - [Proof-of-Utilization](@proof_of_utilization)
+  - [Proof-of-Capacity](@proof_of_capacity.md)
 - [Farming Calculation](@farming_calculator)
 - [Farming Hardware](@farming_hardware_overview)
 - [Start Farming](@start_farming)
+- [Certified Farming](@certified_farming)
+- [Farming Network Setup](tfgrid_networking)
 - [Planet Positive Farming](@planet_positive_farming)
 ------------
 - [ThreeFold Token](@tokens_home)

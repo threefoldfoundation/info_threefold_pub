@@ -66,8 +66,6 @@ We have created a calculator to allow you to simulate your potential return on i
   - _Unlikely: TFT has a utility - TFT represents  unit of compute and storage capacity._
   - _Even if this would happen despite all logic, then normal FIAT currencies can be used.  The token is only a effective means of value exchange._
 
-
-!!!include:farming_toc
 !!!alias tf_farming_simulator,farming_simulation,farming_simulator,farming_calculator
 
 

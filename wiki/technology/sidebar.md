@@ -35,5 +35,7 @@
 - [Consensus Mechanism](@consensus3)
 
 ------------
+- [About](@about)
+------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)

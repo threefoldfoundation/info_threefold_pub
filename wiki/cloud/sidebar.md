@@ -2,7 +2,7 @@
 - [Farming](@farming_intro)
 - [ThreeFold Token](@tokens_home)
 
-**Peer Cloud**
+**ThreeFold Peer-to-Peer Cloud**
 
 - [P2P Cloud Concepts](@peer_cloud_home)
   - [P2P Cloud Intro](@cloud_intro)

@@ -1,9 +1,10 @@
 - [ThreeFold Grid Home](@grid_home)
 - [Farming Home](@farming_intro)
 - [ThreeFold Token Home](@tokens_home)
+- [ThreeFold Peer-to-Peer Cloud](@peer_cloud_home)
 - [Technology Home](@technology)
 
-**Technology**
+**ThreeFold Technology**
 
 - [Zero-OS](@zos)
 - [Zero-OS primitives](@tfgrid_primitives)
@@ -32,3 +33,7 @@
 - [Use the Threefold Grid](@grid_use)
 - [Release Notes](@releasenotes)
 - [Consensus Mechanism](@consensus3)
+
+------------
+- [Definitions & Concepts](@definitions_concepts)
+- [Legal](!@legal:legal_home)

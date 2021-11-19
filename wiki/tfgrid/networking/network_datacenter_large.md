@@ -164,5 +164,3 @@ Con
 
 - public IP address management done per cluster !!! Need more IP addresses.
 
-
-!!!include:networking_toc

@@ -18,4 +18,3 @@ Thanks to certification its easier to make sure that the TF_Farmer complies with
 Its important to deliver sovereign solutions to the user and to countries.
 Certification allows ThreeFold to guarantee more requirements and have more visibility in the sovereignty requirements.
 
-!!!include:farming_toc

@@ -18,5 +18,3 @@
 
 !!!include:farming_certification_benefits
 
-
-!!!include:farming_toc

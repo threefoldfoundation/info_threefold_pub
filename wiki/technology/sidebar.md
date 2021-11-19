@@ -1,7 +1,4 @@
-- [ThreeFold Grid Home](@grid_home)
-- [Farming Home](@farming_intro)
-- [ThreeFold Token Home](@tokens_home)
-- [Technology Home](@technology)
+- [ThreeFold Home](@threefold_home)
 
 **Technology**
 
@@ -31,4 +28,4 @@
 - [Compare Clouds](@cloud_compare_home)
 - [Use the Threefold Grid](@grid_use)
 - [Release Notes](@releasenotes)
-- [Consensus Mechanism](@consensus3)
+<!-- - [Consensus Mechanism](@consensus3) -->

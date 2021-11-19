@@ -1,6 +1,6 @@
 # Grid proxy server
 
-Interact with TFgrid-DB using rest APIs
+Interact with TFTFCHain using rest APIs
 
 Github repo: [grid_proxy_server](https://github.com/threefoldtech/grid_proxy_server.git)
 

@@ -1,4 +1,4 @@
-!!!include:home_include
+!!!include:accelerator:home_include
 **Farming Network**
 - [SOHO = Small Office Home Office Setup](@network_soho)
 - [Certified/Commercial Setup](@network_datacenter)

@@ -1,4 +1,4 @@
-!!!include:home_include
+!!!include:accelerator:home_include
 **Manual v2.0**
 
 - [eVDC](@evdc_overview)

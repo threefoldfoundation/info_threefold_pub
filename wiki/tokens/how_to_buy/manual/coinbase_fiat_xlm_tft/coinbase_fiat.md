@@ -81,4 +81,4 @@ Congratulations! You now have XLMs in your wallet and you are ready to buy Three
 
 
 
-!!!include:legal:tft_not_speculative_note
+!!!include:legal:tft_not_investment

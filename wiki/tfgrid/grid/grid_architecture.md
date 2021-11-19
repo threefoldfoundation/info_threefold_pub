@@ -62,12 +62,11 @@ All 3Bot IDs are registered on a modern type of phone book that uses blockchain 
 
 ## TF Grid for tech experts
 
-- 3Bot serves as your virtual system administrator, see [sdk](sdk:sdk_home).
+- 3Bot serves as your virtual system administrator, see [sdk](manual:manual3_home_new).
 - It's a very powerful tool that allows you to automate & manage thousands of virtual workloads.
 - Python language can be used to extend this tool and make it your own.
 - This software is beta quality but usable for production. Be reminded that the workload itself is running on Zero-OS and the Smart Contract for IT layer, which is production quality.
 - Our newest version is 2.6, which has a nice UI and user-friendly wizards.
-
 
 
 

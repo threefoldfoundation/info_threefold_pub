@@ -1,8 +1,7 @@
-- [ThreeFold Grid Home](@grid_home)
+- [ThreeFold Grid](@grid_home)
 - [Farming](@farming_intro)
-- [ThreeFold Token](@tokens_home)
-
-**Peer Cloud**
+- [Token](@tokens_home)
+**Decentralized Cloud**
 
 - [P2P Cloud Concepts](@peer_cloud_home)
   - [P2P Cloud Intro](@cloud_intro)
@@ -21,11 +20,12 @@
 - [Roadmap](@roadmap_grid)
 - [Support](@support)
 - [Videos](@generic_video)
-- [Grid3 Specs](@specs_tfgrid3_home)
-
 ------------
 - [Technology](@technology)
 ------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)
 
+
+
+<!-- - [Grid3 Specs](@specs_tfgrid3_home) -->

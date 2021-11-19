@@ -164,4 +164,4 @@ Here are the steps:
 
 5. Wait until the transaction is fully processed, this typically takes up to 40 minutes.
 
-!!!include:legal:tft_not_speculative_note
+!!!include:legal:tft_not_investment

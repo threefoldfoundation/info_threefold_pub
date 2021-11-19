@@ -8,7 +8,6 @@
   - [ThreeFold: For Blockchain](https://threefold.docsend.com/view/zvy8ub83icrzqhnp)
   - [ThreeFold: The Token](https://threefold.docsend.com/view/p4skb74nsd9xemqb)
 - [Grid Concepts](@grid_concepts)
-- [Grid Architecture](@grid_architecture)
 - [How Valuable the TF Grid is](@grid_valuation)
 - [How is capacity measured](@cloudunits)
 - [Capacity Explorer](@tfgrid_explorer)

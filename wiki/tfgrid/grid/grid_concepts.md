@@ -1,5 +1,5 @@
 
-# ThreeFold Grid Concept 
+# ThreeFold Grid Concepts 
 
 ## What is the Internet?
 
@@ -11,6 +11,7 @@ The Internet carries many applications and services, most prominently the World 
 
 Most servers that provide these services are today hosted in centralized data centers owned by a few large corporations. This centralized model is inefficient, as through it's centralized model, if the main servers go down, the whole system experiences downtime. Hundreds of downtime events have been recorded throughout the last few years. Also, given these companies own the data centers, they also own the data that is contained in them and use it for profit reasons. 
 
+
 ## What is autonomous technology? 
 
 Autonomous technology is an emerging term for the technological developments that are expected to enable computers to run autonomously without human direction. An autonomous infrastructure would mean that the system would be self-healing and self-driving, without the need of any human intervention.
@@ -21,10 +22,12 @@ The smart contract for IT enables users to create the command functions (reserva
 
 ## What does peer-to-peer mean?
 
-Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application. They are said to form a peer-to-peer network of nodes.
+Peer-to-peer ("P2P") computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the application. They are said to form a peer-to-peer network of nodes.
 
 Peers make a portion of their resources, such as processing power, disk storage or network bandwidth, directly available to other network participants, without the need for central coordination by servers or stable hosts. Peers are both suppliers and consumers of resources, in contrast to the traditional client–server model (used by the current Internet) in which the consumption and supply of resources is divided. 
 
 Emerging collaborative P2P systems are going beyond the era of peers doing similar things while sharing resources, and are looking for diverse peers that can bring in unique resources and capabilities to a virtual community thereby empowering it to engage in greater tasks beyond those that can be accomplished by individual peers, yet that are beneficial to all the peers.
 
 Given anyone can plug-in servers to the ThreeFold Grid and that there are no intermediaries between the users and the servers, as well as between users and users, ThreeFold created a peer-to-peer Internet. 
+
+Learn more about the peer-to-peer network on the ThreeFold Grid [here](znet).

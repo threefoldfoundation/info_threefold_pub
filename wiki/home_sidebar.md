@@ -4,3 +4,6 @@
 - [ThreeFold Peer-to-Peer Cloud](@cloud_home)
 - [Sustainability](@sustainability)
 - [About](@about)
+------------
+- [Definitions & Concepts](@definitions_concepts)
+- [Legal](!@legal:legal_home)

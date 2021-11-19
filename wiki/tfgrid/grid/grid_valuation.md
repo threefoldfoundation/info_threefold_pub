@@ -6,11 +6,31 @@
 
 ![](img/tft.jpg)
 
-Demand for decentralized capacity is exploding with increasing data demands and trends such as the MetaVerse, Web3, Web2, Edge Computing, 5G, AI, VR, IoT and more. 
-
-A ThreeFold Token ("TFT") represents a unit of reservation of Internet Capacity (Compute, Storage and Network) on the ThreeFold Grid ("Grid"). Considering the infinite expansion of the Grid, the limited supply and the burning mechanism of the token, the ThreeFold Token will grow consequently, providing values to its holders. 
+Demand for decentralized capacity is exploding with increasing data demands and trends such as the MetaVerse, Web3, Web2, Edge Computing, 5G, AI, VR, IoT and more.
 
 ![](img/token_time_to_get_involved_now_.jpg)
+
+## The potential of the ThreeFold Grid
+
+![](img/missing_layer_.jpg)
+
+The ThreeFold Grid ("Grid") is a peer-to-peer Internet/Cloud grid that provides more efficient solutions than centralized alternatives.
+
+Considering the current global market growth, let's assume that the Grid achieves a 10% share of the 1000 billion public cloud market by 2025. This would translate to a 100 billion USD (10% market share) demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. 
+
+## The ThreeFold Token (TFT) and its scarcity 
+
+A ThreeFold Token ("TFT") represents a unit of reservation of Internet Capacity (Compute, Storage and Network) on the ThreeFold Grid ("Grid"). Considering the infinite expansion of the Grid, the limited supply and the burning mechanism of the token, the ThreeFold Token will grow consequently, providing values to its holders.
+
+![](img/token_valuable_.jpg)
+
+According to the market demand, ThreeFold Farmers are incentivized to contribute to the Grid expansion. 
+
+![](img/token_issuance_economy1.jpg)
+
+In alignment with the above assumptions - 10% market share - the amount of TFT in circulation on the market will be limited. 
+
+Learn more about [the scarcity mechanism of the ThreeFold Token ](tft_limited_supply).
 
 ## ThreeFold aims to connect the unconnected
 
@@ -27,32 +47,6 @@ This unequal distribution of capacity can be explained by the high requirements 
 Please have a look at our pricing comparison compared to others on the market, [here](@cloud_pricing_compare).
 
 With the ThreeFold Grid and its ecosystem, ThreeFold can also tap into the areas of our world where big cloud providers can't, thanks to its decentralized and autonomous nature. Also, this represents an opportunity for locals to boost their digital economies.
-
-## The potential of the ThreeFold Grid
-
-![](img/missing_layer_.jpg)
-
-The TF Grid is a peer-to-peer Internet/Cloud grid that provides more efficient solutions than centralized alternatives.
-
-Considering the current global market growth, let's assume that the TF Grid achieves a 10% share of the 1000 billion public cloud market by 2025.
-
-This would translate to a 100 billion USD (10% market share) demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. 
-
-## The ThreeFold Token (TFT) is Valuable 
-
-![](img/token_valuable_.jpg)
-
-The TF Grid can be expanded indefinitely and independent farmers are incentivized to contribute to this expansion according to market demand.
-
-The amount of TFT in circulation in the market is, however, limited and will go down over time, see [Tokens Limited](tft_limited_supply)
-
-![](img/token_issuance_economy1.jpg)
-
-In alignment with the above assumptions, 100 billion USD (10% market share) would meet a [limited supply of TFT](tft_limited_supply).
-
-## Burning & Staking lead to limited Supply of TFT
-
-see [Token Limited Supply](tft_limited_supply)
 
 ## Disclaimer
 

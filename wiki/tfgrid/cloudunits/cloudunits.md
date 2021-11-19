@@ -2,19 +2,19 @@
 
 ![](img/cloudunits_abstract.jpg)
 
-Cloud units are the basis for price calculation for anyone intending to use/deploy on the Threefold_Grid. 
+Cloud units are the basis for price calculation for anyone intending to use/deploy on the Threefold Grid. 
 
-Cloud units are a unified way to account for virtual hardware resources on the ThreeFold_Grid. They represent compute, storage and network equivalent to kW - kilowatt - unit of energy. Therefore, we use the following categories of cloud units:
+Cloud units are a unified way to account for virtual hardware resources on the ThreeFold Grid. They represent compute, storage and network equivalent to kW - kilowatt - unit of energy. Therefore, we use the following categories of cloud units:
 
-- Compute Unit (CU): The amount of data processing power, specified as the number of virtual CPU (vCPU) cores (logical [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) and RAM ([Random Access Memory](https://en.wikipedia.org/wiki/Random-access_memory).
+- Compute Unit (CU): The amount of data processing power, specified as the number of virtual CPU (vCPU) cores (logical [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) and RAM ([Random Access Memory](https://en.wikipedia.org/wiki/Random-access_memory)).
 - Storage Unit (SU): The amount of storage capacity reflected in hard disk drives (HDDs) and solid state drives (SSDs) in terms of Gigabytes.
 - Network Unit (NU): The amount of data that travels in and out of the acquired storage units or the amount of data that travels to and from the acquired compute capacity expressed in Gigabytes.
 
-When a solution gets requested, it always gathers the required amount of CU, SU, or NU. It is important to note that TF Certified Farmers can define the price of CU, SU, and NU they make available on the ThreeFold_Grid.
+When a solution gets requested, it always gathers the required amount of CU, SU, or NU. It is important to note that TF Certified Farmers can define the price of CU, SU, and NU they make available on the ThreeFold Grid.
 
 ## Cloud Units (v4)
 
-The following tables display how cloud units are calculated on the ThreeFold_Grid.
+The following tables display how cloud units are calculated on the ThreeFold Grid.
 
 _v4 is the one used in summer 2020 on TFGrid 2.2+_
 
@@ -71,10 +71,3 @@ Resource Units are how we measure capacity as produced by the hardware (compute 
 
 !!!def alias:cloudunits
 
-<!-- ### More Info:
-
-- [More information around Cloud Pricing](pricing) - An overview of ThreeFold Cloud pricing and how it compares with the market.
-- [Use the Threefold Grid](grid_use) - An introduction to the ThreeFold products and services: The ThreeFold SDK, P2P Cloud, P2P Marketplace, and Digital Twin.
-- [Connect capacity to the ThreeFold Grid](farming_home) - Discover Farming and how you can connect capacity and earn passive income. -->
-
-!!!include:farming_toc

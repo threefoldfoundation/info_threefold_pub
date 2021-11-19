@@ -11,8 +11,7 @@
 
 ## Delivered releases
 
-- [3.0](releasenotes3)  
-- [2.0-2.9](releasenotes2)  : now outdated 
+- [3.0](releasenotes3)   
 
 ## Further Outlook
 

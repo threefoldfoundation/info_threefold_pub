@@ -13,8 +13,8 @@
 - [Capacity Explorer](@tfgrid_explorer)
 - [Manuals Grid 3.0](@manual3_home)
 - [Communication and Information](@communication)
-- [Get Involved](how_to_help)
-- [Roadmap](@roadmap_grid)
+- [Get Involved](@how_to_help)
+- [Roadmap](@roadmap)
 ------------
 - [Farming](@farming_intro)
 - [ThreeFold Token](@tokens_home)

@@ -22,14 +22,6 @@ Today, the ThreeFold_Grid is ready for testing for those with a technical backgr
 
 If you'd like to get involved in our testing community, you can join [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)!
 
-## Help Us to Secure Funding!
-
-Yes, we are looking for funding, and so is [ThreeFold Tech](https://threefold.tech). If you want this to happen as much as we do and you have the ability to fund or the network to find funding, this would be the ultimate support!
-
-## Soon: Reserve Your Digital Twin!
-
-Soon we will have ways for you to secure your own Digital Twin (For Life). Stay tuned via our website (above) or our [Telegram Channel](https://t.me/threefoldnews).
-
 ## Get Your Hands Dirty: Offer Support!
 
 If you have the time and would like to get involved in supporting the Foundation, please let us know either on [the forum](https://forum.threefold.io) or by emailing us at info@threefold.io. Based on your background and interests, we'll find a way to get you involved.
@@ -76,12 +68,6 @@ Learn more about our existing ecosystem at:
 
 [ThreeFold Partners](https://farming.threefold.io/partners)
 [The Alliance for a Conscious Internet](https://consciousinternet.org)
-
-### Create Your Own Content
-
-Feel particularly passionate about what we are doing? We'd love for you to create your own content about ThreeFold. That might sound scary but it can be as simple as writing a few lines of text or recording yourself talking into the camera for a few minutes and sharing it out on your preferred outlet or network.
-
-If you don't know where to share, we invite you to create content for the [ThreeFold Blog](https://threefold.io/blog) as well. Or give us content ideas for our social channels.
 
 ### Seek Out New Communities
 

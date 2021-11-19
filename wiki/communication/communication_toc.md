@@ -1,4 +1,3 @@
-**Communication**
 - [Blogs](blogs)
 - [News](news)
 - [Announcements](announcements)

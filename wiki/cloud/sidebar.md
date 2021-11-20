@@ -22,6 +22,7 @@
 - [Videos](@generic_video)
 ------------
 - [Technology](@technology)
+- [About](@about)
 ------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)

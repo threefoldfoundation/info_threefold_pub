@@ -24,6 +24,7 @@
 ------------
 - [ThreeFold Peer-to-Peer Cloud](@cloud_home)
 - [Technology](@technology)
+- [Sustainability](@sustainability)
 - [About](@about)
 ------------
 - [Definitions & Concepts](@definitions_concepts)

@@ -1,7 +1,8 @@
 - [ThreeFold Grid](@grid_home)
-- [Farming](@farming_intro)
-- [Token](@tokens_home)
-**Decentralized Cloud**
+- [Farming Home](@farming_intro)
+- [ThreeFold Token Home](@tokens_home)
+  
+**ThreeFold Peer-to-Peer Cloud**
 
 - [P2P Cloud Concepts](@peer_cloud_home)
   - [P2P Cloud Intro](@cloud_intro)
@@ -22,10 +23,12 @@
 - [Videos](@generic_video)
 ------------
 - [Technology](@technology)
+- [Sustainability](@sustainability)
 - [About](@about)
 ------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)
+
 
 
 

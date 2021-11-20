@@ -1,8 +1,8 @@
 
-- [**Home**](@readme)
-- [**Technology**](@technology)
-- [**Cloud**](@cloud_home)
------------
+- [ThreeFold Grid](@grid_home)
+- [Farming Home](@farming_intro)
+- [ThreeFold Token Home](@tokens_home)
+- [ThreeFold Peer-to-Peer Cloud Home](@peer_cloud_home)
 
 **Compare**
 
@@ -19,3 +19,10 @@
 - [data privacy](@data_privacy)        
 - [compatible](@compatible)
 - [self healing](@autonomous_ops) 
+ ------------
+- [Technology](@technology)
+- [Sustainability](@sustainability)
+- [About](@about)
+------------
+- [Definitions & Concepts](@definitions_concepts)
+- [Legal](!@legal:legal_home)

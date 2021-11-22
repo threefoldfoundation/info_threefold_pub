@@ -1,8 +1,8 @@
-![](img/tokenintrohome.jpg)
+![](img/token_home.png)
 
 # Overview
 
-Welcome to our knowledge base around the ThreeFold_Token (TFT).
+Welcome to our knowledge base around the ThreeFold_Token ("TFT").
 
 In this section, you will learn about what the token is, its features, tokenomics, how to buy, sell, store & more.
 
@@ -10,9 +10,9 @@ In this section, you will learn about what the token is, its features, tokenomic
 
 ![](img/tft_like_btc_.jpg)
 
-## Our Token TFT is a Valuable Token
+## The ThreeFold Token is a Valuable Token
 
-![](img/tokenomincs3_.jpg)
+![](img/tokenomincs3_.jpg)token_home.png
 
 
 

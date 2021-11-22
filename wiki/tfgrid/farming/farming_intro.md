@@ -16,20 +16,9 @@ Any Intel or AMD server type hardware that contains compute and/ or storage can 
 
 Learn more [here](@farming_hardware_overview)
 
-Once booted by Zero OS, the hardware becomes a 3Node, and its total capacity will automatically be detected and registered on the blockchain database. We call this proof-of-capacity.
+Once booted by Zero OS, the hardware becomes a 3Node, and its total capacity will automatically be detected and registered on the blockchain database. We call this Proof-of-Capacity.
 
-## Proof-of-Capacity
-
-The proof-of-capacity records three Internet resources from the 3Node:
-
-- Compute Capacity (CPU)
-- Memory Capacity (RAM)
-- Storage Capacity (SSD/HDD)
-- Network Capacity (Bandwidth, IP Addresses)
-
-The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions of the blockchain. 
-
-4 days after the end of each month, the TFTs are transferred to the Farmer. The minting consensus needs to be achieved before minting can actually happen.
+Learn more about Proof-of-Capacity [here](@proof_of_capacity.md)
 
 ## Why becoming a Farmer?
 

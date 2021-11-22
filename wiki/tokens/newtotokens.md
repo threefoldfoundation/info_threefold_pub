@@ -12,7 +12,7 @@ Using a digital currency on a blockchain has many benefits. It can be used by bo
 
 ### Is TFT like Bitcoin?
 
-In some ways yes and in other ways no. They are both digital currencies but they have different purposes and reasons for existing. There are plenty of articles out there explaining Bitcoin. The ThreeFold_Token is the official medium of exchange on the ThreeFold_Grid. Anyone, who wants to use ThreeFold_Grid, reserve IT capacity and deploy applications will need TFT.
+In some ways yes and in other ways no. They are both digital currencies but they have different purposes and reasons for existing. There are plenty of articles out there explaining Bitcoin. The ThreeFold_Token is the official medium of exchange on the ThreeFold_Grid. Anyone, who wants to use ThreeFold Grid, reserve Internet Capacity and deploy applications will need TFT.
 
 ### What is the process for buying ThreeFold Tokens?
 

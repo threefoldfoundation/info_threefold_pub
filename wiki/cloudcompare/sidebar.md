@@ -1,21 +1,20 @@
+- [Home](@threefold_home)
+- [Cloud](@cloud_home)
+-------------
+- [Compare Overview](cloud_compare_home)
+-------------
+- [aggregated](storage_compute_network)
+- [blockchain](blockchain_deploy)        
+- [any usecase](no_redevelop) 
+- [decentralised](decentralised)                              
+- [web scale](webscale)                
+- [carbon removing](carbon_remove)    
+- [glocal](glocal)      
+- [cost effective](cost_effective)                            
+- [sharing economy](sharing_eco) 
+- [unbreakable storage](data_safety)       
+- [data privacy](data_privacy)        
+- [compatible](compatible)
+- [self healing](autonomous_ops) 
+ 
 
-- [**Home**](@readme)
-- [**Technology**](@technology)
-- [**Cloud**](@cloud_home)
------------
-
-**Compare**
-
-- [aggregated](@storage_compute_network)
-- [blockchain](@blockchain_deploy)        
-- [any usecase](@no_redevelop) 
-- [decentralised](@decentralised)                              
-- [web scale](@webscale)                
-- [carbon removing](@carbon_remove)    
-- [glocal](@glocal)      
-- [cost effective](@cost_effective)                            
-- [sharing economy](@sharing_eco) 
-- [unbreakable storage](@data_safety)       
-- [data privacy](@data_privacy)        
-- [compatible](@compatible)
-- [self healing](@autonomous_ops) 

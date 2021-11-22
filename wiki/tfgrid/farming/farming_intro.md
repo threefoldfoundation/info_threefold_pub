@@ -1,6 +1,6 @@
 # ThreeFold Farming
 
-ThreeFold Farming is the process of connecting Internet capacity to the ThreeFold Grid.
+ThreeFold Farming ("Farming") is the process of connecting Internet capacity to the ThreeFold Grid. This process is undertaken by independent people or organization called ThreeFold Farmers ("Farmers").
 
 ## What is Farming?
 
@@ -8,41 +8,34 @@ ThreeFold Farming is the process of connecting Internet capacity to the ThreeFol
 
 ## A simple model for anyone to partake
 
-Farmers are independent people and organizations that connect hardware to the ThreeFold Grid.
-
-Anyone can become a Farmer, and there's no technical knowledge required. ThreeFold's autonomous system does all the heavy lifting, making it easy for anyone to join.
+Anyone can become a Farmer, and there is no technical knowledge required. ThreeFold's autonomous system does all the heavy lifting, making it easy for anyone to join.
 
 ## What kind of hardware can become a 3Node?
 
-Any Intel or AMD server type hardware that contains compute and/ or storage can connect to the ThreeFold Grid. Farmers need to download Zero OS and boot their hardware. 
+Any Intel or AMD server type hardware that contains compute and/ or storage can be connected to the ThreeFold Grid. Farmers need to download Zero-OS and boot their hardware. 
 
-Once booted by Zero OS, the hardware becomes a 3Node, and its total capacity will automatically be detected and registered on the blockchain database. We call this proof-of-capacity.
+Learn more [here](@farming_hardware_overview)
 
-## Proof-of-Capacity
+Once booted by Zero OS, the hardware becomes a 3Node, and its total capacity will automatically be detected and registered on the blockchain database. We call this Proof-of-Capacity.
 
-The proof-of-capacity records three Internet resources from the 3node (server):
+Learn more about Proof-of-Capacity [here](@proof_of_capacity)
 
-- Compute Capacity (CPU)
-- Memory Capacity (RAM)
-- Storage Capacity (SSD/HDD)
-- Network Capacity (Bandwidth, IP Addresses)
+## Why becoming a Farmer?
 
-The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions of the blockchain. 
+### Internet and Its Global Demand 
 
-4 days after the end of each month, the TFTs are transferred to the farmer. The minting consensus needs to be achieved before minting can actually happen.
+The Internet represents the largest economy in the world and is growing at a rapid pace.
 
-## Why become a farmer?
-
-The Internet represents the largest economy in the world and is growing at a rapid pace. Here are a few statistics:
-
-- Infrastructure growth: +125 Zettabytes (1 099 511 627 776 GB) of capacity to be connected in the next 5 years
-- Revenue growth: +$800 Billion in revenue expected for the cloud market by 2025.
-- Demand Growth: +70 Billion smart devices to join the Internet of Things network by 2025. 
-- +1 Billion people to go digital in the next 5 years.
+![](img/token_time_to_get_involved_now_.jpg)
 
 The ThreeFold Grid offers the most scaleable, secure and sustainable infrastructure to supply the increasing Internet demand. 
 
 Learn more about the ThreeFold Grid [here](grid_home).
 
+### Sovereign and Recurrent Wealth 
+
+By participating in the expansion of the ThreeFold Grid, Farmers earn TFT on a monthly basis. ThreeFold Token has value - it represents a unit of reservation of Internet Capacity on the ThreeFold Grid. With the infinite expansion of the ThreeFold Grid and the scarcity of mechanism of the TFT, there will be a constant increase in demand while a decrease in supply, thus providing value of its holders/Farmers. 
+
+Learn more about Farming Rewards [here](@farming_reward).
 
 !!!alias become_a_farmer

@@ -32,14 +32,10 @@ The Titan Node V2.1 packs quite a punch and will be able to run heavier workload
 
 !!!include:simulation_note
 
-
 ### Order A Titan V2.1
 
 Titan v2.1 Nodes are now available in ThreeFold Tech shop.
 
 [shop.threefold.tech](https://shop.threefold.tech)
 
-
 !!!include:certified_node_services
-
-!!!include:farming_toc

@@ -1,4 +1,4 @@
-- [ThreeFold Home](@threefold_home)
+- **[Home](@threefold_home)**
 
 **Technology**
 
@@ -25,7 +25,7 @@
 !!!include:zos_advantages
 <BR>
 **More Info**
-- [Compare Clouds](@cloud_compare_home)
-- [Use the Threefold Grid](@grid_use)
-- [Release Notes](@releasenotes)
+- [Competitive](@cloud_compare_home)
+- [Use the grid](@grid_use)
+<!-- - [Release Notes](@releasenotes) -->
 <!-- - [Consensus Mechanism](@consensus3) -->

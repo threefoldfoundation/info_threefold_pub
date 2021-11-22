@@ -47,18 +47,6 @@ The only contract address for TFT on the Binance Smart Chain is [0x8f0FB15938017
 
 Your TFT should arrive shortly in your indicated Stellar wallet. 
 
-
-### Bridge TFT from Stellar to BSC via command line
-
-Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md).
-
-
-### Provide liquidity on BSC via Pancakeswap
-
-Please find instructions [here](liquidity_provider).
-
-
-<!--- 
 ### Transfer TFT from Stellar to BSC
 
 - Go to the [Bridge Web UI](https://binance-chain-bridge-dapp.vercel.app/), sign in with Metamask and select the network you just created.
@@ -77,10 +65,20 @@ Please find instructions [here](liquidity_provider).
 
 ![](img/tft_bsc_metamask_funded.jpg ':size=300')
 
-### Transfer TFT from BSC to Stellar
+<!--- ### Transfer TFT from BSC to Stellar
 
 TFT can also be transferred back to the Stellar network. You will need to sign from your BSC wallet, using Metamask. Gas fees required for this transaction, to be paid in BNB, will be indicated in Metamask.
 
 ![](img/tft_bridge_withdraw_to_stellar.jpg ':size=300')
 
 --->
+
+### Bridge TFT from Stellar to BSC via command line
+
+Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/main/bsc/bridges/stellar/transfers.md).
+
+
+### Provide liquidity on BSC via Pancakeswap
+
+Please find instructions [here](liquidity_provider).
+

@@ -1,9 +1,11 @@
-- [Grid](@grid_home)
-- [Tokens](@tokens_home)
+- [Grid](@tfgrid_home)
 - [Farming](@farming_intro)
+- [Token](@tokens_home)
 - [Cloud](@cloud_home)
-- [Sustainability](@carbon_double_win)
-- [About](@about)
+- [Manual](@manual:manual3_home_new)
 ------------
-- [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)
+
+
+<!-- - [About](@about) -->
+<!-- - [Definitions & Concepts](@definitions_concepts) -->

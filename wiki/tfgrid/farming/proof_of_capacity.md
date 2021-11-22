@@ -21,7 +21,7 @@ The Farmer's wallet is registered in the ThreeFold Chain and can be modified by 
 | 100%       | goes to Farmer | Allows for a pure Utility Token. |
 
 
-Example of a farming reward see [here](farming_calculator).
+Example of a Farming Reward calculation see [here](farming_calculator).
 
 ## ThreeFold DAO rules in Relation To Proof-of-Capacity
 

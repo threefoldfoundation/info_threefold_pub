@@ -4,8 +4,8 @@
 **Farming**
 
 - [Farming Rewards](@farming_reward)
-  - [Proof-of-Utilization](@proof_of_utilization)
   - [Proof-of-Capacity](@proof_of_capacity)
+  - [Proof-of-Utilization](@proof_of_utilization)
 - [Farming Calculation](@farming_calculator)
 - [Farming Hardware](@farming_hardware_overview)
 - [Start Farming](@start_farming)

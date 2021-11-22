@@ -1,3 +1,6 @@
+![](img/cloud_node_.png)
+
+
 # What is ThreeFold Peer-to-Peer Cloud?
 
 ThreeFold P2P Cloud is a peer-to-peer network of compute and storage, that is integrated and compatible to the most used developer tools and formats. It uses autonomous and p2p technology to provide the most decentralized, secure and efficient infrastructure to build and store information. 

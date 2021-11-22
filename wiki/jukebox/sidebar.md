@@ -1,4 +1,4 @@
-!!!include:accelerator:home_include
+- **[Home](@threefold_home)**
 
 **JukeBox**
 

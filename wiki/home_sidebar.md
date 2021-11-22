@@ -1,9 +1,11 @@
-- [ThreeFold Grid](@grid_home)
+- [Grid](@tfgrid_home)
 - [Farming](@farming_intro)
-- [ThreeFold Token](@tokens_home)
-- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
-- [Sustainability](@sustainability)
-- [About](@about)
+- [Token](@tokens_home)
+- [Cloud](@cloud_home)
+- [Manual](@manual:manual3_home_new)
 ------------
-- [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)
+
+
+<!-- - [About](@about) -->
+<!-- - [Definitions & Concepts](@definitions_concepts) -->

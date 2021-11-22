@@ -1,3 +1,3 @@
-!!!include:accelerator:home_include
+- **[Home](@threefold_home)**
 **Legal**
 !!!include:legal_toc

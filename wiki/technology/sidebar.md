@@ -1,11 +1,6 @@
+- **[Home](@threefold_home)**
 
-- [ThreeFold Grid Home](@grid_home)
-- [Farming Home](@farming_intro)
-- [ThreeFold Token Home](@tokens_home)
-- [ThreeFold Peer-to-Peer Cloud](@peer_cloud_home)
-- [Technology Home](@technology)
-
-**ThreeFold Technology**
+**Technology**
 
 - [Zero-OS](@zos)
 - [Zero-OS primitives](@tfgrid_primitives)
@@ -30,17 +25,7 @@
 !!!include:zos_advantages
 <BR>
 **More Info**
-- [Compare Clouds](@cloud_compare_home)
-- [Use the Threefold Grid](@grid_use)
-- [Release Notes](@releasenotes)
-
-- [Consensus Mechanism](@consensus3)
-
-------------
-- [Sustainability](@sustainability)
-- [About](@about)
-------------
-- [Definitions & Concepts](@definitions_concepts)
-- [Legal](!@legal:legal_home)
-
-
+- [Competitive](@cloud_compare_home)
+- [Use the grid](@grid_use)
+<!-- - [Release Notes](@releasenotes) -->
+<!-- - [Consensus Mechanism](@consensus3) -->

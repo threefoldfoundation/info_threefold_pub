@@ -25,7 +25,7 @@ The Proof-of-Capacity records Internet resources from the 3Node:
 
 For making this Internet Capacity available, Farmers are rewarded with TFT. The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions of the blockchain. 4 days after the end of each month, the TFTs are transferred to the Farmer. The minting consensus needs to be achieved before minting can actually happen.
 
-The CU, SU rewards are registered on the [ThreeFold Chain](tfchain) and do not change as long as the Farmer’s 3Node keeps on producing storage & compute capacity at required minimal up-time. The NU and Public Ip Addresses are rewarded as ThreeFold Grid users consume this capacity. This reward is dynamic and can change over time depending USD/TFT ratio as well as the average cost for the bandwidth for the Farmers.
+The CU, SU rewards are registered on the [ThreeFold Chain](tfchain) - ThreeFold Blockchain - and do not change as long as the Farmer’s 3Node keeps on producing storage & compute capacity at required minimal up-time. The NU and Public Ip Addresses are rewarded as ThreeFold Grid users consume this capacity. This reward is dynamic and can change over time depending USD/TFT ratio as well as the average cost for the bandwidth for the Farmers.
 
 | Unit                | description                                                       | rewards                  |
 | ------------------- | ----------------------------------------------------------------- | ------------------------ |

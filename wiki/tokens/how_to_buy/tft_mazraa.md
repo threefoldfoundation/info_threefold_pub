@@ -59,6 +59,6 @@ As soon as Mazraa has received the transaction details from Transcoin, they will
 
 Keep in mind it might take some time to receive your tokens.
 
-!!!include:legal:tft_not_speculative_note
+!!!include:legal:tft_not_investment
 
 !!!include:token_toc

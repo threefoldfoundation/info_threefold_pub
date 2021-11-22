@@ -38,4 +38,4 @@ If you have TFTA that you would like to exchange, you can easily [convert them t
 - If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
 
 
-!!!include:legal:tft_not_speculative_note
+!!!include:legal:tft_not_investment

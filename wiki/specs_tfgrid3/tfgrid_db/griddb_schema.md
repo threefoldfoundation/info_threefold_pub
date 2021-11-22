@@ -1,5 +1,5 @@
 
-## TF GridDB Schema
+## TFChain Schemas
 
 - [Entity](griddb_entity)
 - [Twin](griddb_twin)

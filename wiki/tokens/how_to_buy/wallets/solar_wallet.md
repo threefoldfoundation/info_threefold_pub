@@ -84,4 +84,4 @@ The TFT icon will now show in your Wallet overview.
 see [Lobstr Wallet](lobstr_wallet)
 
 
-!!!include:legal:tft_not_speculative_note
+!!!include:legal:tft_not_investment

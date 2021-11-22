@@ -1,2 +1,0 @@
-- [Test lodge](grid3_testlodge)
-- [Grid 3 Testing](grid3_testing)

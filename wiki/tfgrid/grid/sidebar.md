@@ -11,7 +11,7 @@
 - [How Valuable the TF Grid is](@grid_valuation)
 - [How is capacity measured](@cloudunits)
 - [Capacity Explorer](@tfgrid_explorer)
-- [Manuals for Grid 3.0](@manual3_home)
+- [Manuals for Grid 3.0](@manual:manual3_home_new)
 - [Communication and Information](@communication)
 - [Get Involved](@how_to_help)
 - [Roadmap](@roadmap)

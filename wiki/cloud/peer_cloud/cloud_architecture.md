@@ -79,7 +79,7 @@ Learn more about 3Bot [here](part4_3bot_digital_avatar_digital_self).
 
 ## TF Grid for tech experts
 
-- 3Bot serves as your virtual system administrator, see [SDK](sdk:sdk_home).
+- 3Bot serves as your virtual system administrator, see [SDK](manual:manual3_home_new).
 - It's a very powerful tool that allows you to automate & manage thousands of virtual workloads.
 - Python language can be used to extend this tool and make it your own.
 - This software is beta quality but usable for production. Be reminded that the workload itself is running on Zero-OS and the Smart Contract for IT layer, which is production quality.

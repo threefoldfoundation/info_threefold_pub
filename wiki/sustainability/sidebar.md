@@ -1,5 +1,8 @@
-!!!include:home_include
+- **[ThreeFold Home](@threefold_home)**
 
-**Carbon Win**
+**Carbon Double Win**
 
-!!!include:carbonwin_sidebar
+- [Light Bulb vs Digital Twin](@bulb_comparison_twin)
+- [Carbon Savings](@carbon_double_win)
+- [Energy Savings Storage](@energy_savings_storage)
+- [Energy Savings Twin](@energy_savings_digital_twin)

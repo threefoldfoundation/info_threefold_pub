@@ -1,6 +1,7 @@
 
 - [**Home**](@readme)
-- [**Cloud Home**](@cloud_home)
+- [**Technology**](@technology)
+- [**Cloud**](@cloud_home)
 -----------
 
 **Compare**

@@ -59,7 +59,9 @@ Your TFT should arrive shortly in your indicated Stellar wallet.
 ![](img/tft_bridge_transfer.jpg ':size=300')
 
 - Fill in the amount of tokens you wish to transfer from your wallet, and execute the transfer to the mainnet address ```GBFFWXWBZDILJJAMSINHPJEUJKB3H4UYXRWNB4COYQAF7UUQSWSBUXW5```.
-- Shortly after, your TFTs will be available in your BSC wallet.
+- Shortly after, your TFTs will be available in your BSC wallet. 
+
+> __Remark__ : usage of the Stellar-BSC bridge will reduce the amount of tokens arriving in the BSC wallet by 50 TFT. 
 
 ![](img/tft_bridge_ui_funded.jpg ':size=300')
 

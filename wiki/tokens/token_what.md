@@ -1,4 +1,4 @@
-![](img/tokenhome.png)
+![](img/tokenhome_.png)
 
 
 # What are ThreeFold Tokens?
@@ -31,5 +31,4 @@ A circular economy enables anyone to take part in the solution and to get reward
 1. When Farmers connect 3Nodes and add capacity to the ThreeFold_Grid, they will create new TFT through the process of Farming.  
 2. Farmers can then exchange the farmed TFTs into other fiat or digital currencies on public exchanges. Also, this is where users can exchange fiat or digital currencies for TFTs.
 3. Once they have TFTs in their wallets, users can use capacity on the Threefold_Grid. We call this process [utilization](utilization).
-
 

@@ -1,4 +1,4 @@
-![](img/token_home.png)
+![](img/token_home_.png)
 
 # Overview
 
@@ -13,7 +13,6 @@ In this section, you will learn about what the token is, its features, tokenomic
 ## The ThreeFold Token is a Valuable Token
 
 ![](img/tokenomincs3_.jpg)token_home.png
-
 
 
 

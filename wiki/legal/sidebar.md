@@ -1,3 +1,3 @@
-!!!include:accelerator:home_include
+!!!include:home_include
 **Legal**
 !!!include:legal_toc

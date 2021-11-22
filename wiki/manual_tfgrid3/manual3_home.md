@@ -1,2 +1,5 @@
+![](img/freedom_.png)
 
-> Go to [Manual 3](@manual:manual3_home_new)
+# Manual TFGrid 3.0
+
+

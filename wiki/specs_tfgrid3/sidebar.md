@@ -1,6 +1,6 @@
 **TFGrid Specs**
 
-- [Billing](@manual:grid3_billing)
+- [Billing](@grid3_billing)
 - [ZOS](@zos_specs)
 - [Networking](@networking_toc)
 - [Substrate](@substrate_readme)

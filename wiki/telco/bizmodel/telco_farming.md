@@ -33,4 +33,4 @@ See [Valuable TF Grid](grid_valuation)
 
 ## Disclaimer
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_speculative_note

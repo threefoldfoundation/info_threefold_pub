@@ -82,4 +82,4 @@ Now that the account is set up and funded and you have the TFT asset listed in y
 ![image](img/interstellar_account_overview_3.jpg)
 
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_speculative_note

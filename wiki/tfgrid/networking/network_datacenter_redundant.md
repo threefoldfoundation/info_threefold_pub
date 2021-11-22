@@ -43,3 +43,4 @@ graph TD
   - once from IPMI card to OOB
   - once from other NIC to OOB for monitoring & boot of Zero-OS
 
+!!!include:networking_toc

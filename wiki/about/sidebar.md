@@ -1,4 +1,4 @@
-!!!include:accelerator:home_include
+!!!include:home_include
 
 **about**
 

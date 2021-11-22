@@ -50,3 +50,4 @@ Any TFGrid user can ask for support but only for certified farms.
 
 <!-- [Learn more about the TFTS which is the dedicated token to be used to deliver support](tftech:tfts). -->
 
+!!!include:farming_toc

@@ -1,11 +1,9 @@
 
 # ThreeFold Grid
 
-![](img/threefold_grid_new_.png)
-
 ## Our Values 
 
-![](img/values.png)
+![](img/values_.jpg)
 
 ## ThreeFold Grid Description
 

@@ -1,14 +1,5 @@
-- [ThreeFold Grid](@grid_home)
-- [ThreeFold Token](@tokens_home)
-- [Farming](@farming_intro)
-- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
-- [Sustainability](@sustainability)
+!!!include:home_include
 
-**Sustainability**
+**Carbon Win**
 
-- [Cardon-Negative Grid](@sustainability)
-------------
-- [About](@about)
-------------
-- [Definitions & Concepts](@definitions_concepts)
-- [Legal](!@legal:legal_home)
+!!!include:carbonwin_sidebar

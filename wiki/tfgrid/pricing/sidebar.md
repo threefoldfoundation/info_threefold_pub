@@ -1,4 +1,4 @@
-!!!include:accelerator:home_include
+!!!include:home_include
 **Pricing**
 - [Cloud Pricing](@pricing)
 - [Cloud Pricing Compare](@cloud_pricing_compare)

@@ -11,7 +11,7 @@
 
 ## Delivered releases
 
-- [3.0](manual:releasenotes3)   
+- [3.0](releasenotes3)   
 
 ## Further Outlook
 
@@ -23,3 +23,4 @@
 - Virtual Datacenter Support (port from TFGrid 2.x)
 - VLang based deployment system = our own infrastructure as code system.
 - More features in web gateway
+

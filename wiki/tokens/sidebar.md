@@ -2,13 +2,14 @@
 - [Farming](@farming_intro)
 - [ThreeFold Token](@tokens_home)
 
-**ThreeFold Token Home**
+**Tokens Home**
 - [What is TFT](token_what)
 - [Valuable](grid_valuation)
 - [New to Tokens](newtotokens)
 - [Buy and Sell TFT](how_to_buy)
 - [Tokenomics](tokenomics)
 - [Token Overview](token_overview)
+- [Grid Utilization](@grid_use)
 -----------
 **Wallets Stellar**
 - [Overview](threefold_wallets)
@@ -22,10 +23,9 @@
 **Bridges**
 - [Stellar - Binance SmartChain](tft_bsc_bridge)
 ------------
+
 - [ThreeFold Peer-to-Peer Cloud](@cloud_home)
 - [Technology](@technology)
-- [Sustainability](@sustainability)
-- [About](@about)
 ------------
 - [Definitions & Concepts](@definitions_concepts)
 - [Legal](!@legal:legal_home)

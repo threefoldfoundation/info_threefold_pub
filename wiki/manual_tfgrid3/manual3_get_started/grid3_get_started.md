@@ -1,0 +1,1 @@
+!!!include manual3_getstarted_home

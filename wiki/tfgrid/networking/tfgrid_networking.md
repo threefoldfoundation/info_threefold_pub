@@ -2,7 +2,7 @@
 
 # TFGrid Networking
 
-Please read more about best practices around network on ThreeFold Grid.
+Please read more about best practices around network on TFGrid.
 
 !!!include:tfgrid_networking_toc
 

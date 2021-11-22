@@ -76,4 +76,4 @@ To validate this, each migration transaction contain hash of the rivine lock tra
 
 [Rivine block explorer](https://explorer.threefoldtoken.com/) can be used for validation purposes.
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_speculative_note

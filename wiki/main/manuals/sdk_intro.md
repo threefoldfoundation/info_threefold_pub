@@ -11,4 +11,4 @@ The 3SDK Wiki is here to help you with:
 
 And more
 
-**Visit [sdk.threefold.io](manual:manual3_home_new) to find out more!**
+**Visit [sdk.threefold.io](sdk:sdk_home) to find out more!**

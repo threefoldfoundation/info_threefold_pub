@@ -52,3 +52,6 @@ We really like this layout because its super simple and the more easy things are
 
 Yet still it can be made 100% redundant, customers have to buy 2 ip addresses though.
 
+
+
+!!!include:networking_toc

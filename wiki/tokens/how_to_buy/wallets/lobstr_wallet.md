@@ -47,4 +47,4 @@ You can now start exchanging your digital currencies for TFTs through the Trade 
 see [Lobstr Wallet](solar_wallet)
 
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_speculative_note

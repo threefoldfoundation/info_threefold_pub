@@ -1,4 +1,4 @@
-## TF Farms
+## TF GridDB Farms
 
 A Farm is a nr of 3Nodes as hosted on the TFGrid.
 

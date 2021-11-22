@@ -34,3 +34,6 @@ The Venus v2 is recommended only for home use when a good Fibre connection is av
 If you wish to setup a certified farming operation please reach out to [farming@threefold.tech](mailto:farming@threefold.tech) to set up a call with our certified farming specialists.
 
 ![scale out node](img/scale_node_1.jpg 'size=200')
+
+
+!!!include:farming_toc

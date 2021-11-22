@@ -1,7 +1,7 @@
 
 # ThreeFold Grid
 
-![](img/threefold_grid_new.png)
+![](img/threefold_grid_new_.png)
 
 ## Our Values 
 

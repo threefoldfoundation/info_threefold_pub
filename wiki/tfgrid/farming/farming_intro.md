@@ -18,7 +18,7 @@ Learn more [here](@farming_hardware_overview)
 
 Once booted by Zero OS, the hardware becomes a 3Node, and its total capacity will automatically be detected and registered on the blockchain database. We call this Proof-of-Capacity.
 
-Learn more about Proof-of-Capacity [here](@proof_of_capacity.md)
+Learn more about Proof-of-Capacity [here](@proof_of_capacity)
 
 ## Why becoming a Farmer?
 
@@ -26,7 +26,7 @@ Learn more about Proof-of-Capacity [here](@proof_of_capacity.md)
 
 The Internet represents the largest economy in the world and is growing at a rapid pace.
 
-![](img/threefold__token_time_to_get_involved_now_.jpeg)
+![](img/token_time_to_get_involved_now_.jpg)
 
 The ThreeFold Grid offers the most scaleable, secure and sustainable infrastructure to supply the increasing Internet demand. 
 

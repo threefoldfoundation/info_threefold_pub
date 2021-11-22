@@ -1,6 +1,6 @@
 - [ThreeFold Grid](@grid_home)
-- [ThreeFold Token](@tokens_home)
 - [Farming](@farming_intro)
+- [ThreeFold Token](@tokens_home)
 - [ThreeFold Peer-to-Peer Cloud](@cloud_home)
 - [Sustainability](@sustainability)
 - [About](@about)

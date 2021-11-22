@@ -44,7 +44,6 @@ With a maximum amount of 4 billion TFT in circulation:
 
 Calculated May 5 2021
 
-
 > Less than 7% will be liquid at [ThreeFold 3.0 Launch](threefold3_launch).
 
 > WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)

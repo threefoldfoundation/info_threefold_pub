@@ -1,5 +1,5 @@
-- [ThreeFold Home](threefold_home)
-- [Grid Home](@grid_home)
+
+- [**ThreeFold Grid Home**](@grid_home)
 
 **ThreeFold Grid**
 

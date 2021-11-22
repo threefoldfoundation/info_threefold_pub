@@ -20,7 +20,7 @@ Plug & farm nodes have already been installed and configured to farm for the cus
 
 They require little to no technical knowledge to set-up. All you need is an electricity outlet, internet connection and the TF Connect app on your smartphone to start farming and receive your tokens! All 3Nodes can be hosted using normal DSL connectivity.
 
-#### [You can buy the Titan v2.1 in the ThreeFold Node Shop](https://shop.threefold.tech).
+[You can buy the Titan v2.1 in the ThreeFold Node Shop](https://shop.threefold.tech).
 
 [More info about Titan v2.1 Farming](titan_v2_1)
 

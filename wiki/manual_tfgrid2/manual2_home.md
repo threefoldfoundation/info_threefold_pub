@@ -1,4 +1,4 @@
-![](img/evdc_.jpg)
+![](img/evdc_.png)
 
 # TFGrid 2.0 Manual
 

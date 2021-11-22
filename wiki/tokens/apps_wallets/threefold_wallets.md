@@ -10,6 +10,18 @@ There are several options to store your TFT.
 Please note, that TFT exists on several blockchains. 
 Right now we support Stellar Blockchain (main one) and Binance Smart Chain, through a [bridge](tft_bsc_bridge).
 
+**Stellar Based Wallets**
+- [ThreeFold Connect App](threefold_connect)
+- [Solar Wallet](solar_wallet)
+- [Lobstr Wallet](lobstr_wallet)
+- [Interstellar Wallet](tft_interstellar)
+**Wallets Binance Smartchain**
+- [Metamask Wallet](tft_bsc_metamask)
+- [Trust Wallet](tft_bsc_trustwallet)
+**Bridges**
+- [Stellar - Binance SmartChain](tft_bsc_bridge)
+
+
 # TFT Stellar Wallets
 
 ## The ThreeFold Connect App

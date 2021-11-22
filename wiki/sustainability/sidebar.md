@@ -1,14 +1,8 @@
-- [ThreeFold Grid](@grid_home)
-- [ThreeFold Token](@tokens_home)
-- [Farming](@farming_intro)
-- [ThreeFold Peer-to-Peer Cloud](@cloud_home)
-- [Sustainability](@sustainability)
+- **[ThreeFold Home](@threefold_home)**
 
-**Sustainability**
+**Carbon Double Win**
 
-- [Cardon-Negative Grid](@sustainability)
-------------
-- [About](@about)
-------------
-- [Definitions & Concepts](@definitions_concepts)
-- [Legal](!@legal:legal_home)
+- [Light Bulb vs Digital Twin](@bulb_comparison_twin)
+- [Carbon Savings](@carbon_double_win)
+- [Energy Savings Storage](@energy_savings_storage)
+- [Energy Savings Twin](@energy_savings_digital_twin)

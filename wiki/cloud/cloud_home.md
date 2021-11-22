@@ -1,9 +1,9 @@
 ![](img/cloud_node_.png)
 
-# ThreeFold Peer-to-Peer (P2P) Cloud Knowledge Base
+# ThreeFold Peer-to-Peer (P2P) Cloud.
 
 A knowledge base for developers building on ThreeFold Peer-to-Peer Cloud. By visionaries, for visionaries. 
-
+<!-- 
 ## How would you like to get started?
 
 #### Learn what is ThreeFold P2P Cloud
@@ -28,9 +28,9 @@ If you have any feedback, please reach out to our team via a [Github issue](http
 
 ## Help us make P2P Cloud better
 
-Like ThreeFold, these docs are a community effort. Create a PR if you see mistakes, possible improvements, or new opportunities to help ThreeFold developers. Contribute here.
+Like ThreeFold, these docs are a community effort. Create a PR if you see mistakes, possible improvements, or new opportunities to help ThreeFold developers. Contribute here. -->
 
-## Explore the documentation
+<!-- ## Explore the documentation
 
 - [P2P Cloud](cloud_home) - An introduction to what is ThreeFold P2P Cloud.
 - [P2P Cloud Products](cloud_products) - An overview of the compute, storage and network products available on ThreeFold
@@ -41,4 +41,4 @@ Like ThreeFold, these docs are a community effort. Create a PR if you see mistak
 - [Where to get tokens](how_to_buy) - How and where to get ThreeFold Tokens, the official currency of ThreeFold P2P Cloud.
 - [Kubernetes and Docker](evdc_k8s) - An introduction to the industry standards running on ThreeFold P2P Cloud.
 - [zstor filesystem](threefold_filesystem) - An introduction to the first autonomous, quantum-safe, peer-to-peer storage solution.
-- [ThreeFold Marketplace](evdc_marketplace) - A marketplace of peer-to-peer applications and tools ready to be deployed on top of edge Virtual Data Center.
+- [ThreeFold Marketplace](evdc_marketplace) - A marketplace of peer-to-peer applications and tools ready to be deployed on top of edge Virtual Data Center. -->

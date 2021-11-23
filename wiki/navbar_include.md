@@ -1,8 +1,7 @@
 - ThreeFold
   - [ThreeFold Tokens](@how_to_buy)
   - [ThreeFold Website](https://threefold.io/)
-  - [ThreeFold Blog](https://threefold.io/farming/blog)
-  - [Peer2Peer Cloud](https://threefold.io/cloud)
+  - [ThreeFold Blog](https://threefold.io/blog)
 - ThreeFold Grid
   - [TFGrid Capacity Explorer](https://explorer.grid.tf/)
 - Related Websites

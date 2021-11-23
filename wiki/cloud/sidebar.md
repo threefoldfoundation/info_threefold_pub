@@ -8,7 +8,6 @@
   - [Decentralized](usp_decentralized) 
   - [Compatible](usp_compatible) 
   - [Security](usp_secure)  
-  - [Sovereign](usp_sovereign)
 - [Pricing](pricing)
 - [Compare](!@cloud_compare_home)
 - [Technology](technology)

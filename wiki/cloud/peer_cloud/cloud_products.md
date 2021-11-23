@@ -31,7 +31,7 @@ zstor offers the following storage benefits:
 
 More information on zstor [here](quantumsafe_filesystem)
 
-![](img/evdc_.jpg)
+![](img/evdc_.png)
 
 ## Edge Virtual Data Center (eVDC) = P2P Compute 
 

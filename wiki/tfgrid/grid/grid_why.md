@@ -1,42 +1,54 @@
-# A Troubled Industry 
+# Why the world needs the ThreeFold Grid.
 
-Without adequate Internet Capacity, companies and societies are unable to develop and evolve - yet this is the future we face today. 
+In this section, we discuss the limitations and issues of the current Internet infrastructure on a high level perspective, and how the ThreeFold Grid provides a universal solution to power the next digital era. 
 
-Over the past decade, the spectacular advancement of Internet Capacity has been due in large part to the hyper-scale efficiencies of multi-billion-dollar data centers. But this model is fast becoming obsolete. Short-term demand for Internet Capacity is far outpacing available supply, thanks to power-intensive applications like Big Data, the Internet of Things (IoT), and Artificial Intelligence (AI). 
-Unsovereign Internet Infrastructure 
+## The Internet needs an urgent update.
 
-In 2020, cloud infrastructure providers account for 53% of global traffic, out of which Amazon, Google, Microsoft, Facebook will deliver more than 80% of the payload. While the cloud will deliver the majority of the workloads, the future of the internet stands at a risk of being consolidated, centralized, and at the mercy of these providers. The primary driver of cloud adoption is the promise of flexibility and cost advantage, but the reality is that the products offered by cloud providers are overpriced, complicated and lock clients into ecosystems that limit their ability to innovate, compete and operate within their own internet network, and as a matter of fact, emerging countries’ needs, or else they remain unconnected. Nearly 3.7 billion people still do not have access to internet facilities which creates a huge global inequality and unfairness towards the accessibility to education, information, and knowledge. 
+While technology is evolving faster than ever before and industries are digitally transforming themselves, today's global Internet infrastructure is struggling to keep the pace with these emerging trends. 
 
-![](img/cable_.jpg)
+The Internet infrastructure represents the backbone of our digital lives. It consists of hardware and software infrastructures that form the **inter**connected**net**work of compute, storage and network capacity that allows us to build software, create applications, send messages or store our digital assets. Put simply, without Internet infrastructure there would be no Internet. 
 
-In other words, it is the same as using long cables from the Internet Service Provider “Country” to the Client “Country” to provide internet. Yet, these countries do not extract a lot of benefits from it. Our data is stored in centralized power-hungry data centers owned by well-known companies which are then sold to third parties as part of their business model - encouraging a system with no privacy. 
+Since the beginning of the millenium, spectacular Internet and cloud infrastructure advancemenets were made with hyper-scale data centers. However, the current Internet infrastructure model has many flaws. 
 
-## Cost Ineffective 
+**- It is centralized:** The GAFAM (Google, Amazon, Facebook, Apple and Microsoft) own 80% of the global compute, storage and network infrastructures. Also the global infrastructure is concentrated in the U.S in large majority, as well as Europe and China. 
 
-The internet is too expensive for the individual and for most countries. Assuming that Internet usage means consuming 500 megabytes of data per month at current prices, only 17% of people in South Asia and 11% of people in Sub-Saharan Africa can afford to use the Internet - Please note that the estimation is still less than an average mobile data user consumes in developing countries. To make the internet affordable to everybody, global prices would need to fall by an average of 90% which is implausible with current infrastructure costs. 
+**- It is inefficient:** Most of the data centers are located in the U.S, forcing the rest of the world to connect via internet sea cables and having their data flowing outside of their borders and back. 
+  
+**- It is not scalable:** Emerging technologies require the global Internet infrastructure to triple in size in the next 4 years. It took 20+ years to build the current Internet infrastructure. So we need to build 3X more in 5X less time. 
+  
+**- It is not affordable:** It costs billions of dollars and enormous amounts of energy and time to build, manage and productize hyper-scale data centers. Only the richest countries in the world build data centers and the rest of the world become their clients. To meet the projected growth of the Itnenret ind 2022, $5 trillion would have to be invested with this model 
 
-## Lack of Security due to Centralization Architectures  
+**- It is not private:** Anyone can access Google Chrome or Facebook for free. But as outlined by movies such as the *Social Dilemma* or *The Great Hack*, if it is free, you are the product. The web's Ad model is threatening our privacy and the net neutrality of the global internet. 
 
-One major problem with current centralized systems is that they run on centralized architectures. Every internet company has its own data centers, where it stores user data and runs its applications. This entails some serious security and privacy concerns. 
+**- It is not secure:** The current IT stack depends on human error and it has been considered as the major cause of cybersecurity breaches with more than 95% of the cases. Human errors allow attackers to access encrypted channels and sensitive information 
 
-Worldwide-known examples such as the data breach of Equifax or Yahoo showed us how bad things can get when data is stored in one location resulting in data leaks and loss - Equifax: security incident led to the financial and personal data of 145 million people finding its way into the hands of malicious actors. Yahoo: loss of data belonging to 3 billion user accounts. 
+**- It is not sustainable** Data centers are extremely power hungry, consuming over 2 trillion gigabytes of storage and consume around 205 TWh - More than the State of New York. According to statistics, the Internet consumes between 10-20% of global energy resources. 
 
-Meanwhile, centralized architectures suffer from single points of failure. When the servers of centralized services such as Google Drive or Amazon Web Services fail, all the websites and applications that depend on them stop working. Additionally, they are also vulnerable to Denial of Service and Distributed Denial of Service (DoS/DDoS) attacks, because they provide attackers with a single target to hit.
+**Cannot support future demand** To meet projected demand for 2022, more than 4,000 new data centers, costing an estimated $5 trillion, will be needed to build and consume an additional 400 GW/h. This is roughly equivalent to Japan’s energy consumption and would place an impossible strain on the global electricity grid. The rising demand for Intenret storage is already causing hardware shortages and price hikes. 
 
-## Lack of Security Due to Human Error 
+<!-- ## The Internet the world needs. 
 
-The current IT stack depends on human error and it has been considered as the major cause of cybersecurity breaches with more than 95% of the cases. Human errors allow attackers to access encrypted channels and sensitive information 
+![](img/values.png)
 
-## Unsustainable Infrastructure
+In order to create the Internet infrastructure that will support emerging market requirements and breakthrough the limitations of the current model, ThreeFold had to start from scratch and build a new operating system as well as compute, storage and network primitives. The result is:
 
-Power-hungry data centers consume energy at unsustainable rates. The gigabytes of data we’re using come at a significant cost to the environment. Together, with all the data centers around the world, they represent over 2 trillion gigabytes of storage and consume around 205 TWh - More than the State of New York City. 
+- Fully decentralized: 
 
-## Trouble to Cater for Future Demand
+- Ultra-efficient:
 
-If we meet the projected demand for 2022, more than 4,000 new data centers, costing an estimated $5 trillion, will be needed to build and consume an additional 400 GW/h. This is roughly equivalent to Japan’s energy consumption and would place an impossible strain on the global electricity grid. Already, demand for data center storage is causing memory shortages and price hikes. 
+- Limitlessly scalable:
 
-There is a need for modernizing the data infrastructure and this is empowered through ThreeFold.
+- Extremely affordable: 
 
-# Our Solution - ThreeFold
+- Absolute privacy: 
 
-We decided to turn around the current digital miasma and create from scratch a new internet infrastructure that is decentralized, fully peer-to-peer, secured, and more sustainable - ThreeFold Grid. ThreeFold developed this new infrastructure formed by people and organizations that connect Internet Capacity (Compute, Storage, and Network Capacity) anywhere where electricity and network can be found. As such, this solution is providing the possibility for any country to have their own internet and be sovereign. This will, therefore, be the gateway towards providing the internet to the global population which will allow fair access to education, information, and knowledge - Knowledge is the key driver of prosperity, happiness, and the advancement of human civilization. 
+- Quantum security: 
+
+- Earth regenerative: 
+
+- Built for the future:  -->
+
+
+<!-- # Our Solution - ThreeFold
+
+We decided to turn around the current digital miasma and create from scratch a new internet infrastructure that is decentralized, fully peer-to-peer, secured, and more sustainable - ThreeFold Grid. ThreeFold developed this new infrastructure formed by people and organizations that connect Internet Capacity (Compute, Storage, and Network Capacity) anywhere where electricity and network can be found. As such, this solution is providing the possibility for any country to have their own internet and be sovereign. This will, therefore, be the gateway towards providing the internet to the global population which will allow fair access to education, information, and knowledge - Knowledge is the key driver of prosperity, happiness, and the advancement of human civilization.  -->

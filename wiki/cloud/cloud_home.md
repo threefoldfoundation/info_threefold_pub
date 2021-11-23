@@ -1,4 +1,6 @@
-![](img/only_blockchain2_.jpg)
+
+
+![](img/cloud_blockchain_.jpg)
 
 # ThreeFold Decentralized Cloud.
 

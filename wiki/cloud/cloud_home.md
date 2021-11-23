@@ -4,14 +4,11 @@
 
 A knowledge base for developers building on ThreeFold Peer-to-Peer Cloud. By visionaries, for visionaries. 
 
-## Advantates
-
 ![](img/cloud_advantages_.jpg)
 
 ## More Information
 
 - meet the primitive workloads which can be deployed on our grid: [more info here](tfgrid_primitives)
-- 
 
 
 

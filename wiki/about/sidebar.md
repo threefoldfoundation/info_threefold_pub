@@ -1,7 +1,6 @@
-!!!include:accelerator:home_include
-
+- [**Home**](@threefold_home)
+-----
 **about**
-
 - [ThreeFold Companies](@threefold_companies)
 - [Concepts / Definitions](@definitions_concepts)
 - [Team Expansion](@team_expansion)

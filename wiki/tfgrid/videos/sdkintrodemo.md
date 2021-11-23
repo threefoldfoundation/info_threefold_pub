@@ -11,4 +11,4 @@ In this session, Weynand covers the following:
 - How to choose a node on which to deploy
 - How to verify if container was deployed
 
-If you’d like to learn more about the 3SDK, feel free to visit our threefold: [sdk](manual:manual3_home_new)
+If you’d like to learn more about the 3SDK, feel free to visit our threefold: [sdk](!@manual:manual3_home_new)

@@ -1,29 +1,25 @@
 # ZMachine
 
-ThreeFold's compute vmachine technology is fully compatible with docker.
-
-![](img/zmachine_overview.jpg)
-
-## ZMachine
-
-ThreeFold VMachine technology as implemented in Zero-OS using [KVM Hypervisor](https://www.linux-kvm.org).
-
-![](img/container_native.jpg)
+!!!include:tfgrid_compute
 
 ### Features
 
 *   import from docker (market std for containers)
-*   integration with [ZNet](znet) (efficient, secure encrypted network between the zmachines)
-*   can be easily deployed at the edge
-*   integrated with scalable & capable monitoring system (prometheus based)
-*   single-tenant!
-
-### ZMachine Benefits
-
+*   can be easily deployed at the edge (edge cloud)
+*   single-tenant, fully decentralized!
+*   can deploy unlimited amounts of storage using our qsfs.
 *   [ZOS Protect](zos_protect): no hacking surface to the Zero-Nodes, integrate silicon route of trust
-*   [ZOS Filesystem](zos_fs): dedupe, zero-install, hacker-proof
+*   [ZOS Filesystem](qsfs): dedupe, zero-install, hacker-proof
 *   [WebGateway](webgw): intelligent connection between web (internet) and container services
-*   [ZNet](znet) and [Planetary Net](planetary_network): a true global single backplane network connecting us all
+*   integration with [ZNet](znet) (efficient, secure encrypted network between the zmachines)
+*   [Planetary Net](planetary_network): a true global single backplane network connecting us all
+
+
+### Architecture
+
+![](img/zmachine_zos_.jpg)
+
+A ZMachine is running as a virtual machine on top of Zero-OS.
 
 
 !!!include:zos_toc

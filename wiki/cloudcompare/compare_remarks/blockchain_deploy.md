@@ -1,5 +1,2 @@
-# Deploy Using Blockchain Constructs
+!!!include:smartcontract_it
 
-![alt_text](img/smartcontract_it_highlevel.jpg)
-
-> see [Smart Contract For IT](smartcontract_it)

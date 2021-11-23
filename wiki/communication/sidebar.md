@@ -1,5 +1,5 @@
 
-- **[Home](@threefold_home)**
+- [**Home**](@threefold_home)
 - 
 **Communication**
 

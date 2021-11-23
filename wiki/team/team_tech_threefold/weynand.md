@@ -14,7 +14,7 @@
     - We need a new internet: http://internet.threefold.tech
     - Let's work for a better planet: http://planet.freeflownation.org/ or http://planet2.freeflownation.org/
     - [our knowledge base, is this site](https://library.threefold.me/) (has lots of info)
-    - [3SDK - Software Development Kit](manual:manual3_home_new) (start here when you want to get things done)
+    - [3SDK - Software Development Kit](!@manual:manual3_home_new) (start here when you want to get things done)
 - Bernard Lietaer Book: 
     - [Towards a sustainable world: 3 Paradigm shifts towards a sustainable world: 3 Paradigm shifts](https://www.amazon.com/dp/3200065273/ref=cm_sw_su_dp)
     - we have co-authored this book and talks about new types of money, decentralization, ...

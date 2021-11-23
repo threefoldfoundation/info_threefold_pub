@@ -1,3 +1,3 @@
-- **[Home](@threefold_home)**
+- [**Home**](@threefold_home)
 **Legal**
 !!!include:legal_toc

@@ -1,5 +1,5 @@
 
-# Zero-OS FileSystem
+# ZOS FileSystem (ZOS-FS)
 
 A deduped filesystem which is more efficient compared to images as used in other Virtual Machine technology.
 
@@ -29,7 +29,7 @@ As soon as you have the flist mounted, you can see the full directory tree, and 
 
 !!!include:flist_hub_
 
-!!!def alias:flist,zos_fs,zero_is_file_system
+!!!def alias:flist,zos_fs,zero_is_file_system,zero_fs
 
 
 

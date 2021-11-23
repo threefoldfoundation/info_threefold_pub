@@ -1,5 +1,5 @@
-- [Home](@threefold_home)
-- [Cloud](@cloud_home)
+- [**Home**](@threefold_home)
+- [**Cloud**](@cloud_home)
 -------------
 - [Compare Overview](cloud_compare_home)
 -------------

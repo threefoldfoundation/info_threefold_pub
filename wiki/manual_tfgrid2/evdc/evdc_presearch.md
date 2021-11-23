@@ -18,7 +18,7 @@ Create a name for your Presearch node. This name will be used to identify your d
 
 ![](img/presearch_create.jpg ':size=600')
 
-Select the domain type for your Cryptpad:
+Select the domain type for the Presearch monitoring webpage:
 - For deployment with **random subdomain**, select `Choose subdomain for me on a gateway`. 
 - For deployment with a particular **available subdomain**, select `Choose a custom subdomain on a gateway`. 
 - To host a blog using **your own domain**, select `choose a custom domain`.

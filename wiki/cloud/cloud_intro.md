@@ -3,9 +3,9 @@
 
 # What is ThreeFold Peer-to-Peer Cloud?
 
-ThreeFold P2P Cloud is a peer-to-peer network of compute and storage, that is integrated and compatible to the most used developer tools and formats. It uses autonomous and p2p technology to provide the most decentralized, secure and efficient infrastructure to build and store information. 
+ThreeFold P2P Cloud is a peer-to-peer network of compute and storage, that is integrated and compatible to the most used developer tools and formats. It uses blockchain and peer2peer technology to provide the most decentralized, secure and efficient cloud infrastructure.
 
-On ThreeFold P2P Cloud, users store and run their files directly on the operating-system of the servers (3Nodes) connected to the ThreeFold Grid, provided by independent actors. The available compute and storage on the network isn't controlled by any single company. Instead, ThreeFold facilitates open markets for storing files and running IT workloads in which anyone can participate in.
+, provided by independent actors. The available compute and storage on the network isn't controlled by any single company. Instead, ThreeFold facilitates open markets for storing files and running IT workloads in which anyone can participate in.
 
 All networking within ThreeFold P2P Cloud is set up on a private overlay network and all 3Nodes come with their IPv6 addresses and are fully interconnected within the defined network securely. There is no TCP/IP traffic allowed from the outside, data is picked up from the inside, making it an incredibly secure and private environment to build IT workloads on. 
 
@@ -46,7 +46,9 @@ P2P is therefore a trustless infrastructure that allows users and developers to 
 
 ## More info:
 
-- [P2P Cloud Products](cloud_products) - An introduction to the core products of ThreeFold P2P Cloud.
-- [P2P Cloud Benefits](usp) - A walk through the benefits of using ThreeFold P2P Cloud.
-- [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
-- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare_home) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain.
+- [Main services: compute, storage and networking](cloud_products) - An introduction to the core products of ThreeFold P2P Cloud.
+- [Benefits](cloud_usp) - A walk through the benefits of using ThreeFold P2P Cloud.
+
+
+<!-- - [Architecture](cloud_architecture) - Dive into the architecture that powers the ThreeFold P2P Cloud.
+- [Web 2.0 vs Web 3.0 vs P2P](cloud_compare_home) - How ThreeFold P2P Cloud compares to a Public Cloud or a Blockchain. -->

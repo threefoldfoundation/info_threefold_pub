@@ -4,16 +4,11 @@ Despite public clouds announcing carbon neutrality, it is important to realise t
 
 The only real way of achieving carbon neutrality, is to bring renewable energy solutions within the business model itself and to compensate for the extra energy used in the form offsets.
 
-## How ThreeFold will achieve that milestone
+## How ThreeFold is achieving this milestone
 
 - Collaborating with partners to create a collaborative carbon neutral P2P Cloud.
-- Using Zero-OS - the most energy efficient operating system to run P2P Cloud workloads, enabling +90% energy savings.
-- Looking at sustainable node alternatives that have the following features:
+- Using Zero-OS - an energy efficient operating system to run P2P Cloud workloads, enabling +90% energy savings for e.g. storage workloads.
 - Liquid and/or immersion cooling (to reduce cooling energy consumption)
-- Can be easily combined with renewable energy sources
-- Tamper proof (for security)
-- Cost effective (to be plugged-in anywhere).
-- ThreeFold engages itself to maximise the use of solar energy and other forms of renewable energies according to natural conditions (Ex: Wind energy where there is much wind)
 - As part of the sales price of the P2P Cloud, a portion will be allocated to compensate for the carbon emissions of the ThreeFold Grid, and converted into carbon credits.
 - The carbon credits will be re-invested in projects such as TAG where 2,5+ million students from all around the world collaborative on planet positive projects to fight climate change.
 
@@ -24,3 +19,4 @@ A carbon offset is a reduction in emissions of carbon dioxide or other greenhous
 ### What is a carbon credit?
 
 A carbon credit is a generic term for any tradable certificate or permit representing the right to emit one tonne of carbon dioxide or the equivalent amount of a different greenhouse gas. Carbon credits and carbon markets are a component of national and international attempts to mitigate the growth in concentrations of greenhouse gases.
+

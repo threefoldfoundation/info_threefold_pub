@@ -4,8 +4,8 @@
 
 **More info:**
 
-- [Quantum Safe Storage Concept](tftech:vdc_storage)
-  - [ThreeFold Filesystem](threefold_filesystem)
+- qsss
+  - qsfs
 - [Quantum Safe Network Concept](sdk:archi_qsnetwork)
   - [Zero-OS Network](sdk:capacity_network)
   - [ThreeFold Network = Planetary Network](sdk:archi_psnw)

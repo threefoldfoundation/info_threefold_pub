@@ -9,9 +9,7 @@ This implies that a simple installation of the Zero-OS image converts the hardwa
 
 ## Storage Compatibility
 
-We have created a Fuse based filesystem, any storage interface can be build on top of this.
-
-For more info, please read [zstor filesystem](threefold_filesystem).
+See qsfs.
 
 ## Dockers & Kubernetes
 

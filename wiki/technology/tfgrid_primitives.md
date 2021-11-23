@@ -1,26 +1,19 @@
-# Zero-OS Primitives
+![](img/layer0_.jpg)
 
-<!-- !!!include:zos_intro_text
+# TFGrid Low Level Functions = Primitives
 
-![](img/zos_overview_compute_storage.jpg)
+The following are the low level constructs which can be deployed on the TFGrid.
 
-![](img/zos_network_overview.jpg)
+The following functionalities allow you to create any solutions on top of the grid.
+Any application which can run on linux can run on the TFGrid.
 
-## Primitive Functions -->
-
-ThreeFold has defined cloudunits to allow people to order the low level primitive functions of the TFGrid.
-
-Cloud_units are like kwatth for a electricity grid.
-
-You need TFT to buy cloudunits.
-
-Through the smartcontract_it concept you deploy your primitive workloads.
-
-### Compute (uses CU)
+### Compute
 
 - [ZKube](zkube) : kubernetes deployment
 - [ZMachine](zmachine) : the container or virtual machine running inside ZOS
 - [CoreX](corex) : process manager (optional), can be used to get remote access to your zmachine
+
+Uses [Compute Units = CU](cloudunits).
 
 ### Storage (uses SU)
 
@@ -30,6 +23,8 @@ Through the smartcontract_it concept you deploy your primitive workloads.
 - [Zero-DB](zdb) : the lowest level storage primitive, is a key value stor, used underneith other storage mechanisms typically
 - [Zero-Disk](zdisk) : OEM only, virtual disk format
 
+Uses [Storage Units = SU](cloudunits).
+
 ### Network (uses NU)
 
 - [Zero-NET](znet) : private network between zmachines
@@ -38,11 +33,12 @@ Through the smartcontract_it concept you deploy your primitive workloads.
 - [WebGateway](webgw) : interface between internet and znet
 <!-- - [Peer2Peer Agent](p2pagent) : p2p agent terminates the traffic coming from the webgw. -->
 
+Uses [Network Units = SU](cloudunits).
+
 ## Zero-OS Advantages
 
 !!!include:zos_advantages
 
 
 !!!def alias:tfgrid_primitives,grid_primitives
-
 

@@ -1,5 +1,7 @@
 # Sharing Economy
 
-> TODO: explain how we together create internet
+![](img/sharing_economy_.jpg)
 
 How farmers together create a new internet which is not owned by few centralized parties.
+
+Everyone can partake in thir process.

@@ -1,4 +1,5 @@
-!!!include:accelerator:home_include
+- [**Home**](@threefold_home)
+----------
 - [Decentralization Home](@decentralization)
 - [Decentralization Status](@decentralization_status)
 - [ThreeFold Foundation](@threefold_foundation)

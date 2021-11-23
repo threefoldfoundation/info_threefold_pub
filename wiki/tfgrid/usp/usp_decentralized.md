@@ -1,4 +1,4 @@
-# A VDC at the edge: local and affordable everywhere
+# Local and affordable everywhere
 
 80% of the world's data currently resides in hyperscale data centers in central locations, which less than 20 organizations own. Compute power is centralized to specific locations. This centralization of power/ownership does not lend itself to equality in the data economy. We have already witnessed examples of major data breaches that benefit big tech corporations.
 

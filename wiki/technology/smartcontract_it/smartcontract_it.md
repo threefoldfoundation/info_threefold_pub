@@ -2,11 +2,14 @@
 
 Ability for every developer to launch IT workloads on the TFGrid using our tfgrid_primitives .
 
-![](img/smartcontract_highlevel.jpg)
+![](img/smart_contract_it_.jpg)
 
->TODO: write more
 
-## Smart Contract Together with 3bot
+> TODO: need to describe better for 3.x TFGrid
+
+## Smart Contract Together with 3bot 
+
+Is for TFGrid 2.0
 
 ![](img/smartcontract_it.jpg)
 

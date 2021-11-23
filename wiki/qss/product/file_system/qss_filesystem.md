@@ -1,4 +1,6 @@
-![](img/filesystem_abstract.jpg)
+<!-- ![](img/filesystem_abstract.jpg) -->
+
+![](img/qsss_intro_.jpg)
 
 # Quantum Safe Filesystem
 
@@ -7,7 +9,7 @@ A redundant filesystem, can store PB's (millions of gigabytes) of information.
 Unique features:
 
 - Unlimited scalable (many petabytes) filesystem
-- Quantum-secure:
+- Quantum Safe:
   - On the TFGrid, no farmer knows what the data is about
   - Even a quantum computer cannot decrypt
 - Data can't be lost
@@ -23,14 +25,10 @@ Unique features:
 - Hybrid: can be installed onsite, public, private, ...
 - Read-write caching on encoding node (the front end)
 
-<!-- ### Usage
-
-- examples:
-  - data files (json or dtml) = data of your digital life
-  - files of the [filemanager](twin:dtfilemanager)
-  - backend for the [dthyperdrive](twin:dthyperdrive) -->
 
 ## Architecture
+
+By using our filesystem inside a Virtual Machine or Kubernetes the TFGrid user can deploy any storage application on top e.g. Minio for S3 storage, OwnCloud as online fileserver.
 
 ![](img/qsstorage_architecture.jpg)
 

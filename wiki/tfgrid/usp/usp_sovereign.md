@@ -1,12 +1,10 @@
 # Combine Cloud Agility and Sovereignty of On-Premise Data Center
 
-![](img/vdc_node.jpg)
+![](img/evdc_sovereign_.jpg)
 
 ## Benefit from Agility of Cloud
 
-ThreeFold's eVDC allows you to create a Virtual Data Center within a few clicks. It comes with the most widely used tools of global developer communities such as Docket and Kubernetes.
-
-Using Docker containers and orchestrating them with the Kubernetes framework offers the following benefits:
+ThreeFold's allow you to create a Virtual Data Center within a few clicks, will call this an eVDC. 
 
 For Containers:
 

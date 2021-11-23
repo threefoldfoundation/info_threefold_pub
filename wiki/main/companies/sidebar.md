@@ -1,4 +1,5 @@
-!!!include:accelerator:home_include
+- [**Home**](@threefold_home)
+-----
 - [Overview](@threefold_companies)
 -----------
 - [ThreeFold Switserland](@threefold_ag)

@@ -16,7 +16,9 @@
 
 ### Network (uses NU)
 
-- [Zero-NET](znet) : private network between zmachines
+- zos_net : private network between zmachines
 - [Planetary Network](planetary_network) : peer2peer end2end encrypted global network
-- [Zero-NIC](znic) : interface to planetary network
 - [WebGateway](webgw) : interface between internet and znet
+- zos_bridge: network interface to planetary_net or public ipaddress
+
+<!-- - [Zero-NIC](znic) : interface to planetary network -->

@@ -1,5 +1,7 @@
 # Quantum Safe Storage Algoritm
 
+![](img/tf_banner_grid_.jpg)
+
 The Quantum Safe Storage Algorithm is the heart of the Storage engine.  The storage engine takes the original data objects and creates data part descriptions that it stores over many virtual storage devices (ZDB/s)
 
 

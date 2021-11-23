@@ -1,4 +1,4 @@
-# ZDB
+# ZOS-DB (ZDB)
 
 ![](img/zdb_arch.jpg)
 

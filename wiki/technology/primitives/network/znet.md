@@ -1,6 +1,6 @@
 
 
-# Z-NET
+# ZOS-NET
 
 Decentralized networking platform allowing any compute and storage workload  to be connected together on a private (overlay) network and exposed to the existing internet network. The Peer2Peer network platform allows any workload  to be connected over secure encrypted networks which will look for the shortest path between the nodes.
 
@@ -35,6 +35,6 @@ As integrated with [WebGW](webgw):
 
 see p2p_networking
 
-!!!def alias:zos_overlay_network,znet,zero_net
+!!!def alias:zos_overlay_network,znet,zero_net,zos_net
 
 !!!include:zos_toc

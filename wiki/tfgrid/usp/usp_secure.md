@@ -1,6 +1,8 @@
-# Secure in all dimensions
+# A More Secure Cloud
 
 ## Running on an OS with minimal hacking surface
+
+![](img/secure_zos_.jpg)
 
 Zero-OS is a secure operating system that runs on Threefold nodes.
 
@@ -19,22 +21,18 @@ Some benefits:
 
 ## Quantum safe Storage
 
-The quantum safe storage solution splits data objects in an intelligent way into different parts, such that only part of the information stored in one place. Moreover, the data is described in a way such that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
+The quantum safe storage solution splits data objects or even a full filesystem in an intelligent way into different parts, such that only part of the information stored in one place. Moreover, the data is described in a way such that a person aiming to hack into the low-level data (which is almost impossible in itself), will only find non-relevant information on this storage infrastructure.
 The fact that no data part can be (re-)created by accessing one location, makes the storage quantum proof: no compute power can ‘imagine’ what the other data parts are by looking at the data part of a single location.
 
-You can find more info on our dispersed storage mechanism [here](sdk:archi_qsstorage).
-
-Quantum safe storage has been completely overhauled and is available as a filesystem, inside VDC's, in containers deployed by 3bot's and on local systems that deploy the binaries and use the TF Grid as a backend storage system.
+Since TFGrid 3.0 we also have a Quantum Safe Filesystem available. This Filesystem can be used inside VM's or Kubernetes. Which is an amazing feature because it allows you to store endless amounts of data in a Virtual Machine.
 
 ## Security in the deployment process
 
-Deployment of IT workload using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure or services. This represents a breakthrough in IT. 3Bot records all transactions within the blockchain database (BCDB), ensuring an immutable record of any workload and enables the self-healing functionality as any workload can easily be restored if/when needed.
+Deployment of IT workload using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure or services. This represents a breakthrough in IT. 
 
-![](img/smartcontractit_intro.jpg)
+![](img/smart_contract_it_.jpg)
 
 
 ## Secure Decentralized access
 
-Access your virtual data center through Threefold Connect App. This app is a fully decentralized multi-factor authentication mechanism based on PKI technology.
-
-![](img/vdc_secure.jpg)
+Access your blockchain enabled workloads through Threefold Connect App. This app is a decentralized multi-factor authentication mechanism based on PKI technology.

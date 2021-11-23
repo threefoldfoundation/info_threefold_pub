@@ -9,6 +9,3 @@
 
 **CONFIDENTIAL**
 
-<!-- - [Presentations](@funding:presentations) -->
-<!-- - [Digital Twin Hub](@twin:digitaltwin_hub)
-- [Digital Twin Experiences](@digitalself:twin_experiences) -->

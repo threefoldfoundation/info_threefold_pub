@@ -1,8 +1,11 @@
 # ZNIC
 
-ZNIC is the interface of our planetary_network.
+ZNIC is the network interface which is connected to Z_Machine.
 
-Is a P2P network on top of internet. Looks for shortest path.
+Can be implemented as interface to
+
+- planetary_network.
+- public ip address on a Zero-OS.
 
 ![](img/znet_znic.jpg)
 
@@ -10,7 +13,7 @@ Is a P2P network on top of internet. Looks for shortest path.
 
 - [WebGW](webgw)
 - [Znet](znet)
-
-!!!def 
+- 
+!!!def alias:zos_nic,z_nic,znic,zbridge,zos_bridge
 
 !!!include:zos_toc

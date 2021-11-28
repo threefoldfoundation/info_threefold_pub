@@ -1,4 +1,4 @@
-<!-- replaced by grid3_billing.md --->
+<!-- replaced by proof_of_utilization_manual.md --->
 
 # TFGrid Billing
 

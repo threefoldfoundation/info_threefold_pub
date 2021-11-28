@@ -27,9 +27,9 @@ Uses [Storage Units = SU](cloudunits).
 
 ### Network (uses NU)
 
-- [Zero-NET](znet) : private network between zmachines
+- znet : private network between zmachines
 - [Planetary Network](planetary_network) : peer2peer end2end encrypted global network
-- [Zero-NIC](znic) : interface to planetary network
+- znic : interface to planetary network
 - [WebGateway](webgw) : interface between internet and znet
 <!-- - [Peer2Peer Agent](p2pagent) : p2p agent terminates the traffic coming from the webgw. -->
 

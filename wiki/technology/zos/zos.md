@@ -1,3 +1,5 @@
+![](img/zos22.png)
+
 # Zero-OS
 
 ![](img/zero_os_overview.jpg)

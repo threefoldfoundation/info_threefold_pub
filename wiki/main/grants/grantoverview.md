@@ -1,6 +1,8 @@
 ![](img/tf_tde_intro.jpg)
 
-# Token Ecosystem Rewards, H2 2021.
+# Token Ecosystem Reward
+
+> THIS IS NOT ACTIVE YET ! (update Nov 2021)
 
 The Token Grant Program is organized to benefit projects (listed below) which have as purpose to provide value to the ThreeFold movement, building their solutions on top of ThreeFold_Grid, and by doing so serving our planet.
 
@@ -8,7 +10,7 @@ The Token Grant Program is organized to benefit projects (listed below) which ha
 
 For each project an amount of TFTs has been made available based on their upcoming milestones.
 
-In 2021, ThreeFold will in a responsible way try to sell some of the tokens to benefit the projects as mentioned below.
+In 2022, ThreeFold will in a responsible way try to sell some of the tokens to benefit the projects as mentioned below.
 
 Phase 1, max 20M TFT will be sold in the benefit of projects below, of course not below minimal_price of $0.1.
 
@@ -31,7 +33,7 @@ Phase 1, max 20M TFT will be sold in the benefit of projects below, of course no
 
 For each project an amount of TFTs will be made available based on their upcoming milestones.
 
-The Wisdom_Council has to unlock the pool required to fulfill below.
+Our DAO will be used to organize this.
 
 | Project Name                                   | Amount Available | Description                                                                                |
 | :--------------------------------------------- | ---------------: | :----------------------------------------------------------------------------------------- |

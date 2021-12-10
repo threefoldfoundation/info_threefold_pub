@@ -25,7 +25,7 @@ Genesis block is the first block registered in the blockchain. This consists of 
 It's hard to define the value of the genesis block when it was calculated, there was no established TFT price.
 
 - If TFT price = USD 0.01: +-7M USD (this token price has not been established but could be 2016-17)
-- If TFT price = USD 0.05: +-35M USD
+- If TFT price = USD 0.05: +-35M USD (Nov 2021)
 
 ### Calculation
 

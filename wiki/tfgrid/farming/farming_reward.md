@@ -13,8 +13,6 @@ TFT earned per month per node =
 
 ```
 
-> Please note that farmers can use their own provided capacity at minimal cost, see [Own Farm Utilization](proof_of_utilization).
-
 ## Proof-of-Capacity
  
 The Proof-of-Capacity records Internet resources from the 3Node: 
@@ -23,7 +21,7 @@ The Proof-of-Capacity records Internet resources from the 3Node:
 - Storage Capacity (SSD/HDD)
 - Network Capacity (Bandwidth, IP Addresses)
 
-For making this Internet Capacity available, Farmers are rewarded with TFT. The proof-of-capacity is stored on a distributed storage system and hashed (fingerprinted). The hashes verify the authenticity of the report and are stored in the minting transactions of the blockchain. 4 days after the end of each month, the TFTs are transferred to the Farmer. The minting consensus needs to be achieved before minting can actually happen.
+For making this Internet Capacity available, Farmers are rewarded with TFT. 4 days after the end of each month, the TFTs are transferred to the Farmer. The minting consensus needs to be achieved before minting can actually happen.
 
 The CU, SU rewards are registered on the [ThreeFold Chain](tfchain) - ThreeFold Blockchain - and do not change as long as the Farmer’s 3Node keeps on producing storage & compute capacity at required minimal up-time. The NU and Public Ip Addresses are rewarded as ThreeFold Grid users consume this capacity. This reward is dynamic and can change over time depending USD/TFT ratio as well as the average cost for the bandwidth for the Farmers.
 
@@ -57,11 +55,16 @@ The CU, SU rewards are registered on the [ThreeFold Chain](tfchain) - ThreeFold 
 
 ## Remarks
 
-- The above described Farming Rewards are for ThreeFold Grid version 3.0 and will only apply for 3Nodes as registered in TF Chain.
-- Above specifications will only be final once [Wisdom Council](wisdom_council) approves and ThreeFold Grid 3.x is on mainnet.
-- Today almost all 3Nodes registered use [Farming Model 2](farming_reward2).
+- The above described Farming Rewards are for ThreeFold Grid version 3.1 on mainnet and will only apply for 3Nodes as registered in TF Chain for mainnet 3.1. Before this all farming is done using 2.x farming rules even on 3.x Testnet and 3.0 mainnet.
+- Above specifications will only be final once [Wisdom Council](wisdom_council) approves and ThreeFold Grid 3.1 is on mainnet.
+- All 3nodes for tfgrid 2.0, testnet 3.x and mainnet 3.0 use [Farming Model 2](farming_reward2).
 - More information about the upgrade see: [Upgrade from farming 2 to farming 3](farming_upgrade_2_3)
+
+
+> DISCLAIMER: ThreeFold Foundation organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Foundation like but not limited to the different councils.
 
 !!!def alias:farming_reward,farming_reward,farming_reward3,farming_reward
 
 !!!tfpriceinfo
+
+

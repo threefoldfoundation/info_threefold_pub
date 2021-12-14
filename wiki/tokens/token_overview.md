@@ -5,10 +5,9 @@
 > Max: amount of tokens = 4 billion.
 
 - 75% reserved for farming
-  - Tokens are created as result of [Farming Rewards](tf_farming).
+  - Tokens are created as result of [Farming Rewards](farming_reward).
     - Zero-OS measured capacity
-    - Which needs to be online
-    - Better than required SLA (Service Level Agreement).
+    - Which needs to be online better than required SLA (Service Level Agreement).
   - Rewarded by means of code and verified by TF_Chain (\*)
   - Rules as defined by Threefold Foundation but approved by Wisdom_Council
   - Rules are different for certified or DIY capacity. For now we only deliver DIY capacity.
@@ -16,23 +15,21 @@
   - Sponsor projects to the benefit of the ThreeFold Companies
   - Education, Digital twin, ...
   - None of these tokens have entered the market yet.
-  - Planning H2 2021 for a maximum of 25 million TFT. See TGP.
-  - First 20 million TFT, will not be sold below $0.1 and only through market maker.
-  - Grants needs approval from Wisdom_Council.
+  - Grants needs approval from DAO in TFGrid 3.0.
 - 5% for community & promotion effort
   - This will be used very wisely to promote the growth of the grid.
-  - Budget needs approval from Wisdom_Council.
+  - Budget needs approval from Wisdom_Council and/or DAO.
   - Large majority part of vesting pool.
 - 4% for liquidity pool & ecosystem contributions
   - Tokens needed to grow on the exchange.
   - Tokens needed for ecosystem to let the tokens increase in value.
-  - budget needs approval from Wisdom_Council.
+  - budget needs approval from Wisdom_Council and/or DAO.
 - 7% for Technology Acquisition + Starting Team (40 people)
   - Original ThreeFold Cloud product (opensource)
   - Team who was working on this cloud project
 - 6% for contributors, founders & team
   - Part of vesting pool
-  - Distribution needs approval from Wisdom_Council
+  - Distribution needs approval from Wisdom_Council and/or DAO.
 
 > for Detailed Info see: [Stats Token Overview, info from TFT blockchain](stats_token_overview)
 
@@ -40,17 +37,14 @@
 
 | Description                            | Value     |
 | -------------------------------------- | --------- |
-| Nr Liquid Tokens (May 5 2021)          | 276m      |
+| Nr Liquid Tokens (May 5 2021)          | 316m      |
 | Nr Total Tokens                        | 4000m     |
-| TFT Marketcap if TFT price is 0.12 USD | 33m USD   |
-| TFT Marketcap if TFT price is 0.15 USD | 41.4m USD |
+| TFT Marketcap if TFT price is 0.5 USD | <20m USD   |
 
-Calculated May 5 2021
+Calculated Dec 2021, [newest status see here](stats_token_overview)
 
 
-> Less than 7% will be liquid at [ThreeFold 3.0 Launch](threefold3_launch).
-
-> WE ARE STILL IN PROCESS TO VEST TOKENS (MAY 2021)
+<!-- > Less than 7% will be liquid at [ThreeFold 3.0 Launch](threefold3_launch). -->
 
 ## Remarks
 

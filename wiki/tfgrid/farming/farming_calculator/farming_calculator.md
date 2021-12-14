@@ -47,7 +47,7 @@ We have created a calculator to allow you to simulate your potential return on i
 
 ## Do your own calculation
 
-- [Farming Reward Simulator for Farming 3.0](https://threefold.docsend.com/view/uaxijtqk6vu2grr5)
+- [Farming Reward Simulator for Farming 3.x, starting mainnet 3.1](https://simulator.grid.tf)
 
 ## Remarks
 

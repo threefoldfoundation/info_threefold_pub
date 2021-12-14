@@ -26,11 +26,11 @@ Go to your account overview: https://www.binance.com/en/my/wallet/account/overvi
 
 Here you can see how the BNB did arrive
 
-From here things should be very easy, just go to 
+From here things should be very easy, just click on one of following 2 links:
+
+!!!include:pancakeswap_1inch
 
 
-
-
-## More Info
+## More Info About Defi on Binance Smartchain
 
 - see [tft_binance_defi](tft_binance_defi)

@@ -1,7 +1,8 @@
 # Binance Get Started
 
 - get Binance account (if you don't have one yet): https://accounts.binance.com/en/register 
-- buy some BNB: https://www.binance.com/en/buy-bnb, you can use a credit card for this, 15 EUR is enough
+- buy BNB: https://www.binance.com/en/buy-bnb, you can use a credit card for this or bank transfer.
+    - BNB is the intermediate currency used to get to TFT
 
 ## Get a metamask Wallet
 

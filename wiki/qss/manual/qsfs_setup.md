@@ -18,9 +18,11 @@ ubuntu instance.
 
 ## Setup and run 0-stor
 
+There are instructions below for a local 0-stor configuration. You can also deploy an eVDC and use the [provided 0-stor configuration](threefold__evdc_storage) for a simple cloud hosted solution.
+
 We will run 6 0-db instances as backends for 0-stor. 4 are used for the
 metadata, 2 are used for the actual data. The metadata always consists
-of 4 nodes. The data backends can be increased. You can choose to eiter
+of 4 nodes. The data backends can be increased. You can choose to either
 run 7 separate 0-db processes, or a single process with 7 namespaces.
 For the purpose of this setup, we will start 7 separate processes, as
 such:

@@ -10,5 +10,5 @@
 - [Manual](!@manual:manual3_home_new)
 - [Get Involved](how_to_help)
 - [Roadmap](roadmap)
-- [Technology](technology)
+- [Technology](@technology)
 - [Decentralization](decentralization)

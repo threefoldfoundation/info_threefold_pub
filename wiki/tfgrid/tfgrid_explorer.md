@@ -1,16 +1,17 @@
-# TFGrid Capacity explorer
+# ThreeFold Grid Capacity Explorer
 
-![](img/tf_grid.jpg)
+![](img/grid_stats.png)
 
-Today we have about thousands of 3Nodes across the grid see our https://explorer.grid.tf
+Thousands of 3Nodes are connected to the ThreeFold Grid across the world. Find the live stats on https://explorer.grid.tf.
 
-> see https://explorer.threefold.io/
-
-The TFGrid explorer shows TF Grid usage statistics and provides details about all the active nodes and gateways.
+The explorer allows you to find:
+- Available 3Nodes and web gateways 
+- Live statistics about the ThreeFold Grid 
+- Live capacity map
 
 Using the `Capacity finder` panel, you can filter out the nodes based on their farm and resource units.
 
-By clicking on a node or a gateway, you deploy the information view:
+By clicking on a node or a gateway, you get access to a full information view, as shared below. 
 
 ![capacity explorer](img/capacity_explorer_node_detail.jpg)
 

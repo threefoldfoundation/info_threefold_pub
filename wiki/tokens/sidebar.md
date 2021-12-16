@@ -2,10 +2,10 @@
 
 **Tokens Home**
 
-- [What is TFT](token_what)
-- [Valuable](grid_valuation)
-- [New to Tokens](newtotokens)
-- [Buy and Sell TFT](how_to_buy)
-- [Wallets](threefold_wallets)
+- [Introduction](token_what)
+- [ThreeFold Wallets](threefold_wallets)
+- [Get TFT](how_to_buy)
 - [Tokenomics](tokenomics)
-- [Distribution](token_overview)
+- [Token Distribution](token_overview)
+- [How is TFT Valuable](grid_valuation)
+- [TFT for Beginners](newtotokens)

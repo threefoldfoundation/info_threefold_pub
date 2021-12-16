@@ -1,91 +1,22 @@
 
-![](img/threefold_wallet_large_header.jpg)
-
-<!-- ![](img/tftexplo.jpg) -->
+![](img/tokenintrohome.jpg)
 
 # ThreeFold Wallets
 
-There are several options to store your TFT. 
-
-Please note, that TFT exists on several blockchains. 
-Right now we support Stellar Blockchain (main one) and Binance Smart Chain, through a [bridge](tft_bsc_bridge).
-
-**Stellar Based Wallets**
-- [ThreeFold Connect App](threefold_connect)
-- [Solar Wallet](solar_wallet)
-- [Lobstr Wallet](lobstr_wallet)
-- [Interstellar Wallet](tft_interstellar)
-**Wallets Binance Smartchain**
-- [Metamask Wallet](tft_bsc_metamask)
-- [Trust Wallet](tft_bsc_trustwallet)
-**Bridges**
-- [Stellar - Binance SmartChain](tft_bsc_bridge)
-
-
-# TFT Stellar Wallets
-
-## The ThreeFold Connect App
-
-![alt](img/threefold_connect_4screens.jpg)
-
-The ThreeFold Connect app is the official Threefold app that comes with a wallet feature.
-
-Learn more about the [Threefold Connect App here](threefold_connect).
-
-## Alternative Stellar Wallets
-
-Any wallet that can hold Stellar based tokens can also hold TFT. Here's a few options for you to consider:
-
-### Solar Wallet
-
-![alt](img/solar_wallet_logo_.jpg ':size=300')
-
-Secure, open, and 100% free, this Stellar wallet features multi-signature accounts, asset management, and more. It is available on: Web, Iphone, Android, Mac, Windows and Linux.
-
-Get your Solar wallet [here](https://solarwallet.io/).
-
-Here is the manual [how to add TFT token into your Solar wallet](solar_wallet).
-
-### Lobstr Wallet
-
-![alt](img/lobstr_wallet_logo_.png ':size=300')
-
-LOBSTR is a leading platform for managing Stellar Lumens and other assets issued on the Stellar network. With over 700 positive reviews LOBSTR is one of the most popular and trusted wallet solution for Stellar. It is available on: Web, Iphone and Android.
-
-Get your Lobstr wallet [here](https://lobstr.co/).
-Here is the manual [how to add TFT token into your Lobstr wallet](lobstr_wallet).
-
-### Interstellar Wallet/Exchange
-
-![alt](img/interstellar_wallet_logo_.jpg ':size=300')
-
-Interstellar Wallet is a secure non-custodial wallet that enables you to control your private keys, and all your sensitive data is encrypted with the highest levels of security. Interstellar is the only app that supports multiple wallets which can be backed-up and restored easily.It is available on: Web, Iphone, Android, Mac, Windows.
-
-Get your Interstellar wallet [here](https://interstellar.exchange/)
-Here is the manual [how to add TFT token into your Interstellar wallet](tft_interstellar).
-
-## Wallets for Binance Smart Chain
-
-TFT can be moved to and out of Binance Smart Chain using the [bridge](tft_bsc_bridge).
-
-### Trust Wallet
-
-![alt](img/trustwallet_logo.jpg ':size=300')
-
-TRUST is a trusted and secure crypto wallet for cryptoassets on different blockchain networks. It is available on iOS and Android.
-
-Get your Trust wallet [here](https://trustwallet.com/).
-
-Here is the manual [how to add TFT into your Trust Wallet](tft_bsc_trustwallet).
-
-### Metamask Wallet
-
-![alt](img/metamask_logo_.png ':size=300')
-
-Metamask is a wallet available as a Chrome add-on for cryptoassets on different blockchain networks. It is also available for iOS and Android. 
-
-Get your Metamask wallet [here](https://metamask.io/).
-
-Here is the manual [how to add TFT into your Metamask Wallet](tft_bsc_metamask)
+Wallets are key to your digital future as they allow you to manage your funds, decentralized Internet capacity and applications on ThreeFold. Only you should have access to your wallet.
 
 !!!include:tft_safe
+
+### Compatible wallets 
+
+Wallets have lots of optional features which you might like. So choose your wallet based on the features you want. From buying TFT with a bank card to accessing DeFi and getting discounts on Internet capacity, different wallets provide you with different possibilities. 
+
+1. **ThreeFold Connect**: The official ThreeFold app is recommended for all ThreeFold Grid users to benefit from discounts on Internet capacity. [Learn more](threefold_connect).
+2. **Trust Wallet**: Trusted by +10 million users worlwide, Trust Wallet provides an easy access to cryptocurrencies and DeFi. [Learn more](tft_bsc_trustwallet). 
+3. **Metamask**: Trusted by +21 million users worldwide, Metamask allows users to buy TFT with ETH (Ethereum's official currency). [Learn more](tft_bsc_metamask).
+4. **Solar**: A simple and secure wallet to transact on the stellar blockchain with multi-signature accounts and more. [Learn more](solar_wallet).
+5. **Lobstr**: With +200 thousand users worldwide, Lobstr is a leading platform to manage crypto on stellar. [Learn more](lobstr_wallet).
+6. **Interstellar**: A secure non-custodial wallet that enables to control different private keys. [Learn more](tft_interstellar).
+
+
+> Note: ThreeFold aims to have TFT available on multiple blockchains. Currently, TFT is available on Binance Smart Chain (BSC) and Stellar (main) via a [bridge](tft_bsc_bridge). The recommended wallet for BSC is Trust Wallet and the recommended wallet for Stellar is ThreeFold Connect. 

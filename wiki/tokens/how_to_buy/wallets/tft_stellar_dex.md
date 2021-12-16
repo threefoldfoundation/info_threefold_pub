@@ -1,39 +1,19 @@
-# Buy TFT through Stellar
+# Buy TFT on Stellar
 
-Stellar has build in exchange = Stellar_Exchange
+Stellar is a global financial platform based on distributed ledger technology. It is a protocol created to help develop a decentralized global financial system, Abbreviated XLM, its digital currency is called "Lumens."
 
-You can use this exchange to go from a Stellar token e.g. XLM to TFT or other way around.
+The base currency of Stellar is XLM, the easiest is to start from this currency.
 
-## Step One: Use an Exchange to Buy XLM with Fiat
+- [X] buy XLM on any exchange you prefer
+- [X] load your XLM in wallet of interstellar
+- [X] add TFT as trustline to your wallet in insterstellar
+- [X] do the trade on interstellar site
 
-Fiat is the name for euros, dollars, or other government-issued currencies. 
+There are 4 ways to buy TFT on stellar:
 
-A fiat gateway allows you to enter the world of digital currencies through depositing fiat currency.
-
-- You can choose any digital currency exchance (Kraken, Liquid, Binance,...) to go from Fiat to a digital currency like XLM.
-- Example [manual for coinbase to buy digital currencies](coinbase_fiat).
-- [Exchanges recommended by Stellar](https://www.stellar.org/lumens/exchanges)
-
-Next, you'll want to add funds to your wallet and exchange those funds for XLM. Those XLM can later be exchanged for TFT on the decentralized exchange.
-
-
-## Step Two: Convert XLM to TFT
-
-This part of the process involves:
-
-1. install or use a new wallet that can be used to store XLM and buy TFT, or use a web based wallet
-2. setting up a trustline for TFT (means teach the wallet about the existence of ThreeFold Token)
-3. exchanging XLM for TFT
-
-## 4 different ways how the stellar exchange can be used
-
-Choose one of the following mechanisms to go from a digital currency like XLM to TFT.
-
-- [wallet solar](solar_wallet) = desktop, needs install
-- [wallet Lobstr](lobstr_wallet) = desktop, needs install
-- [stellarx](tft_stellarx) = web based, gives you a trading view
-- [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available.
-
-Please let us know which method you prefer.
+- [wallet solar](solar_wallet) for desktop.
+- [wallet Lobstr](lobstr_wallet) for desktop.
+- [stellarx](tft_stellarx) is web based and comes with a trading view.
+- [Interstellar](tft_interstellar) is wallet and exchange that comes in both web-based and desktop.
 
 !!!include:legal:tft_not_investment

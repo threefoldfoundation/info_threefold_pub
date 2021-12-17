@@ -10,10 +10,10 @@ The Foundation wants to operate as a not for profit organization. Not for profit
 
 ## History
 
-In the earlier days of ThreeFold, there were multiple teams collaborating – but the two core teams were located in Dubai and Belgium.
+In the earlier days of ThreeFold, there were multiple teams collaborating, but the two core teams were located in Dubai and Belgium.
 
-- In Dubai we had [ThreeFold_Dubai](threefold_dubai) = ThreeFold Foundation (\*) – this company was owned by Adnan Fatayerji & Kristof de Spiegeleer
-- In Belgium we had [BetterToken](bettertoken) – this company was owned by Kristof and Kristof's Incubator (Incubaid)
+- In Dubai we had [ThreeFold_Dubai](threefold_dubai) = ThreeFold Foundation (\*), this company was owned by Adnan Fatayerji & Kristof de Spiegeleer
+- In Belgium we had [BetterToken](bettertoken), this company was owned by Kristof and Kristof's Incubator (Incubaid)
 
 Adnan & Kristof started the ThreeFold idea (which is basically just a concept people can relate to or not) from the above-mentioned companies and have always acted in their respective capacity as directors of these companies. This structure would later evolve into the ThreeFold Foundation as it is known today.
 
@@ -21,9 +21,9 @@ A small part of the original funding came from the fact that The ThreeFold Found
 
 These buyers could use their TFT to buy IT capacity from ThreeFold_Dubai or BetterToken BV until April 2020, or from the TF Grid directly in a fully decentralized way starting May 2020.
 
-The ThreeFold_Grid is the result of many farmers using the open source technology which is now on https://github.com/threefoldtech.
+The ThreeFold_Grid is the result of many farmers using the open source technology which is on https://github.com/threefoldtech.
 
-Originally, the technology used was created by three companies: GreenIT Globe, ThreeFold_Dubai & [ThreeFold Tech](threefold_internal:tftech). The last two still actively participate in the creation of tech components or content as used by all ThreeFold Farmers today.
+Originally, the technology used was created by three companies: GreenIT Globe, ThreeFold_Dubai & [ThreeFold Tech](threefold_tech0). The last two still actively participate in the creation of tech components or content as used by all ThreeFold Farmers today.
 
 !!!include:threefold_funding
 

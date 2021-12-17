@@ -1,6 +1,6 @@
 
 
-# ZOS-NET
+# ZNET
 
 Decentralized networking platform allowing any compute and storage workload  to be connected together on a private (overlay) network and exposed to the existing internet network. The Peer2Peer network platform allows any workload  to be connected over secure encrypted networks which will look for the shortest path between the nodes.
 

@@ -12,11 +12,23 @@ Every month, the consensus mechansim proof-of-capacity registers approximately 3
 
 When successfully verified by proof-of-capacity, farmers earn TFT according to the amount of Internet capacity registered in TFChain.
 
+<<<<<<< HEAD
 ## How are farming rewards calculated?
 
 These different types of Internet capacity are then translated into compute units (CU), storage units (SU), Network units (NU) and IP addresses (IPAddr) to calculate farming rewards. 
 
 The formula to calculate farming rewards is the following:
+=======
+## Proof-of-Capacity
+ 
+The Proof-of-Capacity records Internet resources from the 3Node: 
+- Compute Capacity (CPU)
+- Memory Capacity (RAM)
+- Storage Capacity (SSD/HDD)
+- Network Capacity (Bandwidth, IP Addresses)
+
+For making this Internet Capacity available, Farmers are rewarded with TFT. 4 days after the end of each month, the TFTs are transferred to the Farmer. The minting consensus needs to be achieved before minting can actually happen.
+>>>>>>> f8146f4fa6e755d8a71c2bb7cd51a33d2bf22a7d
 
 ```python
 TFT earned per month = 
@@ -58,8 +70,20 @@ The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacit
 
 **Additions to farming rewards (coming soon)**
 
+<<<<<<< HEAD
 - How to improve the calculation of CU rewards to mitigate the difference in power provided between new and old hardware. 
+=======
+- The above described Farming Rewards are for ThreeFold Grid version 3.1 on mainnet and will only apply for 3Nodes as registered in TF Chain for mainnet 3.1. Before this all farming is done using 2.x farming rules even on 3.x Testnet and 3.0 mainnet.
+- Above specifications will only be final once [Wisdom Council](wisdom_council) approves and ThreeFold Grid 3.1 is on mainnet.
+- All 3nodes for tfgrid 2.0, testnet 3.x and mainnet 3.0 use [Farming Model 2](farming_reward2).
+- More information about the upgrade see: [Upgrade from farming 2 to farming 3](farming_upgrade_2_3)
+>>>>>>> f8146f4fa6e755d8a71c2bb7cd51a33d2bf22a7d
+
+
+> DISCLAIMER: ThreeFold Foundation organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Foundation like but not limited to the different councils.
 
 !!!def alias:farming_reward,farming_reward,farming_reward3,farming_reward
 
 !!!tfpriceinfo
+
+

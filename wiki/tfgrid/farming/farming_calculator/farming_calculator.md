@@ -48,7 +48,7 @@ Do your own simulation with the [farming reward calculator](https://simulator.gr
 ## Additional notes
 
 - The [farming rewards](farming_reward) describes the TFT reward logic for a 3Node's Internet capacity.
-- Farmer doesn't have to sell 
+- A Farmer doesn't have to sell 
 - Thanks to our sales model farmers don't have to sell their Internet  capacity as the [proof-of-utilization](proof_of_utilization) algorythm incentivizes threefold_channel. 
 
 <!-- - I would remove this as it doesn't add any value [More detailed calculation For Titan v 2.1](titan_v2_1) -->

@@ -10,7 +10,7 @@ ThreeFold is the result of more than 20 years of work in the Internet space, ove
 
 The technology used at start in March 2018 has been developed mainly out of three companies: [ThreeFold_Dubai](threefold_fzc), [BetterToken](bettertoken) and GreenIT Globe. Later in 2018, TF Tech was spun off from our incubator.
 
-[TF Tech](threefold_internal:tftech) is a company born out of our Incubator called [Incubaid](http://www.incubaid.com/) in Belgium.
+[TF Tech](threefold_tech0) is a company born out of our Incubator called [Incubaid](http://www.incubaid.com/) in Belgium.
 
 TF Tech has a purpose to further develop the software and commercialize the capabilities on a global basis, mainly by working together with tech partners.
 
@@ -36,7 +36,7 @@ All genesis pools were owned by the foundation. Many of those servers are at thi
 - A lot of the genesis pool tokens went to the original shareholders of a company who created a lot of the technology which was the basis at that time for ThreeFold.
   - Most of these tokens are locked up and are not tradeable.
   - This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
-- The other part went to ThreeFold Foundation – to allow the Foundation to promote & further grow the project.
+- The other part went to ThreeFold Foundation, to allow the Foundation to promote & further grow the project.
 
 > [See Token Overview](token_overview) for more details.
 
@@ -47,14 +47,12 @@ The tokens were used from out of ThreeFold_Dubai to create value for the ThreeFo
 - grants to community, bounties for coders, evangelists, ...
   - max bounty given to contributors/founders = 2.5m TFT
   - funding for projects like coding, marketing, ...
-  - This is the Token Grant Program (see [TGP](grantoverview))
-- Fund the day-to-day operation of the ThreeFold FZC
+  - There is a token grant program, but not really active yet.
+- Fund the day-to-day operation of threefold_dubai
 - Fund some development projects for our open source technology
 - Public exchange fees
 - Operational costs of keeping the genesis pool operational (engineers, data center, bandwidth, ...)
 - Reward for the ThreeFold larger community and contributors
-
-Check our wisdom_council and learn how they oversee the utilization of these token funds
 
 ## Remarks
 

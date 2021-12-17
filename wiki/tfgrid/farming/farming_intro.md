@@ -1,3 +1,5 @@
+![](img/farming_.png)
+
 # ThreeFold Farming
 
 ![](img/grid_new.png)

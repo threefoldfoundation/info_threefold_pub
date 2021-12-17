@@ -1,4 +1,6 @@
-# ThreeFold Grid DB (3.0)
+# TFChain DB
+
+Available since TFGrid 3.0
 
 The TF_CHAIN allows us to create a distributed database as needed to let the TFGrid function.
 Its inmplemented using parity/substrate technology.
@@ -23,4 +25,4 @@ This database runs on the deployed tfchain_nodes.
 
 !!!include:tfchain_moreinfo
 
-!!!def alias:TFGrid_DB,TFGDB
+!!!def alias:TFGrid_DB,TFGDB,tf_chain_db

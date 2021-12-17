@@ -23,10 +23,10 @@ The Titan Node V2.1 packs quite a punch and will be able to run heavier workload
   - Starting price of TFT in this simulation = 0.06USD
 - investment cost = 1040 USD
 
-![](img/calc_titanv21.png)
+![](img/titan_calc.png)
 
-- [calculator here](https://threefold.docsend.com/view/a92hkwqiqky6r5jc)
-- This potentially can **deliver a return of 2009%** in line with these simulation patameters
+- Simulator here: https://simulator.grid.tf
+- This potentially can **deliver a return of 2009%** in line with these simulation parameters
 
 !!!include:farming_calc_remarks
 

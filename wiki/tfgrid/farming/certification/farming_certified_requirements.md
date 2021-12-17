@@ -2,12 +2,13 @@
 
 ## Certified Farming Requirements 
 
-### Certified Nodes
+### Individual Certified Farmer
 
 - Certified Farms are made up of certified_nodes
-- you need have to have more than 5 certified nodes. 
+- up to 4 certified nodes
+- home or office location
 
-### Uptime and Network
+#### Uptime and Network Requirements
 
 - 97% uptime is accepted in home farming situations
 - 1 IP feed (consumer provider)
@@ -15,11 +16,13 @@
 - enough bandwidth to allow the utilization of the storage/archive (see below)
 - good enough latency (low latency = performance of network)
 
-#### Terms and Conditions need to be signed
+### Professional Certified Farmer
 
-!!!include:farming_certification_terms_conditions
+- Certified Farms are made up of certified_nodes
+- more than 4 certified nodes
+- datacenter location
 
-#### Network
+#### Uptime and Network Requirements
 
 - 99.5% uptime
 - minimal bandwidth as required for the workloads as hosted on the farm
@@ -33,21 +36,26 @@
 
 (*) = in case of datacenter or commercial deployment
 
-#### Uptime & Redundancy
+#### Redundancy Requirements
 
 - protection for fire & water damage
 - enough access to power
 - redundant power systems
 
-#### Bandwidth Requirement for archive/storage usecase.
+#### Terms and Conditions need to be signed
 
-A storage usecase needs a lot of bandwidth to allow the storage nodes to be fillend and also to allow its customers to download the information.
+!!!include:farming_certification_terms_conditions
 
-Its the obligation of the farmer to make sure that enough bandwidth is available. We will measure this by doing random upload & download tests to the storage systems. 
+
+### Bandwidth Requirement for archive/storage usecase example.
+
+A storage usecase needs a lot of bandwidth to allow the storage nodes to be filled and also to allow its customers to download the information.
+
+It’s the obligation of the farmer to make sure that enough bandwidth is available. We will measure this by doing random upload & download tests to the storage systems. 
 
 It should always be possible to have at least 1 mbit/sec per Zero_DB (which is a storage container running on 1 harddisk or ssd).
 
-#### Reputation & Monitoring Engine
+### Reputation & Monitoring Engine
 
 The TFGrid has a reputation engine and a monitoring engine to measure uptime & other SLA requirements, see consensus3.
 

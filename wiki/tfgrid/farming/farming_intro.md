@@ -2,7 +2,7 @@
 
 # ThreeFold Farming
 
-![](img/grid_new.png)
+![](img/grid_new_.png)
 
 ThreeFold Farming ("Farming") is the process of connecting Internet capacity to the ThreeFold Grid. This process is undertaken by independent people or organization called ThreeFold Farmers ("Farmers").
 

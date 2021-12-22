@@ -17,7 +17,7 @@ The operating system is not installed on any local storage medium (hard disk, ss
 The mechanism to allow this to work in a safe and efficient manner is a ThreeFold innovation called our container virtual filesystem. 
 
 
-This is explained in more detail [in our SDK manual](flist).
+This is explained in more detail [in our SDK manual](sdk:flist).
 
 !!!def alias:zero_install
 

@@ -1,5 +1,5 @@
 
-![](img/peoples_internet.png)
+![](img/peoples_internet_.png)
 
 # Learn how to build the People's Internet
 

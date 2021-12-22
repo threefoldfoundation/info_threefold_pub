@@ -1,4 +1,4 @@
-![](img/farming_rewards.png ':size=350x')
+![](img/farming_rewards_.png ':size=350x')
 
 # Farming Reward 3.0
 
@@ -80,5 +80,4 @@ The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacit
 !!!def alias:farming_reward,farming_reward,farming_reward3,farming_reward
 
 !!!tfpriceinfo
-
 

@@ -1,5 +1,5 @@
 
-![](img/farming_rewards.png)
+![](img/farming_rewards_.png)
 
 # Proof-of-Capacity
 

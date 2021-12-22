@@ -44,7 +44,7 @@ Our DAO will be used to organize this.
 | [The Humanized Internet](thehumanizedinternet) |          500,000 | Digital identity for everyone running on top of the Digital_Twin                           |
 | [Zetako](zetako)                               |          500,000 | Integration of incredible lossless data compression technology on the TF Grid              |
 | [Generation Blue](generationblue)              |          333,333 | Tokenization of rainforests bult on top of the TF Grid, using Digital_Twin / the TF Wallet |
-| [Crystal Home](crystalhome_internal)                    |          150,000 | Enable offgrid homes to use Digital_Twin and the TF Grid                                   |
+| [Crystal Home](threefold_internal:crystalhome_internal)                    |          150,000 | Enable offgrid homes to use Digital_Twin and the TF Grid                                   |
 | [Money of Good](moneyofgood)                   |          150,000 | Raising consciousness through meditation app built on top of DigitalTwin                   |
 
 <!-- | [Crystal Language](crystallang_proj)             |        4,000,000 | Core language used to implement the 3bot and future 3SDK for the ThreeFold_Grid                | -->

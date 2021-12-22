@@ -1,6 +1,6 @@
 # ThreeFold Grid Capacity Explorer
 
-![](img/grid_stats.png)
+![](img/grid_stats_.png)
 
 Thousands of 3Nodes are connected to the ThreeFold Grid across the world. Find the live stats on https://explorer.grid.tf.
 

@@ -1,6 +1,6 @@
 # Get involved
 
-![](img/get_involved.png)
+![](img/get_involved_.jpg)
 
 There are many ways to join the ThreeFold Grid ecosystem.
 

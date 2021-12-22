@@ -20,4 +20,4 @@ A Digibyte node requires a minimum of 8vcpu and 32 GB of memory.
 
 Check out our [**Get Started**](get_started) section and follow [**Deployment Steps**](deployment_steps) to deploy **Digibyte** node/-s via Blockchain Jukebox.
 
-!!!include:projects_overview
+!!!include:projects_toc

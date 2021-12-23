@@ -9,7 +9,7 @@ For farming, 1 CU equals:
 - 2 virtual CPUs with a maximum over subscription of 4 CPUs and minimum required memory of 4GB. 
 - An over subscription of 4 CPUs remains still gentle as we understand many other providers use more.
 
-```pythonx§
+```python
 cu = min((mru - 1) / 4, cru * 4 / 2, sru / 50)
 ```
 
@@ -24,7 +24,7 @@ For farming, 1 SU equals to:
 - 200 GB of SSD capacity with a buffer of 20% (minus requirement for compute units)
 
 ```python
-su = hru / 1200 + (sru * 0.8 - cu * 25)/200)
+su = hru / 1200 + (sru * 0.8 - cu * 25)/200
 ```
 
 NEW: Dec 2021 update for launch v3.x, had to deduct SRU as used in CU above, was missing in formulla, was in specs of farming reward, but formula did not take into consideration. We support 50% oversubscription (in other words avg CU only uses 25 GB in stead of 50).

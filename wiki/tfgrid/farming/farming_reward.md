@@ -52,6 +52,7 @@ The CU, SU rewards are registered on the [ThreeFold Chain](tfchain) - ThreeFold 
 - [Farming Reward Calculator](farming_calculator)
 - [Certified Farming](@certified_farming)
 - [Cloud Units](cloudunits)
+- [Cloud Units Calculation For Farming](resource_units_calc_cloudunits)
 
 ## Remarks
 

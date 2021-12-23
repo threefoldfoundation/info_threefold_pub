@@ -46,6 +46,7 @@ See how we compare with the market compute prices [here](pricing).
 HDD is only usable for Zero Database driven storage (e.g. ThreeFold Quantum Safe Storage). 1.2 TB of HDD is provided following the advised storage policy of 16+4 with 20% overhead. So the net usable storage would be 1TB. In other words, the SU corresponds in that case to 1TB of net usable storage and an extra 200GB for redundancy.
 
 Example of Stroage unit:
+
 - 1TB of usable storage as provided by the Zero-DBs (the backend storage systems)
 - Recommended price on TF Grid for 1 SU = 10 USD
 - Alternative cloud price = between 20 USD and 200 USD

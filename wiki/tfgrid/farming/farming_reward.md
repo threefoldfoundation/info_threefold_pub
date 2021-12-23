@@ -6,11 +6,7 @@ The amount of ThreeFold_Token earned by farmers is relative to the amount of com
 
 ## How do farmer earn TFT? 
 
-ThreeFold Blockchain (TFChain) rewards farmers for providing Internet capacity and expanding the ThreeFold Grid. They earn ThreeFold_Token. 
-
-Every month, the consensus mechansim proof-of-capacity registers approximately 30 blocks on the blockchain, each block representing the record of Internet capacity provided to the network.
-
-When successfully verified by proof-of-capacity, farmers earn TFT according to the amount of Internet capacity registered in TFChain.
+ThreeFold Blockchain (TFChain) rewards farmers for providing Internet capacity and expanding the ThreeFold Grid. They earn ThreeFold_Token. When successfully verified by proof-of-capacity, farmers earn TFT according to the amount of Internet capacity registered in TFChain.
 
 ## Proof-of-Capacity
  
@@ -51,7 +47,6 @@ The above farming rewards apply for 3Nodes registered in TFChain for ThreeFold G
 
 The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacity in the form [cloud units](cloudunits).
 
-!!!include:staking_farmed_tft
 
 ### ThreeFold DAO rules for Farming Rewards
 
@@ -63,8 +58,11 @@ The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacit
 - Farming rewards are not related to the sales price of [Cloud Units](cloudunits).
 - Farmers can also use their own Internet capacity at minimal cost. Learn more on [Personal Farm Utilization](proof_of_utilization).
 - The big majoriy of 3Nodes are still registered on the [ThreeFold Grid v2 farming reward](farming_reward2). The transition to ThreeFold Grid v3 farming rewards is expected for Q4 2021 - Q1 2022. More information about the upgrade can be found [here](farming_upgrade_2_3).
+- Make sure you have 50GB SSD capacity min available per CPU, if not your calculated CU will be lower.
 
 > The above DAO rules for farming rewards need to be confirmed by the Wisdom Council and shall be active as of ThreeFold Grid v3.1. 
+
+?
 
 **Additions to farming rewards (coming soon)**
 

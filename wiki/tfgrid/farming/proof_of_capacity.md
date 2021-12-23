@@ -53,6 +53,7 @@ The main advantage of PoC to farmers it makes it really easy to run a 3Node. It 
 - If the SLA (Service Level Agreement) is not achieved for 3 consecutive months, a 3Node will have to re-register and CU/SU rewards will be adjusted to re-registration date in TFChain.
 
 **Additions to proof-of-capacity (coming soon)**
+
 - How to deal with a situation where a 3node adds or removes compute or storage capacity.
 - ThreeFold is developing a way of how to detect possible fraud on PoC using TPM chip and dynamic generated code to execute random PoC checks, more details will be provided in Q1 2022.
 - If PoC finds fraud e.g. trying to fake Internet capacity provided, the 3Node will be disabled automatically by Zero-OS and flagged as fraudulant. The Farmer will then have to re-register with a lower reputation for transparancy to the ecosystem. If TFTs are staked at that time, they will be locked permanently.

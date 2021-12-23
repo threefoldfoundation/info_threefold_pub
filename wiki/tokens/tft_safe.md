@@ -1,13 +1,20 @@
 ### Keep Your TFT Safe
 
-TFT isn't controlled by any government or company - it is a decentralized digital currency. 
+ThreeFold and TFT aren't controlled by any government or company - they are decentralized. This means TFT is open to everyone to use. But this also means you need to take the security of your funds seriously. With TFT, you’re not trusting a bank to look after your money, you’re trusting yourself.
 
-This means TFT's open to be bought and used by anyone and stored on a digital ledger (aka blockchain).
+### Protect your TFT in a wallet  
 
-But this also means you need to take the security of your funds seriously. 
+If you plan on buying a lot of TFT you may want to keep it in a wallet you control, not an exchange. That's because an exchange is a likely target for hackers. If a hacker gains access, you could lose your funds. Alternatively, only you have control of your wallet.
 
-With TFT, you’re not trusting a bank or a third party to look after your money, you’re trusting yourself.
+### Your TFT Wallet address 
 
-> Please, make sure to save backup of your wallet seed (private) key in a safe place in order to restore access to your funds in case something happens to your current device.
+When you download a wallet it will create a public TFT address for you. Here's what one looks like:
 
+`TFWHWDRXYPXQAOYMQKB66SZPLM6UANKGMSL4SP7LSOIA6OTTOYQ6HBIH`
 
+> Note: the above is an example. Please do not copy it. 
+
+Think of this like your email address, but instead of mail it can receive TFT. If you want to transfer TFT from an exchange to your wallet, use your address as the destination. Be sure to always double check the address before you send TFT.
+
+### Follow wallet instructions
+If you lose access to your wallet, you’ll lose access to your funds. Your wallet should give you instructions on protecting against this. Be sure to follow them carefully – in most cases, no one can help you if you lose access to your wallet.

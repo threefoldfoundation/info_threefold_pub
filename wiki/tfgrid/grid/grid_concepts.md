@@ -1,5 +1,5 @@
 
-# ThreeFold Grid Concepts 
+# Foundational Concepts 
 
 ## What is the Internet?
 

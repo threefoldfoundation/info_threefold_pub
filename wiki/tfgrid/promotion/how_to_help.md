@@ -1,28 +1,28 @@
-# How You Can Help!
+# Get involved
 
-Want to help, but not quite sure how? Here are some ideas:
+![](img/get_involved_.jpg)
 
-## Support the Project: Buy the Token!
+There are many ways to join the ThreeFold Grid ecosystem.
 
-The ThreeFold_Token is the payment instrument used to reserve Internet capacity and services on the ThreeFold_Grid. (Please note that the ThreeFold_Token is not an investment instrument & should not be seen as such.)
+## Buy Internet capacity with TFT.
 
-For now, the grid is open and ready for use only by a technical audience (see below) but anyone can buy the token as a sign of support for the project. More [here](how_to_buy).
+ThreeFold_Token is used to reserve and utilize Internet capacity and services on the ThreeFold_Grid. (Please note that the ThreeFold_Token is not an investment instrument & should not be seen as such.)
 
-## Be The Internet: Become a Farmer!
+Just like Bitcoin decentralized the banking Industry, ThreeFold_Token will decentralize the Internet. Learn how to buy TFT [here](how_to_buy).
 
-With merely an energy source, a network, and a 3Node needed, the ThreeFold_Grid brings the possibility of Internet access to everyone, everywhere.
+## Be The Internet.
 
-You can participate in the growth of the grid and generate tokens by buy buying a 3Node and plugging it into an energy source and an Internet connection.
+Become a Farmer by getting a 3Node and connecting it to electricy and network to expand the ThreeFold Grid further. By expanding the ThreeFold Grid to your local region, you're participating in the growth of a decentralized, autonomous and sustainable Internet accessible to everyone. 
 
-More on farming on [the farming website](https://farming.threefold.io) or on our [wiki](https://wiki2.threefold.io/#/farming_intro).
+By becoming a Farmer, you earn TFT on a monthly basis for generating Internet capacity. Learn more about Farming [here](farming_intro)
 
-## Test the Waters: Deploy on the Grid!
+## Join the developer community.
 
-Today, the ThreeFold_Grid is ready for testing for those with a technical background. You can find out more on our [cloud website](https://cloud.threefold.io) or [marketplace website](https://marketplace.threefold.io).
+The ThreeFold_Grid is ready for testing for those with a technical background. Get your hands on the future of the cloud with integrated industry standard tooling operated on our decentralized Internet infrastructure.
 
-If you'd like to get involved in our testing community, you can join [here](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)!
+You can find more information on how to deploy workloads on the  ThreeFold_Grid with the [Grid 3.0 Manual](manual3) or our [Developer Community](https://t.me/threefoldtesting).
 
-## Get Your Hands Dirty: Offer Support!
+<!-- ## Get Your Hands Dirty: Offer Support!
 
 If you have the time and would like to get involved in supporting the Foundation, please let us know either on [the forum](https://forum.threefold.io) or by emailing us at info@threefold.io. Based on your background and interests, we'll find a way to get you involved.
 
@@ -73,4 +73,4 @@ Learn more about our existing ecosystem at:
 
 There are many groups on Facebook and LinkedIn, for example, that would and should be interested in what we are building. All it takes is a bit of digging to find them. Once you do, introduce yourself and share a bit about ThreeFold. Tap into what the group or community is all about.
 
-Importantly, PLEASE avoid "spamming" as much as possible (just blasting about ThreeFold without any context, or posting across many groups at the same time).
+Importantly, PLEASE avoid "spamming" as much as possible (just blasting about ThreeFold without any context, or posting across many groups at the same time). -->

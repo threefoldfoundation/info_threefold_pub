@@ -1,54 +1,72 @@
-## TF Farming Hardware Overview
+# Farming Hardware Guide
 
-The form factor, size, and hardware specs can vary from very large (data center type) nodes to very small (no bigger than a modern modem) ones. 
+ThreeFold's operating system Zero-OS was designed to run on any kind of hardware to match the vision of a limitlessly scaleable Internet infrastructure. Any Intel or AMD chip server-like hardware that meets the minimum computing power and storage requirements can be turned into 3Node to farm TFT.
 
-The hardware specifications (compute & storage) of a 3Node determines the amount of ThreeFold Tokens that the device will farm.  
+## Different farming set-ups
 
-You'll find below different options to start farming according to how technical you are.
+The form factor, size, and hardware specification can vary from small (like a modem) to large (like a data center rack) 3Nodes. The compute and storage capacity made available will define how much TFT is farmed by the 3Node. 
 
-## Non-technical farming set-up
+1. Plug and Farm 3Nodes: come with Zero-OS already installed for non-technical people. 
+2. Pre-configured 3Nodes: offer high performance configurations for bigger farms. 
+3. Do-it-Yourself: any compatible server-like hardware can be purchased, refurbished or assembled by a farmer.
 
-### Plug & Farm 3Nodes 
+Plug and Farm and pre-configured 3Nodes are certified meaning they went through a secure boot process to guarantee increased security on a heardware level. Certified hardware provides 25% more yields than DIY 3Nodes. 
 
-To help our community, ThreeFold is organizing a sale of 3Nodes. Please note we are not a hardware vendor, we do this to help our community to get started.
+> Note: The ThreeFold Farming team is looking into expanding hardware options. We're in discussions with HPE, Intel, AMD and Rasberry Pi to expand the spectrum of 3Node form factors and increase accessibility to ThreeFold farming. 
 
-![](img/three3nodes.jpg)
+### Plug and Farm 3Nodes 
 
-**Titan V2.1:** The Titan v2 3Node is a medium sized 3Node that already comes with great hardware specifications.
+![Titan v2.1](img/titan_v2.png)
 
-Plug & farm nodes have already been installed and configured to farm for the customer upon delivery. 
+Plug and Farm 3Nodes are pre-configured medium size servers that provide optimized compute and storage capacity. They have been designed for non-technical people to start farming easily as they are delivered with Zero-OS already installed with the farm details of the farmer. 
 
-They require little to no technical knowledge to set-up. All you need is an electricity outlet, internet connection and the TF Connect app on your smartphone to start farming and receive your tokens! All 3Nodes can be hosted using normal DSL connectivity.
+Specifications:
+- AMD CPU 
+- 4 Core / 8 thread CPU
+- 32 GB of RAM
+- 1TB of nVME SSD 
 
-[You can buy the Titan v2.1 in the ThreeFold Node Shop](https://shop.threefold.tech).
+> Note: ThreeFold is not a hardware vendor. The sales and distribution of 3Nodes is not part of the ThreeFold business model and is meant only to support the growth of the farmer community. Some details are required from farmers such as their ThreeFold Connect wallet to create the farm ID on their behalf.
 
-[More info about Titan v2.1 Farming](titan_v2_1)
+Plug and farm 3Nodes do not require any technical knowledge on how to set-up a hardware or boot an operating system. When delivered, all the farmer has to do is to do is:
+1. Plug an Ethernet cable into the 3Node and a router.
+2. Plug a power supply cable into the 3Node and a power outlet.
+3. Switch on the 3Node and search for the Farm ID on the [explorer](https://explorer.threefold.io/) to verify that the 3Node is online. 
+
+Anyone can buy a Titan v2.1 in the [ThreeFold node shop](https://shop.threefold.tech) and calculate potential farming rewards with the [farming reward calculator](https://simulator.grid.tf/).  
 
 !!!include:farming_reward_disclaimer
 
-## Technical farming set-up
-
-### Pre-configured Nodes 
+### Pre-configured 3Nodes 
 
 ![4ig ThreeFold Farming](img/4ignodes.jpg)
 
-ThreeFold planet positive certified hardware designed and built by HPE – these pre-configured servers are optimized for maximum token earnings. There are different sizes in various price points available. These nodes are mainly for professional usage in data centers.
+Pre-configured 3Nodes come with industry leading efficiency and performance to optimize farming rewards. They are assembled by accredited hardware partners to provide different sizes and form factors to fit large farming set-ups such as data centers. While they are already pre-configured, farmers will have to provide their own hosting and a farming set-up able to accomodate these powerful 3Nodes.  
 
-You will be required to provide your own hosting as well as set-up and administer your own farm.
+The current official pre-configured 3Node partner is Hewlett Packard Enterprises (HPE). The European region is currently being serviced by the [4IG Node Shop](https://threefold.4ig.hu/).If you wish to setup a certified farming operation please reach out to farming@threefold.tech to connect with our certified farming specialists.
 
-If you want to purchase an HPE node for delivery in European countries visit **[4IG Node Shop](https://threefold.4ig.hu/)**.
+> Note: HPE also services other regions. If you are interested in pre-configured 3Nodes outside of Europe, please contact vlaho.jemin@hpe.com.
 
-For any other countries please contact vlaho.jemin@hpe.com.
+### Do-It-Yourself (DIY)
 
-### Do It Yourself
+DIY 3Nodes open possibilities for farmers to assemble or refurbish hardware of their choice. It doens't require any contractual relationship with the ThreeFold Ecosystem and it's hardware distributors, allowing anyone to farm TFT on the ThreeFold Grid from anywhere across the world. Over time, a DIY 3Node can build reputation on the ThreeFoldGrid Reputation_Engine.
 
-Create your own 3Node by installing Zero-OS on your own standard server/hardware. This option does not provide any contractual relationship with anyone in the ThreeFold_Grid Ecosystem, but enables anyone to become a farmer. You can purchase a server/hardware from any supplier or use your existing server/hardware. It must have an Intel or AMD CPU and can have any kind of hard drives (HDD/SSD). Over time, a DIY farmer can build reputation, measured by the Grid Reputation_Engine.
+> Note: The Reputation_Engine aims to showcase the service level of every 3Node connected to the ThreeFold Grid on the Internet capacity [explorer](https://explorer.threefold.io/) for a transparant overview of where the best infrastructure services are present on the ThreeFold Grid.
 
-It is recommended to have the following hardware configuration:
+Any 64-bit hardware with an Intel or AMD processor chip can run Zero-OS and become a 3Node. The following configurations provide guidelines on compatible and recommended setups:
 
-- A ratio of 1:4 between vCPU and GB memory.
-- At least 1 SSD for storage.
-- If you add HDDs, please check if there is enough bandwidth available to have enough performance for storage capacity usage.
+- Servers, desktops and mini computers type hardware are compatible. 
+- USB based external drives are not supported.
+- A ratio of 1:4 between vCPU and RAM (e.g. 8vCPU and 32 GB of RAM)
+- The recommended upper limit is 8 GB of RAM per vCPU as farming rewards do not increase beyond that ratio. 
+- A minimum of 500 GB of SSD for storage is required. 
+- A wired ethernet connection is highly recommended to maximize reliability and the ability to farm TFT. 
+- No graphics or display is required, although it may be helpful during the boot configuration or troubleshooting if necessary.
 
-You will be required to provide your own hosting as well as setup and administer your own farm.
+You can find more information about DIY requirements and hardware configurations on the ThreeFold Forum:
+- [DIY Guide](https://forum.threefold.io/t/diy-nodes-guide/837) 
+- [Farming setup examples](https://forum.threefold.io/t/lets-share-our-farming-setup/286). 
+
+> Note: Zero-OS was also successfully booted on ARM powered hardware previously but is not yet compatible with Grid 3.0. 
+
 

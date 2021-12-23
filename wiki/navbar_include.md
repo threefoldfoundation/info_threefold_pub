@@ -6,7 +6,7 @@
   - [TFGrid Capacity Explorer](https://explorer.grid.tf/)
 - Related Websites
   - [FreeFlow Nation](http://www.freeflownation.org/)
-  - [Alliance for a Conscious Internet](https://threefold.io/aci)
+  - [Alliance Conscious Internet](https://consciousinternet.org/)
 
   <!-- - [TF Token Stats](https://tokenstats.threefoldtoken.com/) -->
   <!-- - [TFGrid Demo](https://demo.testnet.grid.tf/)

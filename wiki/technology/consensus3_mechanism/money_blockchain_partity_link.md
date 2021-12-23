@@ -1,7 +1,7 @@
 
 ## Link between different Money Blockchain & TFChain
 
-TF-Chain is the ThreeFold blockchain infrastructure, set up in the Substrate framework.
+TF-Chain is the ThreeFold blockchain infrastructure, set up in the Parity Substrate framework.
 
 We are building a consensus layer which allows us to easily bridge between different money blockchains.
 
@@ -10,6 +10,8 @@ Active bridges as from TFGrid 3.0 release:
 - Stellar <> Binance Smart Chain
 - Stellar <> Parity Substrate
 More bridges are under development. 
+
+In the longer run, we intend to have the main chain for TFT to be on Parity (to become then our own money blockchain), but this will happen in a stepped approach.
 
 ```mermaid
 

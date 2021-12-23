@@ -1,6 +1,6 @@
 - [Grid](@tfgrid_home)
 - [Farming](@farming_intro)
-- [Token](@tokens_what)
+- [Token](@tokens_home)
 - [Cloud](@cloud_home)
 - [Manual](!@manual:manual3_home_new)
 ------------

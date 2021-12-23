@@ -2,11 +2,12 @@
 
 **Farming**
 
-- [Introduction](farming_intro)
+- [Intro](farming_intro)
 - [Farming Rewards](farming_reward)
 - [Proof-of-Capacity](proof_of_capacity)
-- [Rewards Calculation](farming_calculator)
-- [Hardware Options](farming_hardware_overview)
+- [Farming Calculation](farming_calculator)
+- [Farming Hardware](farming_hardware_overview)
+- [Start Farming](start_farming)
 - [Certified Farming](certified_farming)
 - [Farming Network Setup](tfgrid_networking)
 

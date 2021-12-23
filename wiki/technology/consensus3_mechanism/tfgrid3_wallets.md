@@ -1,7 +1,7 @@
 
 # TFGrid 3.0 Wallets
 
-ThreeFold has a mobile wallet which will allow to be used on the TFChain backend (Substrate) as well as any other Money Blockchain it supports.
+ThreeFold has a mobile wallet which will allow to be used on the TFChain backend (Parity Substrate) as well as any other Money Blockchain it supports.
 
 This provides for a very secure digital currency infrastructure with lots of advantages.
 
@@ -45,7 +45,7 @@ Generic overview:
 
 graph TB
 
-    subgraph TFChain[TFGrid Chain]
+    subgraph TFChain[TFGrid Chain - parity]
         guardian1[TFChain Node 1]
         guardian2[TFChain Node 2]
         guardian3[TFChain Node 3...9]

@@ -4,17 +4,17 @@ We believe we are well under way to being a decentralized movement. ThreeFold ha
 
 ## Decentralized and available today
 
-- ThreeFold_Token is already available on different blockchain ecosystems – Stellar, Binance Smartchain and we're looking to integrate with more ecosystems such as Cosmos, Ethereum or Solana.
-- This provides for a secure and decentralized foundation for everyone. 
-- ThreeFold_Token can be exchanged on Stellar DEX, Pancake Swap and other decentralized exchanges. See [here](how_to_buy).
-- Independent farmers add Internet capacity to the ThreeFold Grid.
-- All the Internet capacity is registered on TFChain and signed by the Farmer's 3Node.
-- All the technology produced by ThreeFold is open source for everyone to see the progress, ask for feature requests, check/audit the code, etc on Github.
-- There are many companies involved in the ecoystem, see [ThreeFold Companies](threefold_companies). 
-- 3Nodes measure and verify the Internet capacity
-- The uptime is measured by 3Nodes and registered in TFChain.
-- Minting (creation of new ThreeFold_Token) is all done by means of code and validated by the TFGrid_Guardians for TFGrid 2.x, from 3.2 it should be function of the TFDAO.
-- All the minting history is available on the blockchain as proof of capacity.
+- The ThreeFold Token (TFT) is on a public blockchain – in this case, Stellar, Binance Smartchain and future even others like Kosmos.
+- This provides very good security and decentralization for everyone.
+- The TFT can be exchanged on Stellar decentralized exchange and other decentralized exchanges. See [here](how_to_buy).
+- Independent farmers add capacity to the ThreeFold Grid.
+- All capacity is registered on TFChain and signed by the Farmer 3Node.
+- All technology is open source and everyone can see progress, ask for feature requests, check/audit the code, etc – via Github.
+- There are many companies involved see [ThreeFold Companies](threefold_companies).
+- Measurement of capacity is done per 3Node.
+- Measurement of uptime is done per 3Node and registered in blockchain.
+- Minting (creation of new tokens) is all done by means of code and validated by the TFGrid_Guardians for TFGrid 2.x, from 3.2 it should be function of the TFDAO.
+- Every minting operation since the start of the blockchain creates a proof document.
   - The hash is put in the transaction of the minting operation.
   - This means there is proof of every minting operation.
   - Also, [block0](genesis_block_pool_details) has been documented.

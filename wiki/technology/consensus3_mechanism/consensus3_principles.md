@@ -4,7 +4,7 @@
 
 !!!include:consensus3_overview_graph
 
-- A Blockchain node (= Substrate node) called TF-Chain, containing all entities interacting with each other on the TF-Grid
+- A Blockchain node (= Parity Substrate node) called TF-Chain, containing all entities interacting with each other on the TF-Grid
 - An explorer = a Rest + GraphQL interface to TF-Chain (Graphql is a nice query language to make it easy for everyone to query for info)
 - Consensus Engine
   - is a Multisignature Engine running on TF-Chain
@@ -16,6 +16,7 @@
 
 ### Remarks
 
+<!-- - there are 9 TFChainNode = each node is operated by a TFGuardian -->
 - Each Monitor_Engine checks uptime of X nr of nodes (in beginning it can do all nodes), and stores the info in local DB (to keep history of check)
 - [Roadmap for TFChain deployment mechanism](roadmap_tfchain3)
 

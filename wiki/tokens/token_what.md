@@ -12,7 +12,7 @@ ThreeFold_Token is the utility token of the ThreeFold_Grid. First minted in 2017
 
 All transactions on the ThreeFold Blockchain are payable in TFT. The coin has a [limited supply](tft_limited_supply) of 4 Billion, and ThreeFold conducts burns upon the [ulilization](proof_of_utilization) of Internet capacity as a deflationary measure. The burning will increase proportionally to the utilization of the ThreeFold Grid.
 
-Apart from providing Internet capacity discounts and enabling transactions, TFT also rewards people and organizations for [farming](farming_into) Internet capacity to the ThreeFold Grid.
+Apart from providing Internet capacity discounts and enabling transactions, TFT also rewards people and organizations for [farming](farming_intro) Internet capacity to the ThreeFold Grid.
 
 # What can TFT do?
 

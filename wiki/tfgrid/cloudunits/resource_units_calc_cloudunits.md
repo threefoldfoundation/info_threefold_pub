@@ -1,5 +1,5 @@
 
-## Calculation from resource units to CU/SU for farming purposes
+# Calculation from resource units to CU/SU for farming purposes
 
 The threefold Zero-OS and TFChain software translates resource units (CRU, MRU, HRU, SRU) into cloud units (CU, SU) for farming reward purposes.
 
@@ -9,7 +9,7 @@ For farming, 1 CU equals:
 - 2 virtual CPUs with a maximum over subscription of 4 CPUs and minimum required memory of 4GB. 
 - An over subscription of 4 CPUs remains still gentle as we understand many other providers use more.
 
-```python
+```pythonx§
 cu = min((mru - 1) / 4, cru * 4 / 2, sru / 50)
 ```
 
@@ -50,3 +50,4 @@ The rewards in USD
 - IP: 0.005 USD/month (once used)
 
 !!!include:staking_farmed_tft
+

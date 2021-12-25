@@ -13,6 +13,6 @@ The consensus engine checks the farming rules as defined in
 
 All the data of the farmer and the 3nodes are registered in the tfgrid_db.
 
-> being implemented for TFGrid 3.0 (H2 2021)
+> being implemented for TFGrid 3.0 (H1 2022)
 
 !!!include:consensus3_toc

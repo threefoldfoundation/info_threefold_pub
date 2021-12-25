@@ -27,13 +27,17 @@ Example of a Farming Reward calculation see [here](farming_calculator).
 
 - Rewards per CU/SU in TFT are registered in TFChain per 3Node at registration time. For certified Nodes, the CU/SU reward was specified at sales/promotion time, this process is managed by threefold_tech. All of this information is public and can be see by everone of the community as per 3Node and Farmer.
 - The rewards per CU/SU are fixed over time for 5 years.
-- If SLA (Service Level Agreement) was not achieved for 3 consecutive months, then the 3Node will have to re-register which means the CU/SU reward will be recalculated at that time and re-registered in TFChain for that node.
+- CU/SU calculated from Resource Units, [see this doc](resource_units_calc_cloudunits)
+  - Certified Node gets 25% more farming rewards.
+  - TFT pricing is pegged to USD (pricing changes in line with TFT/USD rate)
 - Rewards for NU and IP Addresses are dynamic, the prices get revised on regular basis and DAO consensus needs to be achieved for that. The TFChain knows how the NU and IP Addresses were used and as such the reward can be calculated for the Farmer. 
-- All CU/SU rewards are staked until 30% is used or 24 months since registration. 30% measures over 3 months.
-- If a 3Node achieves 30% for 3 months but month after is again lower, then staking will happen again.
-- Certified Node gets 25% more farming rewards.
-- TFT pricing is pegged to USD (pricing changes in line with TFT/USD rate)
-- Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
+- Minimum SLA = Service Level Agreement
+  - Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
+  - for certified node farming today: 99.5% uptime, which is upto 3.6h downtime per month.
+  - for diy node farming today: 99% uptime, which is upto 7.2h downtime per month.
+  - we are still working on right SLA definition for network, is not measured today
+  - If SLA (Service Level Agreement) was not achieved for 3 consecutive months, then the 3Node will have to re-register which means the CU/SU reward will be recalculated at that time and re-registered in TFChain for that node, just like a new one.
+- All CU/SU rewards are staked (locked to farmer account) until 30% (measured over 3 months) is used or 24 months since registration. 
 
 > Has to be confirmed by Wisdom Council. Will only be fully active starting TFGrid 3.1.
 

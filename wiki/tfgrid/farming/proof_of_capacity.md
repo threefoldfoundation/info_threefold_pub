@@ -16,12 +16,13 @@ The Farmer's wallet is registered in the ThreeFold Chain and can be modified by 
 <!--- TBD time TFT are minted by the TFChain in accordance to the farming rewards and distributed to the farmer wallet. -->
 
 
-| Percentage | Description    | Remark                           |
-| ---------- | -------------- | -------------------------------- |
-| 100%       | goes to Farmer | Allows for a pure Utility Token. |
+| Percentage                                         | Description    | Remark                           |
+| -------------------------------------------------- | -------------- | -------------------------------- |
+| 100% of specified [farming reward](farming_reward) | goes to Farmer | Allows for a pure Utility Token. |
 
 
-Example of a Farming Reward calculation see [here](farming_calculator).
+- Example of a Farming Reward calculation see [here](farming_calculator).
+- Additional TFT are farmed to compensate for Carbon and deliver the yield for the Layer 2 Staking pools
 
 ## ThreeFold DAO rules in Relation To Proof-of-Capacity
 

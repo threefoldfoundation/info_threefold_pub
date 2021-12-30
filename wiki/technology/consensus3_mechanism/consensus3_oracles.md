@@ -1,5 +1,5 @@
 
-## Consensus 3.0 Oracles used
+## Consensus 3.X Oracles used
 
 Oracles are external resources of information.
 
@@ -37,10 +37,8 @@ graph TB
         ConsensusEngine1 --> OracleEngine[Oracle For Pricing Digital Currencies]
     end
 
-
-
-
-
 ```
+
+- See [Roadmap TFChain/DAO 3.x](roadmap_tfchain3) for info of implementation.
 
 !!!include:consensus3_toc

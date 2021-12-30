@@ -245,6 +245,8 @@ class TFTFarmingCalculator:
 
 - ```tft_farm``` is the method which returns the tokens farmed
 
+## History of changes
 
+- no changes have happened for last 6 months (Dec 2022)
 
 !!!include:farming_toc

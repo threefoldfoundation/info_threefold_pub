@@ -1,4 +1,3 @@
-## Decentralized Autonomous Organization
 
 Decentralized autonomous organization (DAO), is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government. A DAO's financial and voting transaction record and program rules are maintained on a blockchain.
 

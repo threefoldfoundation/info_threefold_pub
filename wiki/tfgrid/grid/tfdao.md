@@ -11,9 +11,9 @@ Amongst others the DAO needs to arrange
 As well as
 
 - distribution of TFT grants
-- manage code upgrade & technical validation
-- solution providers and their reward
-- sales channels and their reward
+- manage code upgrade of TFChain/DAO
+- solution providers and their reward (v3.2+)
+- sales channels and their reward (v3.2+)
 - approval for changes to anything in our ecosytem
 
 

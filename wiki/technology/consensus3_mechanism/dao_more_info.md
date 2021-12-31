@@ -1,6 +1,6 @@
 # What is a decentralized autonomous organization, and how does a DAO work?
 
-![](img/dao_whatis.png)
+![](img/dao_whatis_.jpg)
 
 A decentralized autonomous organization (DAO) is an entity with no central leadership. Decisions get made from the bottom-up, governed by a community organized around a specific set of rules enforced on a blockchain.
 
@@ -95,4 +95,3 @@ As internet-native organizations, DAOs have the potential to change the way corp
 
 
 > info from: https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work
-

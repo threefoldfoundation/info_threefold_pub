@@ -1,24 +1,31 @@
-# ThreeFold Chain
+![](img/blockchain.png)
 
-We created our own blockchain based on Parity Substrate.
+# TFChain
 
-Runs on top of the TFGrid.
+> ThreeFold Chain
 
-This blockchain is used for 
+Blockchain based on Parity Substrate which manages the TFGrid 3.x.
+
+This blockchain lives on L1 of our TFgrid, see [our 3 Layer Concept](3layer_approach) for more info
+
+This blockchain is used for:
 
 - storing information as needed on the ThreeFold Grid
-  - identity information of entities (personl and company)
-  - 3node phone book, where are the 3nodes, how much capacity, which farmer
+  - identity information of entities (person and company)
+  - 3node phone book, where are the 3nodes, how much capacity, which farmer 
   - TFFarmer's, where are they based, how long active, reputation
-  - DigitalTwin Phonebook, registry of all digital_twins, where are they, public key, unique id, ...
-  - Reputation information : how good is a farmer, uptime of a 3Node
-  - Account_Metadata which is information about a digital currency wallet/account needed for vesting, locking, ...
+  - DigitalTwin Phonebook, registry of all digital_twins, where are they, public key, unique id, ...  (\*1)
+  - Reputation information : how good is a farmer, uptime of a 3Node (\*2)
+  - Account_Metadata which is information about a digital currency wallet/account needed for vesting, locking, ... (\*1)
 - backend for Consensus_Engine.
-- smartcontract_it layer
-- the backend for tfgriddb
+- smartcontract_it layer (how to provision workloads on top of TFGrid)
+- L1 DAO = DAO for the TFChain and TFGrid
+- the backend for TFChainDB
 
 Is combination of tfchain_nodes
 
+(\*1): some of this info will move to our L2 Blockchain (based on Cosmos and will be part of our new Validator model).
+(\*2): roadmap in 2022
 
 !!!include:tfchain_moreinfo
 

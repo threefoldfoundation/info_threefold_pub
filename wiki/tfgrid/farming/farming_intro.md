@@ -34,7 +34,7 @@ To further explore farming rewards, click [here](@farming_reward).
 
 ## What kind of hardware can become a 3Node?
 
-Any Intel or AMD server type hardware that contains compute and/ or storage can be connected to the ThreeFold Grid. Farmers need to download Zero-OS and boot their hardware. 
+Any Intel or AMD server type hardware that contains compute and/ or storage can be connected to the ThreeFold Grid. Farmers need to download Zero-OS and boot their hardware.
 
 Learn more [here](@farming_hardware_overview)
 

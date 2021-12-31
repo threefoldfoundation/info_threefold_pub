@@ -1,8 +1,12 @@
 ![](img/grid_header.jpg)
 
-# Consensus Engine
+# DAO Consensus Engine
 
-On TFGrid 3.0 ThreeFold has implemented a consensus engine using Polkadot/Substrate blockchain technology.
+!!!include:dao_info
+
+## DAO Engine
+
+On TFGrid 3.0 ThreeFold has implemented a DAO consensus engine using Polkadot/Substrate blockchain technology.
 
 This is a powerful blockchain construct which allows us to run our TFGrid and maintain consensus on global scale.
 

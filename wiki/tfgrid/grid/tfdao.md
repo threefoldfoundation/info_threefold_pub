@@ -1,6 +1,8 @@
+![](img/dao_whatis_.jpg)
+
 # ThreeFold DAO
 
-The ThreeFold DAO allows autonomous and self sovereign operation of the TFChain.
+The ThreeFold DAO allows autonomous operation of the TFChain and TFGrid .
 
 Amongst others the DAO needs to arrange
 
@@ -14,6 +16,9 @@ As well as
 - sales channels and their reward
 - approval for changes to anything in our ecosytem
 
+## What is a DAO 
+
+!!!include:dao_info
 
 
 !!!def alias:tf_dao,tfdao

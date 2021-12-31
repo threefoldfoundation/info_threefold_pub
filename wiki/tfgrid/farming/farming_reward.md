@@ -60,7 +60,14 @@ The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacit
 - The big majoriy of 3Nodes are still registered on the [ThreeFold Grid v2 farming reward](farming_reward2). The transition to ThreeFold Grid v3 farming rewards is expected for Q4 2021 - Q1 2022. More information about the upgrade can be found [here](farming_upgrade_2_3).
 - Make sure you have 50GB SSD capacity min available per CPU, if not your calculated CU will be lower.
 
+<<<<<<< HEAD
 > The above DAO rules for farming rewards need to be confirmed by the Wisdom Council and shall be active as of ThreeFold Grid v3.1. 
+=======
+- [Farming Reward Calculator](farming_calculator)
+- [Certified Farming](@certified_farming)
+- [Cloud Units](cloudunits)
+- [Cloud Units Calculation For Farming](resource_units_calc_cloudunits)
+>>>>>>> development
 
 ?
 

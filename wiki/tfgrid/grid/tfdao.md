@@ -16,9 +16,13 @@ As well as
 - sales channels and their reward
 - approval for changes to anything in our ecosytem
 
+
+More info on [This Doc](dao_executors_validators) (good relevant info).
+
 ## What is a DAO 
 
 !!!include:dao_info
 
 
 !!!def alias:tf_dao,tfdao
+

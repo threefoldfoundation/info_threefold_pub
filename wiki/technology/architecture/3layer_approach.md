@@ -15,6 +15,6 @@ There are 3 layers in our ThreeFold GRID DAO
 Validators play an important role in securing the ThreeFold ecosystem, a validator is a blockchain component run by independent parties who validate transactions happening on the blockchain until consensus has been achieved. 
 
 
-> More info see: https://threefold.docsend.com/view/v7p9p9qngnzxpzmw 
+> More info see [this document](dao_executors_validators)
 
 !!!def alias:3layerapproach,3layers

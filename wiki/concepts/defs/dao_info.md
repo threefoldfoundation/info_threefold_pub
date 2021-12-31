@@ -5,7 +5,7 @@ Decentralized autonomous organizations are typified by the use of blockchain tec
 
 More Info:
 
-- ThreeFold DAO and Validators see https://threefold.docsend.com/view/v7p9p9qngnzxpzmw
+- ThreeFold DAO and Validators see [ThreeFold DAO](threefold_dao) and [DAO executors and validators document](dao_executors_validators)
 - Our decentralization status see: [decentralization info](decentralization)
 - [What is a DAO](dao_more_info)
 

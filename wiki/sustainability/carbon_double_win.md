@@ -1,4 +1,4 @@
-# Carbon Double Win
+# Carbon Negative
 
 ThreeFold has as aim to take 2x more carbon out of the air than we put in.
 
@@ -22,4 +22,4 @@ We work together with Take Action Global to let students farm carbon credits. Th
 
 !!!include:energy_savings_toc
 
-!!!def alias:carbon_double_win,carbon_win,carbon_neutral,carbon_double_win
+!!!def alias:carbon_double_win,carbon_win,carbon_neutral,carbon_double_win,carbon_negative

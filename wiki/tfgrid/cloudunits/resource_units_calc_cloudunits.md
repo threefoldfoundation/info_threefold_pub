@@ -6,6 +6,7 @@ The threefold Zero-OS and TFChain software translates resource units (CRU, MRU, 
 ### Compute
 
 For farming, 1 CU equals:
+
 - 2 virtual CPUs with a maximum over subscription of 4 CPUs and minimum required memory of 4GB. 
 - An over subscription of 4 CPUs remains still gentle as we understand many other providers use more.
 
@@ -40,14 +41,6 @@ NEW: Dec 2021 update for launch v3.x, had to deduct SRU as used in CU above, was
 
 NEW: Dec 2021 update , we had to bring sru division to 200, was 300, to be more in line with HDD vs SSD pricing, this check needs to be done +- every 6 months, results in slightly more SU
 
-### CU/SU/NU pricing
-
-The rewards in USD
-
-- CU: 2.4 USD/month
-- SU: 1 USD/month
-- NU: 0.03 USD/month (per GB transfered)
-- IP: 0.005 USD/month (once used)
 
 !!!include:staking_farmed_tft
 

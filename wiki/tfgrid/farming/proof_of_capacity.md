@@ -76,8 +76,15 @@ The main advantage of PoC to farmers it makes it really easy to run a 3Node. It 
 
 ### ThreeFold DAO rules for proof-of-capacity
 
-- Certified 3Nodes receive 25% more farming rewards for achieving a certain service level agreement (up-time, bandwidth, latency, etc.)
-- If the SLA (Service Level Agreement) is not achieved for 3 consecutive months, a 3Node will have to re-register and CU/SU rewards will be adjusted to re-registration date in TFChain.
+- Rewards per CU/SU in TFT are registered in TFChain per 3Node at registration time. For certified Nodes, the CU/SU reward was specified at sales/promotion time, this process is managed by threefold_tech. All of this information is public and can be see by everone of the community as per 3Node and Farmer.
+- The rewards per CU/SU are fixed over time for 5 years.
+- If SLA (Service Level Agreement) was not achieved for 3 consecutive months, then the 3Node will have to re-register which means the CU/SU reward will be recalculated at that time and re-registered in TFChain for that node.
+- Rewards for NU and IP Addresses are dynamic, the prices get revised on regular basis and DAO consensus needs to be achieved for that. The TFChain knows how the NU and IP Addresses were used and as such the reward can be calculated for the Farmer. 
+- All CU/SU rewards are staked until 30% is used or 24 months since registration. 30% measures over 3 months.
+- If a 3Node achieves 30% for 3 months but month after is again lower, then staking will happen again.
+- Certified Node gets 25% more farming rewards.
+- TFT pricing is pegged to USD (pricing changes in line with TFT/USD rate)
+- Minimal SLA's need to be achieved before the farming reward can be earned (uptime, bandwidth, latency, ...)
 
 **Additions to proof-of-capacity (coming soon)**
 

@@ -17,4 +17,3 @@ Escalation of events. E.g. farm has issue, farmer needs to know, the TFConnect t
 
 > TODO: discuss with Jimber team also timing
 
-!!!def  alias:tf_connect

@@ -49,3 +49,4 @@ You can also receive a QR code from your recipient that shall fill up all of the
 
 !!!include:legal:tft_not_investment
 
+!!!def alias:tf_connect,tf_connect_app

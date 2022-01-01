@@ -1,5 +1,5 @@
 
-![](img/tft_grid_growth.png)
+![](img/tft_grid_growth_.png)
 
 ## TFT & TFGrid Growth Simulation
 
@@ -7,8 +7,9 @@ Together with some community members we have been working on a simulation for to
 
 The document links to a spreadsheet as well, please make your own simulations
 
-> [TFT Price & Validator Simulation.pdf](https://threefold.docsend.com/view/969n37et9fd3rr9v)
+> [TFT Price & Validator Simulation.pdf](https://threefold.docsend.com/view/969n37et9fd3rr9v) <BR>
 
+> [FORUM POST HERE](https://forum.threefold.io/t/tft-tfgrid-growth-simulation/1633)
 
 IMPORTANT
 
@@ -18,4 +19,3 @@ give us any feedback or improvement tips
 
 
 !!!include:legal:tft_not_investment
-

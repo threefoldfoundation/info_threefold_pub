@@ -11,7 +11,7 @@
   - [Planet Positive Farming = green](planet_positive_farming)
   - [Farming Calculations](farming_calculator) - Calculate how much your tokens your 3Node would farm.
   - [Farming Hardware Examples](farming_hardware_overview)
-  - [Certified Farming](certified_farming)
+  <!-- - [Certified Farming](certified_farming) -->
 
 !!!include:farming_steps
 

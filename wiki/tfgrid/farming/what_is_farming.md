@@ -3,7 +3,7 @@ Farming is the process of adding Internet capacity (compute, storage and network
 
 ThreeFold uses a proof-of-blockstake consensus mechanism. By running Zero-OS on their hardware, Farmers dedicate the computation power and storage capacity of their node to the network, enabling anyone to host data and run IT workloads on a decentralized Internet infrastructure.
 
-![](img/curlar_tft_3.png)
+![](img/circular_tft3_.jpg ':size=500')
 
 In decentralized systems like ThreeFold, we need to ensure that evereyone is able to provide Internet capacity to the world. Farmers help this happen by connecting hardware that run Zero-OS. Once booted, the hardware is locked to generate Internet capacity for the network. The capacity is registered on TFChain, securing access to a decentralized Internet for users and rewarding farmers with TFT.
 

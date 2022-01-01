@@ -35,7 +35,7 @@ Every month, the consensus mechansim [proof-of-capacity](proof_of_capacity) regi
 
 The ThreeFold Grid is the driving force of the next evolution of the Internet as it enables tokenized economic interactions without intermediaries. It provides a unique set of data, a universal state layer, also referred to as the ledger, which is collectively managed by a network of trusted nodes. This unique state layer allows people to exchange information and value in a peer to peer (P2P) way.
 
-![](img/curlar_tft_3.png)
+![](img/circular_tft3_.jpg ':size=500')
 
 The ThreeFold Grid was designed to create a circular peer-to-peer Internet economy as described below:
 

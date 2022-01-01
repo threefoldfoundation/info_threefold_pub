@@ -39,7 +39,7 @@ The ThreeFold Grid is powered by ThreeFold's unique operating system, Zero-OS to
 
 ## A Decentralized and Circular Internet Ecosystem 
 
-![](img/curlar_tft_3.png)
+![](img/circular_tft3_.jpg ':size=500')
 
 <!-- 
 
@@ -71,4 +71,3 @@ ThreeFold created a marketplace of peer-to-peer applications that can be hosted 
 ### End Users
 
 End-users use decentralized applications and consume resources on the ThreeFold Grid for which they pay in ThreeFold Tokens. -->
-

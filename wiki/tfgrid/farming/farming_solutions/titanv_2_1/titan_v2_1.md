@@ -1,6 +1,6 @@
 ![titan 2.1 node](img/titan_side.jpg 'size=200')
 
-# Titan Node V2.1
+## Titan Node V2.1
 
 The Titan Node V2.1 packs quite a punch and will be able to run heavier workloads.
 

@@ -3,9 +3,7 @@
 
 ## TFT & TFGrid Growth Simulation
 
-Together with some community members we have been working on a simulation for token & grid growth.
-
-The document links to a spreadsheet as well, please make your own simulations
+Together with some community members we have been working on a simulation for token & grid growth:
 
 - [TFT Price & Validator Simulation.pdf](https://threefold.docsend.com/view/969n37et9fd3rr9v)
 - [The Spreadsheet, make sure to read above doc first](https://threefold.docsend.com/view/rbr7b84hj7irqun4)

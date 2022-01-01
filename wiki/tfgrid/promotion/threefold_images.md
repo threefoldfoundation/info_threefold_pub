@@ -5,6 +5,7 @@ Simply right-click (or press & hold on mobile) on the image to download and shar
 If you have any ideas for shareable content, please reach out to marketing@threefold.io!
 
 Thanks for sharing!
+
 ![ThreeFold defined](img/threefolddefinition.jpg)
 ![Build a new model](img/buildanewmodel.jpg)
 ![Choose change](img/choosechange.jpg)
@@ -40,3 +41,7 @@ Thanks for sharing!
 ![If it's free, the product is you](img/productisyou.jpg)
 ![Let's share the light](img/sharethelight.jpg)
 ![Three Values](img/threevalues.jpg)
+
+
+We also have wallpapers, see [ThreeFold Wallpapers](threefold_wallpapers)
+

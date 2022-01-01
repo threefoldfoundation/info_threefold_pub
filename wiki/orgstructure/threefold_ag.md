@@ -17,5 +17,3 @@ No activities done at this time, but we are preparing for future activities.
 <!-- > TODO: are we part of https://cryptovalley.swiss/ , if yes link to it -->
 
 !!!def alias:threefold_ag,tf_ag,threefold_ch,tf_ch,ThreeFold_Switzerland,TF_Switzerland
-
-!!!include:threefold_companies

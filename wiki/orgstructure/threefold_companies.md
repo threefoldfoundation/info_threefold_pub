@@ -1,3 +1,5 @@
+![](img/tf_companies_.jpg)
+
 # ThreeFold Companies
 
 ThreeFold is a decentralized movement and there are many parties involved to let this happen.

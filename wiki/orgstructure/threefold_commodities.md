@@ -1,16 +1,9 @@
 # ThreeFold Commodities
 
-> NOT USED FOR NOW
-
 Based in DMCC commodities freezone in Dubai:
 
 ![](img/threefold_commodities_1_.jpg)
 
-## Planned Purpose
-
-- Help anyone to structure a Commodity_Token, also called Utility Token.
-- TFT is a Commodity Token, it's used to sell and buy a commodity – in our case, ThreeFold Grid IT Capacity.
-- We are working with some customers to do the same for Coffee and other Commodities.
 
 ## Official License
 
@@ -38,5 +31,3 @@ This looks like it is covered off by adding the license above. Confirming with R
 -->
 
 !!!def alias:threefold_dmcc,tf_dmcc,tf_commodities,ThreeFold_Commodities
-
-!!!include:threefold_companies

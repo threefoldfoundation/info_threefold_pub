@@ -31,5 +31,3 @@ The **VZW** is home to the [Wisdom Council](wisdom_council)
 See also https://trendstop.knack.be/en/detail/747872572/threefold-foundation.aspx
 
 !!!def alias:ThreeFold_VZW,ThreeFold_BE,TF_VZW,TF_BE
-
-!!!include:threefold_companies

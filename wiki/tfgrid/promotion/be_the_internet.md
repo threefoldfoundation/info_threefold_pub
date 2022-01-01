@@ -7,7 +7,7 @@ We are a decentralized movement, get involved and lets together **"BE THE INTERN
 
 ## Provision a ThreeFold Validator
 
-- More info on tfdao.
+- [More info about our validator nodes](dao_executors_validators). More info on tfdao.
 - [See our launchplan for Q1 2022](@grid3_launch)
 
 Registration will start in Jan 2022, make sure you have enough TFT.

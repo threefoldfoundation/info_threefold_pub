@@ -1,4 +1,6 @@
 
+![](img/concepts_.jpg)
+
 # Foundational Concepts 
 
 ## What is the Internet?

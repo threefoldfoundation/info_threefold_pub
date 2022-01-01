@@ -1,8 +1,10 @@
-![](img/grid_p2p_.png)
+# TFGrid
 
+## THE MISSING LAYER FOR
 
-# TFGrid 3.0
+![](img/missinglayer.png)
 
-Welcome to the ThreeFold Grid knowledge base.
+!!!include:whatis_tfgrid
 
-Learn about the ThreeFold Grid, its features, why it's so important to have a new peer-to-peer Internet, and how to take part in that peer-to-peer economy.
+The ThreeFold Grid is made up of many servers called 3Nodes that are distributed around the world by independent people and organizations called ThreeFold Farmers (“Farmers”). 3Nodes runs a unique operating system called Zero-OS, a lightweight and ultra-efficient open-source operating system. Each user can then access the ThreeFold Grid with a Digital Self which is a virtual system administrator that executes the commands (reservation of capacity, sending messages, store files, build applications, etc.) directly on the operating system level via a Smart Contract for IT.  
+

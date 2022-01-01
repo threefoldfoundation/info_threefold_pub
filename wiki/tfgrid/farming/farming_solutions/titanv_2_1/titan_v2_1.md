@@ -16,17 +16,25 @@ The Titan Node V2.1 packs quite a punch and will be able to run heavier workload
 - CU = 7.75
 - SU = 4.17
 
-### Titan v2.1 farming reward simulation
+## ONLINE SIMULATOR
+
+> https://simulator.grid.tf/
+
+![](img/titan21_simulator0.png)
+
+You can see a whatif simulation, the X axes shows return in line to TFT price of the future.
+
+### Specific Simulation
 
 - Simulation parameters
   - Price of TFT after 5 years =  1 USD
-  - Starting price of TFT in this simulation = 0.06USD
+  - Starting price of TFT in this simulation = 0.08USD
 - investment cost = 1040 USD
 
-![](img/titan_calc.png)
+![](img/titan21_simulation2.png)
 
 - Simulator here: https://simulator.grid.tf
-- This potentially can **deliver a return of 2009%** in line with these simulation parameters
+- This potentially can **deliver a return of 1482%** in line with these simulation parameters.
 
 !!!include:farming_calc_remarks
 

@@ -7,13 +7,12 @@ Together with some community members we have been working on a simulation for to
 
 The document links to a spreadsheet as well, please make your own simulations
 
-> [TFT Price & Validator Simulation.pdf](https://threefold.docsend.com/view/969n37et9fd3rr9v) <BR>
+- [TFT Price & Validator Simulation.pdf](https://threefold.docsend.com/view/969n37et9fd3rr9v) <BR>
+- [The Spreadsheet, make sure to read above doc first](https://threefold.docsend.com/view/rbr7b84hj7irqun4)
+- [Give your feedback on forum post](https://forum.threefold.io/t/tft-tfgrid-growth-simulation/1633)
 
-> [FORUM POST HERE](https://forum.threefold.io/t/tft-tfgrid-growth-simulation/1633)
+### We are a decentralized org: help to improve this info:
 
-IMPORTANT
-
-we are a decentralized org: DAO help to improve this info.
 check the validity of the simulation, attach new versions to this forum thread, we will update
 give us any feedback or improvement tips
 

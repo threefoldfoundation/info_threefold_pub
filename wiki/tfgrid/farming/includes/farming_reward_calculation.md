@@ -33,9 +33,9 @@ The below table expands on CU, SU, NU and IPAddr and their farming rewards:
 
 Rewards in TFT above are calculated in relation to TFT price when this page was generated which was $TFTUSD USD per TFT. 
 
-See below for more info about USD price which will be used to calculate your farming reward.
+See below mentioned DAO rules for more info about USD price which will be used to calculate your farming reward.
 
-The reward for above items are linked (pegged) to the USD:
+The reward for above items are linked (pegged) to the USD
 
 | Unit                | USD   | Unit                                  |
 | ------------------- | ----- | ------------------------------------- |
@@ -44,6 +44,10 @@ The reward for above items are linked (pegged) to the USD:
 | Network Unit (NU)   | 0.03  | per GB transfer (as customers use it) |
 | Public IPv4 Address | 0.005 | per IP address, calculated per hour   |
 
-> [MORE INFO ABOUT DAO RULES IN RELATION TO PROOF OF CAPACITY, SEE HERE](poc_dao_rules)
+> [IMPORTANT: MORE INFO ABOUT DAO RULES IN RELATION TO PROOF OF CAPACITY, SEE HERE](poc_dao_rules)
 
 !!!tfpriceinfo
+
+
+!!!include:farming_reward_disclaimer
+

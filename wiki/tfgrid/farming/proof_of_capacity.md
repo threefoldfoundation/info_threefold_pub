@@ -46,8 +46,6 @@ The main advantage of PoC to farmers it makes it really easy to run a 3Node. It 
 
 - Additional TFT are farmed to compensate for Carbon and deliver the yield for the Layer 2 Staking pools
 
-## Farming Reward Calculation
-
 !!!include:farming_reward_calculation
 
 

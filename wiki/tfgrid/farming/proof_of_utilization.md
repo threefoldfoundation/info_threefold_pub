@@ -9,7 +9,7 @@ Each ThreeFold Grid user can now use this capacity. The ThreeFold Chain ("TFChai
 
 ## What is Proof-of-Utilization? 
 
-Proof-of-utilization (PoU) is the underlying mechanisms that verifies the utilization of Internet capacity on the ThreeFold Grid. 
+Proof-of-utilization is the underlying mechanisms that verifies the utilization of Internet capacity on the ThreeFold Grid. 
 
 Every hour, the utilization is recorded in TFChain and the user is charged for the Internet capacity used on the ThreeFold Grid. Discount calculated in line with the amount of TFT users have in their accounts on TFChain. Learn ,more about the discount [here](staking_discount_levels).
 

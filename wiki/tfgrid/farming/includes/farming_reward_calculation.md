@@ -31,9 +31,9 @@ The below table expands on CU, SU, NU and IPAddr and their farming rewards:
 | Network Unit (NU)   | 1 GB of data transfered as used by TFGrid user for Public IP Addr | $REWARD_NU_TFT TFT/GB     |
 | Public IPv4 Address | Public IP Address as used by a TFGrid user                        | $REWARD_IP_TFT TFT/hour   |
 
-The CU/SU farming rewards are registered on the TFChain when the 3Node gets registered, they can slightly vary during first 3 months of operations in relation to the TFT token price related to the USD. TFT above are calculated in relation to TFT price at moment which was $TFTUSD USD per TFT. See below for more info about USD price used.
+Rewards in TFT above are calculated in relation to TFT price when this page was generated which was $TFTUSD USD per TFT. 
 
-This means that after 3 months, the TFT reward price per 3NODE is fixed untill the [TFGrid Service Level Agreement](tfgrid_min_sla) will be missed. This allows the farmer to predict income in a more easy way.
+See below for more info about USD price which will be used to calculate your farming reward.
 
 The reward for above items are linked (pegged) to the USD:
 

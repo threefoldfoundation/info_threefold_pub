@@ -39,7 +39,7 @@ The ThreeFold Grid is powered by ThreeFold's unique operating system, Zero-OS to
 
 ## A Decentralized and Circular Internet Ecosystem 
 
-![](img/circular_tft_.png)
+![](img/curlar_tft_3.png)
 
 <!-- 
 

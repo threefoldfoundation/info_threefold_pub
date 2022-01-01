@@ -1,8 +1,5 @@
 # Tokenomics Overview
 
-<!-- ![](img/inclusive_.png) -->
-<!-- ![](img/circular_tft_.png) -->
-
 ![](img/tokenomincs3_.jpg)
 
 ## Proof of Capacity = Creation/Minting of TFTs

@@ -1,3 +1,5 @@
+## Farming Reward Calculation
+
 Each 3Node has certain amount of compute, storage and network resources:
 
 - Compute Capacity (CPU)
@@ -42,13 +44,6 @@ The reward for above items are linked (pegged) to the USD:
 | Network Unit (NU)   | 0.03  | per GB transfer (as customers use it) |
 | Public IPv4 Address | 0.005 | per IP address, calculated per hour   |
 
-**Important Information around TFT USD Price Used at Registration**
-
-This is for mainnet TFGrid 3.0:
-
-- The TFT USD price used at 3Node registration at launch of mainnet is hardcoded in TFChain 3.0 at 0.08 USD per TFT (TFChain 3.0 as used in Jan 2022), if you don't like this price please wait till the TFDAO price registration will be implemented in Jan 2022.
-- The TFT USD price used at 3Node registration is defined by the TFDAO at least once a month. This will start when TFDAO launches (expected somewhere Jan 2022).
-- There is the idea to let the TFT USD price used to be the average over first 3 months of operations and will be re-adjusted each end of month untill month 3 of registration (from TFChain 3.1). The TFDAO will have to approve this change.
-
+> [MORE INFO ABOUT DAO RULES IN RELATION TO PROOF OF CAPACITY, SEE HERE](poc_dao_rules)
 
 !!!tfpriceinfo

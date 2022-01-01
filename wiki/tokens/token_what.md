@@ -38,6 +38,7 @@ The ThreeFold Grid is the driving force of the next evolution of the Internet as
 ![](img/circular_tft_.png)
 
 The ThreeFold Grid was designed to create a circular peer-to-peer Internet economy as described below:
+
 1. Farmers connect 3Nodes and add Internet capacity to the ThreeFold_Grid. By doing so, new TFT is farmed (minted) to reward their contribution to the network.  
 2. Farmers can exchange TFT to other fiat or digital currencies on exchang platforms, and ThreeFold Grid users can exchange fiat or digital currencies. 
 3. With TFT, users can use decentralized Internet capacity and/or applications on the ThreeFold Grid, a process called [proof-of-utilization](utilization).

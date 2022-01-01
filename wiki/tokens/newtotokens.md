@@ -1,10 +1,10 @@
 ![](img/tft_like_btc_.jpg)
 
-# ThreeFold_Token for Beginners
+# ThreeFold Token for Beginners
 
 While this section of this wiki covers all the basics of ThreeFold_Token, we  understand that some may be new to tokens in general. So, here's a few details to help you better understand what exactly is TFT, a utility token and more.
 
-### Is ThreeFold_Token a crypto currency?
+### Is ThreeFold Token a crypto currency?
 
 A crypto currency is a currency living on a blockchain. TFT lives on the Stellar  blockchain, so it is indeed a crypto currency. However, there are many different types of cryptocurrencies. 
 
@@ -12,7 +12,7 @@ As of today, the world mostly uses fiat currencies in the form of bank notes, co
 
 The functionality of a digital coin is just that: a means of payment. It has the same features as money; it’s a unit of account, store of value and medium of transfer. In essence crypto currencies are not that different from the physical coins that we keep in our pockets, just that they are digital, and not controlled by central banks. However, digital currencies come with many benefits over fiat currencies as they represent an ultra-secure mode of payment on a decentralized environment that is not controlled by any government or bank, making it a trustful currency. 
 
-ThreeFold_Token is a utility token which has a wider functionality than a coin. Utility tokens do have value, but they cannot be considered money as straightforward as a coin. A utility token provides value to investors in different ways. They give users access to a future product or service.
+ThreeFoldToken is a utility token which has a wider functionality than a coin. Utility tokens do have value, but they cannot be considered money as straightforward as a coin. A utility token provides value to investors in different ways. They give users access to a future product or service.
 
 ThreeFold_Token represents a unit of decentralized Internet capacity on the ThreeFold Grid. Since TFT got listed on it's first exchange platform in early 2020, investors were able to buy TFT and use it as a means of payment to reserve current or future Internet capacity and services on the ThreeFold Grid.
 

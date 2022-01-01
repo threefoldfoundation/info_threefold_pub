@@ -14,7 +14,7 @@ As well as
 - manage code upgrade of TFChain/DAO
 - solution providers and their reward (v3.2+)
 - sales channels and their reward (v3.2+)
-- approval for changes to anything in our ecosytem
+- approval for changes to anything in our ecosytem, by means of GEP.
 
 
 More info on [This Doc](dao_executors_validators) (good relevant info).

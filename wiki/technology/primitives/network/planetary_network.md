@@ -47,6 +47,6 @@ In addition, wireless meshing requires you to know a lot about the network aroun
 
 The planetary network is a continuation & implementation of the [Yggdrasil](https://yggdrasil-network.github.io/about.html) network initiative. This technology is in beta but has been proven to work already quite well.
 
-!!!def alias:planet_net,planetary_net,planetary_network
+!!!def alias:planet_net,planetary_net,planetary_network,pan
 
 !!!include:zos_toc

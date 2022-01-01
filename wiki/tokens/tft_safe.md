@@ -17,4 +17,8 @@ When you download a wallet it will create a public TFT address for you. Here's w
 Think of this like your email address, but instead of mail it can receive TFT. If you want to transfer TFT from an exchange to your wallet, use your address as the destination. Be sure to always double check the address before you send TFT.
 
 ### Follow wallet instructions
+
 If you lose access to your wallet, you’ll lose access to your funds. Your wallet should give you instructions on protecting against this. Be sure to follow them carefully – in most cases, no one can help you if you lose access to your wallet.
+
+
+!!!include:tft_important_notes

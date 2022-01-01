@@ -84,3 +84,6 @@ Please find instructions [here](https://github.com/threefoldfoundation/tft/blob/
 
 Please find instructions [here](liquidity_provider).
 
+
+
+!!!include:legal:tft_not_investment

@@ -5,11 +5,10 @@ Starting sept 2021 our TFGrid 3.0 should be available which is a major upgrade s
 Any farmer who is interested to switch over to this new release will have to do the following:
 
 - Register as a farmer on TFGrid 3.0 (everything is on a blockchain)
-- Electronically sign the terms and conditions of TFGrid 3.0 (probably by means of ThreeFold Connect app)
-- Specify your stellar address: where do you want the farmed TFT to go to
+- Electronically sign the terms and conditions of TFGrid 3.0
 - Download new boot loader (USB stick or PXE process) and reboot your 3Node(s)
 
-All of above instructions will be provided in more detail.
+All of above instructions are available on our [manual](manual:create_farm).
 
 ## help us to test the TFGrid 3.0 on devnet/testnet
 
@@ -17,9 +16,3 @@ Please boot your node for devnet or testnet, your farming reward will be the sam
 
 This allows the community to already use your 3Node on the TFGrid 3.0 and you still receive all your farming rewards as for v 2.0.
 
-> TODO: link to instructions how to do this.
-
-## reference
-
-- [farming 2.0](farming_reward2)
-- [farming 3.0](farming_reward)

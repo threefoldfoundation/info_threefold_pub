@@ -20,7 +20,7 @@ By becoming a Farmer, you earn TFT on a monthly basis for generating Internet ca
 
 The ThreeFold_Grid is ready for testing for those with a technical background. Get your hands on the future of the cloud with integrated industry standard tooling operated on our decentralized Internet infrastructure.
 
-You can find more information on how to deploy workloads on the  ThreeFold_Grid with the [Grid 3.0 Manual](manual3) or our [Developer Community](https://t.me/threefoldtesting).
+You can find more information on how to deploy workloads on the  ThreeFold_Grid with the [Grid 3.0 Manual](manual:manual3) or our [Developer Community](https://t.me/threefoldtesting).
 
 <!-- ## Get Your Hands Dirty: Offer Support!
 

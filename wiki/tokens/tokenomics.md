@@ -26,14 +26,19 @@ see [Utilization Token Flow](proof_of_utilization)
 
 See [Limited Supply & Liquidity Drivers](tft_limited_supply)
 
-## Vesting
-
-Many tokens are in vesting wallets see [Vesting](vesting_overview).
-
 ## TF Grid is valuable
 
 ![](img/tft_like_btc_.jpg)
 
 See [Valuable TF Grid](grid_valuation)
+
+## Vesting
+
+Many tokens are in vesting wallets see [Vesting](vesting_overview).
+
+## Token Distribution
+
+[Token Distribution](token_overview)
+
 
 !!!include:token_toc

@@ -11,11 +11,14 @@ Amongst others the DAO needs to arrange
 As well as
 
 - distribution of TFT grants
-- manage code upgrade of TFChain/DAO
-- solution providers and their reward (v3.2+)
-- sales channels and their reward (v3.2+)
-- approval for changes to anything in our ecosytem, by means of GEP.
-
+- manage code upgrade of TFChain and ZOS
+- approval for changes to anything in our ecosytem, by means of GEP e.g.
+  - changes to tokenomics e.g. changes related to
+    - farming rewards
+    - cultivation flows
+  - pricing of grid capacity
+  - new features in TFChain
+  - rewards for sales channels, solution providers (v3.2+)
 
 More info on [This Doc](dao_executors_validators) (good relevant info).
 

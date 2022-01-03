@@ -37,7 +37,7 @@ The reward for above items are linked (pegged) to the USD
 | Unit                | USD   | Unit                                  |
 | ------------------- | ----- | ------------------------------------- |
 | Compute Unit (CU)   | 2.4   | per month                             |
-| Storage Unit (SU)   | 1     | per month                             |
+| Storage Unit (SU)   | 1.5     | per month                             |
 | Network Unit (NU)   | 0.03  | per GB transfer (as customers use it) |
 | Public IPv4 Address | 0.005 | per IP address, calculated per hour   |
 

@@ -27,7 +27,7 @@ A group of 9 people who each run a TFChain Node (starting v3.0 of our TFGrid). T
 - Check validity of code upgrades of the validator node
 - And more
 
-*This blockchain is a very important part of our ecosystem. It takes care of TFT_Farming (our alternative to token minting), TFT vesting pools, pricing oracle, reputation engine.*
+*This blockchain is a very important part of our ecosystem. It takes care of TFT Farming (our alternative to token minting), TFT vesting pools, pricing oracle, reputation engine.*
 
 Read more about the [**Grid Guardians**](grid_guardians).
 

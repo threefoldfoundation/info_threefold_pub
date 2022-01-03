@@ -12,4 +12,4 @@ This is our alternative to Token Minting.
 For the purpose of farming, TF Tokens upto 4 Billion, are in a locked pool which only get unlocked as the result of farming as done by TF_Farmers.
 See [Farming Rewards](farming_reward) for more info.
 
-!!!def alias:token_farming,tft_farming,threefold_minting,token_minting,tft_minting
+!!!def alias:token_farming,threefold_minting,token_minting,tft_minting

@@ -31,9 +31,9 @@ The below table expands on CU, SU, NU and IPAddr and their farming rewards:
 | Network Unit (NU)   | 1 GB of data transfered as used by TFGrid user for Public IP Addr | $REWARD_NU_TFT TFT/GB     |
 | Public IPv4 Address | Public IP Address as used by a TFGrid user                        | $REWARD_IP_TFT TFT/hour   |
 
-Rewards in TFT above are calculated in relation to TFT price when this page was generated which was $TFTUSD USD per TFT. 
+Rewards in TFT above are calculated in relation to TFT price as is stored in TFChain, $TFTFARMING USD per TFT. 
 
-See below mentioned DAO rules for more info about USD price which will be used to calculate your farming reward.
+See [POCDAO RULES](poc_dao_rules) for more info about USD price which will be used to calculate your farming reward.
 
 The reward for above items are linked (pegged) to the USD
 

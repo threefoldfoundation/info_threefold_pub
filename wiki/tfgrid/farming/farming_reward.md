@@ -14,10 +14,6 @@ The Proof-of-Capacity records Internet resources from the 3Node:
 
 !!!include:farming_reward_calculation
 
-> **The rewards above are calculated according to the current TFT to USD price in TFChain of $TFTFARMING** ($NOW). TFDDAO is responsible to change this price in accordance to current marketsituation and liquidity.
-
-The above farming rewards apply for 3Nodes registered in TFChain for ThreeFold Grid v3. Anyone can calculate their potential rewards using the [Farming Reward Calculator](farming_calculator). The same CU, SU, NU and IPAddr principles apply to the sales of Internet capacity in the form [cloud units](cloudunits).
-
 ## More Info
 
 - [see Proof of Capacity](proof_of_capacity) : **important info inside !!!**

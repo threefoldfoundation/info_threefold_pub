@@ -17,7 +17,7 @@
 
 ## Technical Farming Requirements
 
-- Make sure you have 50GB SSD capacity min available per CPU, if not your calculated CU will be lower.
+- Make sure you have 50GB SSD capacity min available per logical core (physical core times number of threads it can run), if not your calculated CU will be lower.
 - Make sure your network connection is good enough, in future it will be measured and part of the Service Level Agreement.
 
 !!!include:tfgrid_min_sla

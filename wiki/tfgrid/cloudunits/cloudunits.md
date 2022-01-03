@@ -31,7 +31,7 @@ The following tables display how cloud units (v4) are calculated on the ThreeFol
 The passmark (CPU benchmark) is not measured on the grid. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.
 
 Example of Compute unit: 
-- 4 GB memory & 2 virtual CPU
+- 4 GB memory & 2 virtual CPU (and 50GB of SSD disk space)
 - Recommended price on TF Grid = 10 USD
 - Alternative cloud price = between 40 USD and 180 USD
 

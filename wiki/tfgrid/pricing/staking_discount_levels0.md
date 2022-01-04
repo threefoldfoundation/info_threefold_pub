@@ -6,7 +6,7 @@
 | silver     | - 40%         | 12 months                          |
 | gold       | - 60%         | 36 months                          |
 
-TFChain charges the user for proof_of_utilization every hour. TFChain will calculate the discount based on amount of TFT available in the account of the user on TFChain (not on Stellar or any of the other blockchains we also support). This is an automatic form of staking, the user does not have to do anything to have this benefit.
+TFChain charges the user for proof_of_utilization every hour. TFChain will calculate the discount based on amount of TFT available in the account of the user on TFChain (not on Stellar or any of the other blockchains we also support). This is an automatic form of staking, the user does not have to do anything to have this benefit. For network related services its max 40% discount.
 
 ### Example for 40% discount
 

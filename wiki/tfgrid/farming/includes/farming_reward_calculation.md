@@ -37,13 +37,13 @@ The reward for above items are linked (pegged) to the USD
 | Unit                | USD   | Unit                                  |
 | ------------------- | ----- | ------------------------------------- |
 | Compute Unit (CU)   | 2.4   | per month                             |
-| Storage Unit (SU)   | 1.5     | per month                             |
+| Storage Unit (SU)   | 1     | per month                             |
 | Network Unit (NU)   | 0.03  | per GB transfer (as customers use it) |
 | Public IPv4 Address | 0.005 | per IP address, calculated per hour   |
 
 > [IMPORTANT: MORE INFO ABOUT DAO RULES IN RELATION TO PROOF OF CAPACITY, SEE HERE](poc_dao_rules)
 
-> **The rewards above are calculated according to the current TFT to USD price in TFChain of $TFTFARMING** ($NOW). TFDDAO is responsible to change this price in accordance to current marketsituation and liquidity.
+> **The rewards above are calculated according to the current TFT to USD price in TFChain of $TFTFARMING** ($NOW). TFDAO is responsible to change this price in accordance to current marketsituation and liquidity.
 
 See [POCDAO RULES](poc_dao_rules) for more info about USD price which will be used to calculate your farming reward as well as any other specifics in relation to farming calculations.
 

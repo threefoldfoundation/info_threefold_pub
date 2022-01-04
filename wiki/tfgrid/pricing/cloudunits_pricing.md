@@ -7,7 +7,7 @@
 | ----------------- | ------------------------------------------------ | ------------------ | ------------------ |
 | Compute Unit (CU) | typically 2 vcpu, 4 GB mem, 50 GB storage        | $CU_MUSD_HOUR/hour | $CU_MTFT_HOUR/hour |
 | Storage Unit (SU) | typically 1 TB of netto usable storage (*)       | $SU_MUSD_HOUR/hour | $SU_MTFT_HOUR/hour |
-| Network Unit (NU) | 1 GB transfer, bandwidth as used by TFGrid users | $NU_USD_GB/GB      | $NU_MTFT_GB/GB     |
+| Network Unit (NU) | 1 GB transfer, bandwidth as used by TFGrid users | $NU_MUSD_GB/GB      | $NU_MTFT_GB/GB     |
 
 
 | Network Addressing | description                                | mUSD                  | mTFT                  |

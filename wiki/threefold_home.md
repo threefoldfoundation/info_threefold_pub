@@ -13,6 +13,8 @@ The ThreeFold library describes the ThreeFold open source project, a peer-to-pee
 - [The ThreeFold Token](@tokens_home)
 - [Technology](@technology)
 
+> For more insides take a look at our [Deep Dive Meetups 2022](threefold_internal:deepdive_meetups) where we cover each key aspect of the project together with our community.
+
 ## Disclaimer
 
 All claims, content, designs, algorithms, estimates, roadmaps, specifications, and performance measurements described in this project are done with the author's best effort. It is up to the reader to check and validate their accuracy and truthfulness. Furthermore, nothing in this project constitutes a solicitation for investment.

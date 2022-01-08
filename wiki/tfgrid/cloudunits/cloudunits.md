@@ -25,7 +25,6 @@ The following tables display how cloud units (v4) are calculated on the ThreeFol
 | --------------------------------------------------| --- | --- | ---- | ------------------ |
 | GB Memory                                         | 4   | 8   | 2    |                    |
 | nr vCPU                                           | 2   | 1   | 4    |                    |
-| GB Disk Capacity (max for distributed filesystem) | 50  | 50  | 50   |                    |
 | Passmark Minimum                                  | 500 | 250 | 1000 | CPU performance    |
 
 The passmark (CPU benchmark) is not measured on the grid. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.
@@ -41,11 +40,11 @@ See how we compare with the market compute prices [here](pricing).
 
 | SU (Storage Unit)   | HDD  | SSD |
 | ------------------- | ---- | --- |
-| GB Storage Capacity | 1200 | 300 |
+| GB Storage Capacity | 1200 | 200 |
 
 HDD is only usable for Zero Database driven storage (e.g. ThreeFold Quantum Safe Storage). 1.2 TB of HDD is provided following the advised storage policy of 16+4 with 20% overhead. So the net usable storage would be 1TB. In other words, the SU corresponds in that case to 1TB of net usable storage and an extra 200GB for redundancy.
 
-Example of Stroage unit:
+Example of Storage unit:
 
 - 1TB of usable storage as provided by the Zero-DBs (the backend storage systems)
 - Recommended price on TF Grid for 1 SU = 10 USD

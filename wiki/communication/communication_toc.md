@@ -5,6 +5,7 @@
 **Community Working**
 - [Forum](forum)
 - [Telegram Main Chat](telegram_chat)
+- [How To Use Chat](how_to_use_chat)
 - [Code of conduct](code_conduct)
 - [How You Can Help](be_the_internet)
 - [Collaboration](freeflow:collaboration)

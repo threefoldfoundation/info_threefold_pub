@@ -21,13 +21,13 @@ The following tables display how cloud units (v4) are calculated on the ThreeFol
 
 ### Compute Capacity
 
-| CU (Compute Unit)                                 |     |     |      |                    |
-| --------------------------------------------------| --- | --- | ---- | ------------------ |
-| GB Memory                                         | 4   | 8   | 2    |                    |
-| nr vCPU                                           | 2   | 1   | 4    |                    |
-| Passmark Minimum                                  | 500 | 250 | 1000 | CPU performance    |
+| CU (Compute Unit)                     |     |     |      |                 |
+| ------------------------------------- | --- | --- | ---- | --------------- |
+| GB Memory                             | 4   | 8   | 2    |                 |
+| nr vCPU                               | 2   | 1   | 4    |                 |
+| Passmark Minimum (expected is double) | 500 | 250 | 1000 | CPU performance |
 
-The passmark (CPU benchmark) is not measured on the grid. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.
+The passmark (CPU benchmark or alternative) is not measured on the grid yet. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.
 
 Example of Compute unit: 
 - 4 GB memory & 2 virtual CPU (and 50GB of SSD disk space)

@@ -15,7 +15,8 @@ For farming, 1 CU equals:
 cu = min((mru - 1) / 4, cru * 4 / 2, sru / 50)
 ```
 
-1 GB of memory is subtracted for the operating system to function.
+- 1 GB of memory is subtracted for the operating system to function.
+- please note minimal passmark per CU (with 4GB mem), needs to be 1000 passmark at farming side, this is not being checked today but might be done in future. If your chosen CPU has less than 1000 passmark per CU (of 4 GB mem), it could be your final CU's will be lower once that feature is introduced.
 
 
 <!-- > NOTE 17 Jan: some possible abuse has been found, we will do research how to adjust calculations to avoid this.  -->
@@ -52,6 +53,7 @@ su = hru / 1200 + sru * 0.8 / 200
   - sru division to 200, was 300, to be more in line with HDD vs SSD pricing, this check needs to be done +- every 6 months, results in slightly more SU, which is good for farmers.
 - Jan 2022 update for launch v3.x
   - reverted change done in Dec, sru does not have to be deducted from cpu, results in increase of farming rewards, in other words good for farmers. Also good formula more easy.
+  - Introduced warning about minimum CPU requirements in relation to passmark.
   
 ## Remarks
 

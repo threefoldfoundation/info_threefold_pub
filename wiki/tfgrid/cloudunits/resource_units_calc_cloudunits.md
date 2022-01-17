@@ -18,7 +18,7 @@ cu = min((mru - 1) / 4, cru * 4 / 2, sru / 50)
 1 GB of memory is subtracted for the operating system to function.
 
 
-> NOTE 17 Jan: some possible abuse has been found, we will do research how to adjust calculations to avoid this. 
+<!-- > NOTE 17 Jan: some possible abuse has been found, we will do research how to adjust calculations to avoid this.  -->
 
 
 ### Storage

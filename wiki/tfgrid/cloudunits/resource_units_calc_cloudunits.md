@@ -49,9 +49,9 @@ su = hru / 1200 + sru * 0.8 / 200
   - sru division to 200, was 300, to be more in line with HDD vs SSD pricing, this check needs to be done +- every 6 months, results in slightly more SU, which is good for farmers.
 - Jan 2022 update for launch v3.x
   - reverted change done in Dec, sru does not have to be deducted from cpu, results in increase of farming rewards, in other words good for farmers. Also good formula more easy.
-  - There seems to be issue in simulator play.grid.tf, will check asap (17-jan)
-
+  
 ## Remarks
 
+- There seems to be issue in simulator play.grid.tf, will check asap (17-jan)
 - We are checking all numbers & the DAO is coming life in Jan/Feb 2022, once we have the DAO every change of the specs needs to be approved by DAO voting members. For now we use the forum to notify and ask feedback and make sure farming reward goes up for the changes if possible. There ia already a minimal DAO life, the blockchain TFChain validators (L1) need to find consensus to upgrade code. 
 

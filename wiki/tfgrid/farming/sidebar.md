@@ -8,6 +8,7 @@
 - [Rewards Calculation](farming_calculator)
 - [Why become a Farmer](why_farming)
 - [Hardware Options](farming_hardware_overview)
+- [DIY Guide](farming_diy/diy_guide.md)
 - [BE THE INTERNET](be_the_internet)
 <!-- - [Certified Farming](certified_farming) -->
 

@@ -12,6 +12,7 @@
 - [Roadmap](roadmap)
 - [Technology](@technology)
 - [Decentralization](decentralization)
+- [Release Notes](release_notes)
 - [BE THE INTERNET](be_the_internet)
 
 <!-- - Note doesn't bring any value at present state [Technology](technology) -->

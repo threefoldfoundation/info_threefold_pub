@@ -9,7 +9,6 @@ While the ThreeFold_Grid can expand infinitely, the nr of TFT is limited.
 The technical limit of TFT is 4 Billion, but its very unlikely we will ever get there because the difficulty to get TFT goes up and there are lots of parameters taking care of scarcity.
 
 - Learn more about the Threefold Grid and TFT valuation [here](grid_valuation).
-- [See also TFT and TFGrid Growth Simulation](tft_grid_growth_simulation)
 
 ## TFT Burning, will lead to total nr of TFT going down
 

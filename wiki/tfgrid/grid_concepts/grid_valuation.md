@@ -30,7 +30,6 @@ According to the market demand, ThreeFold Farmers are incentivized to contribute
 ![](img/token_issuance_economy1.jpg)
 
 > [More info about limited supply](tft_limited_supply) <BR>
-> [See also TFT and TFGrid Growth Simulation](tft_grid_growth_simulation)
 
 ## How can the ThreeFold Grid connect billions of people?
 

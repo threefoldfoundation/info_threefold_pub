@@ -9,7 +9,7 @@ The owner of the NFT can upload the data using one of our supported interfaces
 
 Every person in the world can retrieve the NFT (if allowed) and the data will be verified when doing so. The data is available everywhere in the world using multiple interfaces again (IPFS, HTTP(S), ...). Caching happens on global level. No special software or account on threefold is needed to do this.
 
-The NFT system uses a super reliable storage system underneith which is sustainable for the planet (green) and ultra secure and private. The NFT owner also owns the data.
+The NFT system uses a super reliable storage system underneath which is sustainable for the planet (green) and ultra secure and private. The NFT owner also owns the data.
 
 
 ## Benefits

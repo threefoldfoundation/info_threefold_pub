@@ -2,7 +2,7 @@
 
 ![](img/libor_voncina.jpg)
 
-- CEO TF Tech
+- COO TF Tech
 - [LinkedIn](https://www.linkedin.com/in/libor-voncina-755798143/)
 
 Libor is a successful CEO with a track record of building and leading challenger brands and technology businesses to deliver success for all stakeholders.

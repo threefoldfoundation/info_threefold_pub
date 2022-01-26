@@ -1,6 +1,8 @@
 # OTC Purchase Desk
 
-There is a way to purchase/sell TFT OTC. Payment options will depend upon agreement between parties.
+### OTC Purchase desk is ready to process large / non-standard purchase/sell requests that would be hard to process through existing excahges. 
+
+Payment options will depend upon agreement between parties.
 
 ## Filling an OTC order
 

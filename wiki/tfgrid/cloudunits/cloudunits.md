@@ -21,18 +21,45 @@ The following tables display how cloud units (v4) are calculated on the ThreeFol
 
 ### Compute Capacity
 
-| CU (Compute Unit)                     |     |     |      |                 |
-| ------------------------------------- | --- | --- | ---- | --------------- |
+| CU (Compute Unit)           |  Type 1  |  Type 2  |  Type 3   |                 |
+|:-------------------------------------:|:---:|:---:|:----:|:---------------:|
 | GB Memory                             | 4   | 8   | 2    |                 |
 | nr vCPU                               | 2   | 1   | 4    |                 |
 | Passmark Minimum (expected is double) | 500 | 250 | 1000 | CPU performance |
 
-The passmark (CPU benchmark or alternative) is not measured on the grid yet. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.
+The passmark (CPU benchmark or alternative) is not measured on the grid yet. It is used in simulators to check the mechanisms and ensure enough performance per CU is delivered.  
 
-Example of Compute unit: 
-- 4 GB memory & 2 virtual CPU (and 50GB of SSD disk space)
+Provisioning vCPU's and memory results in translating the actual cores and memory into one of the three units listed above. The principle used is:
+- Calculate the number of CU's based on reserved vCPU and memory for every type of CU (1, 2, and 3).  The number is the maximum (`MAX`) number between the calculated result from vCPU and memory.
+- The final number is the the minimum (`MIN`) number of the three types of compute units.
+
+
+
+<!--
+CRU_type1=1 MRU_type1=8
+CRU_type2=2 MRU_type2=4
+CRU_type3=4 MRU_type3=2
+
+cu_type1 = MAX(CRU/CRU_type1, MRU/MRU_type1)
+cu_type2 = MAX(CRU/CRU_type2, MRU/MRU_type2)
+cu_type3 = MAX(CRU/CRU_type3, MRU/MRU_type3)
+
+CU=min(cu_type1, cu_type2, cu_type3)
+-->
+Example 1: 
+- 4 GB memory & 2 virtual CPU (and 50GB of SSD disk space) is exactly 1 type 1 CU.
 - Recommended price on TF Grid = 10 USD
 - Alternative cloud price = between 40 USD and 180 USD
+
+Example 2:
+Provisioning of 6 cores and 20GB of memory.  This provides
+
+| CU (Compute Unit)           |  Type 1  |  Type 2  |  Type 3   |   Total #CU    |
+|:-------------------------------------|:---:|:---:|:----:|:---------------:|
+|  6 GB Memory                          |  1.5  | 0.75| 3    |                 |
+| 20  vCPU                              |  10 | 20  | 5    |                 |
+| Maximum value per CU type             | **10**  | **20**  | **5**    |       **5**      |
+|            |   |   |     |        **5**        |
 
 See how we compare with the market compute prices [here](pricing).
 

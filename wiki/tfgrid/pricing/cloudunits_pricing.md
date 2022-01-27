@@ -5,16 +5,16 @@
 
 | Cloud Units       | description                                      | mUSD               | mTFT               |
 | ----------------- | ------------------------------------------------ | ------------------ | ------------------ |
-| Compute Unit (CU) `cu_price`| typically 2 vcpu, 4 GB mem, 50 GB storage        | $CU_MUSD_HOUR/hour | $CU_MTFT_HOUR/hour |
-| Storage Unit (SU) `su_price` | typically 1 TB of netto usable storage (*)       | $SU_MUSD_HOUR/hour | $SU_MTFT_HOUR/hour |
-| Network Unit (NU) `nu_price` | 1 GB transfer, bandwidth as used by TFGrid users | $NU_MUSD_GB/GB      | $NU_MTFT_GB/GB     |
+| Compute Unit (CU) `(cu_price)`| typically 2 vcpu, 4 GB mem, 50 GB storage        | $CU_MUSD_HOUR/hour | $CU_MTFT_HOUR/hour |
+| Storage Unit (SU) `(su_price)` | typically 1 TB of netto usable storage (*)       | $SU_MUSD_HOUR/hour | $SU_MTFT_HOUR/hour |
+| Network Unit (NU) `(nu_price)` | 1 GB transfer, bandwidth as used by TFGrid users | $NU_MUSD_GB/GB      | $NU_MTFT_GB/GB     |
 
 
 | Network Addressing | description                                | mUSD                  | mTFT                  |
 | ------------------ | ------------------------------------------ | --------------------- | --------------------- |
-| IPv4 Address   `IPv4_price`    | Public Ip Address as used by a TFGrid user | $IP_MUSD_HOUR/hour    | $IP_MTFT_HOUR/hour    |
-| Unique Name  `name_price`    | Usable as name on webgateways              | $NAME_MUSD_HOUR/hour  | $NAME_MTFT_HOUR/hour  |
-| Unique Domain Name `domain_name_price` | Usable as dns name on webgateways          | $DNAME_MUSD_HOUR/hour | $DNAME_MTFT_HOUR/hour |
+| IPv4 Address   `(IPv4_price)`    | Public Ip Address as used by a TFGrid user | $IP_MUSD_HOUR/hour    | $IP_MTFT_HOUR/hour    |
+| Unique Name  `(name_price)`    | Usable as name on webgateways              | $NAME_MUSD_HOUR/hour  | $NAME_MTFT_HOUR/hour  |
+| Unique Domain Name `(domain_name_price)` | Usable as dns name on webgateways          | $DNAME_MUSD_HOUR/hour | $DNAME_MTFT_HOUR/hour |
 
 - mUSD = 1/1000 of USD, mTFT = 1/1000 of TFT
 - TFT pricing pegged to USD (pricing changes in line with TFT/USD rate)

@@ -16,6 +16,6 @@ The actual bootloader is very small. It brings up the network interface of your 
 
 The operating system is not installed on any local storage medium (hard disk, ssd). Zero-OS is stateless.
 
-The mechanism to allow this to work in a safe and efficient manner is a ThreeFold innovation called our container virtual filesystem. This is explained in more detail [here](sdk:flist)
+The mechanism to allow this to work in a safe and efficient manner is a ThreeFold innovation called our container virtual filesystem. This is explained in more detail [here](flist)
 
 !!!def alias:zero_os_install

@@ -1,6 +1,6 @@
 ## Ways how to buy TFT
 
-recommended use Binance Smartchain:
+recommended to use Binance Smartchain:
 
 !!!include:pancakeswap_1inch
 
@@ -12,6 +12,8 @@ requirements, takes less than 5 min
 
 | Category        | Ease  | Link                                                   | Description                                                                        | Availability |
 | --------------- | ----- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------ |
+| OTC              | ****  | [Gettft.com](https://gettft.com/) | Easiest way how to buy TFT                     | NOW          |
+| OTC               | ***  | [OTC Desk](tft_otc) | A humane OTC Desk                    | NOW          |
 | PUBLIC EXCHANGE | ***   | [PancakeSwap on Binance Smart Chain](tft_binance_defi) | Most efficient way how to buy and sell with liquidity providing                    | NOW          |
 | PUBLIC EXCHANGE | ***   | [1Inch on Binance Smart Chain](tft_1inch)              | Similar to PancakeSwap - Easy to use decentralised exchange on Binance Smart Chain | NOW          |
 | PUBLIC EXCHANGE | **    | [Liquid Public Exchange](tft_liquid)                   | A comprehensive and secure trading platform                                        | NOW          |

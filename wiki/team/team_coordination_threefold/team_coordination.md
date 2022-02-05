@@ -1,6 +1,6 @@
 | Name                                           | Position                                                  | Organization      |
 | ---------------------------------------------- | --------------------------------------------------------- | ----------------- |
-| [Libor Voncina](libor_voncina)                              | CEO TF Tech                   | TF Tech           |
+| [Libor Voncina](libor_voncina)                              | COO TF Tech                   | TF Tech           |
 | [Kristof de Spiegeleer](kristof_de_spiegeleer) | CTO TFTech                           | TF Tech, TF Dubai |
 | [Rajinder Singh Grewal](rajinder_singh_grewal) | CFO                          | TF Dubai          |
 | [Adnan Fatayerji](adnan_fatayerji)             | CEO TF Dubai             | TF Dubai          |

@@ -108,4 +108,17 @@ For the second round, which is unlocked just after the first round, the amount o
 
 Learn more about planet-positive initiatives [here](https://forum.threefold.io/t/supporting-initiatives-to-regenerate-the-planet/2110). 
 
+## Pilot Test
+
+The purpose of this pilot program is to fine-tune and validate the carbon emissions related to the ThreeFold Grid and to start a global tree planting initiative in Sierra Leone, Malawi, and Cambodia. Once the carbon double-win is achieved, the ThreeFold Grid will continue to fund impact initiatives like fostering climate education, developing renewable energy grids and more that will enhance the life of communities at large by purchasing VCC with the TFT dedicated to the carbon offset pool.
+
+Here you can see an overview of what has been accomplished so far and what else is planned for the pilot:
+
+- **Sierra Leone** has planted 1823 trees in December 2021. The funds received will be used to fund the tree planting and create a support program for school drop-outs.
+- **Malawi** planted 2000 trees. The initiative in Malawi will use the funds not only to finance the tree planting but also to create a school-based feeding program in which the school will plant and grow plant-based food, enabling them to sustain themselves in the future.
+- **Cambodia** will plant 1000 trees. While the trees have already been bought, the planting program has been postponed to February due to adverse weather conditions. Here, the funds will be used to build a school on the same piece of land where the trees will be planted.
+  
+By kicking off our pilot program a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid by the end of Q2 2022, making the Grid the first planet-positive Internet infrastructure in the world.
+
+Updated on February 2022
 

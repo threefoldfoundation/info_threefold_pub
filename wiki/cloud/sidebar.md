@@ -8,7 +8,6 @@
 - [Technology](technology)
 - [Roadmap](roadmap_grid)
 - [Support](support)
-- [Sustainability](carbon_double_win)
 
 <!-- - [Videos](@generic_video) -->
 <!-- - [Definitions & Concepts](@definitions_concepts) -->

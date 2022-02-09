@@ -1,21 +1,35 @@
-# Sustainable technology
+# Sustainability
 
-There’s no question that climate change is one of the biggest, if not the biggest threats facing humanity today. If we care at all about future generations and the health of our planet we have no choice but to address these threats and fast. ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet-positive internet. 
+![](img/sustainable.png)
 
-ThreeFold reworked the whole approach to IT architectures and eliminated the layers of complexity. The result is a cloud stack that presents minimal overhead and that requires less hardware - reducing heat generation and eventually cooling requirements. By reducing the need for power, the net result is an energy-efficient Internet Grid. 
+There’s no question that climate change is one of the biggest, if not the biggest threats facing humanity today. If we care about future generations and the health of our planet we have no choice to address these threats and fast. Despite the super energy efficiency of our technology,  ThreeFold is taking not just a sustainable approach - we are setting the plan for a planet-positive internet. As a matter of fact, ThreeFold is working towards introducing the first and largest Peer-to-Peer Carbon Negative Internet Grid in the world - An Ethical Internet Grid that regenerates the earth, through a Voluntary Carbon Credit system. 
 
-The algorithm of Zero-OS, ThreeFold Operating Software, maximizes utilization possibilities which enables greeter performance and sustainability. Moreover, it uses minimal Linux Kernel that allows for a number of user spaces to co-exist. In these user spaces, containerized versions of software can be run, eliminating the need for hypervisors, virtual OS to fuel the virtual machines, and guest operating systems. 
+## For our Planet and Future Generations 
 
-# Carbon-Negative Grid 
+![](img/datacenter.png)
 
-The ThreeFold Grid (“Grid”)  is planning to become a carbon-negative Grid by end of 2022. Farmers who provide internet capacity by connecting 3Nodes on the Grid will contribute to offset their carbon emission 3 times. This will be undertaken along with our Climate Education Partner to create a Voluntary Carbon Offset System. 
+The increasing digitalization of the economy and society is leading to a dynamic increase in the amount of data that is processed and stored in centralized data centers. This growth will also lead to a significant increase in the energy consumption of those hyper-scale data centers worldwide. Video streaming, social media, big data, artificial intelligence and digitalization of business processes and production flows, Metaverse, edge computing, Virtual Reality, Internet of Things - these and other trends are leading to the need for data centers capacity to grow dynamically. 
 
-Farmers will contribute, directly from their Farming Reward for their carbon emission. The amount of ThreeFold Token allocated depends on the type of 3node (as each type of 3nodes has a different power utilization) and the country where the 3node is located (as each country has a different electricity production structure). Other variables will be taken into consideration to ensure the reliability of the carbon offset. The ThreeFold Token will be reallocated to a pool dedicated for the carbon offset.
+If we meet the projected demand for 2022, more than 4,000 new data centers, costing an estimated $5 trillion, will be needed to build and consume an additional 400 GW/h. This is roughly equivalent to Japan’s energy consumption and would place an impossible strain on the global electricity grid. Already, demand for data center storage is causing memory shortages and price hikes. 
 
-The process will be undertaken in two rounds. The first round (timeline = 1 year)  will be dedicated to offsetting a lifetime carbon emission (3 times) through tree planting - Please note, depending on the type of trees,  on average a tree absorbs approximately 28 kg of carbon per year The required amount of trees will be planted by students and teachers from different locations of the world - This process will be audited by community members. The type of tree will be studied in order to plant species that are in harmony with the current environment biodiversity. The first round is to create the foundation of the carbon-negative grid. 
+Interesting facts regarding climate change: 
 
-Then the second round (starting from the end of Round 1) will be used to enhance the life of local communities by providing education and community funding, monetary help in building schools, renewable energy, waste management, internet access, etc. 
+- The concentration of carbon dioxide (CO2) in our atmosphere, as of July 2021, is the highest it has been in human history. 
+- 11% of all global greenhouse gas emissions caused by humans are due to deforestation. 
+- According to NOAA, global temperature in July 2021, were higher than any other July record - making it likely the hottest month the world has seen since records began in 1880. 
+- 11% of the world’s population is currently vulnerable to climate change impacts such as droughts, floods, heatwaves, extreme weather events, and sea-level rise. 
+- Tropical forests are incredibly effective at storing carbon, providing at least a third of the mitigation action needed to prevent the worst climate change scenarios.
 
-> Stay Tune more information will be available soon to the community 
+We are already seeing the effects of climate change but there is a need to leverage the importance of nature in our daily lives to ensure a better planet for future generations. 
+
+Please dive deeper into our different Sustainability sections: 
+- [Sustainable Technology](sustainable_technology)
+- [Voluntary Carbon Credit System](vcc.md)
+
+See more on our Forum section dedicated for Carbon Double Win [here](https://forum.threefold.io/c/ecosystem-developments/sustainability/90).
+
+
+
+
 
 

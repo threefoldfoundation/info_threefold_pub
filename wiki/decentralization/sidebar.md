@@ -5,6 +5,7 @@
 - [What is a DAO](@dao)
 - [DAO Voting](@voting_l2)
 - [Validators](@validators)
+- [Executors](@tfexecutors)
 ----------
 - [ThreeFold Foundation](@threefold_foundation)
 - [ThreeFold Companies](@threefold_companies)

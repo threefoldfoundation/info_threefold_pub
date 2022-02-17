@@ -12,7 +12,7 @@ As well as
 
 - distribution of TFT grants
 - manage code upgrade of TFChain and ZOS
-- approval for changes to anything in our ecosytem, by means of GEP e.g.
+- approval for changes to anything in our ecosystem, by means of GEP e.g.
   - changes to tokenomics e.g. changes related to
     - farming rewards
     - cultivation flows

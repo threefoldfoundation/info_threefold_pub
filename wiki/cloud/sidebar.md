@@ -10,7 +10,7 @@
   - [Security](usp_secure)  
 - [Pricing](pricing)
 - [Compare](!@cloud_compare_home)
-- [Technology](technology)
+- [Technology](@technology)
 - [Roadmap](roadmap_grid)
 - [Manual](!@manual:manual3_home_new)
 - [Support](support)

@@ -25,7 +25,7 @@ Basically all basic DAO concepts are in place
 
 ## TFChain / DAO 3.0.x
 
-TBD version nr, planned Jan 2022
+TBD version nr, planned Q1 2022
 
 NEW
 
@@ -35,7 +35,7 @@ NEW
 
 ## TFChain / DAO 3.1.x
 
-TBD version nr, planned end Q1 2022
+TBD version nr, planned Q1 2022
 
 This version adds more layers to our existing DAO and prepares for an even more scalable future.
 
@@ -45,7 +45,7 @@ NEW
 - Validator Nodes for TFGrid and TFChain.
 - Cosmos based HUB = security for all TFChains
 
-> More info about our DAO strategy see TFDAO and this [document](dao_executors_validators)
+> More info about our DAO strategy see TFDAO.
 
 
 

@@ -6,6 +6,7 @@
 - [Farming Rewards](farming_reward)
 - [Proof-of-Capacity](proof_of_capacity)
 - [Rewards Calculation](farming_calculator)
+- [Validators](@validators)
 - [Why become a Farmer](why_farming)
 - [Hardware Options](farming_hardware_overview)
 - [DIY Guide](diy_guide)

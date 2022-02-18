@@ -57,12 +57,14 @@ Our three layer blockchain approach provides for unlimited scale and security.
 You can only have one validator node in each validator category. 
 
 
-## Starting next Monday (February 21, 2022)
+## When will Verification of applications start?
+
+Starting February 21, 2022
 
 The Foundation will begin with verifying the applications:
 
 * Submitted validator requests will be **vetted and checked** on an individual basis
-* Submitted **wallets** will be checked on for the respective **minimum TFT** balance (for amount of TFT required see: [L2](https://forum.threefold.io/t/about-the-validators-signup-l2-category/1862), [L0](https://forum.threefold.io/t/about-the-validators-signup-l0-category/1863))
+* Submitted **wallets** will be checked on for the respective **minimum TFT** balance (for amount of TFT required see: [L2](validator_l2_details), [L0](validator_l0_details))
 * Submitted individuals / companies will be asked if they have more than one **validator request**. This request will be recorded.
 
 #### What are the next steps after the sign-up?

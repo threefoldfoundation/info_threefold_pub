@@ -12,3 +12,5 @@
   - [L0 Validators Details](@validator_l0_details)
 - [Reserve Your Validator](validator_reservation)
 - [Deploy Your Validator](validator_deployment)
+- [Questions?](validators_faq)
+

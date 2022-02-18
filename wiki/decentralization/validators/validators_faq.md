@@ -81,11 +81,6 @@ Answer:
 
 Yes you can, you can run validators wherever you want. You can deploy manually (using code) or through a weblet on a location of choice.
 
-#### What do you mean per bare metal that is owned and managed by the validator owner.
-
-
-
-
 #### When will Verification of applications start?
 
 Starting February 21, 2022

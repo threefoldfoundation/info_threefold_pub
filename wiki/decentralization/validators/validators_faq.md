@@ -27,6 +27,8 @@ The **responsibility** of a validator (owner) can be summarized to:
 
 To justify the running costs of the node as well as to gather a suitable income from supporting the blockchain, validator nodes earn rewards, see [here for L2 validators](validator_l2_details) and [here for L0 validators](validator_l0_details).
 
+There are open questions about validator rewards see [forum post here]()
+
 #### What are the general requirements?
 
 * Reliable electricity. Either the electricity is always on or the validator owner takes precautions to put his/her node in a data center or invests in a UPS.
@@ -57,7 +59,34 @@ Our three layer blockchain approach provides for unlimited scale and security.
 You can only have one validator node in each validator category. 
 
 
-## When will Verification of applications start?
+#### Does this mean you only really need 50 000 TFT to run a validator node?
+
+... and the 50 000 TFT for activation on voting and rewards can be done afterwards, optionally?
+
+Yes for 50k TFT you can reserve a validator node for L0 Chain securing the TF Executors.
+Indeed an additional 50k which can come from anyone, whoever choses to stake will be enough to get rewards and voting power.
+
+#### What happens if my validator is down for a while?
+
+Questions:
+- If validator is running on grid and the host cutoff the machine…how could we responsable for the uptime and lose stacking token?!
+- How many token could we lose?
+
+Answer:
+
+- no you would not loose staked tokens, maybe there would be an impact on reward for the time you were off
+- the technical implementation is not finished yet, we use Cosmos blockchain for this, we will check the more technical details, normally a node can be offline for quite a while before there are issues.
+
+#### Could we run validator on our farming machine?
+
+Yes you can, you can run validators wherever you want. You can deploy manually (using code) or through a weblet on a location of choice.
+
+#### What do you mean per bare metal that is owned and managed by the validator owner.
+
+
+
+
+#### When will Verification of applications start?
 
 Starting February 21, 2022
 

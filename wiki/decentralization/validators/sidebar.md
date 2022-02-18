@@ -13,4 +13,6 @@
 - [Reserve Your Validator](validator_reservation)
 - [Deploy Your Validator](validator_deployment)
 - [Questions?](validators_faq)
+- [Presentation/Video](validators_links)
+
 

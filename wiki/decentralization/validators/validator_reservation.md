@@ -1,4 +1,4 @@
-# Reservation Process for L2 and L1 Validator
+# Reservation Process for L2 and L0 Validator
 
 - Forum post in the dedicated channel in our forum
 - We require the following info

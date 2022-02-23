@@ -9,6 +9,9 @@ A L0 Validator protects the network of TF_executors.
 
 - 50k TFT: initial requirement for reservation of a Validator
 - 100k TFT: validator will now participate in voting of blocks & rewards
+- maximum amount, TFT not defined yet for L0 Validators.
+
+> Each TFT staked counts for rewards !!!
 
 ### Max nr of validators
 
@@ -33,8 +36,10 @@ Delegation means you are not deploying a blockchain node yourself but you stake 
 - During first 2 years 5% yield will be rewarded to any staker
     - this means if you own 50k staked TFT, you would receive 2.500 TFT as reward during year 1 and year 2 
     - this reward is independent of reward in relation to revenue (its extra).
+    - All your TFT staked count (independent if this was for reservation or particpation or delegation)
 - 10% of revenue of executors on the sidechain go to people staking L0.
     - revenue is defined as TFT as used by people to pay for TFExecutor services through our L1 TFChain.
-    - reward is given out in relation to % of TFT you own on the total global staking pool, example if you own 1% of the total staking pool you will receive 1% of the reward. Do note 10% will be deducted if you did delegated staking in other words you do not own the staking node, this 10% is commission for the owner.
+    - reward is given out in relation to % of TFT you own on the total global staking pool, example if you own 1% of the total staking pool you will receive 1% of the reward. 
+    - Do note 10% will be deducted if you did delegated staking in other words you do not own the validator node, this 10% is commission for the owner of the validator node.
 
 

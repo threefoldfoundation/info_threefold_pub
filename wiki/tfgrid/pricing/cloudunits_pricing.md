@@ -20,7 +20,7 @@
 - TFT pricing pegged to USD (pricing changes in line with TFT/USD rate)
 - **current TFT to USD price is $TFTUSD** , calculated on $NOW
 - pricing is calculated per hour for the TFGrid 3.0
-- pricing of certified capacity is 25% more (x 1.25)
+<!-- - pricing of capacity of certified farmers is 25% more (x 1.25) (future development) -->
 
 !!!include:staking_discount_levels
 

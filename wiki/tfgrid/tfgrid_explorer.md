@@ -4,22 +4,29 @@
 
 Thousands of 3Nodes are connected to the ThreeFold Grid across the world. 
 
-### TFGRID EXPLORER 2.X
+### TF GRID EXPLORER – Total Capacity
 
-Find the live stats on https://explorer.grid.tf.
+Find the live stats across Grid versions on https://explorer.threefold.io/all.
 
 The explorer allows you to find:
 - Available 3Nodes and web gateways 
 - Live statistics about the ThreeFold Grid 
 - Live capacity map
 
-> This map only shows a subset, 3.x Grid nodes are not shown
+It shows you the total stats for all active Grid versions.
 
-### TFGRID EXPLORER 3.0
+The filter options allow you to choose between: 
+– The different Grid versions: Grid 2 & 3, Grid 3, Grid 2
+– The different networks: all, devent, testnet, mainnet
 
-> Is a small subset of the total net, will grow as people upgrade their 3nodes.
+### TF GRID EXPLORER 3.0
 
-- testnet: https://explorer.test.grid.tf/
+> Is a subset of the total net and will grow as people upgrade their [3Nodes](https://library.threefold.me/info/threefold#/tfgrid/threefold__3node).
+
+This new explorer receives its information via GraphQL straight from the [ThreeFold Blockchain](https://library.threefold.me/info/manual/#/threefold__tfchain). It allows you to explore all farms and 3Nodes using multiple filtering options. Choose between the different networks:
+– Devnet Explorer: https://explorer.dev.grid.tf/
+– Testnet Explorer: https://explorer.test.grid.tf/
+– Mainnet Explorer: https://explorerv3.grid.tf/
 
 **Features:**
 

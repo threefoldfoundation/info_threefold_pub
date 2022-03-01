@@ -16,17 +16,17 @@ The explorer allows you to find:
 It shows you the total stats for all active Grid versions.
 
 The filter options allow you to choose between: 
-– The different Grid versions: Grid 2 & 3, Grid 3, Grid 2
-– The different networks: all, devent, testnet, mainnet
+* The different Grid versions: Grid 2 & 3, Grid 3, Grid 2
+* The different networks: all, devent, testnet, mainnet
 
 ### TF GRID EXPLORER 3.0
 
 > Is a subset of the total net and will grow as people upgrade their [3Nodes](https://library.threefold.me/info/threefold#/tfgrid/threefold__3node).
 
 This new explorer receives its information via GraphQL straight from the [ThreeFold Blockchain](https://library.threefold.me/info/manual/#/threefold__tfchain). It allows you to explore all farms and 3Nodes using multiple filtering options. Choose between the different networks:
-– Devnet Explorer: https://explorer.dev.grid.tf/
-– Testnet Explorer: https://explorer.test.grid.tf/
-– Mainnet Explorer: https://explorerv3.grid.tf/
+* Devnet Explorer: https://explorer.dev.grid.tf/
+* Testnet Explorer: https://explorer.test.grid.tf/
+* Mainnet Explorer: https://explorerv3.grid.tf/
 
 **Features:**
 

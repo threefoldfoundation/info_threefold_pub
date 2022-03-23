@@ -2,12 +2,15 @@
 
 > Max: amount of tokens = 4 billion.
 
-All tokens that are being minted are the result of farming. See Proof of Capacity.
+All tokens that are being minted are the result of farming. 
+See [Proof of Capacity](proof_of_capacity).
+
 Proof of Utility Distribution Flow:
 
 ![](img/token_distribution.png)
 
 > For more details, see [Proof-of-Utilization](proof_of_utilization)
+
 > For Detailed Info see: [Stats Token Overview, info from TFT blockchain](stats_token_overview)
 
 ## TFT Marketcap

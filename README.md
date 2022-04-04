@@ -2,6 +2,13 @@
 
 How to use gitpod see publishingtools documentation https://library.threefold.me/info/publishtools
 
+## To get started
+
+```bash
+export PUBSITE='https://github.com/threefoldfoundation/info_threefold_pub/tree/development/wiki_config'
+publishtools run
+```
+
 ## Planning info:
 
 > For progress please follow web presence board on Circles tool: https://circles.threefold.me/project/despiegk-product_web_threefold/wiki/home

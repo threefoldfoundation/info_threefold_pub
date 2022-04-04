@@ -11,6 +11,9 @@ For making this Internet Capacity available, Farmers are rewarded with TFT.
 
 The amount of resources availabe in a 3Node are translated into compute units (CU), storage units (SU), Network units (NU) and IP addresses (IPAddr) to calculate farming rewards. See also [Cloud Units Calculation For Farming](resource_units_calc_cloudunits).
 
+> **Unless explicitly specified otherwise, calculations of "gigabytes" use base
+> 1024. That is, 1 GB is equal to 1073741824 bytes.**
+
 The formula to calculate farming rewards is the following:
 
 ```python

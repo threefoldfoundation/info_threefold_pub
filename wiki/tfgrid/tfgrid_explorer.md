@@ -21,9 +21,9 @@ The filter options allow you to choose between: 
 
 ### TF GRID EXPLORER 3.0
 
-> Is a subset of the total net and will grow as people upgrade their [3Nodes](https://library.threefold.me/info/threefold#/tfgrid/threefold__3node).
+> Is a subset of the total net and will grow as people upgrade their [3Nodes](https://library.threefold.me/info/threefold#/tfgrid/3node).
 
-This new explorer receives its information via GraphQL straight from the [ThreeFold Blockchain](https://library.threefold.me/info/manual/#/threefold__tfchain). It allows you to explore all farms and 3Nodes using multiple filtering options. Choose between the different networks:
+This new explorer receives its information via GraphQL straight from the [ThreeFold Blockchain](https://library.threefold.me/info/threefold/#/tfchain). It allows you to explore all farms and 3Nodes using multiple filtering options. Choose between the different networks:
 * Devnet Explorer: https://explorer.dev.grid.tf/
 * Testnet Explorer: https://explorer.test.grid.tf/
 * Mainnet Explorer: https://explorerv3.grid.tf/

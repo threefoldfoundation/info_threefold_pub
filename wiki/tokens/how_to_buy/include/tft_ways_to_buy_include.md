@@ -1,6 +1,6 @@
 ## Ways how to buy TFT
 
-recommended to use Binance Smartchain:
+recommended to use [Gettft.com](https://gettft.com/) or Binance Smartchain:
 
 !!!include:pancakeswap_1inch
 

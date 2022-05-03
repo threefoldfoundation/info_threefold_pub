@@ -178,11 +178,11 @@ Write your farmer ID and make sure you select production mode. This is grid 3.0.
 
 ***
 
-Note 1 : If you haven't created a Threefold farm yet, read the section [1. Create a Farm](/Farming/Farming.md#1-create-a-farm) of the exhaustive Threefold Farming Documentation.
+Note 1 : If you haven't created a Threefold farm yet, read the section [1. Create a Farm](/farming/farming.md#1-create-a-farm) of the exhaustive Threefold Farming Documentation.
 
 ***
 
-Note 2 : You might need to wipe your disks if they are not brand new. To wipe your disks, read the section [4. Wipe All the Disks](/Farming/Farming.md#4-wipe-all-the-disks) of the exhaustive Threefold Farming Documentation.
+Note 2 : You might need to wipe your disks if they are not brand new. To wipe your disks, read the section [4. Wipe All the Disks](/farming/farming.md#4-wipe-all-the-disks) of the exhaustive Threefold Farming Documentation.
 
 ***
 

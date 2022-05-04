@@ -28,9 +28,8 @@ Delegation means you are not deploying a blockchain node yourself but you stake 
 
 ### Reservation
 
-- Make your reservation on the forum Validator
+Make your reservation on the ThreeFold forum for you Validator. There is a very simple way to announce your interest in onwing a validator.  Everything is done on the ThreeFold forum. There are two types of validators availabe, here we specifically talk about the L2 Validator. This is the [link](https://forum.threefold.io/t/procedure-to-register-your-l2-validator-node/1864) to the forum where you can do the application.  Once the application is done you will get a verification call from someone from the ThreeFold foundation to check your application.
 
-> TODO: more info, explain how
 
 ### Reward
 

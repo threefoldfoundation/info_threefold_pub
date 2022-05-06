@@ -56,6 +56,8 @@ A big thank you to all the farmers, developers and users who contributed, direct
   - [TF Connect App, TF Portal & Polkadot Substrate)](#tf-connect-app-tf-portal--polkadot-substrate)
     - [**What is the Threefold Portal link?**](#what-is-the-threefold-portal-link)
     - [**To access the TF Portal, I need to use the Polkadot Extension. What is the link?**](#to-access-the-tf-portal-i-need-to-use-the-polkadot-extension-what-is-the-link)
+    - [**Is there a way to create another wallet in TF Connect App?**](#is-there-a-way-to-create-another-wallet-in-tf-connect-app)
+    - [**I created a farm on the TF Chain. On the TF Connect App - Farmer Migration section, my farm is under *Other v3 farms*, is this normal?**](#i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app---farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal)
     - [**I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?**](#i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do)
     - [**I have some problems connecting to the Polkadot extension. What can I do?**](#i-have-some-problems-connecting-to-the-polkadot-extension-what-can-i-do)
     - [**Apart form the Threefold Connect App Wallet, how can I check my TFT balance?**](#apart-form-the-threefold-connect-app-wallet-how-can-i-check-my-tft-balance)
@@ -86,6 +88,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
 - [FARMER FAQ](#farmer-faq)
   - [TFT Farming Basics](#tft-farming-basics)
     - [**Is there a way to know the current TFT price for the farming rewards?**](#is-there-a-way-to-know-the-current-tft-price-for-the-farming-rewards)
+    - [**When will I receive the farming rewards for my 3nodes?**](#when-will-i-receive-the-farming-rewards-for-my-3nodes)
     - [**Is there a Threefold calculator?**](#is-there-a-threefold-calculator)
     - [**What is the TFT entry price of my 3node?**](#what-is-the-tft-entry-price-of-my-3node)
     - [**What is the necessary uptime for a 3node per period of one month?**](#what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month)
@@ -140,6 +143,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**I wonder what type of desktop/server to use for my 3node. Any recommendation when it comes to DIY 3node hardware?**](#i-wonder-what-type-of-desktopserver-to-use-for-my-3node-any-recommendation-when-it-comes-to-diy-3node-hardware)
     - [**What can you do to zero out your disks? How can I wipe the disks?**](#what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks)
     - [**Do I need to wipe all the disks on my 3node? Or I can leave one disk with a different OS?**](#do-i-need-to-wipe-all-the-disks-on-my-3node-or-i-can-leave-one-disk-with-a-different-os)
+    - [**How can I be sure that I properly wiped my disks?**](#how-can-i-be-sure-that-i-properly-wiped-my-disks)
     - [**Before doing a bootstrap image, I need to format my USB key. How can I format my USB key?**](#before-doing-a-bootstrap-image-i-need-to-format-my-usb-key-how-can-i-format-my-usb-key)
     - [**What do you use to load/burn the Zero-OS bootstrap image onto a USB stick?**](#what-do-you-use-to-loadburn-the-zero-os-bootstrap-image-onto-a-usb-stick)
     - [**Should I do a UEFI image or a BIOS image to bootstrap Zero-OS?**](#should-i-do-a-uefi-image-or-a-bios-image-to-bootstrap-zero-os)
@@ -192,6 +196,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**My 3node has 2 ethernet ports in the back, with one written AMT above, what does it mean? Can I use this port to connect my 3node to the Grid?**](#my-3node-has-2-ethernet-ports-in-the-back-with-one-written-amt-above-what-does-it-mean-can-i-use-this-port-to-connect-my-3node-to-the-grid)
     - [**My 3node is based on a Z600/Z620, can I run it headless/without a GPU?**](#my-3node-is-based-on-a-z600z620-can-i-run-it-headlesswithout-a-gpu)
     - [**My 3node is based on a Z800. The PSU is not working anymore. Is there an alternative to buying another expensive PSU?**](#my-3node-is-based-on-a-z800-the-psu-is-not-working-anymore-is-there-an-alternative-to-buying-another-expensive-psu)
+    - [**Is it possible to add high-level GPU on rack servers to farm more TFT?**](#is-it-possible-to-add-high-level-gpu-on-rack-servers-to-farm-more-tft)
   - [Troubleshooting and Error Messages](#troubleshooting-and-error-messages)
     - [**Is it possible to access the Error/Log Screen?**](#is-it-possible-to-access-the-errorlog-screen)
     - [**I plugged an HDMI cable from my monitor into the node and the monitor is displaying nothing. What can I do?**](#i-plugged-an-hdmi-cable-from-my-monitor-into-the-node-and-the-monitor-is-displaying-nothing-what-can-i-do)
@@ -208,6 +213,8 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**My 3node is running on the Grid, but when I plugged in the monitor, it states: "*Disabling IR #16*". Is there a problem?**](#my-3node-is-running-on-the-grid-but-when-i-plugged-in-the-monitor-it-states-disabling-ir-16-is-there-a-problem)
     - [**My 3node won't boot without disabling the Secure Boot option, is it safe?**](#my-3node-wont-boot-without-disabling-the-secure-boot-option-is-it-safe)
     - [**When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen [ - ]. What could cause this and what could I do to resolve the issue?**](#when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-----what-could-cause-this-and-what-could-i-do-to-resolve-the-issue)
+    - [**My 3nodes go offline after a modem reboot. Is there a way to prevent this?**](#my-3nodes-go-offline-after-a-modem-reboot-is-there-a-way-to-prevent-this)
+    - [**When I boot my 3node, it reaches the *Welcome to Zero-OS window*, but it doesn't boot properly and there's an error message: *failed to load object : type substrate...*, what can I do?**](#when-i-boot-my-3node-it-reaches-the-welcome-to-zero-os-window-but-it-doesnt-boot-properly-and-theres-an-error-message-failed-to-load-object--type-substrate-what-can-i-do)
   - [Threefold Grid and Data](#threefold-grid-and-data)
     - [**How is the farming minting reward calculated? / Is the Grid always monitoring my 3node?**](#how-is-the-farming-minting-reward-calculated--is-the-grid-always-monitoring-my-3node)
     - [**How does communication happen on the Grid at the 3node's level?**](#how-does-communication-happen-on-the-grid-at-the-3nodes-level)
@@ -528,6 +535,18 @@ The link to the Polkadot Extension is the following: [https://polkadot.js.org/ex
 
 ***
 
+### **Is there a way to create another wallet in TF Connect App?**
+
+The TF Connect App supports Stellar and TF Chain wallets. The app by default can create one wallet. To add any number of additional wallets, you must create a wallet on Stellar or TF Chain and then import it with the import function.
+
+***
+
+### **I created a farm on the TF Chain. On the TF Connect App - Farmer Migration section, my farm is under *Other v3 farms*, is this normal?**
+
+Yes this is normal. Farms created on TF Chain instead of the TF Connect App will appear in *Other v3 farms*.
+
+***
+
 ### **I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?**
 
 On the TF Connect App, when you get a white screen, it means that there is a connection issue. It can help to try other networks; maybe try switching between ethernet cable or wifi. Or you can also try it later when the connection might be more stable.
@@ -722,6 +741,15 @@ Note: There will not be an automatic function in the app to create a new wallet.
 ### **Is there a way to know the current TFT price for the farming rewards?**
 
 Yes! Go [here](https://library.threefold.me/info/threefold/#/tfgrid/farming/threefold__farming_reward?id=farming-reward-calculation) and scroll down, you'll be able to find the TFT price at the line: **current TFT to USD price**.
+
+***
+
+### **When will I receive the farming rewards for my 3nodes?**
+
+Farming rewards are usually sent around the 8th of each month.
+
+Note that this can vary slightly as the TF team is manually verifying the farming rewards.
+
 
 ***
 
@@ -1081,6 +1109,42 @@ Read more [here](/farming/farming.md#4-wipe-all-the-disks).
 
 Zero-OS will not boot properly if not all disks are wiped. All disks must be wiped. So for example, you can't have one SSD disk wiped and another one SSD with Windows OS on it. In this case, Zero-OS won't boot.
 
+***
+
+### **How can I be sure that I properly wiped my disks?**
+
+A wiped disk has:
+- no label
+- no partition
+- no filesystem
+- only zeroes
+
+On Linux to see if the disk is only composed of zeroes, use the command line (example with disk sda):
+
+> cmp /dev/sda /dev/zero
+
+If there is only zeroes, you should get the output:
+
+> cmp: EOF on /dev/sda
+
+You can also use the command line:
+
+> sudo pv /dev/sda | od | head
+
+Here are some useful command lines for Linux to make sure there are no partitions, no labels, no filesystems and that the disks are filled with zeroes only:
+
+> sudo fdisk -l
+> 
+> sudo fdisk -lf
+> 
+> sudo parted -l
+> 
+> sudo parted /dev/sda 'print’
+> 
+> lsblk --f
+> 
+> lsblk --raw
+
 
 ***
 
@@ -1152,7 +1216,6 @@ Assuming you are a DIY farmer and operate from your home, this field can be left
 The add IP option is for farmers that have a block of IP addresses routed to their router (in data centers mostly) and want to present “dedicated IP” addresses for deployments.
 
 ***
-
 
 ## Farming Optimization
 
@@ -1428,6 +1491,14 @@ Running your 3node without the GPU can save some power consumption as well as gi
 It is possible to build your own PSU for the Z800. There is a great DIY guide by Linus on this [here](https://linustechtips.com/topic/1134357-hp-z800-alternative-power-supply-found/). This is clearly for advanced DIYer.
 
 ***
+
+### **Is it possible to add high-level GPU on rack servers to farm more TFT?**
+
+Some farmers had success installing GPUs such as the RTX3080 in servers as small as 2U (such as R730). Connections such as 250W 8-pin plug are needed on each riser. Generally, tower servers have more space to add high-level GPU.
+
+Note: GPU farming will be implemented in the future.
+
+***
 ## Troubleshooting and Error Messages
 
 ### **Is it possible to access the Error/Log Screen?**
@@ -1527,6 +1598,24 @@ Also, make sure that you are using the correct boot option (Legacy BIOS or UEFI)
 This problem often arises when you plugged your disks in the SAS controller. Try unpluging the disks from the SAS controllers, and plug them in the SATA controller. Also, disable the SAS controller. In a Legacy BIOS boot, make sure Legacy is enabled and disable *Data Execution Prevention* if possible.
 
 Also, it might have to do with your RAID controller configuration. Make sure this is properly set. For example, configuring all the HDD disks into one logical disk can fix this problem.
+
+***
+
+### **My 3nodes go offline after a modem reboot. Is there a way to prevent this?**
+
+Yes, there are many ways to prevent this. An easy solution is to set the DHCP server to reserve local IPs for the 3nodes MAC addresses.
+
+This problem is also preventable if your router stays online during the modem reboot. 
+
+Indeed, rebooting the 3nodes is necessary when there are local IP changes, as 3nodes are addressed a local IP addresses when they are booted.
+
+The DHCP will addresses any local IP address that is available when you are booting a 3node. Reserving local IP addresses is a good TF farming practice.
+
+***
+
+### **When I boot my 3node, it reaches the *Welcome to Zero-OS window*, but it doesn't boot properly and there's an error message: *failed to load object : type substrate...*, what can I do?**
+
+Usually simply rebooting the 3node fixes this problem.
 
 ***
 

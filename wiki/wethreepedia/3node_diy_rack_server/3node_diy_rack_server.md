@@ -1,15 +1,64 @@
-# DIY 3node Guide - Rack Server - Dell R620 / R720
+<body>
+<h1>DIY 3node Guide - Rack Server - Dell R620 / R720</h1>
+</body>
 
-In the following DIY guide, you will learn how to turn a Dell server (R620, R720) into a 3node farming on the Threefold Grid 3.0.
+In the following 3node DIY guide, you will learn how to turn a Dell server (R620, R720) into a 3node farming on the Threefold Grid 3.0. 
+
+Note that the process is similar for other rack servers.
+***
+<body>
+<h2>Table of Contents</h2>
+</body>
+
+***
+
+- [Setting Up the Hardware](#setting-up-the-hardware)
+  - [Avoiding Static Discharge](#avoiding-static-discharge)
+  - [Setting the M.2 NVME SSD Disk with the PCIe Adaptor](#setting-the-m2-nvme-ssd-disk-with-the-pcie-adaptor)
+  - [Checking the RAM sticks](#checking-the-ram-sticks)
+    - [General Rules when Installing RAM Sticks](#general-rules-when-installing-ram-sticks)
+      - [Procedure to Install RAM Sticks](#procedure-to-install-ram-sticks)
+  - [Installing the SSD Disks](#installing-the-ssd-disks)
+  - [Plugging the 3node Server](#plugging-the-3node-server)
+  - [Removing the DVD Optical Drive - Installing a SSD disk in the DVD Optical Drive](#removing-the-dvd-optical-drive---installing-a-ssd-disk-in-the-dvd-optical-drive)
+  - [Using Onboard Storage - RAID Controller Details](#using-onboard-storage---raid-controller-details)
+- [Zero-OS Bootstrap Image](#zero-os-bootstrap-image)
+  - [Creating a Threefold Farm](#creating-a-threefold-farm)
+  - [Wiping All the Disks](#wiping-all-the-disks)
+  - [Downloading the Zero-OS Bootstrap Image](#downloading-the-zero-os-bootstrap-image)
+    - [DVD ISO BIOS Image](#dvd-iso-bios-image)
+    - [USB BIOS Image](#usb-bios-image)
+- [BIOS Settings](#bios-settings)
+  - [Processor Settings](#processor-settings)
+  - [Boot Settings](#boot-settings)
+- [Booting the 3node](#booting-the-3node)
+- [Additional Information](#additional-information)
+  - [Differences between the R620 and the R720](#differences-between-the-r620-and-the-r720)
+  - [Different CPUs+RAMs Configurations for your 3node](#different-cpusrams-configurations-for-your-3node)
+- [Closing Words](#closing-words)
+
+***
+# Setting Up the Hardware
 
 ![3node_diy_rack_server_1](./img/3node_diy_rack_server_1.png) 
 
 Dell R620 1U server
 
+***
+## Avoiding Static Discharge
+***
+
 ![3node_diy_rack_server_2](./img/3node_diy_rack_server_2.png) 
 
-Some will recommend to wear anti-static gloves as shown here. If you don’t have anti-static gloves, you can simply never forget to touch the metal side of the server before manipulating the hardware. Your hands will discharge the static on the outside of the box, which is secure.
 
+Some will recommend to wear anti-static gloves as shown here. If you don’t have anti-static gloves, remember this: 
+
+> Always touch the metal side of the server before manipulating the hardware. 
+
+Your hands will discharge the static on the outside of the box, which is secure.
+***
+## Setting the M.2 NVME SSD Disk with the PCIe Adaptor
+***
 ![3node_diy_rack_server_3](./img/3node_diy_rack_server_3.png)  
 
 Here is one of the two 2TB SSD NVME m.2 that we will install on the server. Above the SSD is the PCIe Gen 3, x4 that we will use to connect the SSD to the server.
@@ -51,7 +100,9 @@ To screw the SSD in place, use the screwdriver included in the PCIe adaptor kit.
 ![3node_diy_rack_server_14](./img/3node_diy_rack_server_14.png)  
 
 Now that’s a steady SSD!
-
+***
+## Checking the RAM sticks
+***
 ![3node_diy_rack_server_15](./img/3node_diy_rack_server_15.png)  
 
 It’s now time to get under the hood! Make sure the case is at the unlocked position. If you need to turn it to unlocked position, use a flathead screwdriver or a similar tool.
@@ -93,6 +144,26 @@ Here you can see that the gap is not in the middle of the RAM stick. You must be
 ![3node_diy_rack_server_26](./img/3node_diy_rack_server_26.png)  
 
 When you want to put a RAM stick in its slot, make sure the plastic holders on the sides are opened and insert the RAM stick. Make sure you align the RAM stick properly. You can then push on one side at a time until the RAM stick clicks in. You can do it both sides at once if you are at ease.
+***
+### General Rules when Installing RAM Sticks
+***
+First, always use RAM sticks of the same size and type. It should be noted on your motherboard which slots to populate first. 
+
+As a general guide, there is usually 2 slots A and B, with each 2 memory stick entries. You must then install the ram sticks on A1 and B1 in order to achieve dual channel, then A2 and B2 if you have more (visual order: A1 A2 B1 B2).
+***
+#### Procedure to Install RAM Sticks
+***
+You want to start with your largest sticks, evenly distributed between both processors and work your way down to your smallest. 
+
+As an example, let's say you have 2 processors and 4x 16GB sticks and 4x 8GB sticks. The arrangement would be A1-16GB, B1-16GB, A2-16GB, B2-16GB, A3-8GB, B3-8GB, A4-8GB, B4-8GB. 
+
+Avoid odd numbers as well. You optimally want pairs. So if you only have 5x 8GB sticks, only install 4 until you have an even 6.
+
+***
+
+## Installing the SSD Disks
+
+***
 
 ![3node_diy_rack_server_27](./img/3node_diy_rack_server_27.png)  
 
@@ -128,6 +199,12 @@ Push down on the riser to insert it properly.
 
 It’s good to notice that the inside of the top plate of the server has great pictures showing how to manipulate the hardware.
 
+***
+
+## Plugging the 3node Server
+
+***
+
 ![3node_diy_rack_server_36](./img/3node_diy_rack_server_36.png)  
 
 Now you will want to plug in the power cable in the PSU. Here we show two 495W PSUs. With 256GB of RAM and two SSDs NVME, it is better to use two 750W PSUs. Note that this server will only use around 100W at idle. There are two power cables for redundancy. The unit does not need more than one to function.
@@ -158,66 +235,111 @@ Now, power it on!
 
 The server is booting.
 
-EXTRA:
+***
+
+## Removing the DVD Optical Drive - Installing a SSD disk in the DVD Optical Drive 
+
+***
 
 ![3node_diy_rack_server_44](./img/3node_diy_rack_server_44.png)  
 
 ![3node_diy_rack_server_45](./img/3node_diy_rack_server_45.png)  
 
-If you want to change the DVD optical drive, push where indicated and remove the power and SATA cables. It is possible to install a SSD disk in there.
+If you want to change the DVD optical drive, push where indicated and remove the power and SATA cables. 
 
-The hardware part is done. Now you will want to set the BIOS properly as well as get the bootstrap image of Zero-OS.
+It is possible to install a SSD disk in there. To do so, use a SATA HDD hard drive caddy CD/DVD **9.5mm** and put in a SATA III 2.5" disk. The caddy is not necessary. You could simply remove the standard CD/DVD caddy and plug the SATA disk.
+
+The hardware part is done. Next, you will want to set the BIOS properly as well as get the bootstrap image of Zero-OS. Before we get into this, let's have some information on using the onboard storage of your 3node server.
+
 ***
-**Zero-OS Bootstrap Image**
+
+## Using Onboard Storage - RAID Controller Details
+
+***
+
+If you want to use the onboard storage on your server, you will probably need to flash the RAID card or do some adjustment in order for Zero-OS to recognize your disks.
+
+You can use the onboard storage on a server without RAID. You can [re-flash](https://fohdeesha.com/docs/perc.html)  the RAID card, turn on HBA/non-RAID mode, or install a different card. It's usually easy to set servers such as a HP Proliant with the HBA mode. 
+
+For Dell servers, you can either cross-flash the RAID controller with an “IT-mode-Firmware” (see this [video](https://www.youtube.com/watch?v=h5nb09VksYw)) or get a DELL H310-controller (which has the non-RAID option). Otherwise, as shown in this guide, you can install a NVME SSD with a PCIe adaptor, and turn off the RAID controller.
+
+Note that for Dell R610 and R710, you can re-flash the RAID card. For the R910, you can’t re-flash the card. In this case, you will need to get a LSI Dell card.
+
+***
+# Zero-OS Bootstrap Image
 
 With R620 and R720 Dell servers, UEFI does not work well. You will want to use either a DVD or a USB in BIOS mode.
 
-Go on https://bootstrap.grid.tf/ and download the appropriate image.
+Go on https://bootstrap.grid.tf/ and download the appropriate image: option **ISO** for the DVD and option **USB** for BIOS USB (not UEFI).
 
-Write your farmer ID and make sure you select production mode. This is grid 3.0. Things are getting serious. 
+Write your farmer ID and make sure you select production mode.
+
+***
+## Creating a Threefold Farm
+***
+
+If you haven't created a Threefold farm yet, you have two options: 
+
+1. [Create a farm with the Polkadot.js extension](/farming/farming.md#1-create-a-farm) 
+2. [Create a farm with Threefold Connect App](/farming/farming.md#create-a-farm)
+
+Note: It is possible to move your farm from the [TF Connect App to the TF Portal](/farming/farming.md#move-farm-from-the-tf-app-to-the-tf-portal-polkadotjs) (via the Polkadot.js Extension). You can also [import your farm from the TF Portal to the TF Connect App](/farming/farming.md#import-tf-portal-polkadotjs-wallet-to-the-tf-connect-app-wallet).
+
+***
+## Wiping All the Disks
+***
+You might need to wipe your disks if they are not brand new. To wipe your disks, read the section [Wipe All the Disks](/farming/farming.md#4-wipe-all-the-disks) of the [Threefold Farming Documentation](/farming/farming.md).
 
 ***
 
-Note 1 : If you haven't created a Threefold farm yet, read the section [1. Create a Farm](/farming/farming.md#1-create-a-farm) of the exhaustive Threefold Farming Documentation.
-
+## Downloading the Zero-OS Bootstrap Image
 ***
-
-Note 2 : You might need to wipe your disks if they are not brand new. To wipe your disks, read the section [4. Wipe All the Disks](/farming/farming.md#4-wipe-all-the-disks) of the exhaustive Threefold Farming Documentation.
-
-***
-
 ![3node_diy_rack_server_46](./img/3node_diy_rack_server_46.png)  
 
 ![3node_diy_rack_server_47](./img/3node_diy_rack_server_47.png)  
 
 Use the ISO image for DVD boot and the USB image for USB BIOS boot (not UEFI). We use the farm ID 1 here as an example. Put your own farm ID.
-
+***
+### DVD ISO BIOS Image
+***
 For the ISO image, download the file and burn it on a DVD.
+***
+### USB BIOS Image
+***
+Note: the USB key must be formatted before burning the Zero-OS bootstrap image.
+***
 
-For the USB image, with Linux, you will want to do:
+For Windows, MAC and Linux, you can use [balenaEtcher](https://www.balena.io/etcher/), a free and open source software that will let you create a bootstrap image on a USB key, while also formatting the USB key at the same time. 
 
+This is the **easiest way** to burn your Zero-OS bootstrap image. All the steps are clearly explained within the software.
+***
+For Windows, you can also use Rufus.
+***
+For the USB image, with Linux, you can also go through the command window and write:
 
 > dd status=progress if=FILELOCATION.ISO(or .IMG) of=/dev/sd*. 
 
-Here the * is to indicate that you must adjust according to your disk. To see your disks, write lsblk in the command window. Make sure you select the proper disk!
+Here the * is to indicate that you must adjust according to your disk. To see your disks, write **lsblk** in the command window. Make sure you select the proper disk. 
 
-For Windows, MAC and Linux, you can use Balena-Etcher, a free and open-source software that will let you create a bootstrap image on a USB key. For Windows, you can also use Rufus.
 ***
-**BIOS Time**
+
+# BIOS Settings
 
 Before starting the server, plug in the USB bootstrap image. You can also insert the DVD once the server is on.
 
 When you start the server, press F2 to get into System Setup.
 
 Then, select System BIOS. In System BIOS settings, select Processor Settings.
+
+Note: More details are available for BIOS Settings in this [documentation](/farming/farming.md#bios-mode).
 ***
-Processor Settings
+## Processor Settings
 ***
 Make sure you have enabled the Logical Processor (Hyper Threading with HP). This turns 8 cores into 16 virtual cores. You can set QPI Speed at Maximum data rate. Make sure you set All to Number of Cores per Processor. You can adjust the Processor Core speed and Processor Bus Speed for specific uses.
 
 It is also good to take a look at the Processors and make sure the hardware is correct.
 ***
-Boot Settings
+## Boot Settings
 ***
 Go to System BIOS Settings and select Boot Settings. In Boot Settings, choose BIOS and not UEFI as the Boot Mode. You need to save your preferences and comeback to select BIOS Boot Settings.
 
@@ -232,8 +354,8 @@ That's it. You've set the BIOS settings properly and now is time to boot the 3no
 
 You can then save your preferences and exit. Your server should restart and load the bootstrap image. 
 ***
-Booting the 3node
-***
+# Booting the 3node
+
 Once you've set the BIOS settings and restarted your computer, it will download the Zero-OS bootstrap image. This takes a couple of minutes.
 
 The first time you boot a 3node, it will be written: “This node is not registered (farmer ***: NameOfFarm). This is normal. The Grid will create a node ID and you will be able to see it on screen. This can take a couple of minutes.
@@ -241,18 +363,26 @@ The first time you boot a 3node, it will be written: “This node is not registe
 Once you have your node ID, you can also go on the Threefold Explorer to see your 3node and verify that the connection is recognized by the Explorer.
 
 ***
+# Additional Information
+## Differences between the R620 and the R720
+***
+
 Note that the main difference between the R620 and the R720 is that the former is a 1U and the latter a 2U. 2U servers are usually less noisy and generate less heat than 1U servers since they have a greater volume. In the R720, fans are bigger and thus less noisy. This can be an important factor to consider. Both offer great performances and work well with Zero-OS.
 
 ***
 
-Also note that different CPUs + RAMs configurations are possible.
+## Different CPUs+RAMs Configurations for your 3node
+***
+Different CPUs + RAMs configurations are possible for the Dell R620/R720 servers.
 
-For example, you could replace the E5-2640 v2 CPUs for the E5-2695 V2. This would give you 48 Threads. You could then go with 12x32GB DDR3 LRDIMM. You would also need 5TB SSD total instead to get the proper ratio, which is 50GB of SSD per CU. Here we have 96 CU. You can always play with the [Threefold Simulator](https://simulator.grid.tf/) to double check.
+For example, you could replace the E5-2640 v2 CPUs for the E5-2695 V2. This would give you 48 Threads. You could then go with 12x32GB DDR3 LRDIMM. You would also need 5TB SSD total instead to get the proper ratio, which is 100GB of SSD and 8GB of RAM per virtual core (also called thread or logical core).
 
-Note that you cannot have more than 16 sticks of ECC DIMM on the R620/R720. For more sticks, you need LRDIMM as above stated above. 
+Note that you cannot have more than 16 sticks of ECC DIMM on the R620/R720. For more sticks, you need LRDIMM as stated above. 
 
 ***
-
+# Closing Words
 That's it. You have now built a DIY 3node and you are farming on the Threefold Grid.
 
-Welcome to the New Internet.
+If you encounter errors, you can read the [Errors and Troubleshoot section](/faq/faq.md#troubleshooting-and-error-messages) of the [Farmer FAQ](/faq/faq.md#farmer-faq).
+
+>Welcome to the New Internet!

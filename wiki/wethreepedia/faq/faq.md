@@ -56,11 +56,12 @@ A big thank you to all the farmers, developers and users who contributed, direct
   - [TF Connect App, TF Portal & Polkadot Substrate)](#tf-connect-app-tf-portal--polkadot-substrate)
     - [**What is the Threefold Portal link?**](#what-is-the-threefold-portal-link)
     - [**To access the TF Portal, I need to use the Polkadot Extension. What is the link?**](#to-access-the-tf-portal-i-need-to-use-the-polkadot-extension-what-is-the-link)
-    - [**Is there a way to create another wallet in TF Connect App?**](#is-there-a-way-to-create-another-wallet-in-tf-connect-app)
+    - [**Is there a way to create/import another wallet in TF Connect App?**](#is-there-a-way-to-createimport-another-wallet-in-tf-connect-app)
     - [**I created a farm on the TF Chain. On the TF Connect App - Farmer Migration section, my farm is under *Other v3 farms*, is this normal?**](#i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app---farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal)
     - [**I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?**](#i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do)
     - [**I have some problems connecting to the Polkadot extension. What can I do?**](#i-have-some-problems-connecting-to-the-polkadot-extension-what-can-i-do)
     - [**Apart form the Threefold Connect App Wallet, how can I check my TFT balance?**](#apart-form-the-threefold-connect-app-wallet-how-can-i-check-my-tft-balance)
+    - [**Is it possible to export the transaction history of a wallet to a CSV file?**](#is-it-possible-to-export-the-transaction-history-of-a-wallet-to-a-csv-file)
 - [USER FAQ](#user-faq)
   - [TF Grid Functionalities](#tf-grid-functionalities)
     - [**Can I have the link to deploy a VM and other apps on the Grid?**](#can-i-have-the-link-to-deploy-a-vm-and-other-apps-on-the-grid)
@@ -75,6 +76,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**Is there a picture guide on how to deploy Wordpress on the Threefold Grid using Caprover?**](#is-there-a-picture-guide-on-how-to-deploy-wordpress-on-the-threefold-grid-using-caprover)
     - [**I've heard rumours that you can install Wordpress and Discourse on the TF Grid in less than 15 minutes, is it true?**](#ive-heard-rumours-that-you-can-install-wordpress-and-discourse-on-the-tf-grid-in-less-than-15-minutes-is-it-true)
     - [**Can I deploy a Presearch Node?**](#can-i-deploy-a-presearch-node)
+    - [**What is the minimum amount of TFT to deploy a Presearch node? / How can I get a TFT discount when I deploy a Presearch node?**](#what-is-the-minimum-amount-of-tft-to-deploy-a-presearch-node--how-can-i-get-a-tft-discount-when-i-deploy-a-presearch-node)
     - [**How can I deploy Kubernetes on the Threefold Grid?**](#how-can-i-deploy-kubernetes-on-the-threefold-grid)
     - [**How can I deploy Peertube on the Threefold Grid?**](#how-can-i-deploy-peertube-on-the-threefold-grid)
     - [**How can I deploy ownCloud on the Threefold Grid?**](#how-can-i-deploy-owncloud-on-the-threefold-grid)
@@ -111,6 +113,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**How can I know the potential farming rewards for Grid Utilization?**](#how-can-i-know-the-potential-farming-rewards-for-grid-utilization)
     - [**What is the easiest way to farm Threefold tokens?**](#what-is-the-easiest-way-to-farm-threefold-tokens)
     - [**When do I receive my rewards?**](#when-do-i-receive-my-rewards)
+    - [**On Threefold Grid v3, how can I verify my 3nodes' payments on Stellar Blockchain?**](#on-threefold-grid-v3-how-can-i-verify-my-3nodes-payments-on-stellar-blockchain)
     - [**What is the farming reward calculation?**](#what-is-the-farming-reward-calculation)
     - [**Which wallets are recommended for TFT farming rewards?**](#which-wallets-are-recommended-for-tft-farming-rewards)
     - [**Can I have more details on storing TFT on hardware wallets?**](#can-i-have-more-details-on-storing-tft-on-hardware-wallets)
@@ -162,7 +165,9 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**Do I need a surge protector?**](#do-i-need-a-surge-protector)
     - [**Do I need a PDU?**](#do-i-need-a-pdu)
     - [**Do I need a UPS**](#do-i-need-a-ups)
-    - [**Is it possible to do a "graceful" shutdown to a 3nodes? How can you shutdown/power off a 3node?**](#is-it-possible-to-do-a-graceful-shutdown-to-a-3nodes-how-can-you-shutdownpower-off-a-3node)
+    - [**Are SATA and SAS drives interchangeable?**](#are-sata-and-sas-drives-interchangeable)
+    - [**What is the speed difference between SAS and SATA disks?**](#what-is-the-speed-difference-between-sas-and-sata-disks)
+    - [**Is it possible to do a *graceful* shutdown to a 3nodes? How can you shutdown/power off a 3node?**](#is-it-possible-to-do-a-graceful-shutdown-to-a-3nodes-how-can-you-shutdownpower-off-a-3node)
     - [**Do I need some port forwarding in my router for each 3node?**](#do-i-need-some-port-forwarding-in-my-router-for-each-3node)
     - [**Are servers noisy? Are there certain servers that are less noisy than others?**](#are-servers-noisy-are-there-certain-servers-that-are-less-noisy-than-others)
     - [**Are there ways to reduce serves' noises?**](#are-there-ways-to-reduce-serves-noises)
@@ -215,6 +220,9 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen [ - ]. What could cause this and what could I do to resolve the issue?**](#when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-----what-could-cause-this-and-what-could-i-do-to-resolve-the-issue)
     - [**My 3nodes go offline after a modem reboot. Is there a way to prevent this?**](#my-3nodes-go-offline-after-a-modem-reboot-is-there-a-way-to-prevent-this)
     - [**When I boot my 3node, it reaches the *Welcome to Zero-OS window*, but it doesn't boot properly and there's an error message: *failed to load object : type substrate...*, what can I do?**](#when-i-boot-my-3node-it-reaches-the-welcome-to-zero-os-window-but-it-doesnt-boot-properly-and-theres-an-error-message-failed-to-load-object--type-substrate-what-can-i-do)
+    - [**When I try to access iDRAC on a web browswer, even with protected mode off, I get the error *The webpage cannot be found*, what can I do?**](#when-i-try-to-access-idrac-on-a-web-browswer-even-with-protected-mode-off-i-get-the-error-the-webpage-cannot-be-found-what-can-i-do)
+    - [**When booting the 3node, I get the error *Network interface detected but autoconfiguration failed*. What can I do?**](#when-booting-the-3node-i-get-the-error-network-interface-detected-but-autoconfiguration-failed-what-can-i-do)
+    - [**When I boot my Dell server, I get the message: All of the disks from your previous configuration are gone... Press any key to continue or 'C' to load the configuration utility. What can I do?**](#when-i-boot-my-dell-server-i-get-the-message-all-of-the-disks-from-your-previous-configuration-are-gone-press-any-key-to-continue-or-c-to-load-the-configuration-utility-what-can-i-do)
   - [Threefold Grid and Data](#threefold-grid-and-data)
     - [**How is the farming minting reward calculated? / Is the Grid always monitoring my 3node?**](#how-is-the-farming-minting-reward-calculated--is-the-grid-always-monitoring-my-3node)
     - [**How does communication happen on the Grid at the 3node's level?**](#how-does-communication-happen-on-the-grid-at-the-3nodes-level)
@@ -535,7 +543,7 @@ The link to the Polkadot Extension is the following: [https://polkadot.js.org/ex
 
 ***
 
-### **Is there a way to create another wallet in TF Connect App?**
+### **Is there a way to create/import another wallet in TF Connect App?**
 
 The TF Connect App supports Stellar and TF Chain wallets. The app by default can create one wallet. To add any number of additional wallets, you must create a wallet on Stellar or TF Chain and then import it with the import function.
 
@@ -563,6 +571,16 @@ You could try to delete the cache in your browser or try to open it with another
 ### **Apart form the Threefold Connect App Wallet, how can I check my TFT balance?**
 
 You can go on [Stellar.Expert](https://stellar.expert). With your wallet address, you will be able to see your transactions and wallet details.
+
+***
+
+### **Is it possible to export the transaction history of a wallet to a CSV file?**
+
+Yes, every blockchain has an explorer function and these explorer functions allow you to see transactions and export them. TFT is on 2 chains at the moment: Stellar and Polkadot.
+
+For Stellar based TFT’s there is an explorere here: https://stellar.expert/explorer/public. Enter you wallet address in the top left search box, and after pressing enter you should see everything/transaction that happened with your account.
+
+If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you will not have transfered any tokes to the TF Chain, therefore all your tokens/wallets will be on the Stellar Chain.
 
 ***
 
@@ -663,6 +681,19 @@ Oh yes it is. Legend has it, it can even be done under 10 minutes. Would you giv
 ### **Can I deploy a Presearch Node?**
 
 Yes you can! Check [this link](https://play.grid.tf/#/presearch). Note that you will need a Public IP.
+
+***
+
+### **What is the minimum amount of TFT to deploy a Presearch node? / How can I get a TFT discount when I deploy a Presearch node?**
+
+The minimum amount of TFT that needs to be in your Threefold Profile before you can deploy a Presearch node is 2 TFT. But this would not last very long. 
+
+To benefit from the biggest reduction in price (-60%), you need to have a sufficient amount of TFT in your wallet. The TFT is not locked and simply needs to be present in your wallet.
+
+
+For the capacity of a Presearch node, the amount is around 5000 TFT, covering 3 years that the workload could run.
+
+Note that a Presearch node requires about 3 days to stabilize.
 
 ***
 
@@ -882,6 +913,28 @@ Buy a [Titan](https://marketplace.3node.global/index.php?dispatch=categories.vie
 They are distributed once a month, around the 5th*. Distributions are not daily, or after a certain threshold. Note that upcoming minting rules have a 24 month lockup or until 30% utilization for 3 months on your 3node. 
 
 *This can change slightly depending on the current situation.
+
+***
+
+### **On Threefold Grid v3, how can I verify my 3nodes' payments on Stellar Blockchain?**
+
+Here's the summary on how to find the details of a 3node's payment:
+
+1. Go to https://stellar.expert
+
+2. Open the hamburger menu on the top right (mobile version)
+
+3. Paste your wallet address in the search bar
+
+4. Go to the last payment you want details of
+   
+5. Make sure the Memo (HASH) is in the HEX format. If it isn't click on *base64* and change it to *hex*.
+
+6. Copy the Memo (HASH)
+
+7. Go to https://alpha.minting.tfchain.grid.tf/
+
+8. Paste the Memo (HASH) you copied. You will find the details of the 3node's payment
 
 ***
 
@@ -1268,7 +1321,27 @@ A UPS (uninterrupted power supply) is great for a 3node if your power goes on an
 *That being said, make sure to have settings such as **AC Recovery Power** set properly so your 3node goes back online if the power shutdowns momentarily. UPS are generally used in data center to make sure people have enough time to do a "graceful" shutdown of the units when power goes off. (See next question)
 
 ***
-### **Is it possible to do a "graceful" shutdown to a 3nodes? How can you shutdown/power off a 3node?** 
+
+### **Are SATA and SAS drives interchangeable?**
+
+This goes only one way. You can put a SATA drive in a SAS slot, but you can’t put a SAS drive in a SATA slot. See next Q+A.
+
+***
+### **What is the speed difference between SAS and SATA disks?**
+
+One of the big differences between SATA and SAS is the transfer speed. Using SATA disks with SAS cables, you will be limited by the SATA transfer speed.
+
+* Sata I : 150 MB/s
+* Sata II : 300 MB/s
+* Sata III : 600 MB/s
+* SAS : 600-1500 MB/s
+
+Note: You will most probably need to re-flash the raid card if you use the front panel disks (onboard storage) of your server.
+
+
+***
+
+### **Is it possible to do a *graceful* shutdown to a 3nodes? How can you shutdown/power off a 3node?** 
 
 There are no "graceful" shutdowns of 3nodes. You can shutdown a 3node from the software side. You need to shut it down manually directly on the hardware. 3nodes are self-healing and if they suddenly power down, no data or information will be lost. 
 
@@ -1593,11 +1666,13 @@ In the case where you want to boot Zero-OS, disabling Secure Boot option is safe
 
 There is a possibility that this happens because you are booting your 3node on a HDD. A 3node needs a minimum of 500GB of SSD to work properly.
 
-Also, make sure that you are using the correct boot option (Legacy BIOS or UEFI) in the Settings and that it corresponds to the correct booting image on the Threefold Bootstrap page. 
+Also, make sure that you are using the correct boot option (Legacy BIOS or UEFI) in the Settings and that it corresponds to the correct booting image on the Threefold Bootstrap page.
 
-This problem often arises when you plugged your disks in the SAS controller. Try unpluging the disks from the SAS controllers, and plug them in the SATA controller. Also, disable the SAS controller. In a Legacy BIOS boot, make sure Legacy is enabled and disable *Data Execution Prevention* if possible.
+This problem often arises when you plugged your disks in the wrong controller. For example, try unpluging the disks from the SAS controller, and plug them in the SATA controller. Also, disable the SAS controller if needed.
 
-Also, it might have to do with your RAID controller configuration. Make sure this is properly set. For example, configuring all the HDD disks into one logical disk can fix this problem.
+In a Legacy BIOS boot, make sure Legacy is enabled and disable *Data Execution Prevention* if possible.
+
+Also, it might have to do with your RAID controller configuration. Make sure this is properly set. For example, configuring all the HDD disks into one logical disk can fix this problem, or re-flashing the RAID card can also help.
 
 ***
 
@@ -1616,6 +1691,38 @@ The DHCP will addresses any local IP address that is available when you are boot
 ### **When I boot my 3node, it reaches the *Welcome to Zero-OS window*, but it doesn't boot properly and there's an error message: *failed to load object : type substrate...*, what can I do?**
 
 Usually simply rebooting the 3node fixes this problem.
+
+***
+
+### **When I try to access iDRAC on a web browswer, even with protected mode off, I get the error *The webpage cannot be found*, what can I do?**
+
+Open iDRAC in the Internet Explorer emulator extension (IE Tab) in Chrome, then update iDRAC. It should work elsewhere then. Sometimes, it will be needed to add "ST1=code" at the end of the IE Tab url.
+
+***
+
+### **When booting the 3node, I get the error *Network interface detected but autoconfiguration failed*. What can I do?**
+
+First make sure your network cable is plugged in and that your DHCP is working and responding. If you change the NIC port of the ethernet cable, make sure to reboot the 3node so Zero-OS can change the NIC port attribution.
+
+Some farmers reported that this got fixed by simply powering off the 3node(s), the router and modem for 2 minutes then powering it all back on. Resetting the modem and router (switch on the hardware) in the process can also help.
+
+If this doesn't work, try to upgrade the firmware of the NIC and the motherboard. If this still doesn't work, the NIC card might be broken. Try with another NIC card.
+
+***
+
+### **When I boot my Dell server, I get the message: All of the disks from your previous configuration are gone... Press any key to continue or 'C' to load the configuration utility. What can I do?**
+
+Many changes to your server can lead to this message. 
+
+Usually, the easiest solution is to reset the disk configuration in iDRAC's configuration utility.
+
+What can causes this message:
+
+1. During a new installation, the cables connecting to your external storage are not wired to the correct ports.
+2. Your RAID adapter has failed.
+3. Your SAS cables are not plugged properly or are malfunctioning.
+
+Note: Resetting the configuration will destroy all data on all virtual disks. Make sure you know what you are doing! In doubt, ask the TF community.
 
 ***
 
@@ -1668,7 +1775,9 @@ No. Always use the same type of RAM per 3node. If you use RDIMM, go all RDIMM, e
 
 To be sure, look into the owner's manual of your specific computer.
 
-You can also check with Cloudninja's documentation [here](https://cloudninjas.com/pages/server-memory). Search for your specific hardware and look for the compatible memory. This reference is good for rack and tower servers.
+In general, you can go to https://memory.net/ and look for your specific computer model. As general steps, select your computer's system in *By system*, then select the series and then select the specific model of the series. You will then see available memories to buy from memory.net. You can also simply read the documentation at the bottom. The memory type supported by your computer will be explained. Then you can buy the memory needed from any other computer store. 
+
+For servers, you can check with Cloudninja's documentation [here](https://cloudninjas.com/pages/server-memory). Search for your specific hardware and look for the compatible memory. This reference is good for rack and tower servers.
 
 ***
 

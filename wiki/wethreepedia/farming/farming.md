@@ -50,6 +50,7 @@ And now *...Let's New Internet...*
     - [1. Booting the 3node with Zero-OS bootstrap image](#1-booting-the-3node-with-zero-os-bootstrap-image)
     - [2. Check 3node Status on the TF Explorer](#2-check-3node-status-on-the-tf-explorer)
     - [3. Receive the Farming Rewards](#3-receive-the-farming-rewards)
+  - [Advanced Booting Option - Network Booting (PXE)](#advanced-booting-option---network-booting-pxe)
 - [Farming Optimization and Planification](#farming-optimization-and-planification)
   - [Calculate the ROI of a DIY 3node](#calculate-the-roi-of-a-diy-3node)
   - [Set the AC to compensate the 3nodes' heat](#set-the-ac-to-compensate-the-3nodes-heat)
@@ -630,21 +631,50 @@ When you boot the Linux ISO image, make sure to choose *Try Mode*. Otherwise, it
 
 ### 3. Use wipefs to wipe all disks
 
+When you use wipefs, you are removing all the data on your disk. Make sure you have no important data on your disks, or make sure you have copies of your disks before doing this operation, if needed. 
+
 Once Linux is booted, go into the terminal and write the following command lines.
 
 First, you can check the available disks by writing in a terminal or in a shell:
 
 >lsblk
 
-We will use the tool called *wipefs* to wipe all the disks in your 3node.
+To see what disks are connected, write this command:
 
-Write the command 
+> fdisk -l
 
-> sudo wipefs -f /dev/sd*
+If you want to wipe one specific disk, here we use *sda* as an example, write this command:
 
-This will wipe all the disk in your device. Make sure you have no important data on your disks, or make sure you have copies of your disks before doing this operation, if needed. The term *sudo* gives you the correct permission to do this.
+> sudo wipefs /dev/sda
 
-Once the disks are wiped, you can shutdown your 3node and remove the Linux Bootstrap Image (USB key). Usually, there will be a message to tell you when to do so.
+And replace the "a" by the letter of your disk, as shown when you did *lsblk*. The term *sudo* gives you the correct permission to do this.
+
+To wipe all the disks in your 3node, write the command:
+
+> sudo for i in /dev/sd*; do wipefs -a $i; done
+
+If you have any `fdisk` entries that look like `/dev/nvme`, you'll need to adjust the command line.
+
+For a nvme disk, here we use *nvme0* as an example, write:
+
+> sudo wipefs /dev/nvme0
+
+And replace the "0" by the number corresponding to your disk, as shown when you did *lsblk*. 
+
+To wipe all the nvme disks, write this command line:
+
+> for i in /dev/nvme*; do wipefs -a $i; done
+
+***
+
+> Note 1: If you're having trouble getting your disks recognized by Zero-OS, some farmers have had success enabling AHCI mode for SATA in their BIOS.
+
+> Note 2: If you are using a server with onboard storage, you might need to [re-flash the RAID card](/faq/faq.md#is-there-a-way-to-bypass-raid-in-order-for-zero-os-to-have-bare-metals-on-the-system-no-raid-controller-in-between-storage-and-the-grid).
+
+***
+
+Once the disks are wiped, you can shutdown your 3node and remove the Linux Bootstrap Image (USB key). Usually, there will be a message telling you when to do so.
+
 ***
 ## 5. Set the BIOS/UEFI
 ***
@@ -1273,6 +1303,96 @@ For the TF V3, rewards are locked for a 24 months period of after 30% of farm ut
 
 That's it. You've now completed the necessary steps to build a DIY 3node and to connect it to the Grid. In the next section, we will give you more details on Farming Optimization and Planification. This will maximize your farming efficiency as well as help you plan the economics of farming.
   
+***
+
+## Advanced Booting Option - Network Booting (PXE)
+
+> This documentation comes from the [amazing Network Booting Guide](https://forum.threefold.io/t/network-booting-tutorial/2688) by @Fnelson on the Threefold Forum. 
+
+Network booting ditches your standard boot USB with a local server. This TFTP server delivers your boot files to your 3 nodes. This can be useful in bigger home farms, but is all but mandatory in a datacenter setup. 
+
+Network boot setup is quite easy and is centered about configuring a TFTP server. There are essentially 2 options for this, a small dedicated server such as a raspberry pi, or piggybacking on your pfsense or opnsense router. I would recommend the latter as it eliminates another piece of equipment and is probably more reliable.
+
+**Setting Up Your Router to Allow Network Booting**
+
+These steps are for OPNsense, PFsense may differ. These set are required regardless of where you have your TFTP server.
+
+> Services>DHCPv4>LAN>Network Booting
+
+Check “Enable Network Booting”
+
+Enter the IP address of your TFTP server under “Set next-server IP”. This may be the router’s IP or whatever device you are booting from.
+
+Enter “pxelinux.0” under Set default bios filename.
+
+Ignore the TFTP Server settings.
+
+
+**TFTP server setup on a debian machine such as Ubuntu or Raspberry Pi**
+
+> apt-get update
+> 
+> apt-get install tftpd-hpa
+>
+> cd /srv/tftp/
+>
+> wget http://ftp.nl.debian.org/debian/dists/buster/main/installer-amd64/current/images/netboot/netboot.tar.gz
+>
+> wget http://ftp.nl.debian.org/debian/dists/buster/main/installer-amd64/current/images/netboot/pxelinux.0
+>
+> wget https://bootstrap.grid.tf/krn/prod/<FARMID> --no-check-certificate
+>
+> mv <FARMID> ipxe-prod.lkrn
+>
+> tar -xvzf netboot.tar.gz
+>
+> rm version.info netboot.tar.gz
+>
+> rm pxelinux.cfg/default
+>
+> chmod 777 /srv/tftp/pxelinux.cfg (optional if next step fails)
+>
+> echo 'default ipxe-prod.lkrn' >> pxelinux.cfg/default
+
+
+**TFTP Server on a OPNsense router**
+
+> Note: When using PFsense instead of OPNsense, steps are probably similar, but the directory or other small things may differ.
+
+The first step is to download the TFTP server plugin. Go to system>firmware>Status and check for updates, follow prompts to install. Then click the Plugins tab and search for tftp, install os-tftp. Once that is installed go to Services>TFTP (you may need to refresh page). Check the Enable box and input your router ip (normally 192.168.1.1). Click save.
+
+Turn on ssh for your router. In OPNsense it is System>Settings>Administration. Then check the Enable, root login, and password login. Hop over to Putty and connect to your router, normally 192.168.1.1. Login as root and input your password. Hit 8 to enter the shell.
+
+In OPNsense the tftp directory is /usr/local/tftp
+
+> cd /usr/local
+>
+> mkdir tftp
+>
+> cd ./tftp
+>
+> fetch http://ftp.nl.debian.org/debian/dists/buster/main/installer-amd64/current/images/netboot/netboot.tar.gz
+>
+> fetch http://ftp.nl.debian.org/debian/dists/buster/main/installer-amd64/current/images/netboot/pxelinux.0
+>
+> fetch https://bootstrap.grid.tf/krn/prod/<FARMID> 
+>
+> mv <FARMID> ipxe-prod.lkrn
+>
+> tar -xvzf netboot.tar.gz
+>
+> rm version.info netboot.tar.gz
+>
+> rm pxelinux.cfg/default
+>
+> echo 'default ipxe-prod.lkrn' >> pxelinux.cfg/default
+
+You can get out of shell by entering exit or just closing the window.
+
+**3Node Setup**
+
+Set the server to BIOS boot and put PXE or network boot as the first choice. At least on Dell machines, make sure you have the network cable in plug 1 or it won’t boot.
+
 ***
 
 # Farming Optimization and Planification

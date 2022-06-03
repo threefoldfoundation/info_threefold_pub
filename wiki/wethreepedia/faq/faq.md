@@ -31,6 +31,9 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**What are the priorities of Threefold (the Three P of Threefold)? / Threefold is a Planet first project, what does it mean?**](#what-are-the-priorities-of-threefold-the-three-p-of-threefold--threefold-is-a-planet-first-project-what-does-it-mean)
     - [**What is Proof-of-Capacity used by Threefold?**](#what-is-proof-of-capacity-used-by-threefold)
     - [**What is Proof-of-Utilization used by Threefold?**](#what-is-proof-of-utilization-used-by-threefold)
+    - [**How is Threefold registered as an entity?**](#how-is-threefold-registered-as-an-entity)
+    - [**Where is ThreeFold Tech's headquarters?**](#where-is-threefold-techs-headquarters)
+    - [**Can I have more information on Threefold Tech NV and Threefold S.A.?**](#can-i-have-more-information-on-threefold-tech-nv-and-threefold-sa)
   - [Threefold Communication](#threefold-communication)
     - [**Is there a Threefold app for mobile?**](#is-there-a-threefold-app-for-mobile)
     - [**I want to reach the Threefold community. What are Threefold social links?**](#i-want-to-reach-the-threefold-community-what-are-threefold-social-links)
@@ -42,6 +45,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**I've read that Threefold built an Operating System (OS) from scratch, is it true?**](#ive-read-that-threefold-built-an-operating-system-os-from-scratch-is-it-true)
     - [**What is Zero-OS from Threefold?**](#what-is-zero-os-from-threefold)
     - [**Threefold uses Quantum Safe Storage technology, what does it mean?**](#threefold-uses-quantum-safe-storage-technology-what-does-it-mean)
+    - [**Where does the Threefold Explorer takes its data from?**](#where-does-the-threefold-explorer-takes-its-data-from)
   - [Buying and Transacting TFT](#buying-and-transacting-tft)
     - [**How can I buy TFT?**](#how-can-i-buy-tft)
     - [**Where can I find TFT, concretely? On which blockchains is TFT available?**](#where-can-i-find-tft-concretely-on-which-blockchains-is-tft-available)
@@ -53,6 +57,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?**](#what-are-the-cost-when-bridging-from-stellar-to-metamask-and-from-metamask-to-stellar)
     - [**What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?**](#what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app)
     - [**How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?**](#how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap)
+    - [**Is it possible to swap TFT on Stellar Blockain?**](#is-it-possible-to-swap-tft-on-stellar-blockain)
   - [TF Connect App, TF Portal & Polkadot Substrate)](#tf-connect-app-tf-portal--polkadot-substrate)
     - [**What is the Threefold Portal link?**](#what-is-the-threefold-portal-link)
     - [**To access the TF Portal, I need to use the Polkadot Extension. What is the link?**](#to-access-the-tf-portal-i-need-to-use-the-polkadot-extension-what-is-the-link)
@@ -69,6 +74,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**I want to become a Threefold validator. What are the steps?**](#i-want-to-become-a-threefold-validator-what-are-the-steps)
     - [**Is there delegated staking for TFT?**](#is-there-delegated-staking-for-tft)
     - [**What are the type of storage available on TF Grid?**](#what-are-the-type-of-storage-available-on-tf-grid)
+    - [**What is Threefold's cloud pricing?**](#what-is-threefolds-cloud-pricing)
   - [Tutorials and Guides](#tutorials-and-guides)
     - [**How can I create a profile manager on play.grid.tf?**](#how-can-i-create-a-profile-manager-on-playgridtf)
     - [**I want to deploy a virtual machine (VM) on Threefold. How can I do this?**](#i-want-to-deploy-a-virtual-machine-vm-on-threefold-how-can-i-do-this)
@@ -132,6 +138,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**I found a nice computer/server to buy online, but it doesn't come with a CPU. How can I know what CPU models would work with a specific computer/server?**](#i-found-a-nice-computerserver-to-buy-online-but-it-doesnt-come-with-a-cpu-how-can-i-know-what-cpu-models-would-work-with-a-specific-computerserver)
     - [**Can I host more than one 3node at my house?**](#can-i-host-more-than-one-3node-at-my-house)
     - [**Is Wifi supported / Can I farm via Wifi instead of an Ethernet cable?**](#is-wifi-supported--can-i-farm-via-wifi-instead-of-an-ethernet-cable)
+    - [**Is there any way to run Zero-OS without dhcp?**](#is-there-any-way-to-run-zero-os-without-dhcp)
     - [**Do I need any specific port configuration when booting a 3node?**](#do-i-need-any-specific-port-configuration-when-booting-a-3node)
     - [**How much electricity does a 3node use?**](#how-much-electricity-does-a-3node-use)
     - [**Has anyone run stress tests to know the power consumption at heavy load of certain 3nodes?**](#has-anyone-run-stress-tests-to-know-the-power-consumption-at-heavy-load-of-certain-3nodes)
@@ -146,7 +153,8 @@ A big thank you to all the farmers, developers and users who contributed, direct
   - [Building a 3node - Steps and Details](#building-a-3node---steps-and-details)
     - [**What are the main steps when building a DIY 3node, from start to finish?**](#what-are-the-main-steps-when-building-a-diy-3node-from-start-to-finish)
     - [**I wonder what type of desktop/server to use for my 3node. Any recommendation when it comes to DIY 3node hardware?**](#i-wonder-what-type-of-desktopserver-to-use-for-my-3node-any-recommendation-when-it-comes-to-diy-3node-hardware)
-    - [**What can you do to zero out your disks? How can I wipe the disks?**](#what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks)
+    - [**What can you do to zero out your disks? How can I wipe the disks with Linux?**](#what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks-with-linux)
+    - [**How can I wipe a disk with Windows?**](#how-can-i-wipe-a-disk-with-windows)
     - [**Do I need to wipe all the disks on my 3node? Or I can leave one disk with a different OS?**](#do-i-need-to-wipe-all-the-disks-on-my-3node-or-i-can-leave-one-disk-with-a-different-os)
     - [**How can I be sure that I properly wiped my disks?**](#how-can-i-be-sure-that-i-properly-wiped-my-disks)
     - [**Before doing a bootstrap image, I need to format my USB key. How can I format my USB key?**](#before-doing-a-bootstrap-image-i-need-to-format-my-usb-key-how-can-i-format-my-usb-key)
@@ -170,11 +178,13 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**Are SATA and SAS drives interchangeable?**](#are-sata-and-sas-drives-interchangeable)
     - [**What is the speed difference between SAS and SATA disks?**](#what-is-the-speed-difference-between-sas-and-sata-disks)
     - [**Is it possible to do a *graceful* shutdown to a 3nodes? How can you shutdown/power off a 3node?**](#is-it-possible-to-do-a-graceful-shutdown-to-a-3nodes-how-can-you-shutdownpower-off-a-3node)
+    - [**Is it possible to have direct access to Zero-OS's core to force a reboot?**](#is-it-possible-to-have-direct-access-to-zero-oss-core-to-force-a-reboot)
     - [**Do I need some port forwarding in my router for each 3node?**](#do-i-need-some-port-forwarding-in-my-router-for-each-3node)
     - [**Are servers noisy? Are there certain servers that are less noisy than others?**](#are-servers-noisy-are-there-certain-servers-that-are-less-noisy-than-others)
     - [**Are there ways to reduce serves' noises?**](#are-there-ways-to-reduce-serves-noises)
     - [**I watched the TF video on building a DIY 3node. It stated both the i7-6700 and i7-6700T CPUs. What is the difference?**](#i-watched-the-tf-video-on-building-a-diy-3node-it-stated-both-the-i7-6700-and-i7-6700t-cpus-what-is-the-difference)
     - [**I built a 3node out of old hardware. Is it possible that my BIOS/UEFI has improper time and date set as factory default?**](#i-built-a-3node-out-of-old-hardware-is-it-possible-that-my-biosuefi-has-improper-time-and-date-set-as-factory-default)
+    - [**I have rack servers in my Threefold Farm. Can I set rack servers vertically?**](#i-have-rack-servers-in-my-threefold-farm-can-i-set-rack-servers-vertically)
   - [Farming and Maintenance](#farming-and-maintenance)
     - [**Do I need the Zero-OS bootstrap image drive (USB or CD/DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?**](#do-i-need-the-zero-os-bootstrap-image-drive-usb-or-cddvd-when-i-reboot-or-can-i-boot-zero-os-from-the-3node-main-hard-drive)
     - [**When I set my farm on polkadot.js (https://portal.grid.tf), it asks for a Stellar payout address**. What should I write?](#when-i-set-my-farm-on-polkadotjs-httpsportalgridtf-it-asks-for-a-stellar-payout-address-what-should-i-write)
@@ -229,6 +239,9 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**When I boot my Dell server, I get the message: All of the disks from your previous configuration are gone... Press any key to continue or 'C' to load the configuration utility. What can I do?**](#when-i-boot-my-dell-server-i-get-the-message-all-of-the-disks-from-your-previous-configuration-are-gone-press-any-key-to-continue-or-c-to-load-the-configuration-utility-what-can-i-do)
     - [**I have a Dell R620. In Zero-OS, I get the failure message *No network card found* and then the 3node reebots after few seconds. The same happens for every LAN input. What can I do?**](#i-have-a-dell-r620-in-zero-os-i-get-the-failure-message-no-network-card-found-and-then-the-3node-reebots-after-few-seconds-the-same-happens-for-every-lan-input-what-can-i-do)
     - [**I am using freeDos to crossflash my raid controller on a Dell server, but I can't see the RAID controller with the Command Info. What can I do?**](#i-am-using-freedos-to-crossflash-my-raid-controller-on-a-dell-server-but-i-cant-see-the-raid-controller-with-the-command-info-what-can-i-do)
+    - [**Can I use a VGA to HDMI adaptor to connect a TV screen/monitor to the 3node? / I tried to boot a 3node with a VGA to HDMI adaptor but the boot fails, what can I do?**](#can-i-use-a-vga-to-hdmi-adaptor-to-connect-a-tv-screenmonitor-to-the-3node--i-tried-to-boot-a-3node-with-a-vga-to-hdmi-adaptor-but-the-boot-fails-what-can-i-do)
+    - [**When I try to boot my 3node, the fans start spinning fast with a loud noise and the screen is black. What can I do to resolve this?**](#when-i-try-to-boot-my-3node-the-fans-start-spinning-fast-with-a-loud-noise-and-the-screen-is-black-what-can-i-do-to-resolve-this)
+    - [**When booting Zero-OS with IPV6 configurations, I get the errors (1) *dial tcp: address IPV6-address too many columns in address* and (2) *no pools matches key: not routable*. What can I do to fix this issue?**](#when-booting-zero-os-with-ipv6-configurations-i-get-the-errors-1-dial-tcp-address-ipv6-address-too-many-columns-in-address-and-2-no-pools-matches-key-not-routable-what-can-i-do-to-fix-this-issue)
   - [Threefold Grid and Data](#threefold-grid-and-data)
     - [**How is the farming minting reward calculated? / Is the Grid always monitoring my 3node?**](#how-is-the-farming-minting-reward-calculated--is-the-grid-always-monitoring-my-3node)
     - [**How does communication happen on the Grid at the 3node's level?**](#how-does-communication-happen-on-the-grid-at-the-3nodes-level)
@@ -372,6 +385,39 @@ Proof-of-Capacity is an algorithm that verifies the Internet capacity provided b
 
 Proof-of-Utilization is an algorithm that tracks the utilization of a given 3node's capacity offered on the TF Grid. More information can be found [here](https://library.threefold.me/info/threefold#/tokens/threefold__proof_of_utilization).
 
+***
+
+### **How is Threefold registered as an entity?**
+
+Threefold has different registrations and each serves a different purpose.
+
+There is Threefold VZW, in Belgium. Note that *VZW* is Belgium's denotation for non-profit association. Read more [here](https://library.threefold.me/info/legal/#/orgstructure/threefold__threefold_vzw).
+
+There is also Threefold DMCC, in Dubai. Read more [here](https://library.threefold.me/info/legal/#/threefold__threefold_dubai).
+
+There is also ThreeFold Tech NV, a software company which owns the IP of the code delivered. Read more [here](https://threefold.tech/) and [here](https://www.crunchbase.com/organization/threefold-tech).
+
+
+***
+
+### **Where is ThreeFold Tech's headquarters?**
+
+ThreeFold Tech is located in Lochristi, Oost-Vlaanderen, Belgium.
+
+***
+
+### **Can I have more information on Threefold Tech NV and Threefold S.A.?**
+
+Of course. Here are the basic information:
+
+* TF Tech NV (ThreeFold Tech)
+  * Registered at the Belgian Chamber of Commerce under number 0712845674.
+  * TF Tech NV is a limited liability organisation under the laws of Belgium. TF TECH NV. Antwerpse Steenweg 19 9000 - Lochristi, Belgium info@threefold.tech BE 0712.845.674
+(RPR Gent) Tel: 0032-93242057
+
+* ThreeFold S.A. (TF LUX)
+  * A public limited liability company under the Company Number B265333, governed by the laws of the Grand Duchy of Luxembourg.
+  * ThreeFold S.A., 6, Rue Dicks, 1417, Luxembourg.
 
 ***
 ## Threefold Communication
@@ -443,6 +489,14 @@ Zero-OS is a stateless and lightweight operating system designed to host anythin
 ### **Threefold uses Quantum Safe Storage technology, what does it mean?**
 
 Quantum computers are theoretically capable of doing huge calculations in a short period of time. By this fact alone, it is a great potential threat to future online safety. Threefold solves this future problem before it even becomes a reality. Indeed, Zero-os compresses, encrypts, and disperses data across the Grid. Learn more [here](https://www2.threefold.io/developer/qsfs/).
+***
+
+
+### **Where does the Threefold Explorer takes its data from?**
+
+The Threefold Explorer takes its data from this website: https://gridproxy.grid.tf/.
+
+
 ***
 ## Buying and Transacting TFT
 ***
@@ -534,6 +588,15 @@ For more information, read [this](https://library.threefold.me/info/threefold#/t
 ### **How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?**
 
 When searching for a Token on Pancake Swap (Select a Token), paste the TFT Token Address : **0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf**, then select TFT. You can now trade TFT on Binance Smart Chain.
+
+***
+
+### **Is it possible to swap TFT on Stellar Blockain?**
+
+Yes this is possible. Here's how to do it with stellarx.com.
+
+First, make sure your wallet has a TFT trustline. Go on https://stellarx.com, in the menu above, click on Swap. Then, select TFT in the dropdown list and select the desired token to swap. If you do not see TFT, make sure you have a TFT trustline linked to your wallet.
+
 
 ***
 ## TF Connect App, TF Portal & Polkadot Substrate)
@@ -645,6 +708,15 @@ There’s two type of storage that van de used on the TF Grid.
 
 1. VM which has a virtual disk. The virtual disk is a straightforward volume on a local hard disk. Everything stored on this virtual disk is stored only on this virtual (and thus physical) disk. Delete the VM and the virtual disk and the content is gone.
 2. Quantum safe storage. Quantum safe storage uses a “Storage Engine” that parts, compresses, encrypts and then mathematically describes the data.
+
+***
+
+
+### **What is Threefold's cloud pricing?**
+
+You can read more about Threefold cloud pricing [here](https://library.threefold.me/info/threefold#/tfgrid/pricing/threefold__pricing).
+
+
 
 
 ***
@@ -1071,6 +1143,13 @@ No. Wifi is not supported by Zero-OS due to a number of issues, like reliability
 
 ***
 
+### **Is there any way to run Zero-OS without dhcp?**
+
+You can set up a node through static routing at the router without DHCP by assigning the MAC address of the NIC to a IP address within your private subnet.
+
+
+***
+
 ### **Do I need any specific port configuration when booting a 3node?**
 
 No, as long as the 3node is connected to the Internet via an ethernet cable (wifi is not supported), Zero-OS will be able to boot. Usually with the DHCP, it automatically assigns an IP address.
@@ -1174,11 +1253,25 @@ Also, a good place to start is by checking what other farmers have built. [Over 
 
 ***
 
-### **What can you do to zero out your disks? How can I wipe the disks?**
+### **What can you do to zero out your disks? How can I wipe the disks with Linux?**
 
 For zero out disks unix has a tool called “wipefs”. Every distribution should have it. So if you take an ISO image of any distribution and boot in “Try” mode. In a terminal / shell you should be able to do " wipefs -f /dev/sd* " for all of the disk devices in the hardware. Make sure you have SU permissions (write sudo before the command line). 
 
 Read more [here](/farming/farming.md#4-wipe-all-the-disks).
+
+***
+
+### **How can I wipe a disk with Windows?**
+
+Follow these simple steps:
+
+1. Open up the command line. 
+2. Write *diskpart*
+3. Write *list disk*
+4. Write *select disk x* (replace x with the disk you want to wipe)
+5. Write *clean*
+
+You're done! Note: do not format the disk.
 
 ***
 
@@ -1371,6 +1464,13 @@ There are no "graceful" shutdowns of 3nodes. You can shutdown a 3node from the s
 
 ***
 
+
+### **Is it possible to have direct access to Zero-OS's core to force a reboot?**
+
+No, this is not possible. The general philosophy with Zero-OS is: no shell, no GUI, and no remote control. In other words, anything that could potentially provide attack surface is off the table. This ensures a high security level to Zero-OS and the Threefold Grid in general. To reboot a 3node, you have to do it manually.
+
+***
+
 ### **Do I need some port forwarding in my router for each 3node?**
 
 No, this is not needed.
@@ -1409,6 +1509,16 @@ For a more thorough comparison, read [this](https://cpu.userbenchmark.com/Compar
 ### **I built a 3node out of old hardware. Is it possible that my BIOS/UEFI has improper time and date set as factory default?**
 
 Yes. Make sure you have the correct time and date in BIOS to avoid errors when trying to boot Zero-OS. It might not cause any problems, but sometimes it does. 
+
+***
+
+### **I have rack servers in my Threefold Farm. Can I set rack servers vertically?**
+
+In general, it is not recommended to set rack servers vertically as they were designed to be laid flat in racks. That being said, if you want to set your rack vertically, here are some general rules to follow. Do so at your own risk. 
+
+First, make sure the parts in the servers are well installed and that they will not fall if laid vertically. Second, and foremost, you want to make sure that there will not be any overheating. This means to make sure you don't block the front and rear of the unit, so heat can dissipate thought the vents.
+
+If you want to put the rack vertically with the longest side of the rack laying upward, having the power supply units (PSUs) on the very top will ensure that heat dissipate well. 
 
 ***
 
@@ -1575,18 +1685,18 @@ This Quantum Safe Storage overcomes some of the shortfalls of RAID and is able t
 Yes it is possible. "You can use the on board storage on a server without RAID. You can [re-flash](https://fohdeesha.com/docs/perc.html)  the RAID card, turn on HBA/non-RAID mode, or install a different card. No need for RAID." @FLnelson It's usually easy to set servers such as a HP Proliant with the HBA mode. For Dell servers, you can either cross-flash the RAID controller with an “IT-mode-Firmware” (see this [video](https://www.youtube.com/watch?v=h5nb09VksYw)) or get a DELL H310-controller (which has the non-RAID option). Otherwise, you can install a NVME SSD with a PCIe adaptor, and turn off the RAID controller.
 ***
 
+
 ### **Can I change the name of my farm on polkadot.js? / How can I delete a farm on polkadot.js?**
 
 It's possible to delete and rename farms through the Polkadot UI. Head to the extrinsics section, select the account that owns the farm, choose tfgridModule from the first drop down, then deleteFarm or updateFarm.
 
-For mainnet use this [link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf%2Fws#/extrinsics).
+For mainnet use this [link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf).
 
 ***
 
 ### **I try to delete a node on the TF Portal, but it doesn't work. Is there any other way to proceed that could work?**
 
-It's possible to delete nodes through the Polkadot UI. Head to the extrinsics section, select the account that owns the farm, choose tfgridModule from the first drop down, then deleteNode. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf%2Fws#/extrinsics). 
-
+It's possible to delete nodes through the Polkadot UI. Head to the extrinsics section, select the account that owns the farm, choose tfgridModule from the first drop down, then deleteNode. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf).
 
 
 ***
@@ -1786,6 +1896,27 @@ Note: Some farmers have reported that the Broadcom NIC card does not work well f
 ### **I am using freeDos to crossflash my raid controller on a Dell server, but I can't see the RAID controller with the Command Info. What can I do?**
 
 Turn on the raid controller in the BIOS, otherwise freeDos does not show you the raid controller with the command Info.
+
+***
+
+### **Can I use a VGA to HDMI adaptor to connect a TV screen/monitor to the 3node? / I tried to boot a 3node with a VGA to HDMI adaptor but the boot fails, what can I do?**
+
+This might work, but it has been reported by farmers that Zero-OS might have difficulties booting when this is done with a VGA/HDMI adaptor. This is most likely due to the TV screen not supporting the output once the system loaded into Zero-OS. The easy fix to this issue is to use a standard computer monitor with a VGA plug.
+
+***
+
+### **When I try to boot my 3node, the fans start spinning fast with a loud noise and the screen is black. What can I do to resolve this?**
+
+There may be several causes to this issue. You can try to remove all the RAM sticks, to clean the dust and then to reseat the RAM sticks. If it still doesn't resolve the issue, you can check the RAM sticks one by one to see if one is malfunctioning. This often resolves the issue. Also, some cables might not be properly connected.
+
+***
+
+### **When booting Zero-OS with IPV6 configurations, I get the errors (1) *dial tcp: address IPV6-address too many columns in address* and (2) *no pools matches key: not routable*. What can I do to fix this issue?**
+
+This usually means that the IPV6 attributed is not valid. It is also often caused when the DNS configuration does not resolve IPV6 correctly.
+
+To fix this issue, it is often necessary to adjust the IPV6 settings related to the router and the modem. Confirming with your Internet service provider (ISP) that the IPV6 settings are properly configured could also be necessary to fix the issue.
+
 
 ***
 

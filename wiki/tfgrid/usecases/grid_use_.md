@@ -25,7 +25,7 @@ Benefits
 - green: carbon double win
 - powerful
 
-![](img/evdc_.png)
+![](img/evdc_.jpg)
 
 A powerful storage layer.
 

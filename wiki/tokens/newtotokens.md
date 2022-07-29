@@ -37,14 +37,6 @@ There are different ways to get TFT. Here's a guide of the different options to 
 
 Some wallets let you buy crypto with a debit/credit card, bank transfer or even Apple Pay. Geographical restrictions apply.
 
-#### Public Exchanges
-
-Exchanges are businesses that let you buy crypto using traditional currencies. They have custody over any TFT you buy until you send it to a wallet you control. 
-
-When buying TFT on a centralized exchange you will first need to send fiat currencies to the exchange to buy digital currencies such as BTC to be traded with TFT and vice versa if you want to transfer the value of your TFT back to your bank account. 
-
-Public exchanges usually require KYC procedures. Some of them such as Liquid Exchange also have a [quick exchange](tft_liquid_quick_exchange) option to buy crypto with a VISA card and without KYC until a certain limit. 
-
 #### Decentralized Exchanges (DEXs)
 
 Decentralized exchanges are open marketplaces for TFT and other tokens. They connect buyers and sellers directly.
@@ -54,6 +46,14 @@ Instead of using a trusted third party to safeguard funds in the transaction, th
 This means there are fewer geographical restrictions than with centralized alternatives. If someone is selling what you want and accepting a payment method you can provide, you’re good to go. DEXs can let you buy TFT with other tokens, PayPal or even in-person cash deliveries.
 
 You will need a wallet to use a DEX.
+
+#### Public Exchanges
+
+Exchanges are businesses that let you buy crypto using traditional currencies. They have custody over any TFT you buy until you send it to a wallet you control.
+
+When buying TFT on a centralized exchange you will first need to send fiat currencies to the exchange to buy digital currencies such as BTC to be traded with TFT and vice versa if you want to transfer the value of your TFT back to your bank account. 
+
+Public exchanges usually require KYC procedures.
 
 #### Through Farmers
 

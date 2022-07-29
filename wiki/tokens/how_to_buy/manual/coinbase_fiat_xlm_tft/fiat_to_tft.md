@@ -10,7 +10,7 @@ Its actually a very straight forward process:
 
 Example [From Fiat Currency to XLM on Coinbase](coinbase_fiat)
 
-Ofcourse any other digital exchange can be used e.g. Kraken, Binance, Liquid, ...
+Ofcourse any other digital exchange can be used e.g. Kraken, Binance, ...
 
 ## **Step 2: Convert XLM to TFT**
 

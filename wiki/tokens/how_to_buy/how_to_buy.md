@@ -1,7 +1,7 @@
 
 ![](img/tftexplo.jpg)
 
-# How to Buy TFT
+# How to Buy & Sell TFT
 
 Find below a table that shows all buying options for TFT. 
 
@@ -9,11 +9,15 @@ Note that exchanges and wallets have restrictions on where they can sell crypto.
 
 !!!include:tft_ways_to_buy_include
 
-## Buy TFT using a VISA card
+## Withdraw your TFT from Liquid
 
-If Liquid's Quick Exchange is available in your country and that you have a VISA card, this is the easiest way to buy TFT. You can buy without a KYC procedure up-to $150, and more if you do the KYC. 
+On August 21, 2022, TFT will be delisted from the Liquid Exchange. More information [here](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197). If you hold TFT on Liquid (please note we do not recommend storing tokens on a public exchange), you will need to withdraw your TFT and move them to another location. We recommend one of the options [here](threefold_wallets). If you are unsure, the best option is [ThreeFold Connect](threefold_connect).
 
-Find the Quick Exchange [here](https://www.liquid.com/quick-exchange/).
+Please follow Liquid's documentation on how to withdraw crypto [here](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account).
+
+## Buy TFT using a credit or debit card
+
+You can now buy TFT with a credit or debit card via [gettft.com](gettft.com).
 
 ## From a Public Exchange
 

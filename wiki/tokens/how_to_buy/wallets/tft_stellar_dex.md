@@ -28,7 +28,7 @@ This part of the process involves:
 
 Choose one of the following mechanisms to go from a digital currency like XLM to TFT:
 
-- [StellarTerm](stellarterm)(https://stellarterm.com/) = for desktop, no install or account creation necessary
+- [StellarTerm](https://stellarterm.com/) = for desktop, no install or account creation necessary
 - [wallet solar](solar_wallet) = desktop, needs install
 - [wallet Lobstr](lobstr_wallet) = desktop, needs install
 - [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available

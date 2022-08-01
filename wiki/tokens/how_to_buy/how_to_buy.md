@@ -19,7 +19,7 @@ Please follow Liquid's documentation on how to withdraw crypto [here](https://he
 
 You can now buy TFT with a credit or debit card via [gettft.com](gettft.com).
 
-## From a Public Exchange
+<!-- ## From a Public Exchange
 
 To buy TFT on an exchange you will have to follow these steps:
 
@@ -31,7 +31,7 @@ If you would like to sell or exchange TFT on these exchanges, you will have to f
 
 - First, exchange your TFT to another digital currency (BTC, USDT, XLM, etc) that can be traded into fiat.
 - Then, exchange the other digital currency (BTC, etc.) into fiat.
-- Finally, transfer the fiat amount to your bank account. 
+- Finally, transfer the fiat amount to your bank account. -->
 
 ## How to convert TFTA to TFT
 

@@ -19,13 +19,13 @@ Lobstr is a simple and secure stellar wallet that allows you to buy TFT trading 
 
 ## Details
 
-### Step1 Create & Confirm Your Account
+### Step 1: Create & Confirm Your Account
 
-Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892 ':ignore') or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl ':ignore')
+Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892) or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl)
 
 And Create your account in the app and confirm your email address.![image alt text](img/lobstr_create_account.jpg)
 
-### Step 2 Creating a new wallet & Funding It
+### Step 2: Creating a new wallet & Funding It
 
 Lobstr will provide all its users with a 30 day loan of 1.5 XLM to activate the account. When you want to start using the Lobstr wallet you will need to fund it and pay back that loan. You can fund with a credit card or send digital currencies to the addresses of your lobstr wallet.
 

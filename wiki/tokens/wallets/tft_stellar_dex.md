@@ -4,7 +4,7 @@ Stellar is a global financial platform based on distributed ledger technology. I
 
 The base currency of Stellar is XLM, the easiest is to start from this currency.
 
-There are 4 ways to buy TFT on Stellar:
+At this time, we recommend one of the following ways to buy TFT on Stellar:
 
 - [StellarTerm](https://stellarterm.com/) = for desktop, no install or account creation necessary (manual coming soon)
 - [Solar Wallet](solar_wallet) = desktop, needs install

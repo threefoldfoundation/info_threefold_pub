@@ -1,6 +1,6 @@
 # Buy TFT Through Stellar
 
-Stellar has build in exchange = Stellar_Exchange
+Stellar has a built-in exchange = Stellar_Exchange
 
 You can use this exchange to go from a Stellar token e.g. XLM to TFT or other way around.
 

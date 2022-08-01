@@ -17,7 +17,7 @@ Please follow Liquid's documentation on how to withdraw crypto [here](https://he
 
 ## Buy TFT using a credit or debit card
 
-You can now buy TFT with a credit or debit card via [gettft.com](gettft.com).
+You can now buy TFT with a credit or debit card via [gettft.com](https://gettft.com).
 
 <!-- ## From a Public Exchange
 
@@ -39,7 +39,7 @@ If you have TFTA that you would like to exchange, you can easily [convert them t
 
 ## Get Support
 
-- If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
+If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
 
 
 !!!include:legal:tft_not_investment

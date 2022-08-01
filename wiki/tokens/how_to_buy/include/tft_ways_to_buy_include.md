@@ -1,8 +1,6 @@
 ## Options to Buy TFT
 
-We recommended to use [gettft.com](https://gettft.com/) or Stellar:
-
-!!!include:tft_stellar_dex
+We recommended to use [gettft.com](https://gettft.com/) or [Stellar](tft_stellar_dex):
 
 ### More Information
 

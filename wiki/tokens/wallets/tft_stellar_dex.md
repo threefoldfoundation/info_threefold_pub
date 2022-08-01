@@ -15,6 +15,6 @@ There are 4 ways to buy TFT on stellar:
 - [Solar Wallet](solar_wallet) = desktop, needs install
 - [Lobstr Wallet](lobstr_wallet) = desktop, needs install
 - [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available
-- [StellarX](tft_stellarx) = web based, gives you a trading view (note: TFT is currently unavailable on StellarX, we have reached out to their team about relisting)
+<!-- - [StellarX](tft_stellarx) = web based, gives you a trading view (note: TFT is currently unavailable on StellarX, we have reached out to their team about relisting) -->
 
 !!!include:legal:tft_not_investment 

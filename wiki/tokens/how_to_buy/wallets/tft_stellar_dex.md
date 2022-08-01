@@ -24,15 +24,15 @@ This part of the process involves:
 2. Setting up a trustline for TFT (means teach the wallet about the existence of ThreeFold Token)
 3. Exchanging XLM for TFT
 
-## 5 Different Ways How the Stellar Exchange Can Be Used
+## 4 Different Ways How the Stellar Exchange Can Be Used
 
 Choose one of the following mechanisms to go from a digital currency like XLM to TFT:
 
-- [StellarTerm](https://stellarterm.com/) = for desktop, no install or account creation necessary
+- [StellarTerm](https://stellarterm.com/) = for desktop, no install or account creation necessary (manual coming soon)
 - [wallet solar](solar_wallet) = desktop, needs install
 - [wallet Lobstr](lobstr_wallet) = desktop, needs install
 - [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available
-- [stellarx](tft_stellarx) = web based, gives you a trading view (note: TFT is currently unavailable on stellarx, we have reached out to their team about relisting)
+<!-- - [stellarx](tft_stellarx) = web based, gives you a trading view (note: TFT is currently unavailable on stellarx, we have reached out to their team about relisting) -->
 
 Please let us know which method you prefer.
 

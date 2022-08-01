@@ -29,7 +29,7 @@ When you are on a trade page, you can select any other counterasset.
 
 And then you just pick the order or create a new one the same way as on any other exchange.
 
-![tradebox](img/stellarterm_tradebox.jpg)
+![tradebox](img/stellarterm_tradebox.png)
 
 
 

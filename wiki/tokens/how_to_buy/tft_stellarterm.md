@@ -1,11 +1,11 @@
 
-# What is [stellarterm.com](https://stellarterm.com/)?
+# What is StellarTerm?
 
-StellarTerm is an open source client for the Stellar network that allows people to trade on the Stellar Decentralized Exchange. Users can send, receive, and trade assets on the Stellar network easily with StellarTerm. It's arguably the best and most simple experience we've found, requiring no install or account creation.
+[StellarTerm]((https://stellarterm.com/) is an open source client for the Stellar network that allows people to trade on the Stellar Decentralized Exchange. Users can send, receive, and trade assets on the Stellar network easily with StellarTerm. It's arguably the best and most simple experience we've found.
 
 # How use StellarTerm
 
-You can use StellarTerm by connecting your wallet, or directly with your secret key (although this option is not recommended due to security risks).
+You can use StellarTerm by clicking on New Account and connecting your wallet, or directly with your secret key (although this option is not recommended due to security risks).
 
 ![wallets](img/stellarterm_wallets.png)
 
@@ -13,16 +13,16 @@ If you already have TFT in your wallet, just click on the Trade button next to i
 
 ![balances](img/stellarterm_balance_trade.png)
 
-If you do not have TFT in your wallet yet, go to the Markets page and scroll to the very bottom, find "Custom exchange pair" dialog and fill in the Base asset field: 
+If you do not have TFT in your wallet yet, go to the Markets page and scroll to the very bottom, find "Custom Exchange Pair" dialog and fill in the Base Asset field: 
 
 - Asset Code: TFT
 - Issuer Account ID or federation: GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47
 
-Select USDC or XLM or any other asset as Counter asset and click to pair.
+Select USDC or XLM or any other asset as Counter Asset and click to pair.
 
 ![custompair](img/stellarterm_custompair.png)
 
-When you are on a trade page, you can select any other counter asset.
+When you are on a trade page, you can select any other Counter Asset.
 
 ![tradpair](img/stellarterm_tradepair.png)
 

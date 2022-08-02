@@ -5,7 +5,7 @@
 
 # How use StellarTerm
 
-You can use StellarTerm by clicking on New Account and connecting your wallet, or directly with your secret key (although this option is not recommended due to security risks).
+Since StellarTerm is an opensource UI on top of Stellar Decentralised Exchange, you can just login there using your existing Stellar wallet. No need to create a new one, although you may want to create a new account for security reasons. To create a new account, click **NEW ACCOUNT** in the top right corner or just click **LOGIN** there. Login is possible by connecting your wallet, or directly entering with your secret key (although this option is not recommended due to security risks).
 
 ![wallets](img/stellarterm_wallets.png)
 

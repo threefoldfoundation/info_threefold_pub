@@ -6,7 +6,7 @@ The base currency of Stellar is XLM, the easiest is to start from this currency.
 
 At this time, we recommend one of the following ways to buy TFT on Stellar:
 
-- [StellarTerm](https://stellarterm.com/) = for desktop, no install or account creation necessary (manual coming soon)
+- [StellarTerm](tft_stellarterm) = for desktop, no install or account creation necessary (manual coming soon)
 - [Solar Wallet](solar_wallet) = desktop, needs install
 - [Lobstr Wallet](lobstr_wallet) = desktop, needs install
 - [Interstellar](tft_interstellar) = wallet and exchange with both web based and desktop based versions available

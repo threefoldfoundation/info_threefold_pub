@@ -1,4 +1,3 @@
-
 # Buy TFT With A Lobstr Wallet
 
 Simple & Secure Stellar Wallet
@@ -29,7 +28,7 @@ And Create your account in the app and confirm your email address.![image alt te
 
 Lobstr will provide all its users with a 30 day loan of 1.5 XLM to activate the account. When you want to start using the Lobstr wallet you will need to fund it and pay back that loan. You can fund with a credit card or send digital currencies to the addresses of your lobstr wallet.
 
-In case you did not buy XLM yet go to this [example manual for coinbase](/tokens/threefold__coinbase_fiat)
+In case you did not buy XLM yet go to this [example manual for coinbase](coinbase_fiat)
 
 ![image alt text](img/lobstr_fund_wallet.jpg)
 
@@ -54,4 +53,4 @@ You can now start exchanging your digital currencies for [TFTs](/tokens/threefol
 ![image alt text](img/lobstr_trade_tft.jpg)
 
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_investment 

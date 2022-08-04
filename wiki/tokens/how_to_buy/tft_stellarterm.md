@@ -3,7 +3,7 @@
 
 [StellarTerm](https://stellarterm.com/) is an open source client for the Stellar network that allows people to trade on the Stellar Decentralized Exchange. Users can send, receive, and trade assets on the Stellar network easily with StellarTerm.
 
-# How use StellarTerm
+# How to use StellarTerm
 
 Since StellarTerm is an open source UI on top of Stellar DecentraliZed Exchange, you can just log in there using your existing Stellar wallet.
 

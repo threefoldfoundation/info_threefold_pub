@@ -1,7 +1,8 @@
-# Albedo Wallet
+# [Albedo Wallet](https://albedo.link/)
 
 Albedo Wallet is an open-source browser-based (with browser add-on available) wallet from the creators of [stellar.expert](https://stellar.expert/) explorer.
 It supports storage, swaps and liqudity pools participation. 
+You can use it directly from your [browser](https://albedo.link/) or install as a [browser add-on](https://albedo.link/install-extension).
 
 ## Create Account
 You can create a new account or import 24 word passphrase or secret key.

@@ -8,4 +8,4 @@
 
 Full article [here](https://www.banklesstimes.com/2021/06/14/threefolds-green-technology-strategy-to-a-fairer-more-sustainable-world/)
 
-If you want to read more about ThreeFold energy savings, dive into [our wiki](https://library.threefold.me/#/threefold__energy_savings)!
+If you want to read more about ThreeFold energy savings, dive into [our wiki](energy_savings)!

@@ -13,11 +13,11 @@ Wallets have lots of optional features which you might like. So choose your wall
 
 | Wallet                                     | Description                                                                                              |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [**ThreeFold Connect**](threefold_connect) | The official ThreeFold Connect App is a must to install, its required to login as well.                  |
+| [**ThreeFold Connect**](threefold_connect) | The official ThreeFold Connect App is a must to install, it is required to login as well.                  |
 | [**Trust Wallet**](tft_bsc_trustwallet)    | Trusted by +10 million users worlwide, Easy access to cryptocurrencies and DeFi.                         |
 | [**Metamask**](tft_bsc_metamask)           | Trusted by +21 million users worldwide. Easy to buy TFT on Binance smartchain                            |
 | [**Solar**](solar_wallet)                  | A simple and secure wallet to transact on the stellar blockchain with multi-signature accounts and more. |
-| [**Lobstr**](lobstr_wallet)                | Lobstr most popularo wallet for Stellar blockchain Stellar.                                              |
+| [**Lobstr**](lobstr_wallet)                | Lobstr most popular wallet for Stellar blockchain Stellar.                                              |
 | [**Interstellar**](tft_interstellar)       | A secure non-custodial wallet that enables to control different private keys, for Stellar.               |
 
 

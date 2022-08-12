@@ -20,7 +20,7 @@ Interstellar provides a complete digital currency experience to easily create, s
 
 Interstellar.exchange is a decentralized exchange that allows you to buy [TFTs](/tokens/threefold_token). 
 
-See [Interstellar](https://interstellar.exchange ':ignore').
+See [Interstellar](https://interstellar.exchange).
 
 The base currency of Stellar is XLM, the easiest is to start from this currency.
 

@@ -1,5 +1,7 @@
 # Buying TFT on [StellarX](https://www.stellarx.com/)
 
+Note: TFT is currently unavailable on StellarX, we have reached out to their team about relisting.
+
 ![image alt text](img/stellar_x_image_0.jpg)
 
 ## Step 1: Sign-up

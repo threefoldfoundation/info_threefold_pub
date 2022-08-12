@@ -1,4 +1,3 @@
-
 # Buy TFT With A Lobstr Wallet
 
 Simple & Secure Stellar Wallet
@@ -19,17 +18,17 @@ Lobstr is a simple and secure stellar wallet that allows you to buy TFT trading 
 
 ## Details
 
-### Step1 Create & Confirm Your Account
+### Step 1: Create & Confirm Your Account
 
-Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892 ':ignore') or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl ':ignore')
+Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892) or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl)
 
 And Create your account in the app and confirm your email address.![image alt text](img/lobstr_create_account.jpg)
 
-### Step 2 Creating a new wallet & Funding It
+### Step 2: Creating a new wallet & Funding It
 
 Lobstr will provide all its users with a 30 day loan of 1.5 XLM to activate the account. When you want to start using the Lobstr wallet you will need to fund it and pay back that loan. You can fund with a credit card or send digital currencies to the addresses of your lobstr wallet.
 
-In case you did not buy XLM yet go to this [example manual for coinbase](/tokens/coinbase_fiat)
+In case you did not buy XLM yet go to this [example manual for coinbase](coinbase_fiat)
 
 ![image alt text](img/lobstr_fund_wallet.jpg)
 
@@ -41,17 +40,17 @@ To activate your wallet & start trading you will first need to refund Lobstr the
 
 ### Step 4: Add TFT asset(s)
 
-To start trading or buying [TFT](/tokens/threefold_token) assets you will have to add them to your wallet.
+To start trading or buying [TFT](/tokens/threefold__threefold_token) assets you will have to add them to your wallet.
 
-You can do this by clicking "Assets" in the left menu. From there you can search for [TFT](/tokens/threefold_token) and it will show all [TFT](/tokens/threefold_token) assets ([TFT](/tokens/threefold_token), FreeTFT, [TFTA](/tokens/tfta))
+You can do this by clicking "Assets" in the left menu. From there you can search for [TFT](/tokens/threefold__threefold_token) and it will show all [TFT](/tokens/threefold__threefold_token) assets ([TFT](/tokens/threefold__threefold_token), FreeTFT, [TFTA](/tokens/threefold__tfta))
 
 ![image alt text](img/lobstr_add_assets.jpg)
 
 ### Step 5: Start Trading
 
-You can now start exchanging your digital currencies for [TFTs](/tokens/threefold_token) through the Trade section in the menu. You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your [TFT](/tokens/threefold_token) will show up in your wallet.
+You can now start exchanging your digital currencies for [TFTs](/tokens/threefold__threefold_token) through the Trade section in the menu. You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your [TFT](/tokens/threefold__threefold_token) will show up in your wallet.
 
 ![image alt text](img/lobstr_trade_tft.jpg)
 
 
-!!!include:legal:tft_not_investment
+!!!include:legal:tft_not_investment 

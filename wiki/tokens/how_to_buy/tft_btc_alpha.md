@@ -51,12 +51,11 @@ Then, click under your name (top-right), then "Enable Two-factor Authentication,
 1. First, you'll need to [deposit funds](https://btc-alpha.com/en/profile/wallets) into your account
    - You can buy crypto directly using your bank card (after passing verification) [here](https://btc-alpha.com/en/mercuryo)
    - **If you need help, you can find it [here](https://btc-alpha.zendesk.com/hc/en-us/articles/360001896052-How-to-deposit-funds-into-my-private-account-in-the-exchange-market-)**
-2. Then, you will need to exchange your deposited fiat or cryptocurrency into either BTC (Bitcoin) or USD (US Dollar)
-   - These are currently the only trading pairs available with TFT
+2. Then, you will need to exchange your deposited fiat or cryptocurrency into BTC (Bitcoin)
+   - This is currently the only trading pair available with TFT
    - A trading pair is basically a currency which can be used to exchange or trade with another currency
    - **If you need help, you can find it [here](https://btc-alpha.zendesk.com/hc/en-us/articles/360001922531-How-can-I-carry-out-trading-in-the-BTC-Alpha-exchange-market-)**
 3. Now you can start buying TFT
-   - If you want to trade BTC, click [here](https://btc-alpha.com/en/exchange/TFT_BTC)
-   - If you want to trade with USD, click [here](https://btc-alpha.com/en/exchange/TFT_USD)
+   - To trade BTC, click [here](https://btc-alpha.com/en/exchange/TFT_BTC)
 
 !!!include:legal:tft_not_investment

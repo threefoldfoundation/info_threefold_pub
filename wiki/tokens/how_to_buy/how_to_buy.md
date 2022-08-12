@@ -1,7 +1,7 @@
 
 ![](img/tftexplo.jpg)
 
-# How to Buy TFT
+# How to Buy & Sell TFT
 
 Find below a table that shows all buying options for TFT. 
 
@@ -9,13 +9,17 @@ Note that exchanges and wallets have restrictions on where they can sell crypto.
 
 !!!include:tft_ways_to_buy_include
 
-## Buy TFT using a VISA card
+## Withdraw your TFT from Liquid
 
-If Liquid's Quick Exchange is available in your country and that you have a VISA card, this is the easiest way to buy TFT. You can buy without a KYC procedure up-to $150, and more if you do the KYC. 
+On August 21, 2022, TFT will be delisted from the Liquid Exchange. More information [here](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197). If you hold TFT on Liquid (please note we do not recommend storing tokens on a public exchange), you will need to withdraw your TFT and move them to another location. We recommend one of the options [here](threefold_wallets). If you are unsure, the best option is [ThreeFold Connect](threefold_connect).
 
-Find the Quick Exchange [here](https://www.liquid.com/quick-exchange/).
+Please follow Liquid's documentation on how to withdraw crypto [here](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account).
 
-## From a Public Exchange
+## Buy TFT using a credit or debit card
+
+You can now buy TFT with a credit or debit card via [gettft.com](https://gettft.com).
+
+<!-- ## From a Public Exchange
 
 To buy TFT on an exchange you will have to follow these steps:
 
@@ -27,7 +31,7 @@ If you would like to sell or exchange TFT on these exchanges, you will have to f
 
 - First, exchange your TFT to another digital currency (BTC, USDT, XLM, etc) that can be traded into fiat.
 - Then, exchange the other digital currency (BTC, etc.) into fiat.
-- Finally, transfer the fiat amount to your bank account. 
+- Finally, transfer the fiat amount to your bank account. -->
 
 ## How to convert TFTA to TFT
 
@@ -35,7 +39,7 @@ If you have TFTA that you would like to exchange, you can easily [convert them t
 
 ## Get Support
 
-- If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
+If you have any questions, please feel free to use the support chat (blue icon on the bottom of this page) or use [our forum](https://forum.threefold.io).
 
 
 !!!include:legal:tft_not_investment

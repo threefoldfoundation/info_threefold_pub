@@ -38,7 +38,7 @@ Albedo allows to easily swap assets between each other, using Stellar Dex on the
 If you want to swap assets, go to the "Swap" section, choose assets to swap between and select amount.
 The exact price will be known after the operation so make sure that slippage tolerance is selected at the proper level for you.
 
-![albedo-select-asset](img/albedo-select-asset.png)
+![albedo-swap](img/albedo-swap.png)
 
 ## Liquidity Pools
 

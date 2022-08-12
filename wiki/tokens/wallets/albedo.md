@@ -35,7 +35,9 @@ Then click on "choose asset" and then type asset name. In case of TFT please mak
 ## Swap assets
 
 Albedo allows to easily swap assets between each other, using Stellar Dex on the background. 
+
 If you want to swap assets, go to the "Swap" section, choose assets to swap between and select amount.
+
 The exact price will be known after the operation so make sure that slippage tolerance is selected at the proper level for you.
 
 ![albedo-swap](img/albedo-swap.png)
@@ -43,8 +45,11 @@ The exact price will be known after the operation so make sure that slippage tol
 ## Liquidity Pools
 
 Albedo allows to join [Stellar Dex Liquidity Pools](https://developers.stellar.org/docs/glossary/liquidity-pool/). 
+
 By joining Liqudity pool, you engage your funds in helping community with liqudity and earn transaction fees whenever exchange is happening for the specific pair. 
-To participate in the liquidity pool, you have to provide in equal proportions two assets from both side of the pair.
+
+To participate in the liquidity pool, you have to provide in equal proportions two assets from both sides of the pair.
+
 Click a button "Deposit liquidity to the pool" and then select amount of first or second asset you want to provide and click "Deposit". 
 
 ![albedo-liquidity-pool](img/albedo-liquidity-pool.png)

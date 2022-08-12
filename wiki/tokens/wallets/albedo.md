@@ -11,7 +11,7 @@ You can create a new account or import 24 word passphrase or secret key.
 
 ## Send and Receive funds 
 
-In order to recieve funds you can copy use your address as shown in the top left corner. Click on "copy" button to copy it easier. 
+In order to recieve funds you can copy your address as shown in the top left corner. Click on "copy" button to copy it easier. 
 In order to send funds, go to the Transfer dialog using menu button and fill in recipient address, amount and currency (tokens) to send. 
 
 ![albedo-send-receive](img/albedo-send-receive.png)

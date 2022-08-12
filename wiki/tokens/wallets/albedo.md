@@ -7,7 +7,8 @@ You can use it directly from your [browser](https://albedo.link/) or install as 
 ## Create Account
 You can create a new account or import 24 word passphrase or secret key.
 ![albedo-login](img/albedo-login.jpg)
-albedo-create-account.png
+![albedo-create-account](img/albedo-create-account.png)
+
 
 ## Send and Receive funds 
 

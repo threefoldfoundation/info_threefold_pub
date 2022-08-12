@@ -8,6 +8,10 @@ You can use it directly from your [browser](https://albedo.link/) or install as 
 You can create a new account or import 24 word passphrase or secret key.
 ![albedo-create-account](img/albedo-create-account.png)
 
+## Get TFT
+
+If you do not have TFT yet, you can [buy it](how_to_buy) and deposit to your wallet. 
+Or alternative you can buy XLM or USDT first and then [swap to TFT inside Albedo](albedo?id=swap-assets).
 
 ## Send and Receive funds 
 

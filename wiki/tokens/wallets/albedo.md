@@ -5,8 +5,10 @@ It supports storage, swaps and liqudity pools participation.
 You can use it directly from your [browser](https://albedo.link/) or install as a [browser add-on](https://albedo.link/install-extension).
 
 ## Create Account
-You can create a new account or import 24 word passphrase or secret key.
+You can create a new account
 ![albedo-login](img/albedo-login.jpg)
+
+or import 24 word passphrase or secret key.
 ![albedo-create-account](img/albedo-create-account.png)
 
 

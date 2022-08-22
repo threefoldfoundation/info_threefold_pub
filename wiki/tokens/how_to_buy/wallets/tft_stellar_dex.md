@@ -28,9 +28,10 @@ This part of the process involves:
 
 Choose one of the following mechanisms to go from a digital currency like XLM to TFT:
 
-- [StellarTerm](tft_stellarterm) = for desktop, no install or account creation necessary (manual coming soon)
-- [wallet solar](solar_wallet) = desktop, needs install
-- [wallet Lobstr](lobstr_wallet) = desktop, needs install
+- [StellarTerm](tft_stellarterm) = for desktop, no install or account creation necessary
+- [Albedo](albedo) = for desktop, comprehensive tool, browser extension available
+- [Lobstr Wallet](lobstr_wallet) = desktop, needs install
+- [Solar Wallet](solar_wallet) = desktop, needs install
 - [Interstellar](tft_interstellar) = wallet and exchange with both web based and desctop based versions available
 <!-- - [stellarx](tft_stellarx) = web based, gives you a trading view (note: TFT is currently unavailable on stellarx, we have reached out to their team about relisting) -->
 

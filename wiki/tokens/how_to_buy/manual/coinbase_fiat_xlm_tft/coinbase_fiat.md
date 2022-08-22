@@ -1,6 +1,6 @@
-# Use Coinbase to Buy Digital Currencies
+# Use Coinbase to Buy XLM with 
 
-If you need help purchasing cryptocurrency in order to get to TFT, this section is for you. We decided to use [Coinbase](https://www.coinbase.com) as an example, as Coinbase is a well-known and reputable public exchange that has a gateway from fiat to digital currencies. If you prefer another exchange, please feel free to do so. Just do your research!
+If you need help purchasing cryptocurrency in order to get to TFT, this section is for you. We decided to use [Coinbase](https://www.coinbase.com) as an example, as Coinbase is a well-known and reputable public exchange that has a gateway from fiat to digital currencies. If you prefer [another exchange](https://www.stellar.org/lumens/exchanges), please feel free to do so. Just do your research!
 
 ## Sign up for Coinbase
 

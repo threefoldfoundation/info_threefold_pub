@@ -23,7 +23,7 @@ Lobstr allows you to buy XLM or USDC directly in your wallet. See their manual f
 
 ### Add TFT
 
-To start trading or buying [TFT](/tokens/threefold__threefold_token) assets you will have to add them to your wallet.
+To start trading or buying TFT you will have to add it to your wallet.
 
 You can do this by clicking "Assets" in the left menu. From there you can search for TFT and it will show TFT and TFTA. Click on [**Add** button](https://lobstr.freshdesk.com/support/solutions/articles/151000001061-adding-custom-assets-in-lobstr). Please take a note that you should have some XLM on your account before you can activate TFT. 
 

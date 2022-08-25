@@ -35,7 +35,7 @@ Lobstr allows to easily swap in and out of TFT in the [Swap Assets](https://lobs
 
 ![lobstr_swap](img/lobstr_swap_tft.png)
 
-For advanced traders Lobstr provides access to the full orderbook trading functionality in the [Trade section](https://lobstr.freshdesk.com/support/solutions/articles/151000001080-trading-in-lobstr-wallet). You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your [TFT](/tokens/threefold__threefold_token) will show up in your wallet.
+For advanced traders Lobstr provides access to the full orderbook trading functionality in the [Trade section](https://lobstr.freshdesk.com/support/solutions/articles/151000001080-trading-in-lobstr-wallet). You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your TFT will show up in your wallet.
 
 ![image alt text](img/lobstr_trade_tft.jpg)
 

@@ -1,4 +1,4 @@
-# Buy TFT Through Stellar
+# Buy TFT through Stellar
 
 Stellar has a built-in exchange = Stellar_Exchange
 

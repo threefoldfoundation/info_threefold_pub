@@ -1,84 +1,45 @@
-# Use Coinbase to Buy Digital Currencies
+# Use Coinbase to Buy XLM with 
 
-## Signing up for coinbase.
+If you need help purchasing cryptocurrency in order to get to TFT, this section is for you. We decided to use [Coinbase](https://www.coinbase.com) as an example, as Coinbase is a well-known and reputable public exchange that has a gateway from fiat to digital currencies. If you prefer [another exchange](https://www.stellar.org/lumens/exchanges), please feel free to do so. Just do your research!
 
-If you are new to buying digital currencies, this step is for you as you are about to step into the world of digital currencies. Exciting!
+## Sign up for Coinbase
 
-For this example, we will use a well-known and renowned digital currency exchange that has a gateway from fiat to digital currencies: www.Coinbase.com
+First, you'll need to sign up for an account with Coinbase. Head to the [Get Started (Sign Up)](https://www.coinbase.com/signup) page and follow the process there. You will need a government-issued photo ID, a functioning email address, a mobile device, and a payment method. Available payment methods differ based on your region. The process is quite straight-forward but we've included some links at the bottom of this page directly from Coinbase if you need support.
 
-- Create an account on the sign up page: [https://www.coinbase.com/signup](https://www.coinbase.com/signup)![image alt text](img/xlm_solar_tft_manual_image_0.jpg)
-- After signing up, a few steps will be presented (e.g. GDPR compliance notice, privacy policy acknowledgment, and newsletter preferences).
-- After this step, it is required that you verify your email address.
-- After verifying, you will have to add a mobile phone number where you can receive SMS messages (e.g. for confirmation).
-- After clicking 'Send Code,' you will have to fill in the code received in the text sent by Coinbase.
-- Coinbase by law has to ask and verify your identity. These are the last steps to take. Make sure all information provided is correct as stated on your ID.
+![Get Started](img/xxx.png)
 
-![image alt text](img/xlm_solar_tft_manual_image_5.jpg)
+## Navigate the dashboard
 
+Once you've logged into Coinbase, you'll land in the dashboard. Here you can manage the details of your account as well as buy, sell, and trade cryptocurrencies. Since we're really only focused here on buying cryptocurrency in order to get to TFT, we won't dive into all of the dashboard. Again, Coinbase has plenty of [excellent resources](https://help.coinbase.com/en) if you need them!
 
-- To verify your input, Coinbase will need you to upload a valid ID. (These options can differ per user.)
+## Exchange your fiat for digital currency.
 
-![image alt text](img/xlm_solar_tft_manual_image_6.jpg)
+Now you're ready to buy any digital currency supported by Coinbase. In this scenario, we recommend XLM which is Stellar's native token. We recommend XLM because it can be traded directly with TFT.
 
-- For uploading purposes there are 3 options: webcam, phone camera, & file upload. For this example, we have used the webcam option to send both the front and back of the ID.
+On coinbase.com:
 
-![image alt text](img/xlm_solar_tft_manual_image_7.jpg)
+1. Sign in to Coinbase.
+2. Select Buy / Sell on the upper right-hand side.
+3. Click the Buy panel to select the asset you'd like to purchase (choose XLM)
+4. Enter the amount you'd like to buy denominated in your local currency.
+5. Select your payment method.
+6. Click Preview Buy to confirm your purchase (you can always click the back arrow to make a change).
+7. If the details are correct, click Buy to complete your purchase.
 
-- Coinbase will now verify your documents; this might take up to a few minutes.
+On the mobile app:
 
-![image alt text](img/xlm_solar_tft_manual_image_8.jpg)
+1. Tap + Buy on the Home tab.
+2. Select the asset you’d like to buy (choose XLM)
+3. Enter the amount you'd like to buy denominated in your local currency.
+4. Select Preview Buy to review your purchase (you can always tap the back button to make a change).
+5. If all the details are correct, tap Buy now to complete your purchase.
 
-You are now onboarded!
+Congratulations! You now have XLM in your wallet and you are ready to buy ThreeFold_Tokens!
 
-## Coinbase funding exchange
+## Helpful Links
 
-1. Visit [https://www.coinbase.com/dashboard](https://www.coinbase.com/dashboard) and click trade
-   ![image alt text](img/xlm_solar_tft_manual_image_9.jpg)
-
-2. Add your preferred payment method (in the example below we show a bank transfer)
-
-Specify:
-
-- Bank Name
-- Account Holder Full Name
-- Amount
-
-![image alt text](img/xlm_solar_tft_manual_image_10.jpg)
-
-3. Write down the reference number displayed (make sure you save this number)
-   ![image alt text](img/xlm_solar_tft_manual_image_11.jpg)
-
-4. Wire the amount from your account to the location shown on the screen (note: this may differ from what is shown in the screenshot)
-   ![image alt text](img/xlm_solar_tft_manual_image_12.jpg)
-
-5. Wait for the funds to appear in your account. This may take a while, and normally Coinbase sends the account holder an email.
-
-## Exchanging your fiat for digital currency.
-
-For this part of the manual, we unfortunately cannot provide any screenshots other than the ones on display (Dutch Language) as this setting seems to be tied to the account holder’s (in this case, a cool Dutch guy :)) nationality.
-
-We'll be buying XLM (Stellar Lumens) in this scenario, which is Stellar's token.
-
-1. Click Trade
-
-![Trade](img/xlm_solar_tft_manual_image_13.jpg)
-
-2. Choose XLM and the wallet that holds your funds
-   ![Choose](img/xlm_solar_tft_manual_image_14.jpg)
-
-3. Click Preview
-   ![Preview](img/xlm_solar_tft_manual_image_15.jpg)
-
-4. Click Buy Now if you agree with the preview of sale
-   ![Buy](img/xlm_solar_tft_manual_image_16.jpg)
-
-5. The XLMs bought will now show up in your wallet
-   ![Done](img/xlm_solar_tft_manual_image_17.jpg)
-
-Congratulations! You now have XLMs in your wallet and you are ready to buy ThreeFold_Tokens!
-
-[To continue the journey go back to overview doc.](fiat_to_tft)
-
-
+- [Create an account](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/create-a-coinbase-account)
+- [Getting started](https://help.coinbase.com/en/coinbase/getting-started)
+- [How do I buy cryptocurrency](https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/how-do-i-buy-digital-currency)
 
 !!!include:legal:tft_not_investment

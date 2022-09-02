@@ -1,17 +1,14 @@
+# Get TFT
 
-![](img/tftexplo.jpg)
+Please find below a table that shows all of the buying options for TFT. 
 
-# How to Buy & Sell TFT
-
-Find below a table that shows all buying options for TFT. 
-
-Note that exchanges and wallets have restrictions on where they can sell crypto. If you are new to buying and selling digital currencies, we invite you to visit the [New to Tokens](newtotokens) section. 
+If you are new to buying and selling cryptocurrencies, we invite you to visit the [New to Tokens](newtotokens) section. 
 
 !!!include:tft_ways_to_buy_include
 
 ## Withdraw your TFT from Liquid
 
-On August 21, 2022, TFT will be delisted from the Liquid Exchange. More information [here](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197). If you hold TFT on Liquid (please note we do not recommend storing tokens on a public exchange), you will need to withdraw your TFT and move them to another location. We recommend one of the options [here](threefold_wallets). If you are unsure, the best option is [ThreeFold Connect](threefold_connect).
+On August 21, 2022, TFT was delisted from the Liquid Exchange. This means that TFT can no longer be traded on Liquid. More information [here](https://forum.threefold.io/t/tft-will-be-delisted-on-liquid-what-now-and-what-next/3197). If you are still holding TFT on Liquid (please note we do not recommend storing tokens on a public exchange), you will need to withdraw your TFT and move them to another location. We recommend one of the options [here](threefold_wallets). If you are unsure, the best option is [ThreeFold Connect](threefold_connect).
 
 Please follow Liquid's documentation on how to withdraw crypto [here](https://help.liquid.com/en/articles/2275670-how-to-withdraw-funds-from-my-liquid-account).
 

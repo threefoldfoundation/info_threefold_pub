@@ -11,7 +11,7 @@ ThreeFold community members store TFT in wallets, as long-term believers in the 
 Wallets have lots of optional features which you might like. So choose your wallet based on the features you want. Here are some of our favorites below:
 
 | Wallet                                     | Description                                               | Wallet                                     |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------ | ----------------------------------------------------------|--------------------------------------------- |
 | [**ThreeFold Connect**](threefold_connect) | The official ThreeFold Connect App is a must to install, it is required to log in to many ThreeFold services as well. *For Stellar.*               |
 | [**Lobstr**](lobstr_wallet)                | Our top pick after ThreeFold Connect for its simplicy and security. Available on web and mobile. *For Stellar.*                                             |
 | [**Solar**](solar_wallet)                  | A simple and secure wallet to transact on the Stellar blockchain with multi-signature accounts and more. For Stellar. |

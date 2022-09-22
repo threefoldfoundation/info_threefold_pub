@@ -9,7 +9,7 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**Gettft.com**](https://gettft.com/gettft/) | OTC | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards |
 | [**OTC Desk**](tft_otc) | Exchange | OTC Desk for big transactions that hard to fill through other channels |
 | [**Albedo Wallet**](https://albedo.link/) | Wallet, Swaps, Liquidity Pools | Nice and simple browser-based wallet with swaps and liquidity pools support |
-| [**Lobstr Wallet**](https://lobstr.co/) | Wallet, Exhcnage | User-friendly wallet with Credit Cards, Monegram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading. |
+| [**Lobstr Wallet**](https://lobstr.co/) | Wallet, Exchange | User-friendly wallet with Credit Cards, Monegram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading. |
 | [**Freighter Wallet**](https://www.freighter.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps support|
 | [**Xbull Wallet**](https://xbull.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps and liquidity pools support|
 | [**StellarTerm Exchange**](https://stellarterm.com/) | Exchange |	Advanced exchange with Credit Cards, ACH, Wire support|

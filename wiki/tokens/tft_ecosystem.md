@@ -3,7 +3,7 @@
 ThreeFold Token at the moment exists on three blockchains: stellar, polkadot and binance smart chain.
 Here you can see our top picks of the TFT ecosystem tools.
 
-| Stellar Network |
+| Stellar Network ||
 | --------------- | --------------- |
 | ThreeFold Connect | ThreeFold native wallet with full integration into ThreeFold ecosystem |
 | Gettft.com | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards |
@@ -20,18 +20,21 @@ Here you can see our top picks of the TFT ecosystem tools.
 | https://stellar.expert/ | Popular blockchain explorer for stellar|
 | | Please note that there are many more wallets and exchanges that support TFT, basically any instrument|
 						
-| *TFChain Network* | |
+| TFChain Network | |
+| --------------- | --------------- |
 | ThreeFold Connect | ThreeFold native wallet with full integration into ThreeFold ecosystem|
 | Polkadot Extension | Polkadot Browser extention to store your private keys|
 | TF-Chain Portal | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management |
 						
-| *Binance Smart Chain* | |
+| Binance Smart Chain | |
+| --------------- | --------------- |
 | Metamask | Highly customisable browser wallet with build in swap support|
 | 1inch | Swaps, Orderbook, Liqudity Pools for TFT|
 | PancakeSwap | Liqudity Pool with swaps support for  any BEP20 tokens|
 | Trust Wallet | Popular wallet that supports BEP20 tokens|
 | bscscan.com | Popular blockchain explorer for BEP20 tokens|
 						
-| *Gateways* | |
+| Gateways | |
+| --------------- | --------------- |
 | Stellar <> Binance Smart Chain Gateway | ThreeFold Foundation - driven gateway for TFT between Stellar and BSC networks |
 | Stellar <> TFChain Gateway | https://portal.grid.tf/ - allows TFT swaps between Stellar and TFChain|

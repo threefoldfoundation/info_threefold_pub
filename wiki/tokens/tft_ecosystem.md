@@ -33,7 +33,7 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**Trust Wallet**](tft_bsc_trustwallet) | Popular wallet that supports BEP20 tokens|
 | [**bscscan.com**](https://bscscan.com/) | Popular blockchain explorer for BEP20 tokens|
 						
-| **Gateways** | |
+| **Bridges** | |
 | --------------- | --------------- |
-| [**Stellar <> Binance Smart Chain Gateway**](https://bridge.bsc.threefold.io/) | ThreeFold Foundation - driven gateway for TFT between Stellar and BSC networks |
-| [**Stellar <> TFChain Gateway**](https://portal.grid.tf/) | Grid Portal allows TFT swaps between Stellar and TFChain|
+| [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Foundation - driven bridge for TFT between Stellar and BSC networks |
+| [**Stellar <> TFChain Bridge**](https://portal.grid.tf/) | Grid Portal allows TFT swaps between Stellar and TFChain|

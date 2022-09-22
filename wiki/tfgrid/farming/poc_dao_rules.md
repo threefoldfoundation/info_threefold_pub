@@ -33,15 +33,16 @@
 
 This is for mainnet TFGrid 3.0:
 
-- The TFT USD price used at 3Node registration at launch of mainnet is hardcoded in TFChain 3.0 at 0.08 USD per TFT (TFChain 3.0 as used in Jan 2022), if you don't like this price please wait till the TFDAO price registration will be implemented in Jan 2022.
+- The TFT USD price used at 3Node registration at launch of mainnet is hardcoded in TFChain 3.0 at 0.08 USD per TFT (TFChain 3.0 as used in Jan 2022).
+- Once the DAO is life, a new price will be approved by the DAO voters. Idea is to have this price re-visited +- once a month, if needed faster.
 - The TFT USD price used at 3Node registration is defined by the TFDAO at least once a month by means of GEP.
 
 
 ## Remarks
 
-- The big majoriy of 3Nodes are still registered on the [ThreeFold Grid v2 farming reward](farming_reward2). The transition to ThreeFold Grid v3 farming rewards is expected for Q1 2022. More information about the upgrade can be found [here](farming_upgrade_2_3).
+- Majority of 3Nodes are still registered on the [ThreeFold Grid v2 farming reward](farming_reward2). The transition to ThreeFold Grid v3 farming rewards is expected for Q1 2022. More information about the upgrade can be found [here](farming_upgrade_2_3).
 - The above described Farming Rewards are for ThreeFold Grid version 3.0.x on mainnet and will only apply for 3Nodes as registered in TF Chain for mainnet 3.0.x. Before this all farming is done using 2.x farming rules even on 3.x Testnet and 3.0 mainnet.
-- Above specifications will only be final once [Wisdom Council](wisdom_council) approves and ThreeFold Grid 3.0.x is on mainnet, this will then be changed to TFDAO working.
+- Above specifications will only be final once DAO is active and first vote has happened (expected Feb/March 2022).
 - More information about the upgrade see: [Upgrade from farming 2 to farming 3](farming_upgrade_2_3)
 
 ## Suggested: improvements to proof-of-capacity

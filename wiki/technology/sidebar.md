@@ -17,6 +17,7 @@
   - [Zero-NIC](@znic)
   - [WebGateway](@webgw)
 - [Quantum Safe Storage](@qsss_home)
+- [Executors](@tfexecutors)
 - [Smart Contract for IT](@smartcontract_it)
 - [Infrastructure As Code](@smartcontract_iac)
 - [Roadmap](roadmap_grid)

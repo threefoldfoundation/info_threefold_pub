@@ -1,7 +1,13 @@
 - [**Home**](@threefold_home)
-----------
 - [Decentralization Home](@decentralization)
-- [Decentralization Status](@decentralization_status)
+----------
+- [ThreeFold DAO](@tfdao)
+- [What is a DAO](@dao)
+- [DAO Voting](@voting_l2)
+- [Validators](@validators)
+- [Executors](@tfexecutors)
+----------
 - [ThreeFold Foundation](@threefold_foundation)
 - [ThreeFold Companies](@threefold_companies)
 - [Alliance for a Conscious Internet](@aci)
+- [Decentralization Status](@decentralization_status)

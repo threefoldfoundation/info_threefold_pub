@@ -1,5 +1,6 @@
 - [**Home**](@threefold_home)
 - [**Cloud**](@cloud_home)
+- [**Technology**](@technology)
 -------------
 - [Compare Overview](cloud_compare_home)
 -------------

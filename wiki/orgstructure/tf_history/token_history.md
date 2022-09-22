@@ -44,7 +44,7 @@ In Q3 2021 we launched TF Grid 3.0 which has again brought improvement to the fa
 | freely transferable (\*)        | YES                         | YES               | YES                         |
 | complete blockchain feature set | YES                         | YES               | YES                         |
 | decentralized exchange          | YES (atomic swap)           | YES (Stellar)     | YES (Stellar)               |
-| public exchange                 | BTC Alpha till Dec 2019     | Stellar           | Stellar, BTC Alpha & Liquid |
+| public exchange                 | BTC Alpha till Dec 2019     | Stellar           | Stellar, BTC Alpha & Liquid (until August 2022) |
 | freely tradable on exchange     | YES                         | YES               | YES                         |
 | Name on Blockchain              | TFT                         | TFTA              | TFT                         |
 | Purpose                         | v1 token                    | Staking Pool      | Trading Pool                |

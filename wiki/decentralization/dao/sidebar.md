@@ -1,0 +1,10 @@
+- [**Home**](@threefold_home)
+- [Decentralization Home](@decentralization)
+----------
+- [ThreeFold DAO](@tfdao)
+- [What is a DAO](@dao)
+- [DAO Voting](@voting_l2)
+- [Layers in TFDAO](@tf_dao_bc_layers)
+- [Validators](@validators) 
+- [Executors](@tfexecutors)
+- [Why are DAO's important](@dao_why)

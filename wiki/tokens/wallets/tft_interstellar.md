@@ -18,9 +18,9 @@ Interstellar provides a complete digital currency experience to easily create, s
 
 ## Details: Buying and Storing TFT on Interstellar wallet
 
-Interstellar.exchange is a decentralized exchange that allows you to buy [TFTs](/tokens/threefold__threefold_token). 
+Interstellar.exchange is a decentralized exchange that allows you to buy [TFTs](/tokens/threefold_token). 
 
-See [Interstellar](https://interstellar.exchange ':ignore').
+See [Interstellar](https://interstellar.exchange).
 
 The base currency of Stellar is XLM, the easiest is to start from this currency.
 
@@ -29,7 +29,7 @@ The base currency of Stellar is XLM, the easiest is to start from this currency.
 - [X] add TFT as trustline to your wallet in insterstellar
 - [X] do the trade on interstellar site
 
-This is a straight forward process and will allow you to buy unlimited amounts of [TFT](/tokens/threefold__threefold_token).
+This is a straight forward process and will allow you to buy unlimited amounts of [TFT](/tokens/threefold_token).
 
 # Step by Step Manual
 
@@ -61,7 +61,7 @@ For Interstellar, all you need to do is set a password, as the wallet will be li
 ## Part 3: Adding the TFT Asset to your account.
 
 - Click Add Token in your account overview
-- Choose All (Unverified) and search for [TFT](/tokens/threefold__threefold_token)
+- Choose All (Unverified) and search for [TFT](/tokens/threefold_token)
 - You can also choose "Manual" and add the following data 
 
 ```
@@ -81,19 +81,19 @@ When you have successfully created a trustline it will say success and the activ
 
 ## Part 4: Trading Digital Currencies for TFT
 
-Now that the account is set up and funded and you have the [TFT](/tokens/threefold__threefold_token) asset listed in your account with a trustline you can now start trading [TFT](/tokens/threefold__threefold_token).
+Now that the account is set up and funded and you have the [TFT](/tokens/threefold_token) asset listed in your account with a trustline you can now start trading [TFT](/tokens/threefold_token).
 
 - Click Trading in the left sidebar
-- Then go to the most right tab to select the currency you would like to trade for [TFTs](/tokens/threefold__threefold_token) (XLM in the case of the screenshot) and press go
+- Then go to the most right tab to select the currency you would like to trade for [TFTs](/tokens/threefold_token) (XLM in the case of the screenshot) and press go
 
 ![image](img/interstellar_trade_xlm_tft.jpg)
 
-- You can now choose to fulfill a sell order from the order book, do a partial buy of an order,  or create you own buy order by stating the amount of [TFT](/tokens/threefold__threefold_token) you would like to buy and at what price. 
+- You can now choose to fulfill a sell order from the order book, do a partial buy of an order,  or create you own buy order by stating the amount of [TFT](/tokens/threefold_token) you would like to buy and at what price. 
 
 ![image](img/interstellar_trade_1.jpg)
 
 - You confirm the transaction and will get a success message when it has gone through, plus a little bell will also ring.
-- You now have [TFTs](/tokens/threefold__threefold_token) in your wallet
+- You now have [TFTs](/tokens/threefold_token) in your wallet
 
 ![image](img/interstellar_account_overview_3.jpg)
 

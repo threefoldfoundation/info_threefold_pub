@@ -12,12 +12,12 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**Lobstr Wallet**](https://lobstr.co/) | Wallet, Exhcnage | User-friendly wallet with Credit Cards, Monegram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading. |
 | [**Freighter Wallet**](https://www.freighter.app/) | Wallet & Swaps | Nice and simple browser-based wallet with swaps support.|
 | [**Xbull Wallet**](https://xbull.app/) | Wallet & Swaps | Nice and simple browser-based wallet with swaps and liquidity pools support.|
-| [**StellarTerm Exchange**](https://stellarterm.com/) |	Advanced exchange with Credit Cards, ACH, Wire support|
-| [**StellarX Exchange**](https://www.stellarx.com/) | Advanced exchange with nice UI, swaps, orderbook, liqudity pools support and gateways for Credit Cards, ACH, Wire transfers|
-| [**Solar Wallet**](https://solarwallet.io/) | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|
-| [**Interstellar Wallet and Exchange**](https://interstellar.exchange/) | Wallet with swaps, orderbook and advanced multisig support|
-| [**BTC-Alpha Exchange**](https://btc-alpha.com/) | CEX with TFT/BTC trading pair and some fiat gateways|
-| [**Stellar Expert Explorer**](https://stellar.expert/) | Popular blockchain explorer for stellar|
+| [**StellarTerm Exchange**](https://stellarterm.com/) | Exchange |	Advanced exchange with Credit Cards, ACH, Wire support|
+| [**StellarX Exchange**](https://www.stellarx.com/) | Exchange, Liquidity Pools | Advanced exchange with nice UI, swaps, orderbook, liqudity pools support and gateways for Credit Cards, ACH, Wire transfers|
+| [**Solar Wallet**](https://solarwallet.io/) | Wallet | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|
+| [**Interstellar Wallet and Exchange**](https://interstellar.exchange/) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support|
+| [**BTC-Alpha Exchange**](https://btc-alpha.com/) | Centralised Exchange | CEX with TFT/BTC trading pair and some fiat gateways|
+| [**Stellar Expert Explorer**](https://stellar.expert/) | Explorer | Popular blockchain explorer for stellar|
 						
 | **TFChain Network** | |
 | --------------- | --------------- |

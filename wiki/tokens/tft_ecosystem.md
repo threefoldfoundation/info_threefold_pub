@@ -21,17 +21,17 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 						
 | **TFChain Network** | |
 | --------------- | --------------- |
-| [**ThreeFold Connect**](threefold_connect) | ThreeFold native wallet with full integration into ThreeFold ecosystem|
-| [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Polkadot Browser extention to store your private keys|
-| [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management |
+| [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem|
+| [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Key Storage | Polkadot Browser extention to store your private keys|
+| [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management |
 						
 | **Binance Smart Chain** | |
 | --------------- | --------------- |
-| [**Metamask**](tft_bsc_metamask) | Highly customisable browser wallet with build in swap support|
-| [**1inch**](tft_1inch) | Swaps, Orderbook, Liqudity Pools for TFT|
-| [**PancakeSwap**](tft_binance_defi) | Liqudity Pool with swaps support for  any BEP20 tokens|
-| [**Trust Wallet**](tft_bsc_trustwallet) | Popular wallet that supports BEP20 tokens|
-| [**bscscan.com**](https://bscscan.com/) | Popular blockchain explorer for BEP20 tokens|
+| [**Metamask**](tft_bsc_metamask) | Wallet, Swaps | Highly customisable browser wallet with build in swap support|
+| [**1inch**](tft_1inch) | Swaps, Orderbook, Liquidity Pools | Swaps, Orderbook, Liqudity Pools for TFT|
+| [**PancakeSwap**](tft_binance_defi) | Swaps, Liquidity Pools | Liqudity Pool with swaps support for  any BEP20 tokens|
+| [**Trust Wallet**](tft_bsc_trustwallet) | Wallet | Popular wallet that supports BEP20 tokens|
+| [**bscscan.com**](https://bscscan.com/) | Explorer | Popular blockchain explorer for BEP20 tokens|
 						
 | **Bridges** | |
 | --------------- | --------------- |

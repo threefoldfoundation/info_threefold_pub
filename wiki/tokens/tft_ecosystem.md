@@ -19,14 +19,14 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**BTC-Alpha Exchange**](https://btc-alpha.com/) | Centralised Exchange | Centralised Exchange with TFT/BTC trading pair and some fiat gateways|
 | [**Stellar Expert Explorer**](https://stellar.expert/) | Explorer | Popular blockchain explorer for stellar|
 						
-| **TFChain Network** | |
-| --------------- | --------------- |
+| **TFChain Network** | ||
+| --------------- | --------------- |-------|
 | [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem|
 | [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Key Storage | Polkadot Browser extention to store your private keys|
 | [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management |
 						
-| **Binance Smart Chain** | |
-| --------------- | --------------- |
+| **Binance Smart Chain** | ||
+| --------------- | --------------- |--------|
 | [**Metamask**](tft_bsc_metamask) | Wallet, Swaps | Highly customisable browser wallet with build in swap support|
 | [**1inch**](tft_1inch) | Swaps, Orderbook, Liquidity Pools | Swaps, Orderbook, Liqudity Pools for TFT|
 | [**PancakeSwap**](tft_binance_defi) | Swaps, Liquidity Pools | Liqudity Pool with swaps support for  any BEP20 tokens|

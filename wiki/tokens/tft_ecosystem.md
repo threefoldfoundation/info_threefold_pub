@@ -8,12 +8,12 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 |  [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem |
 | [**Gettft.com**](https://gettft.com/gettft/) | OTC | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards |
 | [**OTC Desk**](tft_otc) | Exchange | OTC Desk for big transactions that hard to fill through other channels |
-| [**Albedo Wallet**](https://albedo.link/) | Wallet, Swaps, Liquidity Pools | Nice and simple browser-based wallet with swaps and liquidity pools support |
-| [**Lobstr Wallet**](https://lobstr.co/) | Wallet, Exchange | User-friendly wallet with Credit Cards, Moneygram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading|
+| [**Albedo Wallet**](albedo) | Wallet, Swaps, Liquidity Pools | Nice and simple browser-based wallet with swaps and liquidity pools support |
+| [**Lobstr Wallet**](lobstr_wallet) | Wallet, Exchange | User-friendly wallet with Credit Cards, Moneygram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading|
 | [**Freighter Wallet**](https://www.freighter.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps support|
 | [**Xbull Wallet**](https://xbull.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps and liquidity pools support|
 | [**StellarTerm Exchange**](https://stellarterm.com/) | Exchange |	Advanced exchange with Credit Cards, ACH, Wire support|
-| [**StellarX Exchange**](https://www.stellarx.com/) | Exchange, Swaps, Liquidity Pools | Advanced exchange with nice UI, swaps, orderbook, liqudity pools support and gateways for Credit Cards, ACH, Wire transfers|
+| [**StellarX Exchange**](https://www.stellarx.com/) | Exchange, Swaps, Liquidity Pools | Advanced exchange with nice UI, swaps, orderbook, liqudity pools support and gateways for Credit Cards, ACH, Wire transfers. [StellarX Manual](https://stellarx.freshdesk.com/support/home)|
 | [**Solar Wallet**](https://solarwallet.io/) | Wallet | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|
 | [**Interstellar Wallet and Exchange**](https://interstellar.exchange/) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support|
 | [**BTC-Alpha Exchange**](https://btc-alpha.com/) | Centralised Exchange | Centralised Exchange with TFT/BTC trading pair and some fiat gateways|

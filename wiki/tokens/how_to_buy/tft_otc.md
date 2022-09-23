@@ -16,6 +16,10 @@ Please specify the following data in your email:
 4. Preferred purchase/sell options
 5. Preferred price
 
+## Mazraa.io
+
+Alternatively, you can [connect with Mazraa farm for OTC deals](tft_mazraa). 
+
 !!!include:legal:tft_not_investment
 
 !!!include:token_toc

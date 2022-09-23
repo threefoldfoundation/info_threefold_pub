@@ -12,11 +12,11 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**Lobstr Wallet**](lobstr_wallet) | Wallet, Exchange | User-friendly wallet with Credit Cards, Moneygram and Bank transfer gateways, with swaps and advanced orederbook functionality for trading|
 | [**Freighter Wallet**](https://www.freighter.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps support|
 | [**Xbull Wallet**](https://xbull.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps and liquidity pools support|
-| [**StellarTerm Exchange**](https://stellarterm.com/) | Exchange |	Advanced exchange with Credit Cards, ACH, Wire support|
+| [**StellarTerm Exchange**](https://stellarterm.com/) | Exchange |	Advanced exchange with Credit Cards, ACH, Wire support. Please see their [Support Center](https://stellarterm.zendesk.com/hc/en-us) for details.|
 | [**StellarX Exchange**](https://www.stellarx.com/) | Exchange, Swaps, Liquidity Pools | Advanced exchange with nice UI, swaps, orderbook, liqudity pools support and gateways for Credit Cards, ACH, Wire transfers. Please see their [Knowledge Base](https://stellarx.freshdesk.com/support/home) for details.|
-| [**Solar Wallet**](https://solarwallet.io/) | Wallet | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|
-| [**Interstellar Wallet and Exchange**](https://interstellar.exchange/) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support|
-| [**BTC-Alpha Exchange**](https://btc-alpha.com/) | Centralised Exchange | Centralised Exchange with TFT/BTC trading pair and some fiat gateways|
+| [**Solar Wallet**](solar_wallet) | Wallet | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|
+| [**Interstellar Wallet and Exchange**](tft_interstellar) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support|
+| [**BTC-Alpha Exchange**](tft_btc_alpha) | Centralised Exchange | Centralised Exchange with TFT/BTC trading pair and some fiat gateways|
 | [**Stellar Expert Explorer**](https://stellar.expert/) | Explorer | Popular blockchain explorer for stellar|
 						
 | **TFChain Network** | ||
@@ -29,7 +29,7 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | --------------- | --------------- |--------|
 | [**Metamask**](tft_bsc_metamask) | Wallet, Swaps | Highly customisable browser wallet with build in swap support|
 | [**1inch**](tft_1inch) | Swaps, Orderbook, Liquidity Pools | Swaps, Orderbook, Liqudity Pools for TFT|
-| [**PancakeSwap**](tft_binance_defi) | Swaps, Liquidity Pools | Liqudity Pool with swaps support for  any BEP20 tokens|
+| [**PancakeSwap**](tft_binance_defi) | Swaps, Liquidity Pools | Liqudity Pool with swaps support for  any BEP20 tokens. Here are some more details on how to [participate in Liquidity pools](liquidity_provider)|
 | [**Trust Wallet**](tft_bsc_trustwallet) | Wallet | Popular wallet that supports BEP20 tokens|
 | [**bscscan.com**](https://bscscan.com/) | Explorer | Popular blockchain explorer for BEP20 tokens|
 						

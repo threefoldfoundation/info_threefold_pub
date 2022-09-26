@@ -36,4 +36,4 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | **Bridges** | |
 | --------------- | --------------- |
 | [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Foundation - driven bridge for TFT between Stellar and BSC networks |
-| [**Stellar <> TFChain Bridge**](https://portal.grid.tf/) | Grid Portal allows TFT swaps between Stellar and TFChain|
+| [**Stellar <> TFChain Bridge**](https://library.threefold.me/info/manual/#/manual__dashboard_readme) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for detlais|

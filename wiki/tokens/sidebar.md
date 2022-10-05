@@ -4,8 +4,7 @@
 
 - [What is TFT](token_what)
 - [TFT for Beginners](newtotokens)
-- [Get TFT](how_to_buy)
-- [Store TFT (Wallets)](threefold_wallets)
+- [TFT Ecosystem: Wallets, Exchanges, Bridges](tft_ecosystem)
 - [Drive TFT Liquidity](tft_liquidity)
 - [Use TFT](use_tft)
 - [Tokenomics](tokenomics)

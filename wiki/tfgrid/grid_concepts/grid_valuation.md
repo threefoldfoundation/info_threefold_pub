@@ -37,7 +37,7 @@ While demand for the Internet and cloud is growing globally, the distribution of
 
 - [Amazon](https://wikileaks.org/amazon-atlas/map/) 
 - [Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents)
-- [Cloudwirx](https://www.cloudwirx.com/datacenters)
+- [Upstack](https://marketplace.upstack.com/data-centers)
 - [Microsoft](https://yellowduckguy.wordpress.com/2018/03/15/microsoft-worldwide-data-center-locations/)
 
 The weak distribution of Internet capacity can be explained by the large amount of monetary, infrastructural, electricity, and security resources needed to operate hyper-scale data centers. The current model is not affordable to the developing regions of our world and the cost and complexity involved in producing compute and storage capacity can be covered only by current market leaders. This also means that all the data economy of these countries isn't owned by them, but by the tech giants. 

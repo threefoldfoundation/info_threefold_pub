@@ -5,7 +5,7 @@
 
 The ThreeFold Blockchain (TFChain) uses work algorythm called "Proof-of-Capacity" to verify the Internet capacity provided by 3Nodes. Put simply, PoC verifies, on an ongoing basis, that farms are honestly representing the Internet capacity they provide to the network.
 
-**See Proof-of-Capacity in action** by visiting the [ThreeFold Grid Capacity Explorer](http://explorer.grid.tf/) which represents the best resource to view POC-related data. 
+**See Proof-of-Capacity in action** by visiting the [ThreeFold Grid Capacity Explorer](https://explorerv3.grid.tf/) which represents the best resource to view POC-related data. 
 
 ## What is proof-of-capacity? 
  

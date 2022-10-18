@@ -3,7 +3,7 @@
 ThreeFold Token at the moment exists on three blockchains: stellar, polkadot and binance smart chain.
 Here you can see our top picks of the TFT ecosystem tools. Please note that there are many more wallets and exchanges that support TFT, we just select some of the top options that we consider as most conveneint. Basically any instrument that support custom tokens for blockchain where TFT exists can be used to store TFT. 
 
-| **Stellar Network** |||
+| **Stellar Network** ||||
 | --------------- |----| --------------- |---|
 |  [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem | |
 | [**Gettft.com**](https://gettft.com/gettft/) | OTC | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards ||

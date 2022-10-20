@@ -3,7 +3,9 @@
 ThreeFold Token at the moment exists on three blockchains: stellar, polkadot and binance smart chain.
 Here you can see our top picks of the TFT ecosystem tools. Please note that there are many more wallets and exchanges that support TFT, we just select some of the top options that we consider as most conveneint. Basically any instrument that support custom tokens for blockchain where TFT exists can be used to store TFT. 
 
-| **Stellar Network** |Type|Description|Fiat Gateways|
+## Stellar Network
+
+| Link |Type|Description|Fiat Gateways|
 | --------------- |----| --------------- |---|
 |  [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem | |
 | [**Gettft.com**](https://gettft.com/gettft/) | OTC | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards ||
@@ -18,22 +20,27 @@ Here you can see our top picks of the TFT ecosystem tools. Please note that ther
 | [**Interstellar Wallet and Exchange**](tft_interstellar) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support||
 | [**BTC-Alpha Exchange**](tft_btc_alpha) | Centralised Exchange | Centralised Exchange with TFT/BTC trading pair and some fiat gateways||
 | [**Stellar Expert Explorer**](https://stellar.expert/) | Explorer | Popular blockchain explorer for stellar||
+
+## TFChain Network
 						
-| **TFChain Network** |Type|Description|Fiat Gateways|
+| Link |Type|Description|Fiat Gateways|
 | --------------- | --------------- |-------|---|
 | [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem||
 | [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Key Storage | Polkadot Browser extention to store your private keys||
 | [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management ||
-						
-| **Binance Smart Chain** |Type|Description|Fiat Gateways|
+	
+## Binance Smart Chain
+
+| Link |Type|Description|Fiat Gateways|
 | --------------- | --------------- |--------|---|
 | [**Metamask**](tft_bsc_metamask) | Wallet, Swaps | Highly customisable browser wallet with build in swap support|SEPA, Visa, Apple/Google pay|
 | [**1inch**](tft_1inch) | Swaps, Orderbook, Liquidity Pools | Swaps, Orderbook, Liqudity Pools for TFT||
 | [**PancakeSwap**](tft_binance_defi) | Swaps, Liquidity Pools | Liqudity Pool with swaps support for  any BEP20 tokens. Here are some more details on how to [participate in Liquidity pools](liquidity_provider)||
 | [**Trust Wallet**](tft_bsc_trustwallet) | Wallet | Popular wallet that supports BEP20 tokens||
 | [**bscscan.com**](https://bscscan.com/) | Explorer | Popular blockchain explorer for BEP20 tokens||
-						
-| **Bridges** | |
+		
+## Bridges
+| Link | Description |
 | --------------- | --------------- |
 | [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Foundation - driven bridge for TFT between Stellar and BSC networks |
 | [**Stellar <> TFChain Bridge**](https://library.threefold.me/info/manual/#/manual__dashboard_readme) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for details|

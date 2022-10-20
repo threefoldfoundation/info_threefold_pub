@@ -1,9 +1,9 @@
 
 ![](img/get_involved_.jpg)
 
-# BE THE INTERNET
+# Be the Internet
 
-We are a decentralized movement, get involved and lets together **"BE THE INTERNET".**
+We are a decentralized movement. Get involved and let's together **"BE THE INTERNET".**
 
 ## Provision a ThreeFold Validator
 
@@ -14,51 +14,59 @@ Registration will start in Jan 2022, make sure you have enough TFT.
 
 ## Buy TFT or Future TFT
 
-
 ThreeFold_Token is used to reserve and utilize Internet capacity and services on the ThreeFold_Grid. 
 
 Just like Bitcoin decentralized the banking Industry, ThreeFold_Token is decentralizing the Internet. Learn how to buy TFT [here](@how_to_buy).
 
 We also have a created farming token called INCA, contact us for more info. This allows you to get vested more. Buying large amounts of TFT on the public exchanges is hard right now.
 
-## Become a ThreeFold Farmer
-
-Become a Farmer by getting a 3Node and connecting it to electricy and network to expand the ThreeFold Grid further. By expanding the ThreeFold Grid to your local region, you're participating in the growth of a decentralized, autonomous and sustainable Internet accessible to everyone. 
-
-By becoming a Farmer, you earn TFT on a monthly basis for generating Internet capacity. Learn more about Farming [here](@farming_intro)
-
-## Join our list of partners, deploy your solution on top of the grid.
-
-Contact us, we will help you to get started.
-
-There are 40+ solutions waiting to go life in H1 2022.
-
-## Contribute In Our Movement
-
-- Help us to add content to our manuals, knowledgebase, website ... (you just need a github account)
-- Business Development
-- Contributor of Code
-- Contribute Code
-- Quality Assurance
-- Marketing & Communication
-
-We have TFT grants available, the TFDAO helps to award these grands.
-
-Contact us, we will help you to get started.
-
-
-## Join the developer community.
+## Build on ThreeFold
 
 The ThreeFold_Grid is ready for testing for those with a technical background. Get your hands on the future of the cloud with integrated industry standard tooling operated on our decentralized Internet infrastructure.
 
 You can find more information on how to deploy workloads on the  ThreeFold_Grid with the [Grid 3.0 Manual](@manual:manual3) or our [Developer Community](https://t.me/threefoldtesting).
 
-## Spread the message
+## Become a ThreeFold Farmer
 
-- spread the message 
+Become a Farmer by getting a 3Node and connecting it to electricity and network to expand the ThreeFold Grid further. By expanding the ThreeFold Grid to your local region, you're participating in the growth of a decentralized, autonomous and sustainable Internet accessible to everyone. 
+
+By becoming a Farmer, you earn TFT on a monthly basis for generating Internet capacity. Learn more about Farming [here](@farming_intro)
+
+## Join Our List of Partners, Deploy on the Grid
+
+Contact us at info@threefold.io and we will help you to get started.
+
+<!-- There are 40+ solutions waiting to go life in H1 2022. -->
+
+## Contribute to Our Movement
+
+- Help us to add content to our Library, Manual, website ... (You'll need a GitHub account)
+- Business Development
+- Contribute Code
+- Quality Assurance
+- Marketing & Communication
+
+<!-- We have TFT grants available, the TFDAO helps to award these grands. -->
+
+Contact us and we will help you to get started.
+
+## Spread the Word
+
+- Join us on Social Media
+  - [Twitter]((https://twitter.com/threefold_io)
+  - [LinkedIn](https://www.linkedin.com/company/threefold-foundation)
+  - [Reddit](https://reddit.com/r/threefold)
+
+- Get active on / help us moderate our chats or forum
+  - [Main Chat](http://t.me/threefold)
+  - [Farmer Chat](https://t.me/threefoldfarmers)
+  - [Grid Tester Chat](https://t.me/threefoldtesting)
+  - [Forum](https://forum.threefold.io)
+
+<!-- - spread the message 
   - [ThreeFold Images](@threefold_images)
   - [ThreeFold Wallpapers](@threefold_wallpapers)
-- help us moderate our forum, chat, ...
+- help us moderate our forum, chat, ... -->
 
 <!-- ## Get Your Hands Dirty: Offer Support!
 

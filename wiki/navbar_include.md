@@ -1,12 +1,13 @@
 - ThreeFold
-  - [ThreeFold Tokens](@how_to_buy)
   - [ThreeFold Website](https://threefold.io/)
   - [ThreeFold Blog](https://threefold.io/blog)
-- ThreeFold Grid
-  - [TFGrid Capacity Explorer](https://explorer.grid.tf/)
-- Related Websites
-  - [FreeFlow Nation](http://www.freeflownation.org/)
-  - [Alliance Conscious Internet](https://consciousinternet.org/)
+  - [Buy TFT](@how_to_buy)
+- ThreeFold Grid Tools
+  - [Grid Dashboard](https://dashboard.grid.tf/)
+  - [Grid Capacity Explorer](https://dashboard.grid.tf/explorer/statistics/)
+  - [Playground: Mainnet](https://play.grid.tf/)
+  - [Playground: Testnet](https://play.test.grid.tf/)
+  - [Manual](https://library.threefold.me/info/manual/#/manual__manual3_home_new)
 
   <!-- - [TF Token Stats](https://tokenstats.threefoldtoken.com/) -->
   <!-- - [TFGrid Demo](https://demo.testnet.grid.tf/)

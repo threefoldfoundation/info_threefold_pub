@@ -2,7 +2,6 @@
 ------------
 **ThreeFold Grid**
 - [Introduction](grid_intro)
-- [Grid Launch Q1 2022](grid3_launch)
 - [Why](grid_why)
 - [Internet Concepts](grid_concepts)
 - [Grid Valuation](grid_valuation)

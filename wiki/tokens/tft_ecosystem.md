@@ -1,7 +1,7 @@
 # ThreeFold Token Ecosystem
 
-ThreeFold Token at the moment exists on three blockchains: stellar, polkadot and binance smart chain.
-Here you can see our top picks of the TFT ecosystem tools. Please note that there are many more wallets and exchanges that support TFT, we just select some of the top options that we consider as most conveneint. Basically any instrument that support custom tokens for blockchain where TFT exists can be used to store TFT. 
+ThreeFold Token at the moment exists on three blockchains: stellar, polkadot and binance smart chain. Each chain has its advantages and disadvantages and can serve differrent purposes. 
+Here you can see our top picks of the TFT ecosystem tools for each specific blockchain platfarm and list of the bridges between them in the end. Please note that there are many more wallets and exchanges that support TFT, we just select some of the top options that we consider as most conveneint. Basically any instrument that support custom tokens for blockchain where TFT exists can be used to store TFT. The tools are sorted in the order of recommendation and popularity, first one is the top pick that we recommend in most cases. 
 
 ## Stellar Network
 

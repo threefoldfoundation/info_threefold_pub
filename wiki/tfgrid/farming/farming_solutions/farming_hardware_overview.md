@@ -10,9 +10,9 @@ The form factor, size, and hardware specification can vary from small (like a mo
 2. Pre-configured 3Nodes: offer high performance configurations for bigger farms. 
 3. Do-it-Yourself: any compatible server-like hardware can be purchased, refurbished or assembled by a farmer.
 
-Plug and Farm and pre-configured 3Nodes are certified meaning they went through a secure boot process to guarantee increased security on a heardware level. Certified hardware provides 25% more yields than DIY 3Nodes. 
+Plug and Farm and pre-configured 3Nodes are certified meaning they went through a secure boot process to guarantee increased security on a hardware level. Certified hardware provides 25% more yields than DIY 3Nodes. 
 
-> Note: The ThreeFold Farming team is looking into expanding hardware options. We're in discussions with HPE, Intel, AMD and Rasberry Pi to expand the spectrum of 3Node form factors and increase accessibility to ThreeFold farming. 
+> Note: The ThreeFold Farming team is looking into expanding hardware options. We're in discussions with HPE, Intel, AMD and Raspberry Pi to expand the spectrum of 3Node form factors and increase accessibility to ThreeFold farming. 
 
 ### Plug and Farm 3Nodes 
 
@@ -31,9 +31,9 @@ Specifications:
 Plug and farm 3Nodes do not require any technical knowledge on how to set-up a hardware or boot an operating system. When delivered, all the farmer has to do is to do is:
 1. Plug an Ethernet cable into the 3Node and a router.
 2. Plug a power supply cable into the 3Node and a power outlet.
-3. Switch on the 3Node and search for the Farm ID on the [explorer](https://explorer.threefold.io/) to verify that the 3Node is online. 
+3. Switch on the 3Node and search for the Farm ID on the [explorer](https://dashboard.grid.tf/explorer/farms) to verify that the 3Node is online. 
 
-Anyone can buy a Titan v2.1 in the [ThreeFold node shop](https://shop.threefold.tech) and calculate potential farming rewards with the [farming reward calculator](https://simulator.grid.tf/).  
+Anyone can buy a Titan in the [Global 3Node Marketplace](https://marketplace.3node.global/) and calculate potential farming rewards with the [farming reward calculator](https://simulator.grid.tf/).  
 
 !!!include:farming_reward_disclaimer
 
@@ -49,9 +49,9 @@ The current official pre-configured 3Node partner is Hewlett Packard Enterprises
 
 ### Do-It-Yourself (DIY)
 
-DIY 3Nodes open possibilities for farmers to assemble or refurbish hardware of their choice. It doens't require any contractual relationship with the ThreeFold Ecosystem and it's hardware distributors, allowing anyone to farm TFT on the ThreeFold Grid from anywhere across the world. Over time, a DIY 3Node can build reputation on the ThreeFoldGrid Reputation_Engine.
+DIY 3Nodes open possibilities for farmers to assemble or refurbish hardware of their choice. It doesn't require any contractual relationship with the ThreeFold Ecosystem and it's hardware distributors, allowing anyone to farm TFT on the ThreeFold Grid from anywhere across the world. Over time, a DIY 3Node can build reputation on the ThreeFoldGrid Reputation_Engine.
 
-> Note: The Reputation_Engine aims to showcase the service level of every 3Node connected to the ThreeFold Grid on the Internet capacity [explorer](https://explorer.threefold.io/) for a transparant overview of where the best infrastructure services are present on the ThreeFold Grid.
+> Note: The Reputation_Engine aims to showcase the service level of every 3Node connected to the ThreeFold Grid on the Internet capacity [explorer](https://dashboard.grid.tf/explorer/statistics) for a transparent overview of where the best infrastructure services are present on the ThreeFold Grid.
 
 Any 64-bit hardware with an Intel or AMD processor chip can run Zero-OS and become a 3Node. The following configurations provide guidelines on compatible and recommended setups:
 

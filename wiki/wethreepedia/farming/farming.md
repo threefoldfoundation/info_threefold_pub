@@ -1269,7 +1269,7 @@ Once you have your node ID, you can also go on the Threefold Explorer to see you
 ***
 ### 2. Check 3node Status on the TF Explorer
 ***
-In a browser, go on the [Threefold Explorer](https://explorer.threefold.io/). 
+In a browser, go on the [Threefold Explorer](https://dashboard.grid.tf/explorer/statistics). 
 
 ![Farming_Create_Farm_3](./img/farming_25.png)
 

@@ -6,7 +6,7 @@ Thousands of 3Nodes are connected to the ThreeFold Grid across the world.
 
 ### TF GRID EXPLORER – Total Capacity
 
-Find the live stats across Grid versions on https://explorer.threefold.io/all.
+Find the live stats at https://dashboard.grid.tf/explorer/statistics
 
 The explorer allows you to find:
 - Available 3Nodes and web gateways 

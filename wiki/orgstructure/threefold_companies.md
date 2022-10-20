@@ -37,7 +37,7 @@ The list below is just some of the organizations involved with the growth of Thr
 | there are many more | ...                                                              |
 
 > and so many more, there are 600+ farms right now <BR>
-> see https://explorer.threefold.io/ for more information
+> see https://dashboard.grid.tf/explorer/statistics for more information
 
 ### +50m USD has been invested so far in the ThreeFold Project
 

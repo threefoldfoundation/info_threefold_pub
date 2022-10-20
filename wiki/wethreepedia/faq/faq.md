@@ -1741,7 +1741,7 @@ Yes! On the Zero-OS console, hit alt-F2 to open up the Error/Log Screen, and hit
 
 You may have to reboot with HDMI cable already connected. Video does not seem to be turned on unless HDMI is present at boot. Once you boot with HDMI in, you can unplug and replug and it will work.
 
-To simply see if your 3node is online, you can go on explorer.threefold.io or check with the Telegram Threefold Farm Bot.
+To simply see if your 3node is online, you can go on https://dashboard.grid.tf/explorer/nodes or check with the Telegram Threefold Farm Bot.
 ***
 
 ### **What does it mean when I see, during the 3node boot, the message: *error = context deadline exceeded*?**

@@ -1,5 +1,5 @@
 
-# Requently Asked Questions For ThreeFold Validators
+# Frequently Asked Questions For ThreeFold Validators
 
 #### What are Validators?
 
@@ -26,8 +26,6 @@ The **responsibility** of a validator (owner) can be summarized to:
 #### What are the rewards?
 
 To justify the running costs of the node as well as to gather a suitable income from supporting the blockchain, validator nodes earn rewards, see [here for L2 validators](validator_l2_details) and [here for L0 validators](validator_l0_details).
-
-There are open questions about validator rewards see [forum post here]()
 
 #### What are the general requirements?
 

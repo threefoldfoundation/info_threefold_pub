@@ -15,6 +15,7 @@ Stellar and Binance Smart Chain offer multiple great solutions and basically eve
 Typically in order to join a liquidity pool, one has to have an equivalent equal amount of TFT and other paired currency for each trading pair. Here are the links where you can find how to participate in Liquidity Pools:
 
 Here are some popular tools to join Liquidity Pools
+
 | Tool | Blockchain |
 |---|---|
 |[**Albedo Wallet**](albedo) | Stellar|

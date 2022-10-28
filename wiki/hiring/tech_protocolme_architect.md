@@ -7,7 +7,7 @@
 
 !!!include:tf_hr_intro
 
-We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](internet4).
+We believe digital_twin is the future of IT.
 The digital_twin can set us free, create our digital future without boundaries where we 100% own our data and digital processes. This is not a dream! We have a working first version and we need to make it mainstream. 
 <br/>
 

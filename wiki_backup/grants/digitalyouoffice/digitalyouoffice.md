@@ -30,7 +30,7 @@ Screenshots
 ### Team
 
 - [The Jimber Team](https://www.jimber.org/securityBroker.html)
-- Hamdy
+
 
 ### Funding
 

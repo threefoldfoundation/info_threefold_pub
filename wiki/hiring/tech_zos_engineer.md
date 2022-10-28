@@ -18,8 +18,6 @@ We have developed a new operating system called zos, and we are looking for more
 - Work in our internation development team.
 - We are not just looking for an engineer we are looking for people who believe that the world needs a new internet and we make it happen.
 
-See how we are [thinking beyond blockchain](internet4).
-
 ## Requirements
 
 - Personal skills:

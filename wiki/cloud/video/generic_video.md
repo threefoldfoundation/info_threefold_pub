@@ -29,19 +29,3 @@
 
 !!!vimeo id:'596170307/920e57dd38'
 
-
-<!-- ## People Section
-
-### Hannah Cordes
-
-!!!vimeo id:'596392374/a7c298a6f2'
-
-
-### Nickolay Babenko
-
-!!!vimeo id:'596389730/2918377cf2'
-
-
-### Scott Yeager
-
-!!!vimeo id:'596384330/52798d9bb1' -->

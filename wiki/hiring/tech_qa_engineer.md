@@ -4,7 +4,7 @@
 
 ThreeFold is a global community with as aim to create an upgraded internet based on strong values and sustainability.
 <br/>
-We believe digital_twin is the future of IT, see also [the world needs Internet 4 (web4)](internet4). The digital_twin can set us free, create our digital future without boundaries where we 100% own our data and digital processes.
+We believe digital_twin is the future of IT. The digital_twin can set us free, create our digital future without boundaries where we 100% own our data and digital processes.
 All runs on top of our new operating system called zero_os, which will still evolve over time.
 <br/>
 

@@ -1,5 +1,3 @@
-![alt](img/sdk_intro.jpg)
-
 The 3SDK Wiki is here to help you with:
 
 - Help you understand the ThreeFold_Grid architecture into detail

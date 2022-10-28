@@ -8,7 +8,6 @@
 - [cloud website](https://github.com/threefoldfoundation/www_threefold_cloud)
 - [alliance conscious internet](https://github.com/threefoldfoundation/www_conscious_internet)
 - [main wiki](https://github.com/threefoldfoundation/info_threefold)
-- [internet4 wiki](https://github.com/threefoldfoundation/info_internet4)
 - [legal wiki](https://github.com/threefoldfoundation/info_legal)
 - [sdk wiki](https://github.com/threefoldfoundation/info_sdk)
 - [tfgrid/cloud wiki](https://github.com/threefoldfoundation/info_cloud)

@@ -1,4 +1,4 @@
-# VDC Wallet on Stellar Network
+# Wallet on Stellar Network
 
 ![](img/3bot_wallet_detail.jpg)
 

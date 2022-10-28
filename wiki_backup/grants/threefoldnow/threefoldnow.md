@@ -1,7 +1,5 @@
 # ThreeFoldNow
 
-![](img/cap2layer.jpg)
-
 ### Purpose
 
 There are a lot of open source solutions available on the current public internet, see the list of selected ones.

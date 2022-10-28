@@ -53,7 +53,7 @@ Contact us and we will help you to get started.
 ## Spread the Word
 
 - Join us on Social Media
-  - [Twitter]((https://twitter.com/threefold_io)
+  - [Twitter](https://twitter.com/threefold_io)
   - [LinkedIn](https://www.linkedin.com/company/threefold-foundation)
   - [Reddit](https://reddit.com/r/threefold)
 

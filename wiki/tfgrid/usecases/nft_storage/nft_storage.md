@@ -89,7 +89,7 @@ The object (video,image) can easily be embedded in any website or other represen
 
 * [Zero-OS overview](zos)
 * [Quantum Safe Storage System](qsss_home)
-* [Quantum Safe Storage Algorithm](qss_algorithmo)
+* [Quantum Safe Storage Algorithm](qss_algorithm)
 * [Smart Contract For IT Layer](smartcontract_it)
 
 

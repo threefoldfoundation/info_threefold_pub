@@ -32,7 +32,7 @@
 - at least 1 class C ipv4 addr for network farmers.
 - enough bandwidth to allow the utilization of the storage/archive (see below)
 - good enough latency (low latency = performance of network)
-- [install your network in line with Threefold Requirements](tfgrid_networking)
+- [install your network in line with Threefold Requirements](networking_toc)
 
 (*) = in case of datacenter or commercial deployment
 

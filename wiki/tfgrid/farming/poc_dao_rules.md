@@ -77,6 +77,5 @@ Suggestions will be made to improve PoC, the DAO will have to come to consensus 
 <!-- 
 ## Link to Utilization of TFGrid
 
-- Farmers can also use their own Internet capacity at minimal cost. Learn more on [Personal Farm Utilization](- Farmers can also use their own Internet capacity at minimal cost. Learn more on [Personal Farm Utilization](farmer_personal_utilization).
-).
+- Farmers can also use their own Internet capacity at minimal cost. Learn more on [Personal Farm Utilization](farmer_personal_utilization).
  -->

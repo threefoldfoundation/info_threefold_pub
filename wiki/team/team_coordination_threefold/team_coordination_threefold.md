@@ -9,4 +9,3 @@
 !!!include:pierre_van_hoorebeke
 !!!include:rajinder_singh_grewal
 !!!include:karoline_zizka
-!!!include:roel_van_sabben

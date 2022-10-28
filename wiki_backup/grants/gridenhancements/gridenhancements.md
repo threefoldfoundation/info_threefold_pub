@@ -1,7 +1,5 @@
 # Project: Grid Enhancements
 
-![](img/cap2layer.jpg)
-
 ### Purpose
 
 The TF Grid v2.0 is being rolled out and we see a lot of features that we would love to roll out and bring to market.  

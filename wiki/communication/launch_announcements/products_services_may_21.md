@@ -15,6 +15,6 @@ What Now?
 - [Read the full release notes](release_notes_2_7_1)
 - [Join the Grid testing community](https://bit.ly/threefoldtesting)
 - [Info: Get TFT with BTC directly on ThreeFold Connect](threefold_connect_btc)
-- [Info: Get TFT via Binance Smart Chain](*tft_binance_defi?id=how-to-get-tft-on-pancakeswap)
+- [Info: Get TFT via Binance Smart Chain](tft_binance_defi?id=how-to-get-tft-on-pancakeswap)
 
 _Moving on to 2.8 Cloud & Grid Services updates!_

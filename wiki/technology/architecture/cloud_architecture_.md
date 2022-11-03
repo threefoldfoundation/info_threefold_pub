@@ -4,8 +4,8 @@
 
 **More info:**
 
-- qsss
-  - qsfs
+- QSSS
+  - QSFS
 - [Quantum Safe Network Concept](sdk:archi_qsnetwork)
   - [Zero-OS Network](sdk:capacity_network)
   - [ThreeFold Network = Planetary Network](sdk:archi_psnw)
@@ -13,6 +13,3 @@
 - TFGrid
   - [3Node](3node)
   - [ThreeFold Connect](tfconnect)
-- Payments
-  - [AutoPay](twin:autopay)
-  - [TFGrid Wallet](cloud_wallet)

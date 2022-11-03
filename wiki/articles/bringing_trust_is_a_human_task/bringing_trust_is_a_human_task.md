@@ -3,7 +3,7 @@
 ## Blockchain is just a tool (but a pretty powerful one)
 
 !!!include:part1_blockchain_history
-!!!include:part2_decentralized_is_different_centralized
+!!!include:part2_private_permissioned_public
 !!!include:part3_blockchain_myths
 !!!include:part4_blockchain_myths_undone
 !!!include:part5_blockchain_here_to_stay

@@ -13,3 +13,8 @@
 - TFGrid
   - [3Node](3node)
   - [ThreeFold Connect](tfconnect)
+
+<!--
+These are outdated, need to change links
+ - Payments - AutoPay twinautopay - no links found
+ TFGrid Walletcloud_wallet no link found-->

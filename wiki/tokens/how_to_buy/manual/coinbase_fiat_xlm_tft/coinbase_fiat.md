@@ -6,8 +6,6 @@ If you need help purchasing cryptocurrency in order to get to TFT, this section 
 
 First, you'll need to sign up for an account with Coinbase. Head to the [Get Started (Sign Up)](https://www.coinbase.com/signup) page and follow the process there. You will need a government-issued photo ID, a functioning email address, a mobile device, and a payment method. Available payment methods differ based on your region. The process is quite straight-forward but we've included some links at the bottom of this page directly from Coinbase if you need support.
 
-![Get Started](img/xxx.png)
-
 ## Navigate the dashboard
 
 Once you've logged into Coinbase, you'll land in the dashboard. Here you can manage the details of your account as well as buy, sell, and trade cryptocurrencies. Since we're really only focused here on buying cryptocurrency in order to get to TFT, we won't dive into all of the dashboard. Again, Coinbase has plenty of [excellent resources](https://help.coinbase.com/en) if you need them!

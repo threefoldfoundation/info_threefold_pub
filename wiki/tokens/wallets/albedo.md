@@ -14,7 +14,7 @@ You can create a new account or import a 24 word passphrase or secret key.
 
 If you do not have TFT yet, you can [buy it](how_to_buy) and deposit to your wallet. 
 
-Alternatively, you can buy XLM or USDT first and then [swap to TFT inside Albedo](albedo?id=swap-assets).
+Alternatively, you can buy XLM or USDT first and then [swap to TFT inside Albedo](albedo).
 
 ## Send and Receive funds 
 

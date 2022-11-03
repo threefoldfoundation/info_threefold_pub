@@ -9,5 +9,3 @@
 - [Tokenomics](tokenomics)
 - [TFT is Valuable](grid_valuation)
 - [BE THE INTERNET](be_the_internet)
-
-<!-- - [Use TFT](use_tft) -->

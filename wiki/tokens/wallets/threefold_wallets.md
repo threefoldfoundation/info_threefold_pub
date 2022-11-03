@@ -26,4 +26,4 @@ Wallets have lots of optional features which you might like. So choose your wall
 Beyond simply storing TFT in your wallet, you have other options. Click on one of the links below to find out more:
 
 1. [Provide liquidity](tft_liquidity) on Stellar to contribute to a healthy TFT ecosystem.
-2. [Use TFT](use_tft) for building / deploying services on top of a truly decentralized Internet infrastructure.
+2. [Use TFT](grid_use) for building / deploying services on top of a truly decentralized Internet infrastructure.

@@ -1,4 +1,4 @@
 - [network](network)
-  - [planetnetwork3](planetnetwork3)
-  - [webgateway3](webgateway3)
-  - [network_billing](network_billing)
+  - [Planetary Network 3](planetary_network)
+  - [Web Gateway 3](webgateway3)
+  - [Network Billing](network_billing)

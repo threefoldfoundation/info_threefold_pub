@@ -9,5 +9,4 @@
 !!!include:jonas_delrue
 !!!include:lee_smet
 !!!include:maxime_daniel
-!!!include:muhammed_azmy
-!!!include:geert_machtelinckx
+!!!include:muhamad_azmy

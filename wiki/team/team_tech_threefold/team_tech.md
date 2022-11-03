@@ -11,4 +11,3 @@
 | [Jonas Delrue](jonas_delrue)                   | Teamlead Digital Twin (parttime)                                 | TF Tech      |
 | [Muhammed Azmy](muhamad_azmy)                  | BE Team Lead                                                     | TF Tech      |
 | [Sasha Astiadi](sasha_astiadi)                 | Coordination / Administration                                    | TF Tech      |
-| [Geert Machtelinckx](geert_machtelinckx)       | Tech Writing, Testing, Coordination                              | TF Tech      |

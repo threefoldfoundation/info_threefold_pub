@@ -22,7 +22,6 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Ewald Weizenbauer](ewald_weizenbauer)         | CCO + Funding (50% of time)                               | TF Tech           |
 | [Karoline Zizka](karoline_zizka)               | Operations / Administration / PA Kristof                  | TF Tech           |
 | [Andrea Castiglione](andrea_castiglione)       | Main driver for tokenlaunch, network & partners (partime) | TF Dubai          |
-| [Kristine Vilnite](kristine_vilnite)           | Project Management / Onboarding Coordinati                | TF Dubai          |
 | [Sabrina Sadik](sabrina_sadik)                 | Operations & TFGrid Support Coordination                  | TF Tech           |
 
 ## BizDev
@@ -41,7 +40,6 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | ---------------------------------- | ---------------------------------- | ------------ |
 | [Sacha Obeegadoo](sacha_obeegadoo) | Promotion/Marketing Coordinator    | TF Dubai     |
 | [Sam Taggart](sam_taggart)         | Communication & Internal Community | TF Dubai     |
-| [Hannah Cordes](hannah_cordes)     | Copywriter, Content creator        | TF Dubai     |
 
 
 ## Community
@@ -68,8 +66,6 @@ Total exit value **+500m USD** at an average **60X revenue** for each company.
 | [Jonas Delrue](jonas_delrue)                   | Teamlead Digital Twin (parttime)                                 | TF Tech      |
 | [Muhammed Azmy](muhamad_azmy)                  | BE Team Lead                                                     | TF Tech      |
 | [Sasha Astiadi](sasha_astiadi)                 | Coordination / Administration                                    | TF Tech      |
-| [Geert Machtelinckx](geert_machtelinckx)       | Tech Writing, Testing, Coordination                              | TF Tech      |
-
 
 > Some people are on multiple tabs, because they have multiple roles
 

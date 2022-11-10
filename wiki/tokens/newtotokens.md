@@ -65,7 +65,7 @@ You can also buy TFT from Farmers, such as [Mazraa](mazraa), the ones that produ
 
 ### More information on how to buy TFT
 
-Find instructions on how to buy TFT in the [Get TFT](how_to_buy) section.
+Find instructions on where to buy TFT in the [TFT Ecosystem](tft_ecosystem) section.
 
 > It is incredibly important to take the process of signing up and buying tokens seriously and to follow all the steps carefully. While there's nothing to be scared of, you'll need to give it your full attention. There are many resources online to  guide you through the process.
 

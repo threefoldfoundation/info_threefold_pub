@@ -1,6 +1,6 @@
 # OTC Purchase Desk
 
-### OTC Purchase desk is ready to process large / non-standard purchase/sell requests that would be hard to process through other methods. 
+OTC Purchase desk is ready to process large / non-standard purchase/sell requests that would be hard to process through other methods. 
 
 Payment options will depend upon agreement between parties.
 

@@ -8,18 +8,7 @@ ThreeFold community members store TFT in wallets, as long-term believers in the 
 
 ### TFT Compatible Wallets 
 
-Wallets have lots of optional features which you might like. So choose your wallet based on the features you want. Here are some of our favorites below:
-
-| Wallet                                     | Description                                               | 
-| ------------------------------------------ | ----------------------------------------------------------|
-| [**ThreeFold Connect**](threefold_connect) | The official ThreeFold Connect App is a must to install, it is required to log in to many ThreeFold services as well. *For Stellar.*               |
-| [**Lobstr**](lobstr_wallet)                | Our top pick after ThreeFold Connect for its simplicy and security. Available on web and mobile. *For Stellar.*                                             |
-| [**Solar**](solar_wallet)                  | A simple and secure wallet to transact on the Stellar blockchain with multi-signature accounts and more. For Stellar. |
-| [**Interstellar**](tft_interstellar)       | A secure non-custodial wallet that enables to control different private keys. *For Stellar.*               |
-| [**Trust Wallet**](tft_bsc_trustwallet)    | Trusted by +10 million users worlwide, Easy access to cryptocurrencies and DeFi. *For Binance Smart Chain.*                         |
-| [**Metamask**](tft_bsc_metamask)           | Trusted by +21 million users worldwide. Easy to buy TFT on Binance smartchain. *For Binance Smart Chain.*                            |
-
-> Note: ThreeFold aims to have TFT available on multiple blockchains. Currently, TFT is available on Stellar (main) and Binance Smart Chain via a [bridge](tft_bsc_bridge). The recommended wallet for Stellar is ThreeFold Connect and the recommendation for Binance Smart Chain is Trust Wallet.
+ThreeFold Tokens can be stored with wallets and exchanges. Full list of available tools for storing TFT can be found on [TFT Ecosystem](tft_ecosystem) section.
 
 ### Do More with TFT
 

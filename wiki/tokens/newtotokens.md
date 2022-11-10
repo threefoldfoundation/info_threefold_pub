@@ -35,7 +35,7 @@ Differences:
 
 ### What is the process for buying ThreeFold Tokens?
 
-There are different ways to [get TFT](how_to_buy).
+There are different ways to [buy TFT in the ecosystem](tft_ecosystem).
 
 #### Wallets
 

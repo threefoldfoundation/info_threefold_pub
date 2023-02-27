@@ -4,6 +4,8 @@ Please find below a table that shows all of the buying options for TFT.
 
 If you are new to buying and selling cryptocurrencies, we invite you to visit the [New to Tokens](newtotokens) section. 
 
+For each individual tutorial of how to buy TFTs on the listed platforms below, please see [this manual section](https://library.threefold.me/info/manual/#/manual__tft_howtos.md).
+
 !!!include:tft_ways_to_buy_include
 
 ## Withdraw your TFT from Liquid

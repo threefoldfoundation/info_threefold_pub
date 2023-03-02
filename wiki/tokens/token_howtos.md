@@ -13,7 +13,6 @@ How to buy and store TFTs on different platforms
 - [BSC - Pancake Swap](tft_binance_defi)
 - [BSC - 1inch.io](tft_1inch)
 - [GetTFT.com](https://gettft.com/gettft/#how-it-works)
-- [TFConnect App](threefold_connect)
 - [Albedo Wallet](albedo)
 - [Solar Wallet](solar_wallet)
 - [Lobstr Wallet](lobstr_wallet)
@@ -28,5 +27,6 @@ How to buy and store TFTs on different platforms
 
 ## Other Related Manuals on TFT
 
-- [Store TFTs on Hardware Wallets](tft_howtos_hardware)
+- [Store TFTs on Hardware Wallets](https://forum.threefold.io/t/storing-tft-on-hardware-wallets/802)
+- [Storing TFTs on TF Connect App](wiki_3bot_connect_wallet)
 - [Bridge TFT between Stellar and Binance Smart Chain](tft_bsc_bridge)

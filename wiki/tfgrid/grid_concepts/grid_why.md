@@ -1,7 +1,7 @@
 ![](img/why_grid_.jpg)
 
 
-# Why the world needs the ThreeFold Grid.
+# Why the World Needs the ThreeFold Grid
 
 In this section, we discuss the limitations and issues of the current Internet infrastructure on a high level perspective, and how the ThreeFold Grid provides a universal solution to power the next digital era. 
 

@@ -32,10 +32,6 @@ See [Limited Supply & Liquidity Drivers](tft_limited_supply)
 
 See [Valuable TF Grid](grid_valuation)
 
-## Vesting
-
-Many tokens are in vesting wallets see [Vesting](vesting_overview).
-
 ## Token Distribution
 
 [Token Distribution](token_overview)

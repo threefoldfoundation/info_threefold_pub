@@ -15,9 +15,10 @@ The vesting pool was designed so that tokens get unlocked according to two facto
 | Start accelerated unlock from        | 0.15 USD |
 | Full unlock from (100% acceleration) | 0.85 USD |
 
-The Vesting mechanism was launched in April 2021 and the unlocking of tokens will start in May 2021 (Month 1).
 
 > *TFT price used to release the vested tokens is calculated by the pricing oracle. The pricing orcale uses the average price over the last month as pulled from multiple decentralized exchanges who have a public api to do so. We* **DO NOT** *use the price as shown on one single exchange or other pricing venues such as: Coingecko, Coinmarketcap, etc.*
+
+All vesting wallets require a signature weight of 10 to unlock the vested tokens. The first signer is the token holder who vested. Their signature has a weight of 5. The other 9 are called the Guardians of the Blockchain. These guardians were carefully chosen and are people with great reputations, who support the ThreeFold project out of goodwill and who are entrusted to take care of the vesting keys. To unlock the vested tokens, the token holder needs to sign along with 5 people of the Guardians of the Blockchain.
 
 ## Accelerated Vesting Table
 

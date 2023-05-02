@@ -1,4 +1,6 @@
-## How to vest ThreeFold Tokens
+## How to vest ThreeFold Tokens (Archived)
+
+> [Forum Update April 2023](https://forum.threefold.io/t/unvesting-tfts/3912): The vesting program has been officially discontinued. This is an archived article. Click here to read about [the vesting pool](vesting_pool). For vesters, learn more about how to unvest your tokens on this [unvesting tutorial](unvesting). 
 
 !!!include:how_to_vest_tf_connect
 

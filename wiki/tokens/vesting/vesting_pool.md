@@ -4,6 +4,10 @@
 
 ThreeFold has implemented a vesting pool over 48 months.
 
+
+> [Forum Update April 2023](https://forum.threefold.io/t/unvesting-tfts/3912): The vesting program has been officially discontinued. Click here to read about [the vesting pool](vesting_pool). For vesters, learn more about how to unvest your tokens on this [unvesting tutorial](unvesting). 
+
+
 ## ThreeFold Vesting 
 
 The vesting pool was designed so that tokens get unlocked according to two factors; time (month) and the token value. Every month, 1/48 of the tokens unlock. Also, once the price goes above a certain amount, more tokens unlock. See the table below.

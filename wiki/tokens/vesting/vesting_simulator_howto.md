@@ -15,3 +15,6 @@ The table shows how unlocking of tokens happen in line to those 2 parameters.
 [simulator is on this link](https://secure.threefold.me/sheet/#/2/sheet/view/1n-dKvn0uImvw9y72Wai1eXhVtKLP5-gRnNT4ZmO3dQ/)
 
 !!!include:vesting_toc
+
+
+> [Forum Update April 2023](https://forum.threefold.io/t/unvesting-tfts/3912): The vesting program has been officially discontinued. Click here to read about [the vesting pool](vesting_pool). For vesters, learn more about how to unvest your tokens on this [unvesting tutorial](unvesting). 

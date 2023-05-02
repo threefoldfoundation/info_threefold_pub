@@ -42,3 +42,4 @@ Uses [Network Units = SU](cloudunits).
 
 !!!def alias:tfgrid_primitives,grid_primitives
 
+> Click [here](manual:yggdrasil_client) to read more about Planetary Network Installation. Click [here](manual:planetary_network_connector) to read more about Planetary Network Connector Installation.

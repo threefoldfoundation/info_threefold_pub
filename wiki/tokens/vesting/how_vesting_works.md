@@ -1,4 +1,6 @@
-## How the vesting works (technical)
+> [Forum Update April 2023](https://forum.threefold.io/t/unvesting-tfts/3912): The vesting program has been officially discontinued. Click here to read about [the vesting pool](vesting_pool). For vesters, learn more about how to unvest your tokens on this [unvesting tutorial](unvesting). 
+
+## How the vesting works (technical) 
 
 For each token holder that decides to vest their TFTs, a vesting wallet is created.
 

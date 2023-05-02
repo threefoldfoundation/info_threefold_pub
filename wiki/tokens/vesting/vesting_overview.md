@@ -14,7 +14,6 @@ You can learn more about the vesting process, how to vest and unvest your tokens
 # Vesting Program Overview
 
 - [Vesting Pool](vesting_pool) - An introduction to how the vesting scheme is setup.
-- [How To Vest](how_to_vest) - A quick and easy guide to vesting through the ThreeFold Connect app (more options coming soon).
 - [TFGrid Concensus mechanism = blockchain](consensus3)
 - [How Vesting Works](how_vesting_works) - Gives you insight to how vesting wallets work, how tokens are unlocked, and why multi-signature wallets are used.
 - [How to do your own simulation](vesting_simulator_howto) - Shows you how to download the simulator yourself.

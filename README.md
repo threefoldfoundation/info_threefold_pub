@@ -5,7 +5,7 @@
 - Production Branch is the master branch that contains the currently live wiki content. New wiki content edits must firstly brought to development branch for preview, before finally being brought to production branch for live version.
 
 ## Staging: https://library2.threefold.io
-- Staging / Development Branch Name: **Development **
+- Staging / Development Branch Name: **Development**
 - Staging / Development Branch is the secondary branch that contains the wiki content displayed live on the staging / preview version (library2) of the wiki. It's used to preview content edits before being brought live to the production branch.
 
 ## Wiki Updates

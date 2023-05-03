@@ -8,11 +8,11 @@
 - Staging / Development Branch Name: Development 
 - Staging / Development Branch is the secondary branch that contains the wiki content displayed live on the staging / preview version (library2) of the wiki. It's used to preview content edits before being brought live to the production branch.
 
-### Wiki Updates
+## Wiki Updates
 
 Please follow [TF Foundation's Web Presence Project page](https://github.com/orgs/threefoldfoundation/projects/) to trace the newly planned updates of the wiki.
 
-### Collaboration
+## Collaboration
 
 Please create an [issue on this repository](https://github.com/threefoldfoundation/info_threefold_pub/issues) if you have any new suggestions or found issues that need to be fixed by the web presence team.
 

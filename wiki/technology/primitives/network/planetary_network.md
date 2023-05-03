@@ -50,3 +50,5 @@ The planetary network is a continuation & implementation of the [Yggdrasil](http
 !!!def alias:planet_net,planetary_net,planetary_network,pan
 
 !!!include:zos_toc
+
+> Click [here](manual:planetary_network_connector) to read more about Planetary Network Connector Installation. Click [here](manual:yggdrasil_client) to read more about Planetary Network Installation (advanced). 

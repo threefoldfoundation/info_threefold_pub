@@ -5,7 +5,7 @@
 - [Decentralization](@decentralization)
 - [Technology](@technology)
 - [Manual](https://manual.grid.tf)
-- [FAQ](https://library.threefold.me/info/threefold#/manual__faq)
+- [FAQ](https://manual.grid.tf/faq/faq.html)
 ------------
 - [Legal](!@legal:legal_home)
 

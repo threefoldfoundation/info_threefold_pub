@@ -4,8 +4,8 @@
 - [Cloud](@cloud_home)
 - [Decentralization](@decentralization)
 - [Technology](@technology)
-- [Manual](!@manual:manual3_home_new)
-- [FAQ](https://library.threefold.me/info/threefold#/manual__faq)
+- [Manual](https://manual.grid.tf)
+- [FAQ](https://manual.grid.tf/faq/faq.html)
 ------------
 - [Legal](!@legal:legal_home)
 

@@ -7,7 +7,7 @@
   - [Grid Capacity Explorer](https://dashboard.grid.tf/explorer/statistics/)
   - [Playground: Mainnet](https://play.grid.tf/)
   - [Playground: Testnet](https://play.test.grid.tf/)
-  - [Manual](https://library.threefold.me/info/manual/#/manual__manual3_home_new)
+  - [Manual](https://manual.grid.tf/)
 
   <!-- - [TF Token Stats](https://tokenstats.threefoldtoken.com/) -->
   <!-- - [TFGrid Demo](https://demo.testnet.grid.tf/)

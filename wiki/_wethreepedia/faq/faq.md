@@ -727,7 +727,7 @@ You can read more about Threefold cloud pricing [here](https://library.threefold
 
 ### **How can I create a profile manager on play.grid.tf?**
 
-Read [this documentation](https://library.threefold.me/info/manual/#/manual__weblets_profile_manager).
+Read [this documentation](https://manual.grid.tf/weblets/weblets_profile_manager.html).
 
 
 ***

@@ -741,7 +741,7 @@ Read this [short documentation](https://library.threefold.me/info/manual/#/manua
 
 ### **How can I use Caprover on Threefold Grid?**
 
-Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://manual.grid.tf/javascript/grid3_javascript_caprover.html).
+Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://library.threefold.me/info/manual/#/manual__weblets_caprover_admin).
 
 ***
 

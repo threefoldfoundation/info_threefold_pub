@@ -786,7 +786,7 @@ Read [this documentation](https://manual.grid.tf/weblets/weblets_k8s.html) to fi
 
 ### **How can I deploy Peertube on the Threefold Grid?**
 
-You can learn more about this [here](https://library.threefold.me/info/manual/#/manual__weblets_peertube).
+You can learn more about this [here](https://manual.grid.tf/weblets/weblets_peertube.html).
 
 ***
 

@@ -779,7 +779,7 @@ Note that a Presearch node requires about 3 days to stabilize.
 
 ### **How can I deploy Kubernetes on the Threefold Grid?**
 
-Read [this documentation](https://library.threefold.me/info/manual/#/manual__weblets_k8s) to find out.
+Read [this documentation](https://manual.grid.tf/weblets/weblets_k8s.html) to find out.
 
 ***
 

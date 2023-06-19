@@ -734,7 +734,7 @@ Read [this documentation](https://manual.grid.tf/weblets/weblets_profile_manager
 
 ### **I want to deploy a virtual machine (VM) on Threefold. How can I do this?**
 
-Read this [short documentation](https://library.threefold.me/info/manual/#/manual__weblets_vm) and you'll soon be exploring the virtual machine world!
+Read this [short documentation](https://manual.grid.tf/weblets/weblets_vm.html) and you'll soon be exploring the virtual machine world!
 
 
 ***

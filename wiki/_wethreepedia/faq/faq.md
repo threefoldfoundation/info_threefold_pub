@@ -792,7 +792,7 @@ You can learn more about this [here](https://manual.grid.tf/weblets/weblets_peer
 
 ### **How can I deploy ownCloud on the Threefold Grid?**
 
-Read the [documentation here](https://library.threefold.me/info/manual/#/manual__weblets_owncloud) to learn more.
+Read the [documentation here](https://manual.grid.tf/weblets/weblets_owncloud.html) to learn more.
 
 ***
 

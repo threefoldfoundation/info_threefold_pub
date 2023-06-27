@@ -734,14 +734,14 @@ Read [this documentation](https://manual.grid.tf/weblets/weblets_profile_manager
 
 ### **I want to deploy a virtual machine (VM) on Threefold. How can I do this?**
 
-Read this [short documentation](https://library.threefold.me/info/manual/#/manual__weblets_vm) and you'll soon be exploring the virtual machine world!
+Read this [short documentation](https://manual.grid.tf/weblets/weblets_vm.html) and you'll soon be exploring the virtual machine world!
 
 
 ***
 
 ### **How can I use Caprover on Threefold Grid?**
 
-Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://library.threefold.me/info/manual/#/manual__weblets_caprover_admin).
+Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://manual.grid.tf/javascript/grid3_javascript_caprover.html).
 
 ***
 
@@ -779,20 +779,20 @@ Note that a Presearch node requires about 3 days to stabilize.
 
 ### **How can I deploy Kubernetes on the Threefold Grid?**
 
-Read [this documentation](https://library.threefold.me/info/manual/#/manual__weblets_k8s) to find out.
+Read [this documentation](https://manual.grid.tf/weblets/weblets_k8s.html) to find out.
 
 ***
 
 
 ### **How can I deploy Peertube on the Threefold Grid?**
 
-You can learn more about this [here](https://library.threefold.me/info/manual/#/manual__weblets_peertube).
+You can learn more about this [here](https://manual.grid.tf/weblets/weblets_peertube.html).
 
 ***
 
 ### **How can I deploy ownCloud on the Threefold Grid?**
 
-Read the [documentation here](https://library.threefold.me/info/manual/#/manual__weblets_owncloud) to learn more.
+Read the [documentation here](https://manual.grid.tf/weblets/weblets_owncloud.html) to learn more.
 
 ***
 

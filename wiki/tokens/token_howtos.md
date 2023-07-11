@@ -1,3 +1,7 @@
+> IMPORTANT NOTICE (05/03/2023): 
+This information is updated. Please go to [manual.grid.tf](https://manual.grid.tf/threefold_token/buy_sell_tft/buy_sell_tft.html) to read the updated manual on how to buy TFT. hreeFold Team is in the process of migrating this ThreeFold Grid Manual to its new home on manual.grid.tf. This migration is deemed necessary, to avoid possible duplication of content.
+
+
 # TFT Ecosystem Manual
 
 ![img](img/threefold__circular_tft3_.jpeg)

@@ -2,6 +2,8 @@
 
 !!!tokens type:special-wallets-table
 
+> ThreeFold DMCC (Dubai) is acquiring lots of tokens and more than +200m of TFT who are technically liquid but are not used or available for the market. These tokens are reserved for our commercial roll out and DAO bases system will be used for the governance.
+
 !!!time
 
 ### Remarks

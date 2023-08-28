@@ -1,5 +1,7 @@
 # ThreeFold Dubai
 
+
+
 The original team of ThreeFold operated from Dubai and Belgium. We started in 2016.
 
 ## Responsibilities
@@ -39,6 +41,12 @@ Still today there are more than 100 servers located there in our testlab, and th
 - ThreeFold Dubai sometimes uses ThreeFold Labs IT which is a Dubai onshore company for when we need onshore activities like visa's for our people, workpermits, invoicing, ... ThreeFold Labs IT is just a services company to deal with some of these practical elements.
 
 Adnan Fatayerji is the managing director and shareholder, in the future the shares of ThreeFold Dubai will be 100% owned by The OurWorld Venture Creator
+
+## Official License
+
+Please see below the ThreeFold DMCC license:
+
+![](img/threefold_dmcc_license_certificate.jpg)
 
 
 !!!def alias:threefold_fzc,tf_fzc,threefold_dubai,tf_dubai

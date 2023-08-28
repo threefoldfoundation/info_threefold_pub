@@ -23,10 +23,10 @@
 
 <BR>
 **Benefits**
+
 !!!include:zos_advantages
 <BR>
+
 **More Info**
+
 - [Competitive](@cloud_compare_home)
-- [Use the grid](@grid_use)
-<!-- - [Release Notes](@releasenotes) -->
-<!-- - [Consensus Mechanism](@consensus3) -->

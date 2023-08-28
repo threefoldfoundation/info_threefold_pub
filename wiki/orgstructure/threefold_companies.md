@@ -7,21 +7,23 @@ ThreeFold is a decentralized movement and there are many parties involved to let
 The list below is just some of the organizations involved with the growth of ThreeFold.
 
 | Decentralized Operational Entities                                      |                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [ThreeFold DMCC = ThreeFold_Foundation](threefold_dubai) | Main promotional vehicle for ThreeFold Dubai                                             |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------                                          |
+| [ThreeFold Dubai](threefold_dubai)                   | Threefold Cloud                                                         |
 | [Threefold Tech](threefold_tech0)                         | Belgium-based tech company owns IP (Intellectual Property) of tech, is open source            |
 | [ThreeFold VZW](threefold_vzw)                            | Non for profit organization in BE (planned to be used for grant managemen)|
 | [ThreeFold_AG](threefold_ag)                              | ThreeFold in Zug Switzerland (FINMA checked tokens), not much activity.                                                            |
-| [ThreeFold DMCC](threefold_commodities)                   | ThreeFold Commodities Dubai (NEW)                                                             |
-| [Take Action Global](https://www.takeactionglobal.org/)   | 2.4m students harvest carbon credits to make the threefold grid green                         |
+
+
+| Ecosystem                                      |                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------                                          |
+
 | Codescalers                                               | Egypt-based software development team, creates a lot of code for ThreeFold                    |
 | Jimber                                                    | Belgian software company building out Digital Twin, etc                                       |
 | ThreeFold Brasil                                          | Team in South America, promoting the ThreeFold growth.                                        |
-| The Source Code Incubator                                 | Team in Dubai, France, Brasil, continuation of www.incubaid.com, promotes and uses the TFGrid |
+| The Source Code Incubator  (moves to venture creator)                               | Team in Dubai, France, Brasil, continuation of www.incubaid.com, promotes and uses the TFGrid |
 
 
 > Please note, ThreeFold Grid 3.x operates as a DAO every party who wants to participate with the ThreeFold Grid uses the TFChain.
-> [Click here for more info about our DAO](tfdao)
 
 
 | Farming Cooperatives       |                                                  |

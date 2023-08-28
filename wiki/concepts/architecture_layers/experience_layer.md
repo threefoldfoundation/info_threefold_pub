@@ -14,10 +14,5 @@ What do we mean by this? From many profiles scattered across many applications, 
 
 ThreeFold's ecosystem objective is to enable a true peer-to-peer digital world where you always remain at the center of your digital life - reducing redundancy and improving your user experience.
 
-<!-- experience section does not exist anymore on the threefold.io site.
-Learn more about the Experience Layer on the [ThreeFold website](https://threefold.io/experience.html).
--->
-Many experiences are delivered from the alliance for a conscious internet see: http://consciousinternet.org/ or through our other partnerships.
-
 
 !!!def

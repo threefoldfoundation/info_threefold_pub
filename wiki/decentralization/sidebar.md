@@ -5,7 +5,6 @@
 - [What is a DAO](@dao)
 - [Validators FAQ](@validators_faq)
 ----------
-- [ThreeFold Dubai](@threefold_foundation)
 - [ThreeFold Companies](@threefold_companies)
 - [Decentralization Status](@decentralization_status)
 

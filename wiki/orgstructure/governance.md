@@ -4,7 +4,7 @@
 
 !!!include:threefold_history_include
 
-> Some people have claimed that some threefold founders sold tokens and dumped the price, this is not true and can be verified using our blockchain. The ThreeFold founders have invested millions of USD in the project so far, they did not take money out. Lots of our team work on reduced salary some even without.
+> Some people have claimed that some threefold founders sold tokens and dumped the price, this is not true and can be verified using our blockchain. The ThreeFold founders have invested millions of USD in the project so far. Lots of our team work on reduced salary some even without.
 
 ## Token Distribution
 

@@ -6,7 +6,7 @@
 - More than 6 years ago TF Foundation started deploying capacity for development purposes
   - This became our ([our genesis pool](genesis_pool)), which is the beginning of farming
   - In 2017-18, value of the genesis pools were about 7m USD in TFT (tokens did not exist yet)
-  - Genesis pools are owned by ThreeFold Foundation (ThreeFold_Dubai).
+  - Genesis pools are owned by ThreeFold Dubai (ThreeFold_Dubai).
 - March 2018 our first-generation blockchain for the ThreeFold_Token saw daylight
   - The TFT v1 was launched on a blockchain called Rivine (PTO)
   - The genesis pool resulted in the first batch initial TFT

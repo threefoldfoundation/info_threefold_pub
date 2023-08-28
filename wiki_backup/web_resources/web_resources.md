@@ -5,13 +5,13 @@ Here you find an overview of our most important web resources besides our wikis.
 
 ![lgo](img/large_tfn_3.jpg)
 
-## ThreeFold Foundation Website
+## ThreeFold Dubai Website
 
 You can also visit the website: 
 [www.threefold.io](http://www.threefold.io)
 
 Content of the website:
-- Everything related to the ThreeFold Foundation
+- Everything related to the ThreeFold Dubai
 - Team, ambassadors and community
 - General information on the project
 - Articles
@@ -21,11 +21,11 @@ Content of the website:
 
 Feel free to post issues on our github repository about the Foundation website if you think something is unclear or missing: https://github.com/threefoldfoundation/www_threefold.io/issues
 
-## ThreeFold Foundation Github Repositories
+## ThreeFold Dubai Github Repositories
 
 ![foundation repo image](img/foundation_repo.jpg)
 
-[ThreeFold Foundation Repositories](https://github.com/threefoldfoundation)
+[ThreeFold Dubai Repositories](https://github.com/threefoldfoundation)
 
 ---
 ![image](img/threefoldtech.jpg)

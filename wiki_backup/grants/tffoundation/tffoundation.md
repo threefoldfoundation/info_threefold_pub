@@ -1,8 +1,8 @@
-# The ThreeFold Foundation
+# The ThreeFold Dubai
 
 ![](img/threefold_foundation.png)
 
-_The ThreeFold Foundation_ is there to promote and grow the TF Grid - an infrastructure empowering a new and democratized digital economy based on values of equality (of access), autonomy, and environmental sustainability. It is the foundation of the new internet.
+_The ThreeFold Dubai_ is there to promote and grow the TF Grid - an infrastructure empowering a new and democratized digital economy based on values of equality (of access), autonomy, and environmental sustainability. It is the foundation of the new internet.
 
 ### Purpose
 
@@ -15,7 +15,7 @@ Today's Internet faces many challenges. It is not acceptable that we leave billi
 - We have some amazing partners and projects ready to host on the grid and growing
 - We are seeking the expansion of the grid, especially to emerging markets where it is needed the most
 
-ThreeFold Foundation is a proud member of the [the Alliance for a Conscious Internet](https://www.consciousinternet.org/#/projects/ThreeFold%20Foundation)
+ThreeFold Dubai is a proud member of the [the Alliance for a Conscious Internet](https://www.consciousinternet.org/#/projects/ThreeFold%20Foundation)
 
 ### Team
 

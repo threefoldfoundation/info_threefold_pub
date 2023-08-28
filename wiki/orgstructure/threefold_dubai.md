@@ -1,6 +1,6 @@
 # ThreeFold Dubai
 
-The original team of ThreeFold operated from Dubai and Belgium. The first ThreeFold related company was called ThreeFold FZC, created in Dubai in 2016.
+The original team of ThreeFold operated from Dubai and Belgium. We started in 2016.
 
 ## Responsibilities
 
@@ -10,11 +10,15 @@ The original team of ThreeFold operated from Dubai and Belgium. The first ThreeF
 - work with many people and companies around the world to grow the threefold ecosystem
 - look for partners who are willing to grow the threefold ecosystem
 
+## NEW 2023
+
+ThreeFold Dubai = ThreeFold DMCC and will launch a commercial business on top of the TFGrid.
+
+See more info in [this google doc](https://docs.google.com/document/d/10Ieu1D00vZdVNP9nQESk4WMszAM5vqi8XoWzSBy3xPU/edit)
+
 ## Some memories from 2015+
 
-At one point in time we had an office on the 74th floor of a building close to the Dubai International Airport. It was a cool spot with a great view, but we also realized the importance of being located closer to the ground. We only stayed there for just a little more than 1 year.
-
-<!-- [photos ThreeFold_Dubai](structure/images_threefold_fzc.html ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"') -->
+At one point in time we had our office on the 74th floor of a building close to the Dubai International Airport. It was a cool spot with a great view, but we also realized the importance of being located closer to the ground. We only stayed there for just a little more than 1 year.
 
 ![](img/view_dubai.jpg)
 ![](img/dubai_office1.jpg)
@@ -26,25 +30,16 @@ Our main office was and still is in Al Jadaf which is, interestingly enough, a b
 
 The tower on the left in the photo above is where our office was. The place behind (to the right) is called Al Jadaf. We decided to do something different compared to most. No office in a fancy office building. Instead we have our office next to the water in a very old shipyard. Very unique, and it much more cost effective as well. (-:
 
-Still today there are more than 100 servers located there in our testlab, and the ThreeFold Foundation is run from there.
+Still today there are more than 100 servers located there in our testlab, and the ThreeFold Dubai was run from there.
 
-## Structure: Oct 2021
+## Structure: Oct 2021 - Dec 2022
 
-- ThreeFold Labs IT is  our operational HQ from where all Foundation activities are coordinated.
-- ThreeFold Labs IT is mainly funded from TFTech at this point.
-- ThreeFold Labs IT is based in Al Jadaf in Dubai onshore.
+- ThreeFold Dubai is our operational HQ from where all Foundation activities are coordinated.
+- ThreeFold Dubai was mainly funded from TFTech (during 2019-2022), this will now change in 2023
+- ThreeFold Dubai sometimes uses ThreeFold Labs IT which is a Dubai onshore company for when we need onshore activities like visa's for our people, workpermits, invoicing, ... ThreeFold Labs IT is just a services company to deal with some of these practical elements.
 
-Adnan Fatayerji is the managing director, in the future the shares of ThreeFold Labs IT will be 100% owned by threefold_vzw, we are in the process.
+Adnan Fatayerji is the managing director and shareholder, in the future the shares of ThreeFold Dubai will be 100% owned by The OurWorld Venture Creator
 
-ThreeFold DMCC is also operational and used for some token matters and sales of IT capacity (is a freezone in Dubai)
-
-
-<!-- 
-## Structure: Summer 2020
-
-![](img/labs_it_license.jpg)
-
-ThreeFold_Dubai, a free zone establishment with License No: 17194 with its principal place of business at Q1-07-038/B SAIF Zone, United Arab Emirates, PO Box 514608. -->
 
 !!!def alias:threefold_fzc,tf_fzc,threefold_dubai,tf_dubai
 

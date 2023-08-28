@@ -1,5 +1,5 @@
 
-# ThreeFold Foundation Ambassador Structure
+# ThreeFold Dubai Ambassador Structure
 
 ![](img/ambassadors_world.jpg)
 
@@ -22,7 +22,7 @@ In progress Q2 2021:
     - all circles are 100% transparent to the world (purpose, activities, achievements, ...)
     - each circle will have their own telegram channel (later 3bot) and limited to members of the circle
     - each circle will have a fixed meeting room on https://freeflowconnect.threefold.me/ (our own zoom alternative)
-    - each circle can ask funding to ThreeFold foundation (in TFT) to organize their operations.
+    - each circle can ask funding to ThreeFold Dubai (in TFT) to organize their operations.
 - Ambassador Cafe 
     - will be a circle organized online meeting place (by the community itself, not ThreeFold)
     - will organize online events where everyone is free to join depending the topic

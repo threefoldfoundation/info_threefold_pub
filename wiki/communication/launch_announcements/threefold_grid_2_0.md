@@ -8,7 +8,7 @@ _For the past few years, we have been on a beautiful journey to build a new peer
 
 _Tonight, we are proud to launch the second generation of the ThreeFold_Grid, along with the ThreeFold_Grid Software Development Kit (the tool that gives anyone access to the Grid), and the ThreeFold Peer-to-Peer Cloud._
 
-_It is a significant moment in our journey towards rolling out a new internet that adheres to the mission and values of the ThreeFold Foundation – an internet founded on equality, autonomy, and sustainability – and we thank our community for helping to get us to where we are today._
+_It is a significant moment in our journey towards rolling out a new internet that adheres to the mission and values of the ThreeFold Dubai – an internet founded on equality, autonomy, and sustainability – and we thank our community for helping to get us to where we are today._
 
 _Tonight is the beginning of a rolling launch of announcements over the coming weeks and months regarding the ThreeFold_Grid, many launching projects, use cases, new farmers, and of course the ThreeFold_Token (TFT)._
 

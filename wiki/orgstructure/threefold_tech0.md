@@ -41,7 +41,7 @@ The company is 80% engineering centric today.
 | private investors CLA           | +- 18.5% of company, by means of convertible loan    |
 | private investor SHARES         | +- 2.5% of company, already converted loan to shares |
 | founders                        | 25% of company                                       |
-| advisors / threefold foundation | 5%                                                   |
+| advisors / ThreeFold Dubai | 5%                                                   |
 | not for profit foundation       | 49% of company  (in process)                         |
 
 Are estimates

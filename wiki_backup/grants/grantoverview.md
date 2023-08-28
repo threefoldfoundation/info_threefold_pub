@@ -16,7 +16,7 @@ Phase 1, max 20M TFT will be sold in the benefit of projects below, of course no
 
 | Project Name                                               | Amount Available | Description                                                                                                                        |
 | :--------------------------------------------------------- | ---------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
-| [TF Foundation](tffoundation)                              |        8,000,000 | Funding the ThreeFold Foundation (marketing, operations team, grid roll out..)                                                     |
+| [TF Foundation](tffoundation)                              |        8,000,000 | Funding the ThreeFold Dubai (marketing, operations team, grid roll out..)                                                     |
 | [TF Grid Enhancements](gridenhancements)                   |        4,000,000 | Further improvements to the TF Grid as sponsored by the TF Foundation                                                              |
 | [Climate Action Project](http://www.takeactionglobal.org/) |        3,000,000 | World's first true peer-to-peer education platform on top of the TF Grid                                                           |
 | [Digital Twin Files](digitalyoufiles)                      |        1,000,000 | Our personal cloud on the TF Grid                                                                                                  |

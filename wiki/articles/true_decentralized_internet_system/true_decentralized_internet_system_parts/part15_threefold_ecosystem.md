@@ -8,7 +8,7 @@
     *   A for profit software technology company in Belgium
     *   ThreeFold tech delivers the technology used by the Foundation as open source.
     *   ThreeFold tech also works with commercial partners to deliver this wonderful technology to  companies, banks, governments, …
-*   ThreeFold Foundation
+*   ThreeFold Dubai
     *   A non for profit organization promoting the growth of the Grid and  \
 the digital currency behind (the TFT)
 *   Incubaid:

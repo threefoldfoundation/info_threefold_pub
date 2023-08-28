@@ -8,10 +8,10 @@ The list below is just some of the organizations involved with the growth of Thr
 
 | Decentralized Operational Entities                                      |                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [ThreeFold_Dubai = ThreeFold_Foundation](threefold_dubai) | Main promotional vehicle for ThreeFold Foundation                                             |
-| [Threefold_Tech](threefold_tech0)                         | Belgium-based tech company owns IP (Intellectual Property) of tech, is open source            |
-| [ThreeFold_VZW](threefold_vzw)                            | Non for profit organization in BE, protects our values (home of wisdom council)               |
-| [ThreeFold_AG](threefold_ag)                              | ThreeFold in Zug Switzerland (NEW)                                                            |
+| [ThreeFold DMCC = ThreeFold_Foundation](threefold_dubai) | Main promotional vehicle for ThreeFold Dubai                                             |
+| [Threefold Tech](threefold_tech0)                         | Belgium-based tech company owns IP (Intellectual Property) of tech, is open source            |
+| [ThreeFold VZW](threefold_vzw)                            | Non for profit organization in BE (planned to be used for grant managemen)|
+| [ThreeFold_AG](threefold_ag)                              | ThreeFold in Zug Switzerland (FINMA checked tokens), not much activity.                                                            |
 | [ThreeFold DMCC](threefold_commodities)                   | ThreeFold Commodities Dubai (NEW)                                                             |
 | [Take Action Global](https://www.takeactionglobal.org/)   | 2.4m students harvest carbon credits to make the threefold grid green                         |
 | Codescalers                                               | Egypt-based software development team, creates a lot of code for ThreeFold                    |

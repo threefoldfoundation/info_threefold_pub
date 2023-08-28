@@ -12,7 +12,7 @@ A few things to share with you:
 
 2. We love input, and we do everything we can to honour the feedback we receive by incorporating it into everything we do.
 
-3. We love when our community contributes, and today we have hundreds of people helping us across the board. It would be fantastic if you became a contributor on GitHub ([ThreeFold Tech](https://github.com/threefoldtech) or [ThreeFold Foundation](https://github.com/threefoldfoundation)), a moderator on [the ThreeFold Forum](https://forum.threefold.io/) or one of our groups, a [Grid Tester](https://t.me/threefoldtesting), a [Farmer](https://t.me/threefoldfarmers), etc.
+3. We love when our community contributes, and today we have hundreds of people helping us across the board. It would be fantastic if you became a contributor on GitHub ([ThreeFold Tech](https://github.com/threefoldtech) or [ThreeFold Dubai](https://github.com/threefoldfoundation)), a moderator on [the ThreeFold Forum](https://forum.threefold.io/) or one of our groups, a [Grid Tester](https://t.me/threefoldtesting), a [Farmer](https://t.me/threefoldfarmers), etc.
 
 - *Just get in touch with anyone from our team, and let's see how to best plug you in.*
 

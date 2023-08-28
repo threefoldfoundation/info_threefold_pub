@@ -35,8 +35,8 @@ All genesis pools were owned by the foundation. Many of those servers are at thi
 
 - A lot of the genesis pool tokens went to the original shareholders of a company who created a lot of the technology which was the basis at that time for ThreeFold.
   - Most of these tokens are locked up and are not tradeable.
-  - This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
-- The other part went to ThreeFold Foundation, to allow the Foundation to promote & further grow the project.
+  - This was a deal made mid 2018 and provided the ThreeFold Dubai with technology and a global engineering team.
+- The other part went to ThreeFold Dubai, to allow the Foundation to promote & further grow the project.
 
 > [See Token Overview](token_overview) for more details.
 

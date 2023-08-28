@@ -1,12 +1,22 @@
 - [**Home**](@threefold_home)
 -----------
-- [Overview](@threefold_companies)
------------
-- [ThreeFold Switserland](@threefold_ag)
+
+our main companies
+
 - [ThreeFold Dubai](@threefold_dubai)
-- [ThreeFold Belgium = non profit](@threefold_vzw)
 - [TFTech](@threefold_tech0)
+
+-----------
+
+- [Overview](@threefold_companies)
+- [History](@threefold_history)
+
+-----------
+
+related companies
+
 - [Mazraa  Farming Cooperative](@mazraa)
 - [BetterToken Farming Cooperative](@bettertoken)
 - [Incubaid](https://www.incubaid.com/)
-- [Take Action Global](https://www.takeactionglobal.org/)
+- [ThreeFold Switserland](@threefold_ag)
+- [ThreeFold Belgium = non profit](@threefold_vzw)

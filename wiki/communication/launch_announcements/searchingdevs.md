@@ -2,7 +2,7 @@
 
 ![](img/visionarydevs.jpg)
 
-The ThreeFold Foundation team is looking for experienced, passionate developers who want to build a better world.
+The ThreeFold Dubai team is looking for experienced, passionate developers who want to build a better world.
 
 They will help our software development team build and maintain highly scalable infrastructures and features utilizing our peer-to-peer Internet Capacity and decentralized ID system.
 

@@ -12,7 +12,7 @@ Some examples of decisions which need to be taken:
 
 - Approve code releases
 - Sign the deployment of the code, so no code can be deployed for production purposes before majority signs
-- Approve new development projects when funded by the ThreeFold Foundation
+- Approve new development projects when funded by the ThreeFold Dubai
 - Approve standards and procedures that could be relevant for the TF Grid technology stack or operations
 
 ## Council

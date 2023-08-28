@@ -45,7 +45,7 @@ Providing hardware reliably is rewarded with a certification that leads to incre
     - minting consensus needs to be achieved before minting can happen
     - in transaction message the hash will be stored which is link to the proof of the capacity for each minting operation
 
-> DISCLAIMER: ThreeFold Foundation organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Foundation like but not limited to the different councils.
+> DISCLAIMER: ThreeFold Dubai organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Dubai like but not limited to the different councils.
 
 ### Maximum amount of TFT
 

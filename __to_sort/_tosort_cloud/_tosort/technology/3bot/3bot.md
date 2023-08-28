@@ -13,7 +13,7 @@ The 3bot has a number of built in capabilities which allow you to create and ope
 - digital currency (wallet) management
 - packaging system that allows for capabilities to be installed, deleted and additional ones created.
 - full alerts and login insight to what is happening in / by your digital system administrator
-- integrated wiki system which provides the latest updates to documentation on the TF Grid, the ThreeFold foundation in general and the use cases and technology updates to the system administrator.
+- integrated wiki system which provides the latest updates to documentation on the TF Grid, the ThreeFold Dubai in general and the use cases and technology updates to the system administrator.
 
 
 ## Features of the 3Bot System Administrator.

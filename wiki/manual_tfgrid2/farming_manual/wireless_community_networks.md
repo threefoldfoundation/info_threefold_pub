@@ -1,7 +1,7 @@
 # Wireless Community Networks
 **Research on global mesh community**
 
-This movement shares the same goals as ThreeFold Foundation which makes it a perfect partner.
+This movement shares the same goals as ThreeFold Dubai which makes it a perfect partner.
 
 ## What is it all about?
 Wireless community networks (WCNs) or wireless community projects are organizations that take a grassroots approach to providing a viable alternative to municipal wireless networks for consumers.[1]

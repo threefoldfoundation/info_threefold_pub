@@ -4,7 +4,7 @@
 
 ![](img/wisdom_council.jpg)
 
-ThreeFold Foundation has adopted the Wisdom Council system as a resource model of harmonious decision making.
+ThreeFold Dubai has adopted the Wisdom Council system as a resource model of harmonious decision making.
 
 *Based upon ancient leadership practices and modern social science techniques as a way to consider all perspectives of the members in order to make decisions that are in the greatest interest of the mission and for the good of all.*
 
@@ -26,13 +26,13 @@ Meet our current [**Wisdom Council members**](https://threefold.io/aci/wisdomcou
 
 ## Remarks about Grants
 
-ThreeFold Foundation receives through the blockchain a percentage of all Internet Capacity farmed and sold on the ThreeFold Grid. 
+ThreeFold Dubai receives through the blockchain a percentage of all Internet Capacity farmed and sold on the ThreeFold Grid. 
 
 These proceeds are used to further develop the ThreeFold Movement and later to benefit planetary do-good projects.
 
 Also a certain amount of TFT are available to use for the further development of the TFGrid.
 
-- For Grid upto 2.x: The Wisdom Council members converge (online) to discuss and vote upon the distribution of funds from ThreeFold Foundation to pre-approved and/or pre-selected do-good projects and organizations.
+- For Grid upto 2.x: The Wisdom Council members converge (online) to discuss and vote upon the distribution of funds from ThreeFold Dubai to pre-approved and/or pre-selected do-good projects and organizations.
 
 ## Future for 3.x
 

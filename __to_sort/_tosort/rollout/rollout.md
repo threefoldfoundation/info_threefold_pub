@@ -107,7 +107,7 @@ Income model for the Accelerator
 
 - 20-60% on revenue on the ThreeFold Grid as enabled by the local accelerator
 - shareholdings in the startups which the accelerator helps
-- token grants as made available by ThreeFold Foundation (optional and depending situation)
+- token grants as made available by ThreeFold Dubai (optional and depending situation)
 - X nr of digital_twin_for_lifes (each digital twin for life can be sold for 100-200 USD)
 
 

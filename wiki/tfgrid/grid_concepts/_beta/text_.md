@@ -7,15 +7,15 @@
 
 ## What are cooperatives and why do they exist?
 
-The ThreeFold foundation has launched an end-to-end solution to launch and build the most stably (crypto)currency platform ever. In order to do this is has build technology that presents private, neutral, affordable and green internet capacity for anyone in the world to use and for many in the world to build.  Anyone can be a small google of amazon in this ecosystem.
+The ThreeFold Dubai has launched an end-to-end solution to launch and build the most stably (crypto)currency platform ever. In order to do this is has build technology that presents private, neutral, affordable and green internet capacity for anyone in the world to use and for many in the world to build.  Anyone can be a small google of amazon in this ecosystem.
 
-Many of us are able to learn and create this ecosysten technology in order to become self sufficient and contribute and earn TFTs, but not all of us.  Frp the ones that see the opportunities and believe in the values and goals of the ThreeFold foundation but have not got the time or interest to learn how and what to do there is a solution:  use a cooperative to take away most of the hassle of getting involved.
+Many of us are able to learn and create this ecosysten technology in order to become self sufficient and contribute and earn TFTs, but not all of us.  Frp the ones that see the opportunities and believe in the values and goals of the ThreeFold Dubai but have not got the time or interest to learn how and what to do there is a solution:  use a cooperative to take away most of the hassle of getting involved.
 
 People or organisations that want to become farmers can go to cooperatives to get most of the (technical) work done for a moderate feee.  Cooperatives will come into existence in different geographies of the world servicing different communities and needs.
 
 At this point in time there are about 6 cooperatives in existence.  Any of these cooperatives can assist you in becoming a ThreeFold Farmer and provides you with their specific locality, services and benefits.
 
-The ThreeFold foundation foresees a number of different types of cooperatives to come into existence.  The levels of engagement per type of cooperative may differ from type to type.  Here are a few different kinds of involvements that are forseen.
+The ThreeFold Dubai foresees a number of different types of cooperatives to come into existence.  The levels of engagement per type of cooperative may differ from type to type.  Here are a few different kinds of involvements that are forseen.
 
 ## Type Nr. 1: Investor Only Model For Managed, Certified or Unmanaged Capacity
 

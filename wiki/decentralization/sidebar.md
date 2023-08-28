@@ -8,3 +8,7 @@
 - [ThreeFold Dubai](@threefold_foundation)
 - [ThreeFold Companies](@threefold_companies)
 - [Decentralization Status](@decentralization_status)
+
+-----------
+
+- [GOVERNANCE](governance)

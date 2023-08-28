@@ -6,7 +6,7 @@
 - [Technology](@technology)
 ------------
 - [Legal](!@legal:legal_home)
-- [Gvernance](governance)
+- [Governance](governance)
 ------------
 - [Manual](https://manual.grid.tf)
 - [FAQ](https://manual.grid.tf/faq/faq.html)

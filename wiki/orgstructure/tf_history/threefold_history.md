@@ -2,11 +2,7 @@
 
 # ThreeFold Project History
 
-This document has as a purpose to provide some overview of the history of ThreeFold. We are now quite some years into the project.
-
-We are a decentralized movement, ThreeFold Dubai has the purpose to promote the ThreeFold_Grid and movement. 
-
-The Foundation wants to operate as a not for profit organization. Not for profit means that no shareholder has the intent to ever use any of the benefits (if any) as created in ThreeFold Dubai.
+!!include:threefold_history_include
 
 ## History
 

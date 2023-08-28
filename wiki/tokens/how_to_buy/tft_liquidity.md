@@ -24,6 +24,3 @@ Here are some popular tools to join Liquidity Pools
 | [**1inch**](tft_1inch) | Binance Smart Chain |
 | [**PancakeSwap**](liquidity_provider) | Binance Smart Chain|
 
-## ThreeFold Long-Term Strategy Plan for Liquidity
-
-If you want to know more details about ThreeFold's long-term strategy plan for growing liquidity, please check [this document](https://liquidity.threefold.me)

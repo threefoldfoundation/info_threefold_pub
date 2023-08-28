@@ -2,8 +2,9 @@
 
 ## ThreeFold Project History
 
-!!include:threefold_history_include
+!!!include:threefold_history_include
 
 ## Token Distribution
 
-see [token overview](token_overview)
+- [token distrubution](token_overview)
+- [token stats](stats_token_overview)

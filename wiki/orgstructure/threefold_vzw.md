@@ -20,6 +20,8 @@ We all started in Belgium from Korenlei 22, a super old building in the middle o
 
 ![](img/korenlei_old.jpg)
 
+Now the foundation has another address in Lochristi.
+
 The **VZW** is home to the [Wisdom Council](wisdom_council)
 
 ## Belgium Official Doc

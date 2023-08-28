@@ -12,14 +12,7 @@ The Foundation wants to operate as a not for profit organization. Not for profit
 
 In the earlier days of ThreeFold, there were multiple teams collaborating, but the two core teams were located in Dubai and Belgium.
 
-- In Dubai we had [ThreeFold_Dubai](threefold_dubai) = ThreeFold Dubai (\*), this company was owned by Adnan Fatayerji & Kristof de Spiegeleer
-- In Belgium we had [BetterToken](bettertoken), this company was owned by Kristof and Kristof's Incubator (Incubaid)
-
-Adnan & Kristof started the ThreeFold idea (which is basically just a concept people can relate to or not) from the above-mentioned companies and have always acted in their respective capacity as directors of these companies. This structure would later evolve into the ThreeFold Dubai as it is known today.
-
-A small part of the original funding came from the fact that The ThreeFold Dubai has sold early capacity in form of ThreeFold Tokens. 
-
-These buyers could use their TFT to buy IT capacity from ThreeFold_Dubai or BetterToken BV until April 2020, or from the TF Grid directly in a fully decentralized way starting May 2020.
+A group of early supporters bought IT capacity (through buying TFT) from our Genesis pool and our early farmers. These buyers could use their TFT to buy IT capacity from ThreeFold_Dubai or BetterToken BV until April 2020, or from the TF Grid directly in a fully decentralized way starting May 2020.
 
 The ThreeFold_Grid is the result of many farmers using the open source technology which is on https://github.com/threefoldtech.
 

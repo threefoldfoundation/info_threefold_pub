@@ -16,7 +16,7 @@ Proof of Utility Distribution Flow:
 
 ## TFT Marketcap
 
-!!!tokens type:total-liquid tftprice:0.12
+!!!tokens type:total-liquid tftprice:0.01
 
 ## Remarks
 

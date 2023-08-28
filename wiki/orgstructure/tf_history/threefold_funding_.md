@@ -1,6 +1,6 @@
 - +20M USD for all farming (thank you farmers)
 - 15M USD in ThreeFold Tech as convertible loan (by 50+ investors)
-- 5M USD in early IT capacity purchases (TFT)  (by foundation = ThreeFold_Dubai)
+- 5M USD in early IT capacity purchases (as TFT)
 - +10M USD funding from Incubaid/Kristof (estimate)
   - ThreeFold Tech was established Oct 2018, from out of Incubaid
   - Related to people related to https://www.incubaid.com

@@ -16,7 +16,6 @@ The list below is just some of the organizations involved with the growth of Thr
 
 | Ecosystem                                      |                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------                                          |
-
 | Codescalers                                               | Egypt-based software development team, creates a lot of code for ThreeFold                    |
 | Jimber                                                    | Belgian software company building out Digital Twin, etc                                       |
 | ThreeFold Brasil                                          | Team in South America, promoting the ThreeFold growth.                                        |

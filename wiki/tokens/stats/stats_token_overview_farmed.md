@@ -29,8 +29,6 @@ Total illiquid wisdom council and foundation tokens:
 Total liquid tokens: 
 !!!tokens type:value id:total-liquid-tokens
 
-> Vested accounts unlock following [vesting scheme as defined here](vesting_overview).
-
 ## Locked tokens
 
 

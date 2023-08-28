@@ -10,6 +10,17 @@
 
 !!!include:stats_toc
 
+## is TFT a security
+
+For sure not, TFT is NOT a security.
+
+We did research and had legal advice in 4 jurisdictions
+
+- Switserland
+- Belgium
+- Dubai
+- Signapore
+
 ## FAQ
 
 ### Did ThreeFold do a ICO

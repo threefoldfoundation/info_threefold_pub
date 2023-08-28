@@ -8,7 +8,6 @@
 - [Cloudunits](@cloudunits)
 - [Capacity Explorer](tfgrid_explorer)
 - [Manual](https://manual.grid.tf)
-- [Roadmap](roadmap)
 - [Technology](@technology)
 - [Decentralization](@decentralization)
 - [Validators](@validators_faq)

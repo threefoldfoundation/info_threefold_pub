@@ -47,5 +47,5 @@ graph TB
 
 *click on the parts of the image, they will go to more info*
 
-- See [Roadmap TFChain/DAO 3.x](roadmap_tfchain3) for info of implementation.
+> TODO: outdated info
 

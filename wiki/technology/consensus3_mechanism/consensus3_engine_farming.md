@@ -13,6 +13,5 @@ The consensus engine checks the farming rules as defined in
 
 All the data of the farmer and the 3nodes are registered on TFChain
 
-- See [Roadmap TFChain/DAO 3.x](roadmap_tfchain3) for info of implementation.
 
 !!!include:consensus3_toc

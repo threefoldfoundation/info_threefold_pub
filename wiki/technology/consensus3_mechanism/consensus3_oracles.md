@@ -39,6 +39,6 @@ graph TB
 
 ```
 
-- See [Roadmap TFChain/DAO 3.x](roadmap_tfchain3) for info of implementation.
+> TODO: outdated info
 
 !!!include:consensus3_toc

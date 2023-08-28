@@ -11,7 +11,7 @@
 - [Roadmap](roadmap)
 - [Technology](@technology)
 - [Decentralization](@decentralization)
-- [Validators](@validators)
+- [Validators](@validators_faq)
 - [BE THE INTERNET](be_the_internet)
 
 <!-- - Note doesn't bring any value at present state [Technology](technology) -->

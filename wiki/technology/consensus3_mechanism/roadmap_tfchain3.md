@@ -17,7 +17,6 @@ Features
 - uptime achieved
 - capacity utization
 - smart contract for IT
-- validators for L1 (TFChain level)
 - storage of value = TFT
 - request/approval for adding a validator
 

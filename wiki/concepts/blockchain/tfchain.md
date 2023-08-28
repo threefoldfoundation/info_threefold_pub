@@ -17,7 +17,6 @@ This blockchain is used for:
   - Account_Metadata which is information about a digital currency wallet/account needed for vesting, locking, ... 
 - backend for Consensus_Engine.
 - smartcontract_it layer (how to provision workloads on top of TFGrid)
-- L1 DAO = DAO for the TFChain and TFGrid
 - the backend for TFChainDB
 
 Is combination of tfchain_nodes

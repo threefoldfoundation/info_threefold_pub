@@ -26,7 +26,7 @@ ThreeFold Tech business wise focusses on
 
 The company is 80% engineering centric today.
 
-> TFTech has no links to tokens, at this point (March 2021) does not own any of them either. All Token & TFGrid activities are coordinate from TFF.
+> TFTech has no links to tokens, at this point (March 2021) does not own any of them either. All Token & TFGrid activities are coordinate from ThreeFold Dubai.
 
 
 ## shareholders end 2020

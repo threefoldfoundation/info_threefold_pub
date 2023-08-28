@@ -12,7 +12,7 @@
 
 ## is TFT a security
 
-For sure not, TFT is NOT a security.
+For sure not, TFT is NOT a security. We also never did an ICO.
 
 We did research and had legal advice in 4 jurisdictions
 
@@ -20,6 +20,13 @@ We did research and had legal advice in 4 jurisdictions
 - Belgium
 - Dubai
 - Signapore
+
+- [see the legal opinions here](https://drive.google.com/file/d/1kNu2cFjMkgqdadrOOQTTC5FPAM4OgKEb/view?usp=drive_link)
+
+## Governance about the tokens as held in our wallets.
+
+Multisignature wallets and our DAO and Forum are tools to make sure that all our funds are used properly.
+
 
 ## FAQ
 
@@ -29,7 +36,7 @@ We never launched tokens by means of an ICO. At start there was a pre-sale of ca
 
 We never organized a pump and dump or any other synthetic mechanism to boost the token price and benefit.
 
-We believe in organic growth.
+We believe in organic growth and the TFT going up as result of utilization and expansion.
 
 ### Did the founders dump tokens
 

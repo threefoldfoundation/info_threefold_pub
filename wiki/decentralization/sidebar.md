@@ -3,11 +3,8 @@
 ----------
 - [ThreeFold DAO](@tfdao)
 - [What is a DAO](@dao)
-- [DAO Voting](@voting_l2)
-- [Validators](@validators)
-- [Executors](@tfexecutors)
+- [Validators FAQ](@validators_faq)
 ----------
 - [ThreeFold Foundation](@threefold_foundation)
 - [ThreeFold Companies](@threefold_companies)
-- [Alliance for a Conscious Internet](@aci)
 - [Decentralization Status](@decentralization_status)

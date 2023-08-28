@@ -8,11 +8,12 @@
   - [Decentralized](usp_decentralized) 
   - [Compatible](usp_compatible) 
   - [Security](usp_secure)  
-- [Pricing](https://manual.grid.tf/cloud/cloudunits_pricing.html)
 - [Compare](!@cloud_compare_home)
 - [Technology](@technology)
-- [Manual](https://manual.grid.tf/)
 - [Support](support)
+----------
+- [Pricing](https://manual.grid.tf/cloud/cloudunits_pricing.html)
+- [Manual](https://manual.grid.tf/)
 
 <!-- - [Videos](@generic_video) -->
 <!-- - [Definitions & Concepts](@definitions_concepts) -->

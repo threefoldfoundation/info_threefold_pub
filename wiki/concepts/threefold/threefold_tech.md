@@ -34,5 +34,3 @@ The company is 80% engineering centric today.
 
 
 !!!def alias:threefold_tech,tf_tech
-
-!!!include:threefold_companies

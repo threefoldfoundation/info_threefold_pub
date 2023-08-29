@@ -15,10 +15,6 @@ These are a number of the main tasks of the 3BOT at grid launch - it will be giv
 
 There are a number of technoical features that TFTech has enabled and/or build into the grid based on the generic direction IT is taking globally. A conscious dicision is made to _not_ support virtual machine workloads as this is seen as old / currenct technology - certainly not the technology that will fuel the future of IT. Various research instituion and firm have reports on how containerised technology is the future for future IT workloads on the internet of things.
 
-Research firms and publications on this topic:
-
-- TBD
-
 The keyword here is athat we are aiming for decentralised applications. A decentralised grid of compute and storage capacity is ideally suited to take on distributed -- decentralised applications. These applications are currently being developped from (old) centralised applications by the major (enterprise) software vendors. How
 
 ### Which use cases to look out for?

@@ -20,24 +20,12 @@ ThreeFold Tech is a Belgium-based for-profit software company that believes that
 
 ThreeFold Tech business wise focusses on
 
-- [X] certify farming boxes
-- [X] sell certified farming solutions
+- [X] sell licenses to companies and/or governments to deploy private versions of our cloud technology.
 - [X] create an antidote for the Cyberpandemic, help customers to protect themselves against this huge threat.
 
 The company is 80% engineering centric today.
 
 > TFTech has no links to tokens, at this point (March 2021) does not own any of them either. All Token & TFGrid activities are coordinate from ThreeFold Dubai.
-
-
-## shareholders end 2020
-
-|                                 | description                                          |
-| ------------------------------- | ---------------------------------------------------- |
-| private investors CLA           | +- 18.5% of company, by means of convertible loan    |
-| private investor SHARES         | +- 2.5% of company, already converted loan to shares |
-| founders                        | 25% of company                                       |
-| advisors / ThreeFold Dubai | 5%                                                   |
-| not for profit foundation       | 49% of company                                       |
 
 
 ## location

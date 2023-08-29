@@ -25,7 +25,7 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 | --------------- | --------------- |-------|---|
 | [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem||
 | [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Key Storage | Polkadot Browser extension to store your private keys||
-| [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management ||
+| [**TF-Chain Portal**](https://dashboard.grid.tf/) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management ||
 	
 ## Binance Smart Chain
 
@@ -41,4 +41,4 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 | Link | Description |
 | --------------- | --------------- |
 | [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Dubai - driven bridge for TFT between Stellar and BSC networks |
-| [**Stellar <> TFChain Bridge**](https://library.threefold.me/info/manual/#/manual__dashboard_readme) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for details|
+| [**Stellar <> TFChain Bridge**](https://dashboard.grid.tf/) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for details|

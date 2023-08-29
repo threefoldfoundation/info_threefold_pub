@@ -69,10 +69,10 @@ In Q3 2021 we launched TF Grid 3.0 which has again brought improvement to the fa
 
 [TFTA TrustLine](https://stellar.expert/explorer/public/asset/TFTA-GBUT4GP5GJ6B3XW5PXENHQA7TXJI5GOPW3NF4W3ZIW6OOO4ISY6WNLN2)
 
-Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer.threefoldtoken.com/).
+Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer2.threefoldtoken.com/).
 
 To validate this, each migration transaction contain hash of the rivine lock transaction in their memo in hex format.
 
-[Rivine block explorer](https://explorer.threefoldtoken.com/) can be used for validation purposes.
+[Rivine block explorer](https://explorer2.threefoldtoken.com/) can be used for validation purposes.
 
 !!!include:legal:tft_not_investment

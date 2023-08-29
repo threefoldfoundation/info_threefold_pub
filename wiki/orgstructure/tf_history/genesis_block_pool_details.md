@@ -60,6 +60,6 @@ _The purpose of this exercise is to demonstrate there is a reasoning behind the 
 
 ## Genesis Pool Details
 
-- Block 0: [Block 0 on Explorer](https://explorer.threefoldtoken.com/hash.html?hash=a2ee0aa706c9de46ec57dbba1af8d352fbcc3cc5e9626fc56337fd5e9ca44c8d)
+- Block 0: [Block 0 on Explorer](https://explorer2.threefoldtoken.com/hash.html?hash=a2ee0aa706c9de46ec57dbba1af8d352fbcc3cc5e9626fc56337fd5e9ca44c8d)
 - Genesis Block Code: [Code of Block 0](https://github.com/threefoldfoundation/tfchain/blob/master/pkg/config/config.go#L103)
 

@@ -1,3 +1,5 @@
 - [Token Overview Total](stats_token_overview)
-- [Token Overview Farmed](stats_token_farmed) 
 - [Threefold Wallets Overview](stats_special_wallets)
+
+
+<!-- - [Token Overview Farmed](stats_token_farmed)  -->

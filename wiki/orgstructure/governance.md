@@ -10,14 +10,16 @@
 
 !!!include:stats_toc
 
-## is TFT a security
+## What type of token is TFT
 
-We conducted research and obtained legal counsel in four different jurisdictions:
+We conducted research and obtained legal counsel in multiple jurisdictions:
 
 - Switserland
 - Belgium
 - Dubai
 - Signapore
+
+> The regulators and legal advisors believe that we are a payment token with some flavor of a utility token (hybrid).
 
 - [see the legal opinions here](https://drive.google.com/file/d/1kNu2cFjMkgqdadrOOQTTC5FPAM4OgKEb/view?usp=drive_link)
 

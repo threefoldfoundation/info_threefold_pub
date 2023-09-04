@@ -9,7 +9,7 @@ There are two types of Farming:
 - Planet Friendly Farming (previously referred to as Do-it-Yourself).
 - Planet Positive Farming (previously referred to as Certified).
 
-> Planet Positive farming will be available as from H2 2021. We are currently in the process of setting up agreements between  ThreeFold Farmers & the ThreeFold Foundation.
+> Planet Positive farming will be available as from H2 2021. We are currently in the process of setting up agreements between  ThreeFold Farmers & the ThreeFold Dubai.
 
 ## Planet Friendly Farming
 
@@ -19,7 +19,7 @@ ThreeFold also offers a Farmer Bot to facilitate the farm's management, hich inc
 
 ## Planet Positive Farming
 
-Planet Positive Farming enables Farmers to go beyond energy efficiency and regenerate our planet. This is facilitated by the ThreeFold Foundation, which provides a mechanism to offset their carbon usage by 3x. This permits the farm to cover its carbon footprint and to participate in climate action.
+Planet Positive Farming enables Farmers to go beyond energy efficiency and regenerate our planet. This is facilitated by the ThreeFold Dubai, which provides a mechanism to offset their carbon usage by 3x. This permits the farm to cover its carbon footprint and to participate in climate action.
 
 The equation is very simple: (3Node (SU + CU) Kwh per month x local Kwh carbon footprint) x 3
 

@@ -1,3 +1,7 @@
+> IMPORTANT NOTICE (05/03/2023): 
+This information is updated. Please go to [manual.grid.tf](https://manual.grid.tf/threefold_token/buy_sell_tft/buy_sell_tft.html) to read the updated manual on how to buy TFT. hreeFold Team is in the process of migrating this ThreeFold Grid Manual to its new home on manual.grid.tf. This migration is deemed necessary, to avoid possible duplication of content.
+
+
 # TFT Ecosystem Manual
 
 ![img](img/threefold__circular_tft3_.jpeg)
@@ -12,18 +16,12 @@ How to buy and store TFTs on different platforms
 
 - [BSC - Pancake Swap](tft_binance_defi)
 - [BSC - 1inch.io](tft_1inch)
-- [GetTFT.com](https://gettft.com/gettft/#how-it-works)
 - [Albedo Wallet](albedo)
 - [Solar Wallet](solar_wallet)
 - [Lobstr Wallet](lobstr_wallet)
 - [StellarTerm](tft_stellarterm)
 - [Interstellar](tft_interstellar)
-- [BTC-Alpha Exchange](tft_btc_alpha)
 - [StellarX Exchange](tft_stellarx)
-- [TF Live Desk (OTC)](tft_otc)
-- [Mazraa (Farmers)](tft_mazraa)
-- [Bettertoken (Farmers)](tft_bettertoken)
-
 
 ## Other Related Manuals on TFT
 

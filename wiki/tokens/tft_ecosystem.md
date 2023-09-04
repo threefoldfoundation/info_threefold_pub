@@ -9,8 +9,6 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 | Link |Type|Description|Fiat Gateways|
 | --------------- |----| --------------- |---|
 |  [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem | |
-| [**Gettft.com**](https://gettft.com/gettft/) | OTC | Easy to use option to buy TFT directly from ThreeFold Foundation with BTC or credit cards ||
-| [**OTC Desk**](tft_otc) | Exchange | OTC Desk for big transactions that hard to fill through other channels ||
 | [**Albedo Wallet**](albedo) | Wallet, Swaps, Liquidity Pools | Nice and simple browser-based wallet with swaps and liquidity pools support ||
 | [**Lobstr Wallet**](lobstr_wallet) | Wallet, Exchange | User-friendly wallet with Credit Cards, Moneygram and Bank transfer gateways, with swaps and advanced orderbook functionality for trading| Credit/Debit cards, Moneygram support |
 | [**Freighter Wallet**](https://www.freighter.app/) | Wallet, Swaps | Nice and simple browser-based wallet with swaps support||
@@ -19,7 +17,6 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 | [**StellarX Exchange**](https://www.stellarx.com/) | Exchange, Swaps, Liquidity Pools | Advanced exchange with nice UI, swaps, orderbook, liquidity pools support and gateways for Credit Cards, ACH, Wire transfers. Please see their [Knowledge Base](https://stellarx.freshdesk.com/support/home) for details.|Credit/Debit cards|
 | [**Solar Wallet**](solar_wallet) | Wallet | Wallet with fiat gateway for Credit Cards and bank transfers that supports multisig operations|Moonpay (Visa, Mastercard, Apple Pay, Google Pay, SEPA, Faster Payments, Wire Transfers, Open Banking and ACH.)|
 | [**Interstellar Wallet and Exchange**](tft_interstellar) | Wallet, Exchange | Wallet with swaps, orderbook and advanced multisig support||
-| [**BTC-Alpha Exchange**](tft_btc_alpha) | Centralized Exchange | Centralized Exchange with TFT/BTC trading pair and some fiat gateways||
 | [**Stellar Expert Explorer**](https://stellar.expert/) | Explorer | Popular blockchain explorer for stellar||
 
 ## TFChain Network
@@ -28,7 +25,7 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 | --------------- | --------------- |-------|---|
 | [**ThreeFold Connect**](threefold_connect) | Wallet | ThreeFold native wallet with full integration into ThreeFold ecosystem||
 | [**Polkadot Extension**](https://library.threefold.me/info/manual/#/getstarted/manual__dashboard_portal_polkadot_create_account) | Key Storage | Polkadot Browser extension to store your private keys||
-| [**TF-Chain Portal**](https://library.threefold.me/info/manual/#/manual__dashboard_portal_home) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management ||
+| [**TF-Chain Portal**](https://dashboard.grid.tf/) | Wallet | The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on TFChain, and farm management ||
 	
 ## Binance Smart Chain
 
@@ -43,5 +40,5 @@ Here you can see our top picks of the TFT ecosystem tools for each specific bloc
 ## Bridges
 | Link | Description |
 | --------------- | --------------- |
-| [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Foundation - driven bridge for TFT between Stellar and BSC networks |
-| [**Stellar <> TFChain Bridge**](https://library.threefold.me/info/manual/#/manual__dashboard_readme) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for details|
+| [**Stellar <> Binance Smart Chain Bridge**](https://bridge.bsc.threefold.io/) | ThreeFold Dubai - driven bridge for TFT between Stellar and BSC networks |
+| [**Stellar <> TFChain Bridge**](https://dashboard.grid.tf/) | ThreeFold Grid Portal allows TFT swaps between Stellar and TFChain, see **Portal -> Transfer** section for details|

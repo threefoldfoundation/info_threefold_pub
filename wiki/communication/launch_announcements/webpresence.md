@@ -4,7 +4,7 @@ In an ongoing effort to keep the community up to speed with the latest informati
 
 1. the ThreeFold_Grid, hosted on threefold.io (https://threefold.io/), and contains information related to the technology, farming and the ThreeFold_Token, and
 
-2. the ThreeFold Foundation, hosted on threefold.foundation (https://threefold.foundation/), and contains information related to the larger mission, vision and ecosystem support.
+2. the ThreeFold Dubai, hosted on threefold.foundation (https://threefold.foundation/), and contains information related to the larger mission, vision and ecosystem support.
 
 In addition, we've updated our wikis quite significantly to make information more clear and navigation more simple.
 

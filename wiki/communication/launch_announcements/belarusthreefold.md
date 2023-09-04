@@ -4,4 +4,4 @@ As many of you likely know, Belarus has been without internet, or with massively
 
 https://gritdaily.com/belarus-governments-control-internet/
 
-_The ThreeFold Foundation holds equality as one of its values. Equality is the foundation for a fair world where everyone is given the opportunity to be  empowered and to achieve their full potential. And Internet access is a human right._
+_The ThreeFold Dubai holds equality as one of its values. Equality is the foundation for a fair world where everyone is given the opportunity to be  empowered and to achieve their full potential. And Internet access is a human right._

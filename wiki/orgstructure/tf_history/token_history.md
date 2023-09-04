@@ -6,7 +6,7 @@
 - More than 6 years ago TF Foundation started deploying capacity for development purposes
   - This became our ([our genesis pool](genesis_pool)), which is the beginning of farming
   - In 2017-18, value of the genesis pools were about 7m USD in TFT (tokens did not exist yet)
-  - Genesis pools are owned by ThreeFold Foundation (ThreeFold_Dubai).
+  - Genesis pools are owned by ThreeFold Dubai (ThreeFold_Dubai).
 - March 2018 our first-generation blockchain for the ThreeFold_Token saw daylight
   - The TFT v1 was launched on a blockchain called Rivine (PTO)
   - The genesis pool resulted in the first batch initial TFT
@@ -20,13 +20,11 @@
   - TF Foundation Dubai has provisioned the TFTv1 & TFTv2 on Stellar blockchain, but has no influence or access to any of the wallets or for that matter the 3Nodes (the boxes providing IT capacity)
   - See below for more info, this was the result of 12 months of work with our community and of-course consensus to do this.
 
-## We didn't do an initial coin offering (ICO)
+## We didn't artificially pump the value of the tokens
 
-We did not issue (print) tokens and go out onto an exchange to offer these tokens to the market. This is referred to as an ICO.
+We did not issue (print) tokens and go out onto an exchange to offer these tokens to the market. This is referred to as a public ICO. Some ICOs were not very clean in how they created hype and convinced people to invest. Because of our decision not to do a public ICO, we have not been able to raise much money, but we feel that this was more aligned with our values.
 
-Some ICOs were not very clean in how they created hype and convinced people to invest. Because of our decision not to do an ICO, we have not been able to raise much money, but we feel that this was more aligned with our values.
-
-We have sold initial IT capacity in the form of TFT from ThreeFold_Dubai and from BetterToken which was a re-seller of these TFT. Every buyer could at any point in time use these TFTs to buy IT capacity.
+We have sold some TFT over the counter but please note every buyer could at any point in time use these TFTs to buy IT capacity, this makes these TFT purposeful, even from the very start.
 
 ## Farming Model Improvements
 
@@ -69,10 +67,10 @@ In Q3 2021 we launched TF Grid 3.0 which has again brought improvement to the fa
 
 [TFTA TrustLine](https://stellar.expert/explorer/public/asset/TFTA-GBUT4GP5GJ6B3XW5PXENHQA7TXJI5GOPW3NF4W3ZIW6OOO4ISY6WNLN2)
 
-Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer.threefoldtoken.com/).
+Accounts that got initial balances migrated them from the previous blockchain, [rivine](https://explorer2.threefoldtoken.com/).
 
 To validate this, each migration transaction contain hash of the rivine lock transaction in their memo in hex format.
 
-[Rivine block explorer](https://explorer.threefoldtoken.com/) can be used for validation purposes.
+[Rivine block explorer](https://explorer2.threefoldtoken.com/) can be used for validation purposes.
 
 !!!include:legal:tft_not_investment

@@ -2,7 +2,7 @@
 
 ![](img/novamaannouncement.jpg)
 
-A chance to ask the ThreeFold Foundation Team any questions you might have.
+A chance to ask the ThreeFold Dubai Team any questions you might have.
 
 Please send us your questions in advance via email to info@threefold.io or in [this forum topic](https://forum.threefold.io/t/submit-your-questions-for-next-tuesdays-ama/631). 🙏
 

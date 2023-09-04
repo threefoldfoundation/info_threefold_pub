@@ -19,7 +19,7 @@ The Proof-of-Capacity records Internet resources from the 3Node:
 - [see Proof of Capacity](proof_of_capacity) : **important info inside !!!**
 - [Calculation rules for cloudunits from Resource Units.](resource_units_calc_cloudunits)
 
-> DISCLAIMER: ThreeFold Foundation organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Foundation like but not limited to the different councils. This process changes for TFGrid 3.X once the TFDAO is fully active.
+> DISCLAIMER: ThreeFold Dubai organizes this process. This process is the result of the execution of code written by open source developers (zero-os and minting code) and a group of people - who checks this process voluntarily. No claims can be made or damages asked for to any person or group related to ThreeFold Dubai like but not limited to the different councils. This process changes for TFGrid 3.X once the TFDAO is fully active.
 
 !!!def alias:farming_reward,farming_reward,farming_reward3,farming_reward
 

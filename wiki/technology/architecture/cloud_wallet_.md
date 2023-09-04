@@ -38,6 +38,6 @@ The private key is available to transfer tokens from the prepaid wallet to your 
 ### Your VDC Wallet Details
 
 - The Network is the Stellar mainnet network (indicated with `STD` on the wallet information) 
-- [Trustlines](https://www.stellar.org/developers/guides/concepts/assets.html) are specific to the Stellar network to indicate that a user is 'trusting' the asset / crypto issuer, in our case trusting  ThreeFold Foundation as issuer of TFT. 
+- [Trustlines](https://www.stellar.org/developers/guides/concepts/assets.html) are specific to the Stellar network to indicate that a user is 'trusting' the asset / crypto issuer, in our case trusting  ThreeFold Dubai as issuer of TFT. 
 Trustlines are specific to the network, so it needs to be established both on testnet and mainnet and for all the tokens that someone intends to hold. Without a trustline, a wallet address can't be fed with tokens. 
 In order to make it easier for the user, trustlines are being established automatically when creating a wallet for TFT in the admin panel as well as in ThreeFold Connect app. However, if you use a third party Stellar wallet for your tokens, you need to create the trustlines yourself. 

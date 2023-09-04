@@ -1,7 +1,7 @@
 # Locked Tokens Table
 
 This page shows which tokens are hard locked on stellar blockchain.
-Next to this hardlock, a lot of tokens are vested see [this token overview page](stats_token_overview_farmed).
+Next to this hardlock, a lot of tokens are vested see [this token overview page](stats_token_farmed).
 
 !!!time
 

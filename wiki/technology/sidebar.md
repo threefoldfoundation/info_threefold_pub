@@ -20,13 +20,13 @@
 - [Executors](@tfexecutors)
 - [Smart Contract for IT](@smartcontract_it)
 - [Infrastructure As Code](@smartcontract_iac)
-- [Roadmap](roadmap_grid)
+
 <BR>
 **Benefits**
+
 !!!include:zos_advantages
 <BR>
+
 **More Info**
+
 - [Competitive](@cloud_compare_home)
-- [Use the grid](@grid_use)
-<!-- - [Release Notes](@releasenotes) -->
-<!-- - [Consensus Mechanism](@consensus3) -->

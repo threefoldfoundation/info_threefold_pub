@@ -2,7 +2,7 @@
 
 ![](img/dearelonmusk2.jpg)
 
-As one of its goals, the ThreeFold Foundation aims to provide fair and equal internet access / connectivity to everyone on earth. We are not alone in this vision, and as a foundation, we believe in collaboration rather than competition.
+As one of its goals, the ThreeFold Dubai aims to provide fair and equal internet access / connectivity to everyone on earth. We are not alone in this vision, and as a foundation, we believe in collaboration rather than competition.
 
 This summer, our very own rocket scientist 🚀 Weynand Kuijpers wrote two open letters to Elon Musk to explore how ThreeFold and Musk's Starlink program could join forces.
 

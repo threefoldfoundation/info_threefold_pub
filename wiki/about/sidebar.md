@@ -7,3 +7,7 @@
 - [How Do We Collaborate](@freeflow:collaboration)
 - [Decentralization](@decentralization)
 - [Legal](!@legal:legal_home)
+ 
+-----------------
+
+- [GOVERNANCE](governance)

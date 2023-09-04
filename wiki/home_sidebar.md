@@ -4,10 +4,12 @@
 - [Cloud](@cloud_home)
 - [Decentralization](@decentralization)
 - [Technology](@technology)
-- [Manual](https://manual.grid.tf)
-- [FAQ](https://manual.grid.tf/faq/faq.html)
 ------------
 - [Legal](!@legal:legal_home)
+- [Governance](governance)
+------------
+- [Manual](https://manual.grid.tf)
+- [FAQ](https://manual.grid.tf/faq/faq.html)
 
 
 <!-- - [About](@about) -->

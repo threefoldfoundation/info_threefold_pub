@@ -1,3 +1,5 @@
+> IMPORTANT NOTICE (05/03/2023): 
+The information of this page is outdated. ThreeFold team is in the process of migrating this this manual to its new home on manual.grid.tf. Please go to [manual.grid.tf](https://manual.grid.tf/) to read the latest documentation of ThreeFold.
 
 ![wethreepedia_faq_poster](img/wethreepedia_faq_poster.jpg)
 
@@ -58,7 +60,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?**](#what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app)
     - [**How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?**](#how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap)
     - [**Is it possible to swap TFT on Stellar Blockain?**](#is-it-possible-to-swap-tft-on-stellar-blockain)
-  - [TF Connect App, TF Portal & Polkadot Substrate)](#tf-connect-app-tf-portal--polkadot-substrate)
+  - [TF Connect App, TF Portal \& Polkadot Substrate)](#tf-connect-app-tf-portal--polkadot-substrate)
     - [**What is the Threefold Portal link?**](#what-is-the-threefold-portal-link)
     - [**To access the TF Portal, I need to use the Polkadot Extension. What is the link?**](#to-access-the-tf-portal-i-need-to-use-the-polkadot-extension-what-is-the-link)
     - [**Is there a way to create/import another wallet in TF Connect App?**](#is-there-a-way-to-createimport-another-wallet-in-tf-connect-app)
@@ -87,7 +89,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**How can I deploy Peertube on the Threefold Grid?**](#how-can-i-deploy-peertube-on-the-threefold-grid)
     - [**How can I deploy ownCloud on the Threefold Grid?**](#how-can-i-deploy-owncloud-on-the-threefold-grid)
     - [**How can I use and install Yggdrasil?**](#how-can-i-use-and-install-yggdrasil)
-  - [Dev Net & Test Net](#dev-net--test-net)
+  - [Dev Net \& Test Net](#dev-net--test-net)
     - [**Is there a way to test the Grid with free TFT?**](#is-there-a-way-to-test-the-grid-with-free-tft)
     - [**Can I get some free TFT to test on Test Net**](#can-i-get-some-free-tft-to-test-on-test-net)
   - [Threefold Connect App](#threefold-connect-app)
@@ -231,7 +233,7 @@ A big thank you to all the farmers, developers and users who contributed, direct
     - [**My 3node doesn't boot properly without a monitor plugged in. What can I do?**](#my-3node-doesnt-boot-properly-without-a-monitor-plugged-in-what-can-i-do)
     - [**My 3node is running on the Grid, but when I plugged in the monitor, it states: "*Disabling IR #16*". Is there a problem?**](#my-3node-is-running-on-the-grid-but-when-i-plugged-in-the-monitor-it-states-disabling-ir-16-is-there-a-problem)
     - [**My 3node won't boot without disabling the Secure Boot option, is it safe?**](#my-3node-wont-boot-without-disabling-the-secure-boot-option-is-it-safe)
-    - [**When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen [ - ]. What could cause this and what could I do to resolve the issue?**](#when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-----what-could-cause-this-and-what-could-i-do-to-resolve-the-issue)
+    - [**When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen \[ - \]. What could cause this and what could I do to resolve the issue?**](#when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-----what-could-cause-this-and-what-could-i-do-to-resolve-the-issue)
     - [**My 3nodes go offline after a modem reboot. Is there a way to prevent this?**](#my-3nodes-go-offline-after-a-modem-reboot-is-there-a-way-to-prevent-this)
     - [**When I boot my 3node, it reaches the *Welcome to Zero-OS window*, but it doesn't boot properly and there's an error message: *failed to load object : type substrate...*, what can I do?**](#when-i-boot-my-3node-it-reaches-the-welcome-to-zero-os-window-but-it-doesnt-boot-properly-and-theres-an-error-message-failed-to-load-object--type-substrate-what-can-i-do)
     - [**When I try to access iDRAC on a web browswer, even with protected mode off, I get the error *The webpage cannot be found*, what can I do?**](#when-i-try-to-access-idrac-on-a-web-browswer-even-with-protected-mode-off-i-get-the-error-the-webpage-cannot-be-found-what-can-i-do)
@@ -727,21 +729,21 @@ You can read more about Threefold cloud pricing [here](https://library.threefold
 
 ### **How can I create a profile manager on play.grid.tf?**
 
-Read [this documentation](https://library.threefold.me/info/manual/#/manual__weblets_profile_manager).
+Read [this documentation](https://manual.grid.tf/weblets/weblets_profile_manager.html).
 
 
 ***
 
 ### **I want to deploy a virtual machine (VM) on Threefold. How can I do this?**
 
-Read this [short documentation](https://library.threefold.me/info/manual/#/manual__weblets_vm) and you'll soon be exploring the virtual machine world!
+Read this [short documentation](https://manual.grid.tf/weblets/weblets_vm.html) and you'll soon be exploring the virtual machine world!
 
 
 ***
 
 ### **How can I use Caprover on Threefold Grid?**
 
-Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://library.threefold.me/info/manual/#/manual__weblets_caprover_admin).
+Check [this video](https://forum.threefold.io/t/from-zero-to-hero-deploy-discourse-and-wordpress-in-under-10-5-minutes/2206) and find out for yourself! If you want to, read the documentation with step-by-step guide for [Caprover](https://manual.grid.tf/javascript/grid3_javascript_caprover.html).
 
 ***
 
@@ -779,20 +781,20 @@ Note that a Presearch node requires about 3 days to stabilize.
 
 ### **How can I deploy Kubernetes on the Threefold Grid?**
 
-Read [this documentation](https://library.threefold.me/info/manual/#/manual__weblets_k8s) to find out.
+Read [this documentation](https://manual.grid.tf/weblets/weblets_k8s.html) to find out.
 
 ***
 
 
 ### **How can I deploy Peertube on the Threefold Grid?**
 
-You can learn more about this [here](https://library.threefold.me/info/manual/#/manual__weblets_peertube).
+You can learn more about this [here](https://manual.grid.tf/weblets/weblets_peertube.html).
 
 ***
 
 ### **How can I deploy ownCloud on the Threefold Grid?**
 
-Read the [documentation here](https://library.threefold.me/info/manual/#/manual__weblets_owncloud) to learn more.
+Read the [documentation here](https://manual.grid.tf/weblets/weblets_owncloud.html) to learn more.
 
 ***
 

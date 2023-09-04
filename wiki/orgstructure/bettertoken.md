@@ -21,10 +21,6 @@ European Farming Cooperative for the foundation:
 
 ## Expected Changes
 
-- We are considering for BetterToken to become a 100% daughter of ThreeFold_Dubai or ThreeFold_VZW or ...
-- Purpose is to show to world that the benefits of this company cannot go to its shareholders.
-- Somewhere in 2021, planning to rebrand the company to ThreeFold Europe.
-
 BetterToken continues to be farming cooperative for Europe. Right now there is not much happening in BetterToken.
 
 !!!def name:BetterToken

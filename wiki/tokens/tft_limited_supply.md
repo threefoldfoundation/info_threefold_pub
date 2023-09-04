@@ -35,12 +35,10 @@ Dive deeper into how the Threefold Tokens are distributed [see here](token_overv
 
 Like every item, service, or currency, TFT derives part of its value from scarcity. The way [minting/farming](farming_reward) was designed enables to limit the amount of TFT available on the market.
 
-The commercial capability of a 3Node is at least 6 times superior than the total amount of TFT that can be created over 4 years. This leads to a shortage of TFT.
-
 
 ## Natural Economic Demand
 
-The ThreeFold_Grid will attract individuals and communities to build, host and use applications and tools on it due to its many benefits:
+The ThreeFold_Grid attracts individuals and communities to build, host and use applications and tools on it due to its many benefits:
 
 - 100% ownership of their data, no more intermediaries.
 - Superior reliability through peer-to-peer (decentralized) hosting
@@ -60,19 +58,6 @@ The [Grid Valuation](grid_valuation) page shows how the ThreeFold_Grid could gro
 
 > Note that we can't and won't make price predictions on TFT valuation and that all calculations made here are purely hypothetical.
 
-## Stability vs Hype: the hoarding nature of TFT
-
-TFT holders (e.g. as a result of farming) might not want to sell their tokens at this point because they expect a further increase in value. This may result in less liquidity within the TFT economy.
-
-Expectations are proven that when the price increases, valuation can enter a hype cycle that feeds into itself. This would lead to an economic bubble.
-
-> We do not believe in hype or speculation as mechanisms to drive ThreeFold or TFT value! While this can lead to big speculative gains for some, others loose from it. ThreeFold does not support speculative bubbles and the worsening in global inequalities that can occur as a consequence. We believe in a fair valuation of TFT derived from the natural economic demand of the TF Grid.
-
-## Vesting wallets
-
-In March/April 2021 existing token holders decided to vest their tokens according this this scheme. This was done as a sign of ongoing confidence in the project.
-
-See more about Vesting Pool [here](vesting_overview).
 
 !!!alias token_limited_supply,tft_limited_supply,token_supply
 

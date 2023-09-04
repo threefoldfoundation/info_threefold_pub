@@ -13,7 +13,6 @@ The Titan V2.1 node is a certified node.  Certified nodes are eligible for more 
 - Node delivered by a certified hardware vendor or through the ThreeFold website.
 - The farmer who owns a certified node will have to sign specifically created terms and conditions
   - not done yet, will be part of tfgrid 3.0 launch, see [here](farming_certification_terms_conditions).
-- For 2.0 Farmers who started in 2020 or before: agreement about vesting see [vesting_overview](vesting_overview).
 
 ### More Info
 

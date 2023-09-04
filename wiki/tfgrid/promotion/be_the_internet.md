@@ -7,10 +7,7 @@ We are a decentralized movement. Get involved and let's together **"BE THE INTER
 
 ## Provision a ThreeFold Validator
 
-- [More info about our validator nodes](dao_executors_validators). More info on tfdao.
-- [See our launchplan for Q1 2022](@grid3_launch)
-
-Registration will start in Jan 2022, make sure you have enough TFT.
+See [here](validators_faq)
 
 ## Buy TFT or Future TFT
 

@@ -1,5 +1,10 @@
 # Genesis Block / Pool Details
 
+See our 2 genesis pools
+
+- [genesis pool dubai](genesis_pool_dubai.md)
+- [genesis pool ghent](genesis_pool_ghent.md)
+
 
 ## Genesis Pool
 
@@ -25,7 +30,7 @@ Genesis block is the first block registered in the blockchain. This consists of 
 It's hard to define the value of the genesis block when it was calculated, there was no established TFT price.
 
 - If TFT price = USD 0.01: +-7M USD (this token price has not been established but could be 2016-17)
-- If TFT price = USD 0.05: +-35M USD (Nov 2021)
+- Summer 2023 the price is back on USD 0.01, which we believe is too low for the value created, lets hope for a better future.
 
 ### Calculation
 
@@ -55,6 +60,6 @@ _The purpose of this exercise is to demonstrate there is a reasoning behind the 
 
 ## Genesis Pool Details
 
-- Block 0: [Block 0 on Explorer](https://explorer.threefoldtoken.com/hash.html?hash=a2ee0aa706c9de46ec57dbba1af8d352fbcc3cc5e9626fc56337fd5e9ca44c8d)
+- Block 0: [Block 0 on Explorer](https://explorer2.threefoldtoken.com/hash.html?hash=a2ee0aa706c9de46ec57dbba1af8d352fbcc3cc5e9626fc56337fd5e9ca44c8d)
 - Genesis Block Code: [Code of Block 0](https://github.com/threefoldfoundation/tfchain/blob/master/pkg/config/config.go#L103)
 

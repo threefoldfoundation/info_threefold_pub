@@ -2,6 +2,8 @@
 
 !!!tokens type:special-wallets-table
 
+> ThreeFold DMCC (Dubai) is in the process of acquiring a substantial number of tokens, probably more than 200 million TFT. While these tokens possess liquidity from a technical standpoint, they are not currently accessible or traded on the open market. This reserve of tokens has been allocated for our upcoming commercial rollout, and their governance will be managed through consensus based system with input from the community.
+
 !!!time
 
 ### Remarks

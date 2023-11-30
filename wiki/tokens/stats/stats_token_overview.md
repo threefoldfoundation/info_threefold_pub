@@ -6,16 +6,11 @@
 
 !!!tokens type:current-distribution
 
-Note how the distribution is in relation to 4 billion tokens (the maximum).
+> Important: Note how the distribution is in relation to 4 billion tokens (this the absolute maximum and it might well be we will never reach it). The majority of these tokens are not farmed yet.
 
 ## Liquid Tokens In Relation To Total
 
 !!!tokens type:total-liquid tftprice:0.01
-
-!!!tokens type:total-liquid-chart
-
-> Something seems to be off in this chart, the max is liquid, <19% is non liquid (TODO)
-
 
 ## Total Distribution
 
